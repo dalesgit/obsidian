@@ -1,0 +1,12 @@
+archives
+church
+[[culture-politics]]
+diy
+guns
+hawaii-florida
+health
+index.md
+interests.md
+personal
+reading
+thought-philosophy

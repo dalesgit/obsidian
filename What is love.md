@@ -1,0 +1,6 @@
+- Self-sacrifice?
+- Self-offering?
+- To find good in another?
+- To forgive another?
+- To see God in another?
+- to be [Fathers](Fathers.md) and [[Mothers]] -- to give life.

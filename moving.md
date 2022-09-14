@@ -1,0 +1,1 @@
+[problem solving](problem%20solving.md) is constantly about the organization that I'm trying to impose.
