@@ -15875,7 +15875,7 @@ function _init(_0) {
     bare = false,
     dir,
     gitdir = bare ? dir : join(dir, ".git"),
-    defaultBranch = "master"
+    defaultBranch = "main"
   }) {
     if (yield fs.exists(gitdir + "/config"))
       return;
@@ -17226,7 +17226,7 @@ function init(_0) {
     bare = false,
     dir,
     gitdir = bare ? dir : join(dir, ".git"),
-    defaultBranch = "master"
+    defaultBranch = "main"
   }) {
     try {
       assertParameter("fs", fs);
