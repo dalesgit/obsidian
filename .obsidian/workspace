@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "ba0a2473b6af46c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecf9299dfa789900",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Getting Started with git.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "55863d5675aa9f27",
+        "type": "leaf",
+        "state": {
+          "type": "diff-view",
+          "state": {
+            "staged": false,
+            "file": "Getting Started with git.md"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9141a4ffb4f03de",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c7577c510bbceec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "863c4ed001094d5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7eb1276bd735bfd1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e62a3632e380ed1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "789b306ea1af336e",
+    "type": "split",
+    "children": [
+      {
+        "id": "833a8762f6340d43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c3ec7ba1c10df89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Getting Started with git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aef57d846be5c49e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Getting Started with git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62388abf214f129a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3bd28fe5bd142c2d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Getting Started with git.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ecf9299dfa789900",
+  "lastOpenFiles": [
+    "templates/random-quote.md",
+    "README.md",
+    "Getting Started with git.md"
+  ]
+}
