@@ -4,3 +4,4 @@
 > Be sure you put your feet in the right place, then stand firm.
 > -- <cite>Abraham Lincoln</cite>
 
+How would this work in Obsidian. I've tested it in VSCode.
