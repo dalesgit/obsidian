@@ -14,17 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "55863d5675aa9f27",
-        "type": "leaf",
-        "state": {
-          "type": "diff-view",
-          "state": {
-            "staged": false,
-            "file": "Getting Started with git.md"
-          }
-        }
       }
     ],
     "direction": "vertical"

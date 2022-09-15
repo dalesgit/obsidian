@@ -116,7 +116,7 @@ Bluster and self-delusion, I suppose.
 
 ## Birth
 
-Determination that I be present.
+I was determined to be present at the birth of Emma. Determination that I be present.
 
 Alarm went off at the elevator as we attempted to bring her home.
 
