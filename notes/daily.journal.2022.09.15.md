@@ -2,7 +2,7 @@
 id: 1bdkfpqv1bt8hmwcgoz2t6z
 title: '2022-09-15'
 desc: ''
-updated: 1663261072127
+updated: 1663299641060
 created: 1663260933096
 traitIds:
   - journalNote
@@ -24,13 +24,14 @@ I had my nuclear stress test this morning.
 
 I am grateful for:
 
-1.
-2.
-3.
+1. Love of Mary Patricia
+2. our Prayer this morning before going off
+3. getting so much out VS Code
 
 ### What would make today great?
 
-1.
+- To have bliss?
+- To have health?
 2.
 3.
 
