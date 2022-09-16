@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Getting Started with git.md",
+            "file": "emma-story.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Getting Started with git.md",
+                "file": "emma-story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Getting Started with git.md",
+                "file": "emma-story.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Getting Started with git.md"
+                "file": "emma-story.md"
               }
             }
           }
@@ -130,8 +130,10 @@
   },
   "active": "ecf9299dfa789900",
   "lastOpenFiles": [
+    "index.md",
+    "test/A Prayer for Owen Meany.md",
     "templates/random-quote.md",
-    "README.md",
-    "Getting Started with git.md"
+    "Getting Started with git.md",
+    "README.md"
   ]
 }
