@@ -25,7 +25,7 @@ workspace:
         -
             fsPath: .
             selfContained: true
-            name: Dendron
+            name: obsidian-1
     journal:
         dailyDomain: daily
         name: journal
