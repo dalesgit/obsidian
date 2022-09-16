@@ -1,0 +1,28 @@
+---
+id: 5jxkrdipxxu55343vsmdvf2
+title: 2022 08 02
+desc: ''
+updated: 1663357090338
+created: 1663357090338
+isDir: false
+---
+> The most I can do for my friend is simply be his friend.
+> — <cite>Henry David Thoreau</cite>
+
+- odonohue-questions
+- daily-questions
+
+*Make the above a link to compose a response.*
+## Journal Entries
+- Today a most profound alienation has occurred between MP and myself. I don't know if it will be bridged, but it seems certain that it won't be tonight. Therefore we will go to on the heels of the disconnect.
+- Why is it my out of sorts for the day? Not having been heard. Always being "on-upped". Being expected to be ordering or demanding when what I'm doing is trying to please.
+- I've felt this break building for several days now. It's all about pleasing me with the church choice. But I don't anticipate being happy with any church choice.
+- I woke up at ca. 3 am with a deep anxiety, dissatisfaction, unhappiness, what?  I read from the Nook book, and a little from the Irish short story book. A little bit of finding myself in that. 
+- Especially the insight that "was out of [[character]]" is an impossible statement. Everything is "in character" because it is us doing it. 
+- The challenge of end of life is attempting to integrate all the inconsistent, incongruous, surprising stuff into 'this is who I am.'
+
+## Gratitude
+- for the scenario that I created outside the doors to the lanai. MP seemed to minimize it, saying she wanted the lanai cleared by the time her family gets here. But it seemed a nice touch. 
+- I accepted her demand that the Miata be put out of the garage.
+- I thought of ways that I could cleanse the "office" space so that she could take some ownership there. But it entailed putting all the stuff of the office into my closet. I'm not sure that can be done.
+- I said that I was open to any input on how to deal with the stuff on the lanai. I doubt that she will give any input.

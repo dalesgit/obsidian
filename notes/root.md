@@ -1,9 +1,15 @@
 ---
-id: root
-title: root
-desc: ""
-updated: 1605266684036
-created: 1595961348801
+id: y25bfqbljsmblxgf8jgy2qp
+title: Root
+desc: ''
+updated: 1663357017667
+created: 1663357017668
+isDir: false
+id_imported: root
+title_imported: root
+desc_imported: ''
+updated_imported: 1605266684036
+created_imported: 1595961348801
 ---
 
 This is the root for your Dendron vault.

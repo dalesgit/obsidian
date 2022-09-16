@@ -1,0 +1,15 @@
+---
+id: pyiirbw4j9ckn646xajy0p7
+title: 2022 05 18
+desc: ''
+updated: 1663357090334
+created: 1663357090334
+isDir: false
+---
+- I have this working on the new hp x2. 
+- cleaned out the old plastic bin in garage for [[sean]]
+- wrote Naomi
+- registered with ADP
+- Having watched more episodes of *Outlander* where the war leading up to the Revolutionary War is so destructive of what is best about humanity, I wonder to myself -- for the first time ever -- whether the [[american-experiment]] was a univocal good thing. Maybe it was a bad thing.
+- Today there was a tension between MP and myself related to the move. She is afraid of not having room in the new house. "I hate the house," because there won't be room for her to entertain. She rejected my efforts to talk about the layout from my drawings. She claimed that she had no input. I couldn't believe what I heard. She seems so controlling to me. She is struggling I know. 
+

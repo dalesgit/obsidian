@@ -1,0 +1,63 @@
+---
+id: nvpgljussz6ekdjknnhjygx
+title: 2022 08 06
+desc: ''
+updated: 1663357090338
+created: 1663357090338
+isDir: false
+---
+> You can always count on Americans to do the right thing - after they've tried everything else.
+> — <cite>Winston Churchill</cite>
+
+- odonohue-questions
+- daily-questions
+
+*Make the above a link to compose a response.*
+## Journal Entries
+-  Such a day -- break down again with MP. Making headway with organizing the lanai and the kitchen. I lost the hydraulic closer. We watched a splendid WW2 spy historical/fiction *Called to Spy*.
+
+## Gratitude
+- Theodore Roethke's poem -- seemed to be [MaryPat](MaryPat.md)'s words.
+
+### I Thirst By Day
+
+I thirst by day. I watch by night. I receive! I have been received! I hear the flowers drinking in their light, I have taken counsel of the crab and the sea-urchin I recall the falling of small waters, The stream slipping beneath the mossy logs, Winding down to the stretch of irregular sand, The great logs piled like matchsticks.
+
+I am most immoderately married: The Lord God has taken my heaviness away: I have merged, like the bird, with the bright air, And my thought flies to the place by the bo-tree. Being, not doing, is my first job. [being-doing](being-doing.md) 
+
+– Theodore Roethke
+
+November 22nd, 2016|Consciousness, Faith, Great Mystery, Silence, Stillness
+
+---
+s
+### read in bed
+August 5 Oswald (see p. 132)
+
+PSALM 105:4-8 GENESIS 32:22-32 MATTHEW 11:12
+
+Jacob wrestled with someone, probably with God Himself. He would not let the one he was wrestling with go - unless He blessed him. He wrestled with God and found his own identity in the process.
+
+Perhaps what God really requires is not so much an upright man as one who is reckless, and determined to press into Him whatever the cost. This is probably the meaning of the verse in Matthew 11 (and also in Luke 16:16) about the violent gaining of the Kingdom.
+
+Jacob emerged a broken man, but with a whole new identity; and all of Israel is called by his name to this day. The name means 'prince with God', or 'prince of God', 'soldier of God' or God- wrestling’.
+
+Do we prevail with God? Have we wrestled with Him enough to have also embraced who He says we are able to be? Do you seek Him with all your strength?
+
+---
+
+Rule No. 343 Don’t let your hearts grow numb. Stay alert.
+
+-ALBERT SCHWEITZER HUMANITARIAN/ PHILOSOPHER
+
+---
+
+Rule No. 346 [giving](giving.md)
+
+You must remember always to give, of everything you have. You must give foolishly even. You must be extravagant. You must give to all who come into your life. Then nothing and no one shall have power to cheat you of anything, for if you give to a thief, he cannot steal from you, and he himself is then no longer a thief. And the more you give, the more you will have to give.
+
+-WILLIAM SAROYAN WRITER
+
+The purpose of Zen is the perfection of character.
+
+-Yamada Roshi

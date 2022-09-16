@@ -116,7 +116,9 @@ Bluster and self-delusion, I suppose.
 
 ## Birth
 
-I was determined to be present at the birth of Emma. Determination that I be present.
+I was determined to be present at the birth of Emma. I had been forced from the delivery/operating room with Lydia when the spinal block failed. My response wasn't exactly, "You don't know who I am." But something like, "You really don't know who I am." I knew of myself that I could take any amount of chaos and emergency and I would not faint and would not cause trouble. Of course, hospital protocol prevailed. But for Emma, I was determined that that wouldn't be repeated. 
+
+So I was present for the birth of 4 of my 5 children. 
 
 Alarm went off at the elevator as we attempted to bring her home.
 

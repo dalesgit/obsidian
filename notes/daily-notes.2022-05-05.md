@@ -1,0 +1,30 @@
+---
+id: 95ue8f65kai3yni9i2k350r
+title: 2022 05 05
+desc: ''
+updated: 1663357090332
+created: 1663357090332
+isDir: false
+---
+# Conversation with Joe, 
+far-ranging, testing the range of my "orthodoxy."
+
+- [Yesterday's](2022-05-04.md) conversation about Henry Drummond 
+- My insight that there is a contrast between Drummond's view of what happens in "Olam ha ba" and that of e.g. Stuart Miller: where the people study Torah with God.
+- Drummond's position I take to be that we love God and receive God's love (That being MP Sjostrom's interpretation of her Crystal Nacht dream etc.)
+- Joe seemed to question the intensity of e.g. N.T. Wright. He claimed not to understand what he was talking about. e.g. his *magnum opus*: N. T Wright, Christian Origins and the Question of God. Vol. 1. New Testament and the People of God, vol. 1 (London: SPCK, 1993).,N. T. Wright, Christian Origins and the Question of God: Jesus and the Victory of God, 1st North American ed., vol. 2, 4 vols. (Minneapolis: Fortress Press, 1992).,N. T. Wright, Christian Origins and the Question of God. Vol. 3: The Resurrection of the Son of God, Nachdr., vol. 3 (Minneapolis: Fortress Press, 2008).,N. T. Wright, Christian Origins and the Question of God. Vol. 4, Book 2 = Vol. 4, Pt. 3/4: Paul and the Faithfulness of God / N. T. Wright, vol. 4 (Minneapolis: Fortress Press, 2013).
+- He was particularly sensitive to anything that smacked of "relativity" -- which for him means that "one can believe anything you want to be true"
+- Returning again and again to: "All stories are true, something of them actually happened"
+- also told Wiesel's story at the end of Edward Schillebeekx's *Jesus* about telling stories to the effect that God is touched
+- God made man because he (God) loves stories
+
+---
+# Anxiety over [Lydia](Lydia.md)'s wedding
+[[shirley]] and her antipathy to me
+
+[[bridget]] 's pathology
+
+[[tim-vail]] unknown (unfair) conviction of me
+
+# Dinner with [Lydia](Lydia.md)
+This felt good. Distant but as if Lydia genuinely wants to be connected.

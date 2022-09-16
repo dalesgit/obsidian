@@ -1,0 +1,34 @@
+---
+id: nwj2w0qd7nv1vwgltm6gqas
+title: 2022 06 20
+desc: ''
+updated: 1663357090336
+created: 1663357090336
+isDir: false
+---
+- odonohue-questions
+- daily-questions
+
+## Daily Questions
+
+Did I do my best to ...
+I think in most ways I didn't do very good today.
+
+[friend](friend.md)
+[writing](writing.md)
+[create](create.md)
+
+# John O'Donohue
+*Make the above a link to compose a response.*
+## Journal Entries
+-  We learned that our things have been put in storage and the agreement stipulates that it might take up to 17 days for it to get here. We feel so taken advantage of.
+- I owe phone calls to Scott and Bill.
+- The A/C is going to get fixed.
+- We are getting estimates for water treatment.
+- I got the internet working at the new house.
+- I wrote thank you notes to Lizzie & to the family.
+
+## Gratitude
+- The hospitality of the Shraders has been over the top. Mike cooked tonight: salmon, green beans with onion & grated coleslaw & mushrooms.
+
+

@@ -1,0 +1,22 @@
+---
+id: eoi4n0dx2bsr51m9uum8r45
+title: 2022 04 26
+desc: ''
+updated: 1663357090332
+created: 1663357090332
+isDir: false
+---
+[farewell-letter-st-pauls](farewell-letter-st-pauls.md)
+
+- [x] schedule Martyns
+- [x] explain Manfred
+
+You have caught me in speaking out of turn, or ahead of myself. I said to you as we were coming and going that we were going to have you over for dinner. Alas it is not going to be possible. Time has overtaken us.
+
+At the diocesan meeting of interim clergy last week, there was a united concensus of all present that it was important for interim clergy to cease social interaction with parishioners at the point that their official time ends. Well, it wasn't all present who agreed with that, since I was not convinced by their arguments. I do, however, take seriously the counseling of my colleagues and the directions of my bishops. Mary Pat and I have decided that we want to do our best to follow the advice of our diocesan colleagues.
+
+We do hope to see you, however, at the farewell dinner on Sunday, May 1. 
+
+Blessings,
+Dale +
+

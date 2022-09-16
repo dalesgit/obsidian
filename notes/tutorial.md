@@ -1,11 +1,17 @@
 ---
-id: c1bs7wsjfbhb0zipaywqv1
+id: qg8d5j8gatd3tq9ml2bc94z
 title: Tutorial
-desc: ""
-updated: 1658931733078
-created: 1654223767390
+desc: ''
+updated: 1663357017669
+created: 1663357017669
+isDir: false
 currentStep: 0
 totalSteps: 0
+id_imported: c1bs7wsjfbhb0zipaywqv1
+title_imported: Tutorial
+desc_imported: ''
+updated_imported: 1658931733078
+created_imported: 1654223767390
 ---
 
 Welcome to Dendron! Dendron is a developer-focused knowledge base that helps you manage information using **flexible hierarchies**!

@@ -1,0 +1,34 @@
+---
+id: nhgfl13zvczzz5jjey8vje6
+title: 2022 07 06
+desc: ''
+updated: 1663357090337
+created: 1663357090337
+isDir: false
+---
+## Prompts
+
+- odonohue-questions
+- daily-questions
+> Sooner or later, those who win are those who think they can.
+> — <cite>Richard Bach</cite>
+
+*Make the above a link to compose a response.*
+## Journal Entries
+-  blank
+
+## Gratitude
+- blank
+
+## Linda Serepca
+She asked, "What has been the best part of being in Florida?" I said the easy connection with the world outside. Compare Monroe, "Find the beauty." And I struggled to establish a habit. But here, in just a week, I have found an invitation to the world out there.
+
+Soul-nourishing, she said.
+
+### unanchored means to be underway
+Hillman's encouragement to be "aged" in a good way.
+
+- Roe v. Wade (visceral response)
+- Church or no?
+- new adventure the way it wasn't when we moved from Hawai'i.
+
