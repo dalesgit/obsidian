@@ -1,3 +1,0 @@
-- What did I do to deserve your judgment?
-- Clearly told lies
-- Letter to him that wasn't mailed

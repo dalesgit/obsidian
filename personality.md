@@ -1,1 +1,0 @@
-I wonder about pursuing more the alternatives to MBPI -- ?

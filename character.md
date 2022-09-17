@@ -1,1 +1,0 @@
-The book in B/N Nook. Jungian. inspired by Eliot and Pound.

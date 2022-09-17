@@ -1,2 +1,0 @@
-- Joe S. seems to be very reactive to what he believes might lead to relativism. Anybody's truth.
-- Hauerwas: "You will marry the wrong person."

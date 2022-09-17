@@ -1,1 +1,0 @@
-The trick is, I think, that after the inversion, one has to map the color spectrum. This is obviously peculiar to film, to the processing of the film, and to other criteria?

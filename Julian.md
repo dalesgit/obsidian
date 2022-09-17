@@ -1,1 +1,0 @@
-He wants to visit in the fall. Potential visitors include: Scott, Brother Gary, 

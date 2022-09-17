@@ -1,1 +1,0 @@
-We are going to live with his influence and **karma.**
