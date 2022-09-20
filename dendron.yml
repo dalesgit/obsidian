@@ -25,11 +25,7 @@ workspace:
         -
             fsPath: .
             selfContained: true
-<<<<<<< HEAD
-            name: obsidian
-=======
             name: obsidian-github
->>>>>>> c104c36 (9-18-revisions)
     journal:
         dailyDomain: daily
         name: journal
