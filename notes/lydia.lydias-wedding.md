@@ -6,8 +6,7 @@ updated: 1663357090315
 created: 1663357090315
 isDir: false
 ---
-## 
-People attending that I am happy not seeing:
+## People attending that I am happy not seeing:
 - Bridget
 - Emma
 - Shirley
