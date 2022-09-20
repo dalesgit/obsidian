@@ -2,7 +2,11 @@
   "folders": [
     {
       "path": "notes",
+<<<<<<< HEAD
       "name": "obsidian"
+=======
+      "name": "obsidian-github"
+>>>>>>> c104c36 (9-18-revisions)
     }
   ],
   "settings": {
