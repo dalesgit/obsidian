@@ -1,12 +1,12 @@
 ---
 id: l29eohmc6elvwusaxqqjdk8
-title: Daily Journal 2022 09 15
+title: B
 desc: ''
 updated: 1663357017664
 created: 1663357017664
-isDir: false
 traitIds:
   - journalNote
+isDir: false
 id_imported: 1bdkfpqv1bt8hmwcgoz2t6z
 title_imported: '2022-09-15'
 desc_imported: ''

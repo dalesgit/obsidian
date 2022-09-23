@@ -2,11 +2,12 @@
 id: v9rs4q2camokzcpaqv1hve5
 title: Mp Birthday Draft
 desc: ''
-updated: 1663357090322
+updated: 1663903748937
 created: 1663357090322
 isDir: false
 ---
-1 12 24 36 (sum) 
+1 1
+2 24 36 (sum) 
 1 13 37 73
 
 - 72: 9*8; 3^2 times 2/4/6/8; last year
