@@ -2,16 +2,15 @@
 id: nd8rmtsftyessqsxiv93hzk
 title: Lydias Wedding
 desc: ''
-updated: 1663357090315
+updated: 1663904280771
 created: 1663357090315
 isDir: false
 ---
-## 
-People attending that I am happy not seeing:
+## People attending that I am happy not seeing:
 - Bridget
 - Emma
 - Shirley
-- Tim / Sue Vail
+- Tim / Sue Vailre
 - DeeDee / Da
 
 ## Others

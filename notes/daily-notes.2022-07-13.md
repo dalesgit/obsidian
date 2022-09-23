@@ -31,7 +31,7 @@ From her Facebook page I am nearly undone each time I read the following:
 ![](/assets/may-wedding-4yiloooyxj80.png)
 
 ## [[avocado]]
-Perhaps [[lydia]] is connected with the rich [marginalian](marginalian.md). 
+Perhaps [[fathers.lydia]] is connected with the rich [marginalian](marginalian.md). 
 
 [[games-people-play]]
 

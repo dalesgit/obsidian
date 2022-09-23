@@ -12,7 +12,7 @@ I had said to [MaryPat](MaryPat.md) the same kind of thing when I observed that 
 
 I remember the story, we've often told, of how  [Sean](Sean.md) was the first to greet me on a Father's Day on Kaua'i. My enthusiasm led to our sales person reaching out to her own father after many years of estrangement.
 
-Ultimately [[julian]] called and Miriam sent greetings. 
+Ultimately [[fathers.julian]] called and Miriam sent greetings. 
 
 2022-06-21:
 I have tried to explain several times over the past few days my dissatisfaction with Mothers and Fathers Day. There are several issues:
