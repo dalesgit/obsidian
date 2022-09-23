@@ -2,7 +2,7 @@
 id: wfwbqqvvh68ll63dtr4dbbh
 title: '2022-09-23'
 desc: ''
-updated: 1663924394251
+updated: 1663926292124
 created: 1663924281051
 traitIds:
   - journalNote
@@ -19,9 +19,9 @@ Based on the journaling method created by Intelligent Change:
 ## Morning
 
 <!-- Fill out this section after waking up -->
-I woke at 4:30 and was unable to go back to sleep. [Charles Carroll](charles-carroll) was on my mind. I think he was in my dreams the last couple of nights. 
+I woke at 4:30 and was unable to go back to sleep. [Charles Carroll](charles-carroll.md) was on my mind. I think he was in my dreams the last couple of nights. 
 
-Visions of the people who were in my present but who are now past.
+Visions of the people who were in my present but who are now past. [[spiritual-director]]
 ### Gratitude
 
 I am grateful for:
