@@ -12,5 +12,5 @@ updated_imported: 1663357017664
 created_imported: 1663357017664
 ---
 
-- [[emma.emma-story]]
+- [[fathers.emma.emma-story]]
 - 
