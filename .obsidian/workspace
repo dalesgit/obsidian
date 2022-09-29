@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ecf9299dfa789900",
+        "id": "8bc27f958f9b5a27",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "emma-story.md",
+            "file": "notes/fathers.emma.emma-story.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "emma-story.md",
+                "file": "notes/fathers.emma.emma-story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "emma-story.md",
+                "file": "notes/fathers.emma.emma-story.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "emma-story.md"
+                "file": "notes/fathers.emma.emma-story.md"
               }
             }
           }
@@ -128,8 +128,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ecf9299dfa789900",
+  "active": "8bc27f958f9b5a27",
   "lastOpenFiles": [
+    "notes/fathers.emma.emma-story.md",
+    "notes/timeline-emma.md",
+    "notes/spiritual-director.charles-carroll.md",
+    "timeline-emma.md",
+    "notes/templates.random-quote.md",
     "index.md",
     "test/A Prayer for Owen Meany.md",
     "templates/random-quote.md",
