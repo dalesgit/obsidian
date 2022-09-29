@@ -21,7 +21,7 @@ isDir: false
 ## To [Emma](Emma)
 *In the past I have been defensive, inquiring, attempting to engage. Now is the time to find the positive and just express it.*
 
-In the past I didn't know how to appreciate [[miriam]]'s response to me that went along the lines of, "Emma is doing fine. She's happy. That's what you want as a father, isn't it?" **What was it that I wanted as a father? What were my goals in 1991? 1992? 1994? 2011?**
+In the past I didn't know how to appreciate [[fathers.miriam]]'s response to me that went along the lines of, "Emma is doing fine. She's happy. That's what you want as a father, isn't it?" **What was it that I wanted as a father? What were my goals in 1991? 1992? 1994? 2011?**
 
 - The example of love between a couple that their mother and I exemplified was dysfunctional and toxic. I wanted them to know that there were alternatives.
 - It is without a doubt that [Lydia](Lydia.md) and [Emma](Emma) were the primary reasons I was alive. Their well-being was my number one goal in life. For them, I would clearly have died if it would give them life.

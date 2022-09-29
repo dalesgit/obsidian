@@ -10,7 +10,7 @@ I have solved the software issues with the rsync backups. Ready to go with both 
 
 Last night with Peter & Christina, there was really a deep sense of friendship with Peter. "I have a friend." He wouldn't go to the end of the trail with me -- but like Fr. Brian in South Bend, I can talk to him freely and comes from deep within me. 
 
-[[peter]] had attended a "Writer's Workshop" at Winthrop -- led by John Beard (I think is his name). He found it helpful and satisfied him as he worked for a week or two on his book on *Suffering*. 
+[[peter-judge]] had attended a "Writer's Workshop" at Winthrop -- led by John Beard (I think is his name). He found it helpful and satisfied him as he worked for a week or two on his book on *Suffering*. 
 
 Today we picked up and tidied for Sean and Jolene. I know [[marypat]] is going to feel a huge loss when we move away from them. We've had some times this week when I felt sorely cut off from her. Like we were living in parallel universes. 
 

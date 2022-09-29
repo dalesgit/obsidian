@@ -17,5 +17,5 @@ isDir: false
 - for me there is a sense of accomplishment about preparing for the move. Perhaps it is just getting closer to the reality. 
 
 ## Gratitude
-- For partnership with [MaryPat](MaryPat.md). I read to day the email response from [[miriam]] about my Pentecost greetings.
+- For partnership with [MaryPat](MaryPat.md). I read to day the email response from [[fathers.miriam]] about my Pentecost greetings.
 - the effort of Scott to keep an "every 2 week" sort of communication going. A friend.

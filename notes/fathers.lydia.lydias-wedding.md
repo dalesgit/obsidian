@@ -19,5 +19,5 @@ isDir: false
 - St. Andrew's by the Lake folks
 
 ---
-It left me feeling **bitter** and **alone**. I was grateful for MP, [[bill]], and the naiveté of Julian. [Bridget](Bridget.md) rolled her eyes as she acknowledged my presence with a hissed "Dale". At picture taking [Lydia](Lydia.md) said she wanted one of "just her and me." I said, "Whatever you want," but didn't realize until it was done that it was her way of saying, "I don't want Mary Pat in the picture." My older kids spent the day "At Bridget's," Owen too busy to be in touch with us. 
+It left me feeling **bitter** and **alone**. I was grateful for MP, [[family.bill]], and the naiveté of Julian. [Bridget](Bridget.md) rolled her eyes as she acknowledged my presence with a hissed "Dale". At picture taking [Lydia](Lydia.md) said she wanted one of "just her and me." I said, "Whatever you want," but didn't realize until it was done that it was her way of saying, "I don't want Mary Pat in the picture." My older kids spent the day "At Bridget's," Owen too busy to be in touch with us. 
 

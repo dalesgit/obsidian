@@ -7,7 +7,7 @@ created: 1663357090334
 isDir: false
 ---
 - I have this working on the new hp x2. 
-- cleaned out the old plastic bin in garage for [[sean]]
+- cleaned out the old plastic bin in garage for [[family.sean]]
 - wrote Naomi
 - registered with ADP
 - Having watched more episodes of *Outlander* where the war leading up to the Revolutionary War is so destructive of what is best about humanity, I wonder to myself -- for the first time ever -- whether the [[american-experiment]] was a univocal good thing. Maybe it was a bad thing.

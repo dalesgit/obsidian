@@ -1,6 +1,6 @@
 ---
 id: f6l0vhum07rir7yygd6e7uz
-title: Lutheran Pastor
+title: Fritz Pfotenhauer
 desc: ''
 updated: 1663926164374
 created: 1663925864103

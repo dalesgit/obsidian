@@ -20,7 +20,7 @@ far-ranging, testing the range of my "orthodoxy."
 
 ---
 # Anxiety over [Lydia](Lydia.md)'s wedding
-[[shirley]] and her antipathy to me
+[[family.shirley]] and her antipathy to me
 
 [[bridget]] 's pathology
 

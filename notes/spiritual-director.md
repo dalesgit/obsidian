@@ -5,8 +5,8 @@ desc: ''
 updated: 1663926256828
 created: 1663925090360
 ---
-- [[charles-carroll]]
-- [[lutheran-pastor]]
-- [[former-nun]]
-- [[dick-hubbard]]
-- [[linda-serepca]]
+- [[spiritual-director.charles-carroll]]
+- [[spiritual-director.fritz-pfotenhauer]]
+- [[spiritual-director.suzanne-morris]]
+- [[spiritual-director.dick-hubbard]]
+- [[spiritual-director.linda-serepca]]
