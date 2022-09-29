@@ -2,7 +2,7 @@
 id: qt8pz9lgc5r72946kt6evzg
 title: '2022-09-28'
 desc: ''
-updated: 1664410297975
+updated: 1664423447564
 created: 1664410116056
 traitIds:
   - journalNote
@@ -32,7 +32,7 @@ I am grateful for:
 
 ### What would make today great?
 
-1. I tried to begin the task of writing 
+1. I tried to begin the task of writing to Carolyn. I got bogged down, waylaid, etc. -- in part because of the complications of git / github 
 2.
 3.
 
