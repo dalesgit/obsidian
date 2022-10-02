@@ -2,7 +2,7 @@
   "folders": [
     {
       "path": "notes",
-      "name": "obsidian-github"
+      "name": "obsidian"
     }
   ],
   "settings": {
@@ -16,8 +16,7 @@
     "editor.suggest.snippetsPreventQuickSuggestions": false,
     "editor.suggest.showSnippets": true,
     "editor.tabCompletion": "on",
-    "dendron.enableSelfContainedVaultWorkspace": true,
-    "cSpell.enabled": true
+    "dendron.enableSelfContainedVaultWorkspace": true
   },
   "extensions": {
     "recommendations": [
