@@ -51,7 +51,7 @@ Father Dale!!! I don’t know if you remember me, but my mom (Rebecca) and I kne
 - She said that I was a model Father for David & her.
 - She said that Mia thought of me as a father figure
 
-I am aware that this experience has reconnected me with an entire episode of my life that I have been emotionally disconnected. It's not resolved or anything, but it is there. I loved Mia. I respected David and Pi'ikea. They respected me.
+I am aware that this experience has **reconnected me with an entire episode** of my life that I have been emotionally disconnected. It's not resolved or anything, but it is there. I loved Mia. I respected David and Pi'ikea. They respected me.
 ### Gratitude
 
 I am grateful for:
