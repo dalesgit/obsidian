@@ -26,12 +26,12 @@ It had to do with spending some hours the last 2 days in cleaning up and sorting
 I am grateful for:
 
 1. [[becky-friedenberg]] and the connection with my past.
-2.
+2. Mary Pat's presence.
 3.
 
 ### What would make today great?
 
-1.
+1. a walk? 
 2.
 3.
 
