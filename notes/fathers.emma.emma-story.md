@@ -53,6 +53,9 @@ Nothing was unusual in the several days that it took for Emma's mother to recove
 A nurse had forgot to clip off the identification bracelet on Emma's ankle. That was my Emma.
 
 ## Fathering
+When Lydia had come home from the hospital, Bridget seemed to have difficulty knowing what a mother was to do. I felt like Mo had taught me something of that and I tried to step in. Perhaps Bridget resented me for that. I was something of a "La Leche League" coach for her. Encouraging her in ways that I had learned from earlier experiences. I "mothered" Lydia in significant ways. I was the one who could quiet her at night. I took pride – that's an observation to be wary of – being able to sooth her at night, put her to sleep in my arms, comfort her when nothing else or no one else could accomplish it.
+
+Emma was a different story.
 
 My understanding of "Fathering"
 
