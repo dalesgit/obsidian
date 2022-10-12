@@ -7,12 +7,8 @@
         "id": "8bc27f958f9b5a27",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/marginalian.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/marginalian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/marginalian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/marginalian.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -130,7 +122,6 @@
   },
   "active": "8bc27f958f9b5a27",
   "lastOpenFiles": [
-    "daily-questions/learn.md",
     "notes/fathers.emma.emma-story.md",
     "notes/timeline-emma.md",
     "notes/spiritual-director.charles-carroll.md",
@@ -139,6 +130,7 @@
     "index.md",
     "test/A Prayer for Owen Meany.md",
     "templates/random-quote.md",
-    "Getting Started with git.md"
+    "Getting Started with git.md",
+    "README.md"
   ]
 }
