@@ -1,9 +1,11 @@
 ---
-id: 3l2if71dkumsxfskxx1132c
-title: Daily Journal Template
+id: 1oiadjv10n8gq4s5vw2e73g
+title: '2022-10-13'
 desc: ''
-updated: 1665653905925
-created: 1663260932996
+updated: 1665653287008
+created: 1665653287008
+traitIds:
+  - journalNote
 ---
 <!--
 This template was applied using the daily journal schema. Edit the [[templates.daily]] note to change this template.
@@ -17,7 +19,11 @@ Based on the journaling method created by Intelligent Change:
 ## Morning
 
 <!-- Fill out this section after waking up -->
+I woke early -- 5am. I hadn't taken my night pills, and that seems to influence whether I'm able to sleep the night. My dream this morning somehow featured my father. He was benign, trying to be helpful. 
 
+It hit me with force when the other day Bill [[family.bill]] reminded me of how awkward the times were when Dad would visit us or we would be sent to his house.
+
+This was apropos of the awkwardness I feel when trying to kickstart a relationship with Lydia. [[fathers.lydia]]
 ### Gratitude
 
 I am grateful for:

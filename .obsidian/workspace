@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "36f7cb5ae33ad7c8",
+        "id": "2b18157ecf2e6845",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "notes/fathers.emma.emma-story.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/fathers.emma.emma-story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/fathers.emma.emma-story.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/fathers.emma.emma-story.md"
+              }
             }
           }
         ]
@@ -120,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "36f7cb5ae33ad7c8",
+  "active": "2b18157ecf2e6845",
   "lastOpenFiles": [
-    "notes/marypat.md",
-    "2022-10-11.md",
-    "mary-pat.md",
-    "fathpers.julian.md",
-    "notes/fathers.emma.emma-story.md",
-    "notes/timeline-emma.md",
-    "notes/spiritual-director.charles-carroll.md",
-    "timeline-emma.md",
-    "notes/templates.random-quote.md",
-    "index.md"
+    "emma-story.md",
+    "notes/clearwater-deanery.md",
+    "notes/daily-notes.2022-04-26.md",
+    "notes/daily-notes.2022-06-01.md",
+    "notes/gift-red-bird.md",
+    "notes/daily-notes.2022-05-09.md",
+    "notes/daily-notes.2022-05-05.md",
+    "notes/family.shirley.md",
+    "notes/daily.md",
+    "notes/daily-notes.md"
   ]
 }
