@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2b18157ecf2e6845",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "journals/2022_10_15.md",
-            "mode": "source",
-            "source": false
+        "id": "6b40f6a766fcdf1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79504cd8531c025e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/2022_10_15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -128,8 +136,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2b18157ecf2e6845",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "79504cd8531c025e",
   "lastOpenFiles": [
+    "journals/2022_10_15.md",
     "pages/fathers.emma.emma-story.md",
     "pages/spiritual-director.linda-serepca.md",
     "pages/notes%2Fjournal.md",
@@ -138,7 +150,6 @@
     "2022-10-13.md",
     "notes/fathers.emma.emma-story.md",
     "notes/clearwater-deanery.md",
-    "notes/daily-notes.2022-04-26.md",
-    "notes/daily-notes.2022-06-01.md"
+    "notes/daily-notes.2022-04-26.md"
   ]
 }
