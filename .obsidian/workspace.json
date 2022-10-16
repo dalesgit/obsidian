@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "ba0a2473b6af46c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "83545a88cceb6f65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b18157ecf2e6845",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-10-13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1a074bb5e456402",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-10-13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9141a4ffb4f03de",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c7577c510bbceec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "863c4ed001094d5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7eb1276bd735bfd1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e62a3632e380ed1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "789b306ea1af336e",
+    "type": "split",
+    "children": [
+      {
+        "id": "833a8762f6340d43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c3ec7ba1c10df89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-10-13.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aef57d846be5c49e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2022-10-13.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62388abf214f129a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3bd28fe5bd142c2d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2022-10-13.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "2b18157ecf2e6845",
+  "lastOpenFiles": [
+    "notes/fathers.emma.emma-story.md",
+    "emma-story.md",
+    "notes/clearwater-deanery.md",
+    "notes/daily-notes.2022-04-26.md",
+    "notes/daily-notes.2022-06-01.md",
+    "notes/gift-red-bird.md",
+    "notes/daily-notes.2022-05-09.md",
+    "notes/daily-notes.2022-05-05.md",
+    "notes/family.shirley.md",
+    "notes/daily.md"
+  ]
+}
