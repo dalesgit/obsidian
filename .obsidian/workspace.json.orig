@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4d120367606e7543",
+        "id": "83545a88cceb6f65",
         "type": "tabs",
         "children": [
           {
-            "id": "4de07e89fabd3cf8",
+            "id": "e1a074bb5e456402",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2022_10_15.md",
+                "file": "2022-10-13.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2fb11dedad6fbd4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81414e40a1f6a6e1",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "staged": false,
+                "file": "2022-10-13.md"
               }
             }
           }
@@ -85,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2022_10_15.md",
+                "file": "2022-10-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2022_10_15.md",
+                "file": "2022-10-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2022_10_15.md"
+                "file": "2022-10-13.md"
               }
             }
           }
@@ -139,17 +156,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4de07e89fabd3cf8",
+  "active": "e1a074bb5e456402",
   "lastOpenFiles": [
-    "Octavia Butler on the Meaning of God.md",
-    "journals/2022_10_15.md",
-    "docs/notes/root.md",
-    "notes/journal.md",
-    "pages/fathers.emma.emma-story.md",
-    "pages/spiritual-director.linda-serepca.md",
-    "pages/notes%2Fjournal.md",
+    "notes/fathers.emma.emma-story.md",
     "emma-story.md",
-    "notes/daily-notes.2022-08-06.md",
-    "2022-10-13.md"
+    "notes/clearwater-deanery.md",
+    "notes/daily-notes.2022-04-26.md",
+    "notes/daily-notes.2022-06-01.md",
+    "notes/gift-red-bird.md",
+    "notes/daily-notes.2022-05-09.md",
+    "notes/daily-notes.2022-05-05.md",
+    "notes/family.shirley.md",
+    "notes/daily.md"
   ]
 }
