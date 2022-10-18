@@ -19,117 +19,104 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e9141a4ffb4f03de",
-    "type": "split",
+    "id": "e34a4fac7b03fa29",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "7c7577c510bbceec",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "863c4ed001094d5d",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "7eb1276bd735bfd1",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "7e62a3632e380ed1",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "1c0759ccc9d90ab4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "ad274379b52e9e0d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "dbfc820661bdf9a8",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "54877564b49340ac",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "789b306ea1af336e",
-    "type": "split",
+    "id": "6ebd6b22dab95c6a",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "833a8762f6340d43",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0c3ec7ba1c10df89",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "journals/2022_10_15.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "aef57d846be5c49e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "journals/2022_10_15.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "62388abf214f129a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "3bd28fe5bd142c2d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "journals/2022_10_15.md"
-              }
-            }
+        "id": "dcfd160491ff0a43",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "journals/2022_10_15.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "7bb91a20931165ca",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "journals/2022_10_15.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "469c921dea196572",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "journals/2022_10_15.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "2b18157ecf2e6845",
   "lastOpenFiles": [
+    "journals/2022_10_18.md",
+    "journals/2022_10_15.md",
     "pages/fathers.emma.emma-story.md",
     "pages/spiritual-director.linda-serepca.md",
     "pages/notes%2Fjournal.md",
@@ -137,8 +124,6 @@
     "notes/daily-notes.2022-08-06.md",
     "2022-10-13.md",
     "notes/fathers.emma.emma-story.md",
-    "notes/clearwater-deanery.md",
-    "notes/daily-notes.2022-04-26.md",
-    "notes/daily-notes.2022-06-01.md"
+    "notes/clearwater-deanery.md"
   ]
 }
