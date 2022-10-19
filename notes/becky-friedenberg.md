@@ -8,5 +8,6 @@ created: 1664827112180
 ---
 She thought Bridget was "toxic" early on, even though she is in touch with her. She has lived near Emma for many years now. (Vancouver, WA and Portland, OR)
 
-- #EFM
--
+- Email [[Oct 19th, 2022]]
+	- Below
+	- #EFM
