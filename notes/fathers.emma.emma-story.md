@@ -57,8 +57,6 @@ A nurse had forgot to clip off the identification bracelet on Emma's ankle. That
   
   And so it was that I began what I thought would be an innocent time of fathering and nurturing two little girls. They shared a bedroom then. Emma in a crib and Lydia in the "big girl" bed. I solidified my deepest intention to be the best father ever. I thought I knew deep within that I could do it by growing a love within me like an oak tree or baobab tree. I read, I fed, I rocked, and read stories. Lydia seemed to naturally melt into my arms after only a few minutes of rocking. Emma, on the other hand, seemed to demonstrate a "strong will" from the beginning. When she was upset there seemed to be now way to get past it with gentleness. She would fall asleep after she was exhausted. Again and again.
   
-  Strong-willed -- not easily comforted
-  
   Bathing
   
   Carrying her on shoulders to pre-school
