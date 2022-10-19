@@ -11,6 +11,7 @@ isDir: false
 
 [Personal](/checklists/445416)
 [[timeline-emma]]
+- [[fathers.emma]]
 ## Precious daughter
 Since the 70's my first instinct was to root for the girls over the boys.
 
