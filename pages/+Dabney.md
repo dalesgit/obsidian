@@ -6,4 +6,5 @@
 - Form from diocesan web site. He doesn't have to check if I'm a priest.
 - 7 1/2 years dealing with multiple myloma. Underneath lots of stories. Chronic and manageable (uncurable)
 - constantly saying southern most of upper midwest.
-- every opinion
+- every opinion present in every congregation (healthy in his view)
+-
