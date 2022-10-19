@@ -1,0 +1,1 @@
+- I'm extremely fortunate to be in the area where St. John's Tampa was where his father was rector.
