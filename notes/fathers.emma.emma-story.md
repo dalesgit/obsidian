@@ -55,7 +55,7 @@ A nurse had forgot to clip off the identification bracelet on Emma's ankle. That
   
   Emma was a different story. Her mother was a little more confident in her ability to nurse. I now needed to pay even more attention to Lydia as Bridget was focused on her new-born. I felt an inner pressure to open my heart to Emma in compensation for the extra time I spent with Lydia. It was right and proper that Emma's mother be the primary care-giver at this point.
   
-  And so it was that I began what I thought would be an innocent time of fathering and nurturing two little girls. They shared a bedroom then. Emma in a crib and Lydia in the "big girl" bed. I solidified my deepest intention to be the best father ever. I thought I knew deep within that I could do it by growing a love within me like an oak tree or baobab tree. I read, I fed, I rocked,
+  And so it was that I began what I thought would be an innocent time of fathering and nurturing two little girls. They shared a bedroom then. Emma in a crib and Lydia in the "big girl" bed. I solidified my deepest intention to be the best father ever. I thought I knew deep within that I could do it by growing a love within me like an oak tree or baobab tree. I read, I fed, I rocked, and read stories. Lydia seemed to naturally melt into my arms after only a few minutes of rocking. Emma, on the other hand, seemed 
   
   My self-conception and determination in being able to quiet my child -- was challenged by Emma
   
