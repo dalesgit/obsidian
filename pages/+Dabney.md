@@ -1,2 +1,3 @@
 - I'm extremely fortunate to be in the area where St. John's Tampa was where his father was rector.
-- Lots of retired clergy but lots of variation in what they exp
+- Lots of retired clergy but lots of variation in what they expect, want.
+- Stephen Gerth in
