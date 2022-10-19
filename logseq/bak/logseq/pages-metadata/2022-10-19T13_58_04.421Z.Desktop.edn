@@ -139,9 +139,6 @@
  {:block/name "2022-09-20|notes.journal.2022.09.20",
   :block/created-at 1665810829129,
   :block/updated-at 1665810829129}
- {:block/name "634ffdce-b9dd-4660-bc8c-b6e21a74bd64",
-  :block/created-at 1666187742122,
-  :block/updated-at 1666187742122}
  {:block/name "[]",
   :block/created-at 1665810822227,
   :block/updated-at 1665810822227}
@@ -210,7 +207,7 @@
   :block/updated-at 1665810916061}
  {:block/name "becky friedenberg",
   :block/created-at 1665810822143,
-  :block/updated-at 1666187869671}
+  :block/updated-at 1665810822143}
  {:block/name "becky-friedenberg",
   :block/created-at 1665810826813,
   :block/updated-at 1665810826813}
@@ -790,18 +787,21 @@
  {:block/name "oct 15th, 2022",
   :block/created-at 1665810819123,
   :block/updated-at 1665863574269}
+<<<<<<< HEAD
  {:block/name "oct 16th, 2022",
   :block/created-at 1666095827216,
   :block/updated-at 1666095827216}
+ {:block/name "oct 18th, 2022",
+  :block/created-at 1666095825542,
+  :block/updated-at 1666095825542}
+=======
  {:block/name "oct 17th, 2022",
   :block/created-at 1666098605258,
   :block/updated-at 1666098605258}
  {:block/name "oct 18th, 2022",
   :block/created-at 1666098605220,
   :block/updated-at 1666099469961}
- {:block/name "oct 19th, 2022",
-  :block/created-at 1666186699673,
-  :block/updated-at 1666186699673}
+>>>>>>> ee32400ce67751ccb1fd4f945765183859b24a00
  {:block/name "octavia butler on the meaning of god",
   :block/created-at 1665810829457,
   :block/updated-at 1665810829457}
