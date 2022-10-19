@@ -7,4 +7,4 @@
 - 7 1/2 years dealing with multiple myloma. Underneath lots of stories. Chronic and manageable (uncurable)
 - constantly saying southern most of upper midwest.
 - every opinion present in every congregation (healthy in his view)
-- when he met a place of deep mistrust. He said to the clergy you don't have to agree but you have to
+- when he met a place of deep mistrust. He said to the clergy you don't have to agree but you have to respect one another.
