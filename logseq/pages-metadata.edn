@@ -150,7 +150,7 @@
   :block/updated-at 1665810833430}
  {:block/name "abortion",
   :block/created-at 1665810823492,
-  :block/updated-at 1665810823492}
+  :block/updated-at 1666099749698}
  {:block/name "alain badiou on love",
   :block/created-at 1665810821926,
   :block/updated-at 1665810821926}
@@ -394,6 +394,9 @@
  {:block/name "done",
   :block/created-at 1665810916060,
   :block/updated-at 1665810916060}
+ {:block/name "efm",
+  :block/created-at 1666099468725,
+  :block/updated-at 1666099468725}
  {:block/name "emma",
   :block/created-at 1665810820973,
   :block/updated-at 1665810820973}
@@ -777,19 +780,28 @@
   :block/updated-at 1665810828150}
  {:block/name "oct 11th, 2022",
   :block/created-at 1665810819362,
-  :block/updated-at 1665810819362}
+  :block/updated-at 1666099525140}
  {:block/name "oct 13th, 2022",
   :block/created-at 1665864225975,
   :block/updated-at 1665864225975}
  {:block/name "oct 15th, 2022",
   :block/created-at 1665810819123,
   :block/updated-at 1665863574269}
+<<<<<<< HEAD
  {:block/name "oct 16th, 2022",
   :block/created-at 1666095827216,
   :block/updated-at 1666095827216}
  {:block/name "oct 18th, 2022",
   :block/created-at 1666095825542,
   :block/updated-at 1666095825542}
+=======
+ {:block/name "oct 17th, 2022",
+  :block/created-at 1666098605258,
+  :block/updated-at 1666098605258}
+ {:block/name "oct 18th, 2022",
+  :block/created-at 1666098605220,
+  :block/updated-at 1666099469961}
+>>>>>>> ee32400ce67751ccb1fd4f945765183859b24a00
  {:block/name "octavia butler on the meaning of god",
   :block/created-at 1665810829457,
   :block/updated-at 1665810829457}

@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2b18157ecf2e6845",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "journals/2022_10_15.md",
-            "mode": "source",
-            "source": false
+        "id": "09fdd7c1f00e29c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b18157ecf2e6845",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/2022_10_18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -27,7 +33,9 @@
         "type": "leaf",
         "state": {
           "type": "file-explorer",
-          "state": {}
+          "state": {
+            "sortOrder": "alphabetical"
+          }
         }
       },
       {
@@ -77,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journals/2022_10_15.md",
+            "file": "journals/2022_10_18.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "journals/2022_10_15.md",
+            "file": "journals/2022_10_18.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -106,12 +114,15 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "journals/2022_10_15.md"
+            "file": "journals/2022_10_18.md"
           }
         }
       }
     ],
     "currentTab": 0
+  },
+  "ribbon": {
+    "mostRecentAction": ""
   },
   "active": "2b18157ecf2e6845",
   "lastOpenFiles": [
