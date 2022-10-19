@@ -8,7 +8,6 @@ created: 1663357090313
 isDir: false
 ---
 
--
 - I received a sweet thanks from Mo for being Owen, Julian, and Miriam's dad. I responded that I knew that I had failed in so many ways at my effort to be an excellent father. Yet I knew that I had given it my all, had loved to the best of my ability.
   
   I had said to [MaryPat](MaryPat.md) the same kind of thing when I observed that [Lydia](Lydia.md) [[fathers.lydia]] [[fathers.julian]] [[fathers.miriam]] and [[fathers.emma]] don't seem to know that they were loved in a world-class manner.

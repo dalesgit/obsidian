@@ -465,7 +465,7 @@
   :block/updated-at 1665810822425}
  {:block/name "fathers",
   :block/created-at 1665810823260,
-  :block/updated-at 1665810823260}
+  :block/updated-at 1666204100750}
  {:block/name "fathers.emma",
   :block/created-at 1665810827608,
   :block/updated-at 1665810827608}
@@ -473,8 +473,8 @@
   :block/created-at 1665810829033,
   :block/updated-at 1665810829033}
  {:block/name "fathers.julian",
-  :block/created-at 1665810827606,
-  :block/updated-at 1665810827606}
+  :block/created-at 1666204117998,
+  :block/updated-at 1666204117998}
  {:block/name "fathers.lydia",
   :block/created-at 1665810826887,
   :block/updated-at 1665810826887}
@@ -769,6 +769,9 @@
  {:block/name "notes/daily-journal-2022-09-15",
   :block/created-at 1665810829005,
   :block/updated-at 1665810829005}
+ {:block/name "notes/father",
+  :block/created-at 1666204094668,
+  :block/updated-at 1666204094668}
  {:block/name "notes/journal",
   :block/created-at 1665810829135,
   :block/updated-at 1665810829135}
