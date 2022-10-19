@@ -256,6 +256,9 @@
  {:block/name "charles carroll",
   :block/created-at 1665810826442,
   :block/updated-at 1665810826442}
+ {:block/name "church",
+  :block/created-at 1666194639278,
+  :block/updated-at 1666194725486}
  {:block/name "clearwater deanery",
   :block/created-at 1665810822362,
   :block/updated-at 1665810822362}
@@ -801,7 +804,7 @@
   :block/updated-at 1666099469961}
  {:block/name "oct 19th, 2022",
   :block/created-at 1666186699673,
-  :block/updated-at 1666186699673}
+  :block/updated-at 1666194740075}
  {:block/name "octavia butler on the meaning of god",
   :block/created-at 1665810829457,
   :block/updated-at 1665810829457}
@@ -910,6 +913,9 @@
  {:block/name "spiritual-director.suzanne-morris",
   :block/created-at 1665810831534,
   :block/updated-at 1665810831534}
+ {:block/name "st. alfred's",
+  :block/created-at 1666194506059,
+  :block/updated-at 1666194506059}
  {:block/name "suzanne morris",
   :block/created-at 1665810831611,
   :block/updated-at 1665810831611}
