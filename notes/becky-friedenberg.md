@@ -10,5 +10,5 @@ She thought Bridget was "toxic" early on, even though she is in touch with her. 
 
 - Email [[Oct 19th, 2022]]
 	- Below are some links with suggestions about resources. Some of it you have probably already seen. One of them is a resource put together by a resource person in the diocese of North Carolina.
-	- When I was introduced to "theological reflection" it opened my eyes to the infinite possibilities of "doing theology." It could start from anywhere but always included
+	- When I was introduced to "theological reflection" it opened my eyes to the infinite possibilities of "doing theology." It could start from anywhere but always included an attempt to connect Scripture, Tradition, and Experience. I don't know that I was really any good at it in my training, but the experience inspired me
 	- #EFM
