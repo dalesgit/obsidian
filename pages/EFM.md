@@ -1,6 +1,7 @@
 - Theological reflection
 	- [Education for Ministry | Theological Reflection](http://www.efm.org.nz/reflection.html)
 	- [Overview of process](http://www.efm.org.nz/process.html)
+	  id:: 634ffdce-b9dd-4660-bc8c-b6e21a74bd64
 		- The process of theological reflection moves through four phases:
 		- Identify
 		  Explore
