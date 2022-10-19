@@ -6,11 +6,11 @@ updated: 1663357493903
 created: 1663357090320
 isDir: false
 ---
+
 # Emma -- an unfinished life #
 
 [Personal](/checklists/445416)
 [[timeline-emma]]
-
 ## Precious daughter
 Since the 70's my first instinct was to root for the girls over the boys.
 
@@ -41,7 +41,6 @@ In such a space and time the news was dropped that her mother was pregnant. The 
 Some of that may well have been that I wanted desperately to provide what my father had not. It was also that I already carried a keen sense of not being able to live up to the expectations I placed on myself. I had not done well at fathering my little brother, David. I had failed in so many ways at fathering the children of my first marriage, even as I had tried desperately at times to do the right thing. With these children, I thought, I will provide the love and nurture that will outlast and outshine all others.
 
 Bluster and self-delusion, I suppose.
-
 ## Birth
 
 I was determined to be present at the birth of Emma. I had been forced from the delivery/operating room with Lydia when the spinal block failed. My response wasn't exactly, "You don't know who I am." But something like, "You really don't know who I am." I knew of myself that I could take any amount of chaos and emergency and I would not faint and would not cause trouble. Of course, hospital protocol prevailed. But for Emma, I was determined that that wouldn't be repeated. 
@@ -51,22 +50,19 @@ So I was present for the birth of 4 of my 5 children.
 Nothing was unusual in the several days that it took for Emma's mother to recover. Then we prepared to head home. Baby wrapped in swaddling clothes. Mother in the mandatory wheel chair. Then off to the elevator. As soon as we entered a loud alarm went off throughout the floor -- perhaps the whole building. The doors froze and there was no going up or down. 
 
 A nurse had forgot to clip off the identification bracelet on Emma's ankle. That was my Emma.
-
-## Fathering
-When Lydia had come home from the hospital, Bridget seemed to have difficulty knowing what a mother was to do. I felt like Mo had taught me something of that and I tried to step in. Perhaps Bridget resented me for that. I was something of a "La Leche League" coach for her. Encouraging her in ways that I had learned from earlier experiences. I "mothered" Lydia in significant ways. I was the one who could quiet her at night. I took pride – that's an observation to be wary of – being able to sooth her at night, put her to sleep in my arms, comfort her when nothing else or no one else could accomplish it.
-
-Emma was a different story. Her mother was a little more confident in her ability to nurse. I now needed to pay even more attention to Lydia as Bridget was focused on her new-born. I felt an inner pressure to open my heart to Emma in compensation for the extra time I spent with Lydia. It was right and proper that Emma's mother be the primary care-giver at this point. 
-
-At this time in my life I solidified my deepest intention to be the best father ever. 
-
-My self-conception and determination in being able to quiet my child -- was challenged by Emma
-
-Strong-willed -- not easily comforted
-
-Bathing
-
-Carrying her on shoulders to pre-school
-
+- ## Fathering
+  When Lydia had come home from the hospital, Bridget seemed to have difficulty knowing what a mother was to do. I felt like Mo had taught me something of that and I tried to step in. Perhaps Bridget resented me for that. I was something of a "La Leche League" coach for her. Encouraging her in ways that I had learned from earlier experiences. I "mothered" Lydia in significant ways. I was the one who could quiet her at night. I took pride – that's an observation to be wary of – being able to sooth her at night, put her to sleep in my arms, comfort her when nothing else or no one else could accomplish it.
+  
+  Emma was a different story. Her mother was a little more confident in her ability to nurse. I now needed to pay even more attention to Lydia as Bridget was focused on her new-born. I felt an inner pressure to open my heart to Emma in compensation for the extra time I spent with Lydia. It was right and proper that Emma's mother be the primary care-giver at this point.
+- At this time in my life I solidified my deepest intention to be the best father ever. 
+  
+  My self-conception and determination in being able to quiet my child -- was challenged by Emma
+  
+  Strong-willed -- not easily comforted
+  
+  Bathing
+  
+  Carrying her on shoulders to pre-school
 ## The Police?
 
 stolen without notice -- in this case by the **state**
@@ -76,7 +72,6 @@ unaware of what was wrong
 Interviewed on Sunday by an officer -- he found no indication of abuse
 
 Where was Emma those 2-3 days?
-
 ## Bicycle
 
 Fierce determination
@@ -93,29 +88,22 @@ In procession with a "humph" marching behind Bp. Gray
 cf. also suddenly squealing having switched up the amp at church
 
 She would frequently request Chapin's "Flowers are red"
-
 ## Travel outside the country
 
 Riding the pony in Canada
 
 Standing alongside the water flowing over Niagara Falls
-
 ## Pikes Peak
-
 ## Determination to swim
-
 ## Kindergarten in Hawai'i
 
 Trip to Grandma's dying
-
 ## Exchange students in the home.
 
 This was Dale's dream, not Bridget's
-
 ### Mia stayed for a semester
 
 The delight I had in driving her to school. How were the girls getting to the Priory?
-
 ### Leen
 
 Common theme by then that Bridget turned against the "interloper"
@@ -129,7 +117,6 @@ Waikiki by herself
 Struggled with e.g. math
 
 Played violin
-
 ## Sisters
 
 "They're sisters!", said with a smile.
@@ -139,7 +126,6 @@ The insight that Lydia and Emma were each of them envious for what the other had
 Calling "911" from "Mama Sue's"
 
 There was some ambivalence about whether the *Priory* was the right school for Emma. It clearly was for her sister. Did she vacillate about going? I can't remember. Perhaps she wanted to follow in her sister's path. Perhaps she wanted to blaze her own trail. But I knew that her needs were very different from Lydia's.
-
 ## Life is fleeting
 Associate with her the movie *Rent* and the lyrics.
 
@@ -173,4 +159,3 @@ Remember the love!
 Remember the love!
 Measure in love.
 Seasons of love! Seasons of love.
-
