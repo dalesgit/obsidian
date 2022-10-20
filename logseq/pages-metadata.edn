@@ -166,6 +166,9 @@
  {:block/name "creation-date",
   :block/created-at 1665810833437,
   :block/updated-at 1665810833437}
+ {:block/name "cruise",
+  :block/created-at 1666276594235,
+  :block/updated-at 1666276639979}
  {:block/name "culture politics",
   :block/created-at 1665810822401,
   :block/updated-at 1665810822401}
@@ -213,7 +216,7 @@
   :block/updated-at 1665810826291}
  {:block/name "daily/journal/2022/09/18",
   :block/created-at 1665810826419,
-  :block/updated-at 1665810826419}
+  :block/updated-at 1666276707159}
  {:block/name "daily/journal/2022/09/23",
   :block/created-at 1665810826452,
   :block/updated-at 1665810826452}
@@ -523,9 +526,6 @@
  {:block/name "marginalian",
   :block/created-at 1665810821121,
   :block/updated-at 1665810821121}
- {:block/name "mary-pat",
-  :block/created-at 1665810826413,
-  :block/updated-at 1665810826413}
  {:block/name "marypat",
   :block/created-at 1665810823491,
   :block/updated-at 1665810823491}
@@ -672,7 +672,7 @@
   :block/updated-at 1666202707140}
  {:block/name "oct 20th, 2022",
   :block/created-at 1666266186002,
-  :block/updated-at 1666276087194}
+  :block/updated-at 1666276594238}
  {:block/name "octavia butler on the meaning of god",
   :block/created-at 1665810829457,
   :block/updated-at 1665810829457}
