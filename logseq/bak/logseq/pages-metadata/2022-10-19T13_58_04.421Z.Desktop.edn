@@ -1,9 +1,6 @@
 [{:block/name "'2022'",
   :block/created-at 1665810826919,
   :block/updated-at 1665810826919}
- {:block/name "+dabney",
-  :block/created-at 1666202707138,
-  :block/updated-at 1666206197913}
  {:block/name "--'[object-object]'",
   :block/created-at 1665810832095,
   :block/updated-at 1665810832095}
@@ -142,9 +139,6 @@
  {:block/name "2022-09-20|notes.journal.2022.09.20",
   :block/created-at 1665810829129,
   :block/updated-at 1665810829129}
- {:block/name "634ffdce-b9dd-4660-bc8c-b6e21a74bd64",
-  :block/created-at 1666187742122,
-  :block/updated-at 1666187742122}
  {:block/name "[]",
   :block/created-at 1665810822227,
   :block/updated-at 1665810822227}
@@ -156,7 +150,7 @@
   :block/updated-at 1665810833430}
  {:block/name "abortion",
   :block/created-at 1665810823492,
-  :block/updated-at 1666099922446}
+  :block/updated-at 1666099749698}
  {:block/name "alain badiou on love",
   :block/created-at 1665810821926,
   :block/updated-at 1665810821926}
@@ -213,7 +207,7 @@
   :block/updated-at 1665810916061}
  {:block/name "becky friedenberg",
   :block/created-at 1665810822143,
-  :block/updated-at 1666190254704}
+  :block/updated-at 1665810822143}
  {:block/name "becky-friedenberg",
   :block/created-at 1665810826813,
   :block/updated-at 1665810826813}
@@ -259,15 +253,6 @@
  {:block/name "charles carroll",
   :block/created-at 1665810826442,
   :block/updated-at 1665810826442}
- {:block/name "checklists",
-  :block/created-at 1666203094870,
-  :block/updated-at 1666203094870}
- {:block/name "checklists/445416",
-  :block/created-at 1666203094872,
-  :block/updated-at 1666203094872}
- {:block/name "church",
-  :block/created-at 1666194639278,
-  :block/updated-at 1666194725486}
  {:block/name "clearwater deanery",
   :block/created-at 1665810822362,
   :block/updated-at 1665810822362}
@@ -417,7 +402,7 @@
   :block/updated-at 1665810820973}
  {:block/name "emma story",
   :block/created-at 1665810827374,
-  :block/updated-at 1666203633929}
+  :block/updated-at 1665810827374}
  {:block/name "emma's elegy",
   :block/created-at 1665810828154,
   :block/updated-at 1665810828154}
@@ -465,7 +450,7 @@
   :block/updated-at 1665810822425}
  {:block/name "fathers",
   :block/created-at 1665810823260,
-  :block/updated-at 1666204100750}
+  :block/updated-at 1665810823260}
  {:block/name "fathers.emma",
   :block/created-at 1665810827608,
   :block/updated-at 1665810827608}
@@ -473,8 +458,8 @@
   :block/created-at 1665810829033,
   :block/updated-at 1665810829033}
  {:block/name "fathers.julian",
-  :block/created-at 1666204117998,
-  :block/updated-at 1666204117998}
+  :block/created-at 1665810827606,
+  :block/updated-at 1665810827606}
  {:block/name "fathers.lydia",
   :block/created-at 1665810826887,
   :block/updated-at 1665810826887}
@@ -769,9 +754,6 @@
  {:block/name "notes/daily-journal-2022-09-15",
   :block/created-at 1665810829005,
   :block/updated-at 1665810829005}
- {:block/name "notes/father",
-  :block/created-at 1666204094668,
-  :block/updated-at 1666204094668}
  {:block/name "notes/journal",
   :block/created-at 1665810829135,
   :block/updated-at 1665810829135}
@@ -805,25 +787,21 @@
  {:block/name "oct 15th, 2022",
   :block/created-at 1665810819123,
   :block/updated-at 1665863574269}
+<<<<<<< HEAD
  {:block/name "oct 16th, 2022",
   :block/created-at 1666095827216,
   :block/updated-at 1666095827216}
+ {:block/name "oct 18th, 2022",
+  :block/created-at 1666095825542,
+  :block/updated-at 1666095825542}
+=======
  {:block/name "oct 17th, 2022",
   :block/created-at 1666098605258,
   :block/updated-at 1666098605258}
  {:block/name "oct 18th, 2022",
   :block/created-at 1666098605220,
-<<<<<<< HEAD
-  :block/updated-at 1666100023369}
- {:block/name "oct 19th, 2022",
-  :block/created-at 1666184581954,
-  :block/updated-at 1666184581954}
-=======
   :block/updated-at 1666099469961}
- {:block/name "oct 19th, 2022",
-  :block/created-at 1666186699673,
-  :block/updated-at 1666202707140}
->>>>>>> 0432461113d0aa0fc7a303397800a8cc31c54235
+>>>>>>> ee32400ce67751ccb1fd4f945765183859b24a00
  {:block/name "octavia butler on the meaning of god",
   :block/created-at 1665810829457,
   :block/updated-at 1665810829457}
@@ -932,9 +910,6 @@
  {:block/name "spiritual-director.suzanne-morris",
   :block/created-at 1665810831534,
   :block/updated-at 1665810831534}
- {:block/name "st. alfred's",
-  :block/created-at 1666194506059,
-  :block/updated-at 1666194506059}
  {:block/name "suzanne morris",
   :block/created-at 1665810831611,
   :block/updated-at 1665810831611}
