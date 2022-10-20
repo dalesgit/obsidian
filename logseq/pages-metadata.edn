@@ -10,141 +10,9 @@
  {:block/name "--https",
   :block/created-at 1665810822241,
   :block/updated-at 1665810822241}
- {:block/name "2022 04 26",
-  :block/created-at 1665810822432,
-  :block/updated-at 1665810822432}
- {:block/name "2022 04 27",
-  :block/created-at 1665810822466,
-  :block/updated-at 1665810822466}
- {:block/name "2022 05 02",
-  :block/created-at 1665810822491,
-  :block/updated-at 1665810822491}
- {:block/name "2022 05 03",
-  :block/created-at 1665810822527,
-  :block/updated-at 1665810822527}
- {:block/name "2022 05 04",
-  :block/created-at 1665810822561,
-  :block/updated-at 1665810822561}
- {:block/name "2022 05 05",
-  :block/created-at 1665810822620,
-  :block/updated-at 1665810822620}
- {:block/name "2022 05 08",
-  :block/created-at 1665810822652,
-  :block/updated-at 1665810822652}
- {:block/name "2022 05 09",
-  :block/created-at 1665810822702,
-  :block/updated-at 1665810822702}
- {:block/name "2022 05 11",
-  :block/created-at 1665810822747,
-  :block/updated-at 1665810822747}
- {:block/name "2022 05 13",
-  :block/created-at 1665810822776,
-  :block/updated-at 1665810822776}
- {:block/name "2022 05 18",
-  :block/created-at 1665810822813,
-  :block/updated-at 1665810822813}
- {:block/name "2022 05 22",
-  :block/created-at 1665810822850,
-  :block/updated-at 1665810822850}
- {:block/name "2022 05 25",
-  :block/created-at 1665810822884,
-  :block/updated-at 1665810822884}
- {:block/name "2022 05 27",
-  :block/created-at 1665810822931,
-  :block/updated-at 1665810822931}
- {:block/name "2022 06 01",
-  :block/created-at 1665810822981,
-  :block/updated-at 1665810822981}
- {:block/name "2022 06 02",
-  :block/created-at 1665810823051,
-  :block/updated-at 1665810823051}
- {:block/name "2022 06 03",
-  :block/created-at 1665810823091,
-  :block/updated-at 1665810823091}
- {:block/name "2022 06 05",
-  :block/created-at 1665810823140,
-  :block/updated-at 1665810823140}
- {:block/name "2022 06 08",
-  :block/created-at 1665810823187,
-  :block/updated-at 1665810823187}
- {:block/name "2022 06 09",
-  :block/created-at 1665810823227,
-  :block/updated-at 1665810823227}
- {:block/name "2022 06 19",
-  :block/created-at 1665810823270,
-  :block/updated-at 1665810823270}
- {:block/name "2022 06 20",
-  :block/created-at 1665810823310,
-  :block/updated-at 1665810823310}
- {:block/name "2022 06 21",
-  :block/created-at 1665810823351,
-  :block/updated-at 1665810823351}
- {:block/name "2022 06 22",
-  :block/created-at 1665810823406,
-  :block/updated-at 1665810823406}
- {:block/name "2022 06 23",
-  :block/created-at 1665810823444,
-  :block/updated-at 1665810823444}
- {:block/name "2022 06 25",
-  :block/created-at 1665810823506,
-  :block/updated-at 1665810823506}
- {:block/name "2022 07 03",
-  :block/created-at 1665810825052,
-  :block/updated-at 1665810825052}
- {:block/name "2022 07 05",
-  :block/created-at 1665810825100,
-  :block/updated-at 1665810825100}
- {:block/name "2022 07 06",
-  :block/created-at 1665810825154,
-  :block/updated-at 1665810825154}
- {:block/name "2022 07 09",
-  :block/created-at 1665810825220,
-  :block/updated-at 1665810825220}
- {:block/name "2022 07 10",
-  :block/created-at 1665810825289,
-  :block/updated-at 1665810825289}
- {:block/name "2022 07 12",
-  :block/created-at 1665810825360,
-  :block/updated-at 1665810825360}
- {:block/name "2022 07 13",
-  :block/created-at 1665810825410,
-  :block/updated-at 1665810825410}
- {:block/name "2022 07 14",
-  :block/created-at 1665810825459,
-  :block/updated-at 1665810825459}
- {:block/name "2022 07 17",
-  :block/created-at 1665810825491,
-  :block/updated-at 1665810825491}
- {:block/name "2022 07 23",
-  :block/created-at 1665810825540,
-  :block/updated-at 1665810825540}
- {:block/name "2022 08 02",
-  :block/created-at 1665810825585,
-  :block/updated-at 1665810825585}
- {:block/name "2022 08 03",
-  :block/created-at 1665810825636,
-  :block/updated-at 1665810825636}
- {:block/name "2022 08 06",
-  :block/created-at 1665810825688,
-  :block/updated-at 1665810825688}
- {:block/name "2022 08 07",
-  :block/created-at 1665810825742,
-  :block/updated-at 1665810825742}
- {:block/name "2022 08 13",
-  :block/created-at 1665810825785,
-  :block/updated-at 1665810825785}
- {:block/name "2022 08 26",
-  :block/created-at 1665810825870,
-  :block/updated-at 1665810825870}
- {:block/name "2022 09 05",
-  :block/created-at 1665810825905,
-  :block/updated-at 1665810825905}
  {:block/name "2022-09-20|notes.journal.2022.09.20",
   :block/created-at 1665810829129,
   :block/updated-at 1665810829129}
- {:block/name "634ffdce-b9dd-4660-bc8c-b6e21a74bd64",
-  :block/created-at 1666187742122,
-  :block/updated-at 1666187742122}
  {:block/name "[]",
   :block/created-at 1665810822227,
   :block/updated-at 1665810822227}
@@ -316,9 +184,6 @@
  {:block/name "daily note",
   :block/created-at 1665810831961,
   :block/updated-at 1665810831961}
- {:block/name "daily notes",
-  :block/created-at 1665810825947,
-  :block/updated-at 1665810825947}
  {:block/name "daily questions",
   :block/created-at 1665810831896,
   :block/updated-at 1665810831896}
@@ -439,12 +304,6 @@
  {:block/name "family.carolyn",
   :block/created-at 1665810829039,
   :block/updated-at 1665810829039}
- {:block/name "family.sean",
-  :block/created-at 1665810822805,
-  :block/updated-at 1665810822805}
- {:block/name "family.shirley",
-  :block/created-at 1665810822607,
-  :block/updated-at 1665810822607}
  {:block/name "family/journal",
   :block/created-at 1665810827141,
   :block/updated-at 1665810827141}
@@ -493,9 +352,6 @@
  {:block/name "francis chan",
   :block/created-at 1665810819658,
   :block/updated-at 1665810819658}
- {:block/name "francis-chan",
-  :block/created-at 1665810822556,
-  :block/updated-at 1665810822556}
  {:block/name "friend",
   :block/created-at 1665810823304,
   :block/updated-at 1665810823304}
@@ -769,9 +625,6 @@
  {:block/name "notes/daily-journal-2022-09-15",
   :block/created-at 1665810829005,
   :block/updated-at 1665810829005}
- {:block/name "notes/father",
-  :block/created-at 1666204094668,
-  :block/updated-at 1666204094668}
  {:block/name "notes/journal",
   :block/created-at 1665810829135,
   :block/updated-at 1665810829135}
@@ -847,15 +700,9 @@
  {:block/name "peter judge",
   :block/created-at 1665810829545,
   :block/updated-at 1665810829545}
- {:block/name "peter-judge",
-  :block/created-at 1665810822841,
-  :block/updated-at 1665810822841}
  {:block/name "problem solving",
   :block/created-at 1665810819976,
   :block/updated-at 1665810819976}
- {:block/name "problem-solving",
-  :block/created-at 1665810822870,
-  :block/updated-at 1665810822870}
  {:block/name "proper 20",
   :block/created-at 1665810830838,
   :block/updated-at 1665810830838}
@@ -976,9 +823,6 @@
  {:block/name "things i know",
   :block/created-at 1665810821289,
   :block/updated-at 1665810821289}
- {:block/name "things-i-know",
-  :block/created-at 1665810825736,
-  :block/updated-at 1665810825736}
  {:block/name "tim vail",
   :block/created-at 1665810832619,
   :block/updated-at 1665810832619}
@@ -1036,9 +880,6 @@
  {:block/name "where's the joy?",
   :block/created-at 1665810820395,
   :block/updated-at 1665810820395}
- {:block/name "where's-the-joy?",
-  :block/created-at 1665810823135,
-  :block/updated-at 1665810823135}
  {:block/name "where-i-am-may-4",
   :block/created-at 1665810822555,
   :block/updated-at 1665810822555}
