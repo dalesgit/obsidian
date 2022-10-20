@@ -1,0 +1,2 @@
+- yellow-fever, perhaps hepatitis b immunization
+- "orange" clothes for special events
