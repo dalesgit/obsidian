@@ -1,5 +1,5 @@
 - https://www.wasteprousa.com/bill-pay/
-- n.b. when logging in be sure to click location as "Clearwater"
+- n.b. when logging in be sure to click location as "**Clearwater**"
 - dhath12
   User: hathashoe
   dch2Wastepro!
