@@ -8,7 +8,6 @@
 	- Booking Number : XW4R5K
 	  Dear DALE HATHAWAY
 - Health protocols
-	-
 	- Enhanced Protocols
 	- This specific booking and/or voyage follows our COVID-19 Enhanced Protocols for vaccination and testing requirements.
 	- Vaccination
@@ -21,3 +20,5 @@
 	- Please upload all required documentation to the VeriFLY app for a quick and seamless embarkation process.
 	- Global COVID-19 regulations and protocols are continuously changing and we may revise or modify these requirements (effective immediately) to evolve in line with the latest practices at any time. Please check back regularly for any updates. These protocols only apply to the specific booking number or voyage entered.
 	- As of October 12, 2022
+- CDC guidelines
+	-
