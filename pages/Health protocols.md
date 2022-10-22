@@ -19,3 +19,4 @@
 		- rabies
 		- typhoid
 		- yellow fever
+		- Malaria (Brazil)
