@@ -14,4 +14,8 @@
 	- As of October 12, 2022
 - CDC guidelines
 	- https://wwwnc.cdc.gov/travel/destinations/traveler/none/argentina?s_cid=ncezid-dgmq-travel-single-001
-		-
+		- Hepatitis A-B
+		- measles
+		- rabies
+		- typhoid
+		- yellow fever
