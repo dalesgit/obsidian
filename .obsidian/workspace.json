@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "8fca3bc09be575e7",
+        "id": "48af3c4912c6acbb",
         "type": "tabs",
         "children": [
           {
-            "id": "64046e7625efe9e6",
+            "id": "fb10757f6d13e9fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/2020-wiki.md",
+                "file": "pages/2021-wiki.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15f21683f4d551c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-01-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/2020-wiki.md",
+                "file": "pages/2021-wiki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/2020-wiki.md",
+                "file": "pages/2021-wiki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/2020-wiki.md"
+                "file": "pages/2021-wiki.md"
               }
             }
           }
@@ -138,17 +150,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "64046e7625efe9e6",
+  "active": "fb10757f6d13e9fa",
   "lastOpenFiles": [
+    "2021-01-09.md",
+    "pages/2021-wiki.md",
+    "2021-01-01.md",
+    "2021-01-08.md",
+    "2021-01-02.md",
+    "journals/2022_10_23.md",
     "logseq/bak/2022-10-11/2022-10-19T13_38_20.286Z.Desktop.md",
     "pages/2020-wiki.md",
-    "journals/2022_10_23.md",
     "2020_12_27.md",
-    "2020-12-26.md",
-    "logseq/bak/2022_10_26/2022-10-23T18_26_36.648Z.Desktop.md",
-    "journals/2022_10_15.md",
-    "Octavia Butler on the Meaning of God.md",
-    "docs/notes/root.md",
-    "notes/journal.md"
+    "2020-12-26.md"
   ]
 }
