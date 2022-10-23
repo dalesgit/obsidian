@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/2020-wiki.md",
+                "file": "journals/2022-05-11.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/2020-wiki.md",
+                "file": "journals/2022-05-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/2020-wiki.md",
+                "file": "journals/2022-05-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/2020-wiki.md"
+                "file": "journals/2022-05-11.md"
               }
             }
           }
@@ -141,6 +142,8 @@
   },
   "active": "4de07e89fabd3cf8",
   "lastOpenFiles": [
+    "pages/2020-wiki.md",
+    "2022_10_26.md",
     "journals/2022_10_23.md",
     "journals/2022_10_15.md",
     "Octavia Butler on the Meaning of God.md",
@@ -148,8 +151,6 @@
     "notes/journal.md",
     "pages/fathers.emma.emma-story.md",
     "pages/spiritual-director.linda-serepca.md",
-    "pages/notes%2Fjournal.md",
-    "emma-story.md",
-    "notes/daily-notes.2022-08-06.md"
+    "pages/notes%2Fjournal.md"
   ]
 }
