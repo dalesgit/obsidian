@@ -1,6 +1,9 @@
 [{:block/name "",
   :block/created-at 1666555159947,
   :block/updated-at 1666555160036}
+ {:block/name "'2021'",
+  :block/created-at 1666560574289,
+  :block/updated-at 1666560574289}
  {:block/name "'2022'",
   :block/created-at 1665810826919,
   :block/updated-at 1665810826919}
@@ -19,6 +22,12 @@
  {:block/name "2022-09-20|notes.journal.2022.09.20",
   :block/created-at 1665810829129,
   :block/updated-at 1665810829129}
+ {:block/name "711",
+  :block/created-at 1666560477995,
+  :block/updated-at 1666560477995}
+ {:block/name "['journal']",
+  :block/created-at 1666560478064,
+  :block/updated-at 1666560478064}
  {:block/name "[]",
   :block/created-at 1665810822227,
   :block/updated-at 1665810822227}
@@ -259,6 +268,9 @@
  {:block/name "daily/journal/2022/10/13",
   :block/created-at 1665810826891,
   :block/updated-at 1665810826891}
+ {:block/name "date",
+  :block/created-at 1666560478066,
+  :block/updated-at 1666560478066}
  {:block/name "dec 26th, 2020",
   :block/created-at 1666550674254,
   :block/updated-at 1666550674254}
@@ -379,6 +391,36 @@
  {:block/name "florida",
   :block/created-at 1665810823498,
   :block/updated-at 1665810823498}
+ {:block/name "footnote_plugin_tooltip_8962_1_20",
+  :block/created-at 1666560478049,
+  :block/updated-at 1666560478049}
+ {:block/name "footnote_plugin_tooltip_8962_1_21",
+  :block/created-at 1666560478041,
+  :block/updated-at 1666560478041}
+ {:block/name "footnote_plugin_tooltip_8962_1_22",
+  :block/created-at 1666560478035,
+  :block/updated-at 1666560478035}
+ {:block/name "footnote_plugin_tooltip_8962_1_23",
+  :block/created-at 1666560478030,
+  :block/updated-at 1666560478030}
+ {:block/name "footnote_plugin_tooltip_8962_1_24",
+  :block/created-at 1666560478026,
+  :block/updated-at 1666560478026}
+ {:block/name "footnote_plugin_tooltip_text_8962_1_20",
+  :block/created-at 1666560478047,
+  :block/updated-at 1666560478047}
+ {:block/name "footnote_plugin_tooltip_text_8962_1_21",
+  :block/created-at 1666560478038,
+  :block/updated-at 1666560478038}
+ {:block/name "footnote_plugin_tooltip_text_8962_1_22",
+  :block/created-at 1666560478033,
+  :block/updated-at 1666560478033}
+ {:block/name "footnote_plugin_tooltip_text_8962_1_23",
+  :block/created-at 1666560478028,
+  :block/updated-at 1666560478028}
+ {:block/name "footnote_plugin_tooltip_text_8962_1_24",
+  :block/created-at 1666560478018,
+  :block/updated-at 1666560478018}
  {:block/name "francis chan",
   :block/created-at 1665810819658,
   :block/updated-at 1665810819658}
@@ -559,6 +601,9 @@
  {:block/name "marginalian",
   :block/created-at 1665810821121,
   :block/updated-at 1665810821121}
+ {:block/name "markdown",
+  :block/created-at 1666560477943,
+  :block/updated-at 1666560477943}
  {:block/name "marypat",
   :block/created-at 1665810823491,
   :block/updated-at 1665810823491}
@@ -717,7 +762,7 @@
   :block/updated-at 1666479823213}
  {:block/name "oct 23rd, 2022",
   :block/created-at 1666548718248,
-  :block/updated-at 1666560156670}
+  :block/updated-at 1666560626357}
  {:block/name "oct 26th, 2022",
   :block/created-at 1666549526679,
   :block/updated-at 1666549526679}
