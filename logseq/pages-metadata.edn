@@ -1,10 +1,4 @@
-[{:block/name "",
-  :block/created-at 1666555159947,
-  :block/updated-at 1666555160036}
- {:block/name "'2021'",
-  :block/created-at 1666560574289,
-  :block/updated-at 1666561463860}
- {:block/name "'2022'",
+[{:block/name "'2022'",
   :block/created-at 1665810826919,
   :block/updated-at 1665810826919}
  {:block/name "+dabney",
@@ -19,15 +13,15 @@
  {:block/name "2020-wiki",
   :block/created-at 1666548720079,
   :block/updated-at 1666557872700}
+ {:block/name "2021-wiki",
+  :block/created-at 1666561618542,
+  :block/updated-at 1666561618542}
  {:block/name "2022-09-20|notes.journal.2022.09.20",
   :block/created-at 1665810829129,
   :block/updated-at 1665810829129}
  {:block/name "711",
   :block/created-at 1666560477995,
   :block/updated-at 1666560477995}
- {:block/name "['journal']",
-  :block/created-at 1666560478064,
-  :block/updated-at 1666560478064}
  {:block/name "[]",
   :block/created-at 1665810822227,
   :block/updated-at 1665810822227}
@@ -268,18 +262,12 @@
  {:block/name "daily/journal/2022/10/13",
   :block/created-at 1665810826891,
   :block/updated-at 1665810826891}
- {:block/name "date",
-  :block/created-at 1666560478066,
-  :block/updated-at 1666560478066}
  {:block/name "dec 26th, 2020",
   :block/created-at 1666550674254,
   :block/updated-at 1666550674254}
  {:block/name "dec 27th, 2020",
   :block/created-at 1666550674495,
   :block/updated-at 1666550674495}
- {:block/name "dec 27th, 2022",
-  :block/created-at 1666549526436,
-  :block/updated-at 1666549526436}
  {:block/name "dec 28th, 2020",
   :block/created-at 1666557310863,
   :block/updated-at 1666557310863}
@@ -493,9 +481,6 @@
  {:block/name "isdir",
   :block/created-at 1665810823505,
   :block/updated-at 1665810823505}
- {:block/name "jan 1st, 2020",
-  :block/created-at 1666560999318,
-  :block/updated-at 1666560999318}
  {:block/name "jan 1st, 2021",
   :block/created-at 1666561192059,
   :block/updated-at 1666561192059}
@@ -768,10 +753,7 @@
   :block/updated-at 1666479823213}
  {:block/name "oct 23rd, 2022",
   :block/created-at 1666548718248,
-  :block/updated-at 1666560626357}
- {:block/name "oct 26th, 2022",
-  :block/created-at 1666549526679,
-  :block/updated-at 1666549526679}
+  :block/updated-at 1666561669344}
  {:block/name "octavia butler on the meaning of god",
   :block/created-at 1665810829457,
   :block/updated-at 1665810829457}
