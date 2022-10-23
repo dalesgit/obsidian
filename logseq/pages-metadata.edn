@@ -717,7 +717,7 @@
   :block/updated-at 1666479823213}
  {:block/name "oct 23rd, 2022",
   :block/created-at 1666548718248,
-  :block/updated-at 1666558926414}
+  :block/updated-at 1666560156670}
  {:block/name "oct 26th, 2022",
   :block/created-at 1666549526679,
   :block/updated-at 1666549526679}
@@ -871,6 +871,9 @@
  {:block/name "things i know",
   :block/created-at 1665810821289,
   :block/updated-at 1665810821289}
+ {:block/name "this is a test",
+  :block/created-at 1666560036531,
+  :block/updated-at 1666560036531}
  {:block/name "tim vail",
   :block/created-at 1665810832619,
   :block/updated-at 1665810832619}
