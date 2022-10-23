@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4d120367606e7543",
+        "id": "8fca3bc09be575e7",
         "type": "tabs",
         "children": [
           {
-            "id": "4de07e89fabd3cf8",
+            "id": "64046e7625efe9e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journals/2022-05-11.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2022-05-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2022-05-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,32 +118,29 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "journals/2022-05-11.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4de07e89fabd3cf8",
+  "active": "64046e7625efe9e6",
   "lastOpenFiles": [
     "pages/2020-wiki.md",
-    "2022_10_26.md",
+    "2020_12_27.md",
+    "2020-12-26.md",
+    "logseq/bak/2022_10_26/2022-10-23T18_26_36.648Z.Desktop.md",
     "journals/2022_10_23.md",
     "journals/2022_10_15.md",
     "Octavia Butler on the Meaning of God.md",
     "docs/notes/root.md",
     "notes/journal.md",
-    "pages/fathers.emma.emma-story.md",
-    "pages/spiritual-director.linda-serepca.md",
-    "pages/notes%2Fjournal.md"
+    "pages/fathers.emma.emma-story.md"
   ]
 }
