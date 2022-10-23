@@ -682,6 +682,9 @@
  {:block/name "nt-wright-origin-christianity",
   :block/created-at 1665810828150,
   :block/updated-at 1665810828150}
+ {:block/name "obsidian",
+  :block/created-at 1666558898021,
+  :block/updated-at 1666558898021}
  {:block/name "oct 11th, 2022",
   :block/created-at 1665810819362,
   :block/updated-at 1666099525140}
@@ -714,7 +717,7 @@
   :block/updated-at 1666479823213}
  {:block/name "oct 23rd, 2022",
   :block/created-at 1666548718248,
-  :block/updated-at 1666548731817}
+  :block/updated-at 1666558926414}
  {:block/name "oct 26th, 2022",
   :block/created-at 1666549526679,
   :block/updated-at 1666549526679}
