@@ -15,7 +15,7 @@
   :block/updated-at 1665810822241}
  {:block/name "2020-wiki",
   :block/created-at 1666548720079,
-  :block/updated-at 1666555766968}
+  :block/updated-at 1666556664298}
  {:block/name "2022-09-20|notes.journal.2022.09.20",
   :block/created-at 1665810829129,
   :block/updated-at 1665810829129}
@@ -269,8 +269,8 @@
   :block/created-at 1666549526436,
   :block/updated-at 1666549526436}
  {:block/name "dec 28th, 2020",
-  :block/created-at 1666554825896,
-  :block/updated-at 1666554825896}
+  :block/created-at 1666556620662,
+  :block/updated-at 1666556620995}
  {:block/name "desantis",
   :block/created-at 1665810821659,
   :block/updated-at 1665810821659}
