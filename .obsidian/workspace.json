@@ -11,8 +11,12 @@
             "id": "64046e7625efe9e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pages/2020-wiki.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pages/2020-wiki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "pages/2020-wiki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "pages/2020-wiki.md"
+              }
             }
           }
         ]
@@ -132,11 +140,11 @@
   },
   "active": "64046e7625efe9e6",
   "lastOpenFiles": [
-    "pages/2020-wiki.md",
     "2020_12_27.md",
+    "pages/2020-wiki.md",
+    "journals/2022_10_23.md",
     "2020-12-26.md",
     "logseq/bak/2022_10_26/2022-10-23T18_26_36.648Z.Desktop.md",
-    "journals/2022_10_23.md",
     "journals/2022_10_15.md",
     "Octavia Butler on the Meaning of God.md",
     "docs/notes/root.md",
