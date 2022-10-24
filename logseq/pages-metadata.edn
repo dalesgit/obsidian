@@ -763,6 +763,9 @@
  {:block/name "oct 23rd, 2022",
   :block/created-at 1666548718248,
   :block/updated-at 1666561669344}
+ {:block/name "oct 24th, 2022",
+  :block/created-at 1666615011583,
+  :block/updated-at 1666615011583}
  {:block/name "octavia butler on the meaning of god",
   :block/created-at 1665810829457,
   :block/updated-at 1665810829457}
