@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2022_10_24.md",
+                "file": "journals/2022_10_25.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2022_10_24.md",
+                "file": "journals/2022_10_25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2022_10_24.md",
+                "file": "journals/2022_10_25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2022_10_24.md"
+                "file": "journals/2022_10_25.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "fb10757f6d13e9fa",
   "lastOpenFiles": [
+    "journals/2022_10_24.md",
     "2021-01-09.md",
     "pages/2021-wiki.md",
     "2021-01-01.md",
@@ -156,7 +157,6 @@
     "journals/2022_10_23.md",
     "logseq/bak/2022-10-11/2022-10-19T13_38_20.286Z.Desktop.md",
     "pages/2020-wiki.md",
-    "2020_12_27.md",
-    "2020-12-26.md"
+    "2020_12_27.md"
   ]
 }
