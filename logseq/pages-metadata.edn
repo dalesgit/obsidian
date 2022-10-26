@@ -379,36 +379,6 @@
  {:block/name "florida",
   :block/created-at 1665810823498,
   :block/updated-at 1665810823498}
- {:block/name "footnote_plugin_tooltip_8962_1_20",
-  :block/created-at 1666560478049,
-  :block/updated-at 1666560478049}
- {:block/name "footnote_plugin_tooltip_8962_1_21",
-  :block/created-at 1666560478041,
-  :block/updated-at 1666560478041}
- {:block/name "footnote_plugin_tooltip_8962_1_22",
-  :block/created-at 1666560478035,
-  :block/updated-at 1666560478035}
- {:block/name "footnote_plugin_tooltip_8962_1_23",
-  :block/created-at 1666560478030,
-  :block/updated-at 1666560478030}
- {:block/name "footnote_plugin_tooltip_8962_1_24",
-  :block/created-at 1666560478026,
-  :block/updated-at 1666560478026}
- {:block/name "footnote_plugin_tooltip_text_8962_1_20",
-  :block/created-at 1666560478047,
-  :block/updated-at 1666560478047}
- {:block/name "footnote_plugin_tooltip_text_8962_1_21",
-  :block/created-at 1666560478038,
-  :block/updated-at 1666560478038}
- {:block/name "footnote_plugin_tooltip_text_8962_1_22",
-  :block/created-at 1666560478033,
-  :block/updated-at 1666560478033}
- {:block/name "footnote_plugin_tooltip_text_8962_1_23",
-  :block/created-at 1666560478028,
-  :block/updated-at 1666560478028}
- {:block/name "footnote_plugin_tooltip_text_8962_1_24",
-  :block/created-at 1666560478018,
-  :block/updated-at 1666560478018}
  {:block/name "francis chan",
   :block/created-at 1665810819658,
   :block/updated-at 1665810819658}
@@ -493,9 +463,6 @@
  {:block/name "jan 13th, 2021",
   :block/created-at 1666616544862,
   :block/updated-at 1666616544862}
- {:block/name "jan 14th, 2021",
-  :block/created-at 1666665739973,
-  :block/updated-at 1666665739973}
  {:block/name "jan 15th, 2021",
   :block/created-at 1666665610698,
   :block/updated-at 1666665610698}
@@ -828,7 +795,7 @@
   :block/updated-at 1666615081391}
  {:block/name "oct 26th, 2022",
   :block/created-at 1666791570885,
-  :block/updated-at 1666791570885}
+  :block/updated-at 1666792586883}
  {:block/name "octavia butler on the meaning of god",
   :block/created-at 1665810829457,
   :block/updated-at 1665810829457}
