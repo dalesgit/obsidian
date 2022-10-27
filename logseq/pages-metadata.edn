@@ -1,6 +1,66 @@
-[{:block/name "'2022'",
+[{:block/name "''speak with your life''",
+  :block/created-at 1666903798090,
+  :block/updated-at 1666903798090}
+ {:block/name "'2022'",
   :block/created-at 1665810826919,
   :block/updated-at 1665810826919}
+ {:block/name "'chiasm'",
+  :block/created-at 1666903799611,
+  :block/updated-at 1666903799611}
+ {:block/name "'codependency'",
+  :block/created-at 1666903799671,
+  :block/updated-at 1666903799671}
+ {:block/name "'cognitive decline'",
+  :block/created-at 1666903799811,
+  :block/updated-at 1666903799811}
+ {:block/name "'daily prayer'",
+  :block/created-at 1666903800187,
+  :block/updated-at 1666903800187}
+ {:block/name "'donald whitley'",
+  :block/created-at 1666903800400,
+  :block/updated-at 1666903800400}
+ {:block/name "'examen1'",
+  :block/created-at 1666903800672,
+  :block/updated-at 1666903800672}
+ {:block/name "'examenweek'",
+  :block/created-at 1666903800786,
+  :block/updated-at 1666903800786}
+ {:block/name "'exercise'",
+  :block/created-at 1666903800820,
+  :block/updated-at 1666903800820}
+ {:block/name "'fathers-blessing'",
+  :block/created-at 1666903800918,
+  :block/updated-at 1666903800918}
+ {:block/name "'fellow-creatures'",
+  :block/created-at 1666903801075,
+  :block/updated-at 1666903801075}
+ {:block/name "'financialissues'",
+  :block/created-at 1666903801130,
+  :block/updated-at 1666903801130}
+ {:block/name "'floorplan.png'",
+  :block/created-at 1666903801891,
+  :block/updated-at 1666903801891}
+ {:block/name "'god's-hand'",
+  :block/created-at 1666903801939,
+  :block/updated-at 1666903801939}
+ {:block/name "'grace'",
+  :block/created-at 1666903802076,
+  :block/updated-at 1666903802076}
+ {:block/name "'grammabridget'",
+  :block/created-at 1666903803019,
+  :block/updated-at 1666903803019}
+ {:block/name "'hostingtiddly'",
+  :block/created-at 1666903803212,
+  :block/updated-at 1666903803212}
+ {:block/name "'housing-allowance'",
+  :block/created-at 1666903803256,
+  :block/updated-at 1666903803256}
+ {:block/name "'lydia'",
+  :block/created-at 1666903805102,
+  :block/updated-at 1666903805102}
+ {:block/name "'martin niemoeller'",
+  :block/created-at 1666903805153,
+  :block/updated-at 1666903805153}
  {:block/name "+dabney",
   :block/created-at 1666202707138,
   :block/updated-at 1666206197913}
@@ -10,6 +70,9 @@
  {:block/name "--https",
   :block/created-at 1665810822241,
   :block/updated-at 1665810822241}
+ {:block/name "2-corinthians-10-1-12",
+  :block/created-at 1666903798326,
+  :block/updated-at 1666903798326}
  {:block/name "2020-wiki",
   :block/created-at 1666548720079,
   :block/updated-at 1666557872700}
@@ -19,9 +82,45 @@
  {:block/name "2022-09-20|notes.journal.2022.09.20",
   :block/created-at 1665810829129,
   :block/updated-at 1665810829129}
+ {:block/name "3-things-to-focus-on",
+  :block/created-at 1666903798386,
+  :block/updated-at 1666903798386}
  {:block/name "711",
   :block/created-at 1666560477995,
   :block/updated-at 1666560477995}
+ {:block/name "['blessing']",
+  :block/created-at 1666903800916,
+  :block/updated-at 1666903800916}
+ {:block/name "['financialissues",
+  :block/created-at 1666903801125,
+  :block/updated-at 1666903801125}
+ {:block/name "['florida']",
+  :block/created-at 1666903801888,
+  :block/updated-at 1666903801888}
+ {:block/name "['miriam",
+  :block/created-at 1666903803015,
+  :block/updated-at 1666903803015}
+ {:block/name "['mychildren']",
+  :block/created-at 1666903805100,
+  :block/updated-at 1666903805100}
+ {:block/name "['selfreflection']",
+  :block/created-at 1666903799661,
+  :block/updated-at 1666903799661}
+ {:block/name "['september 2021",
+  :block/created-at 1666903801073,
+  :block/updated-at 1666903801073}
+ {:block/name "['stpauls",
+  :block/created-at 1666903803252,
+  :block/updated-at 1666903803252}
+ {:block/name "['stpauls']",
+  :block/created-at 1666903801937,
+  :block/updated-at 1666903801937}
+ {:block/name "['thinkingabout']",
+  :block/created-at 1666903800184,
+  :block/updated-at 1666903800184}
+ {:block/name "['workingwithtiddly']",
+  :block/created-at 1666903803208,
+  :block/updated-at 1666903803208}
  {:block/name "[]",
   :block/created-at 1665810822227,
   :block/updated-at 1665810822227}
@@ -34,12 +133,18 @@
  {:block/name "abortion",
   :block/created-at 1665810823492,
   :block/updated-at 1666099749698}
+ {:block/name "acceptible-time",
+  :block/created-at 1666903798598,
+  :block/updated-at 1666903798598}
  {:block/name "alain badiou on love",
   :block/created-at 1665810821926,
   :block/updated-at 1665810821926}
  {:block/name "alain-badiou-on-love",
   :block/created-at 1665810828285,
   :block/updated-at 1665810828285}
+ {:block/name "all-rest-wiki-ed",
+  :block/created-at 1666903798838,
+  :block/updated-at 1666903798838}
  {:block/name "american experiment",
   :block/created-at 1665810821957,
   :block/updated-at 1665810821957}
@@ -106,9 +211,18 @@
  {:block/name "being-doing",
   :block/created-at 1665810821259,
   :block/updated-at 1665810821259}
+ {:block/name "betrayals",
+  :block/created-at 1666903798826,
+  :block/updated-at 1666903798826}
+ {:block/name "bi-directional-linking",
+  :block/created-at 1666903798825,
+  :block/updated-at 1666903798825}
  {:block/name "bill",
   :block/created-at 1665810823042,
   :block/updated-at 1665810823042}
+ {:block/name "black-church",
+  :block/created-at 1666903798823,
+  :block/updated-at 1666903798823}
  {:block/name "blake",
   :block/created-at 1665810822243,
   :block/updated-at 1665810822243}
@@ -133,9 +247,15 @@
  {:block/name "card",
   :block/created-at 1665810916060,
   :block/updated-at 1665810916060}
+ {:block/name "caring-bridge",
+  :block/created-at 1666903798820,
+  :block/updated-at 1666903798820}
  {:block/name "carolyn",
   :block/created-at 1665810827122,
   :block/updated-at 1665810827122}
+ {:block/name "catholic-church",
+  :block/created-at 1666903798819,
+  :block/updated-at 1666903798819}
  {:block/name "character",
   :block/created-at 1665810822300,
   :block/updated-at 1665810822300}
@@ -148,15 +268,34 @@
  {:block/name "checklists/445416",
   :block/created-at 1666203094872,
   :block/updated-at 1666203094872}
+ {:block/name "chiasm",
+  :block/created-at 1666903798818,
+  :block/updated-at 1666903798818}
  {:block/name "church",
   :block/created-at 1666194639278,
   :block/updated-at 1666194725486}
+ {:block/name "church officers form |http:",
+  :block/created-at 1666903805680,
+  :block/updated-at 1666903805680}
+ {:block/name "church officers form |http://r20.rs6.net",
+  :block/created-at 1666903805683,
+  :block/updated-at 1666903805683}
+ {:block/name
+  "church officers form |http://r20.rs6.net/tn.jsp?f=001eiznetplr_tzzhrfomlnhdyabk2eutgzmjgsiz8cofhv2vf0umge3xaag1zvl4uihltijdhbpyzcqozajqzqq4s1pyardg43qximdrwr4ymf-7gqnogxspaisxfodr7jm27ftfw8u5v5k9vqbaexfuptultsycbymgk5qzw_b3xv8qp5bwbf8duacvoc1_qijsdnwdu_gdopnvsoy1jwtbb12nd-qkrb&c=c6wqdtguip-dc2lu8b0sev8pu-bgqljooa58liebkwjv5pxrjuf41q==&ch=pnm5j4i9imbvs2hjbpzufoh3jg-3qmfzbxlsddihuupkem9ciowuea==",
+  :block/created-at 1666903805672,
+  :block/updated-at 1666903805672}
  {:block/name "clearwater deanery",
   :block/created-at 1665810822362,
   :block/updated-at 1665810822362}
  {:block/name "clearwater-deanery",
   :block/created-at 1665810820859,
   :block/updated-at 1665810820859}
+ {:block/name "co-dependency",
+  :block/created-at 1666903798817,
+  :block/updated-at 1666903798817}
+ {:block/name "cognitive-decline",
+  :block/created-at 1666903798816,
+  :block/updated-at 1666903798816}
  {:block/name "command:dendron.createdailyjournalnote",
   :block/created-at 1665810829336,
   :block/updated-at 1665810829336}
@@ -181,6 +320,9 @@
  {:block/name "creation-date",
   :block/created-at 1665810833437,
   :block/updated-at 1665810833437}
+ {:block/name "creatures']",
+  :block/created-at 1666903801074,
+  :block/updated-at 1666903801074}
  {:block/name "cruise",
   :block/created-at 1666276594235,
   :block/updated-at 1666276639979}
@@ -211,6 +353,12 @@
  {:block/name "daily-notes.2022-04-26",
   :block/created-at 1665810828140,
   :block/updated-at 1665810828140}
+ {:block/name "daily-prayer",
+  :block/created-at 1666903798815,
+  :block/updated-at 1666903798815}
+ {:block/name "daily-prayer-2",
+  :block/created-at 1666903798813,
+  :block/updated-at 1666903798813}
  {:block/name "daily-questions",
   :block/created-at 1665810821450,
   :block/updated-at 1665810821450}
@@ -268,6 +416,12 @@
  {:block/name "daily/journal/2022/10/13",
   :block/created-at 1665810826891,
   :block/updated-at 1665810826891}
+ {:block/name "dale-solve-problems",
+  :block/created-at 1666903798746,
+  :block/updated-at 1666903798746}
+ {:block/name "date",
+  :block/created-at 1666903799610,
+  :block/updated-at 1666903799610}
  {:block/name "dec 26th, 2020",
   :block/created-at 1666550674254,
   :block/updated-at 1666550674254}
@@ -307,12 +461,21 @@
  {:block/name "dioc of hawai'i",
   :block/created-at 1666882723984,
   :block/updated-at 1666882840052}
+ {:block/name "divide-my-money-after-death",
+  :block/created-at 1666903798812,
+  :block/updated-at 1666903798812}
  {:block/name "doing",
   :block/created-at 1665810916061,
   :block/updated-at 1665810916061}
+ {:block/name "donald-whitley",
+  :block/created-at 1666903798811,
+  :block/updated-at 1666903798811}
  {:block/name "done",
   :block/created-at 1665810916060,
   :block/updated-at 1665810916060}
+ {:block/name "early-church-pacifism",
+  :block/created-at 1666903798810,
+  :block/updated-at 1666903798810}
  {:block/name "efm",
   :block/created-at 1666099468725,
   :block/updated-at 1666099468725}
@@ -325,6 +488,21 @@
  {:block/name "emma's elegy",
   :block/created-at 1665810828154,
   :block/updated-at 1665810828154}
+ {:block/name "emma-mironichenko",
+  :block/created-at 1666903798809,
+  :block/updated-at 1666903798809}
+ {:block/name "epiphany-coup-attempt",
+  :block/created-at 1666903798808,
+  :block/updated-at 1666903798808}
+ {:block/name "etty-hillesum",
+  :block/created-at 1666903798807,
+  :block/updated-at 1666903798807}
+ {:block/name "examen-1",
+  :block/created-at 1666903798806,
+  :block/updated-at 1666903798806}
+ {:block/name "examen-week",
+  :block/created-at 1666903798797,
+  :block/updated-at 1666903798797}
  {:block/name "exercise",
   :block/created-at 1665810823495,
   :block/updated-at 1665810823495}
@@ -364,6 +542,9 @@
  {:block/name "fathers",
   :block/created-at 1665810823260,
   :block/updated-at 1666204100750}
+ {:block/name "fathers-blessing",
+  :block/created-at 1666903798794,
+  :block/updated-at 1666903798794}
  {:block/name "fathers.emma",
   :block/created-at 1665810827608,
   :block/updated-at 1665810827608}
@@ -454,6 +635,9 @@
  {:block/name "feb 9th, 2021",
   :block/created-at 1666800594968,
   :block/updated-at 1666800594968}
+ {:block/name "fellow-creatures-a-poem",
+  :block/created-at 1666903798792,
+  :block/updated-at 1666903798792}
  {:block/name "fictional meeting",
   :block/created-at 1665810833499,
   :block/updated-at 1665810833499}
@@ -463,9 +647,15 @@
  {:block/name "file-path",
   :block/created-at 1666811894335,
   :block/updated-at 1666811894335}
+ {:block/name "financial-matters-bowman",
+  :block/created-at 1666903798790,
+  :block/updated-at 1666903798790}
  {:block/name "florida",
   :block/created-at 1665810823498,
   :block/updated-at 1665810823498}
+ {:block/name "florida-floor-plan",
+  :block/created-at 1666903798789,
+  :block/updated-at 1666903798789}
  {:block/name "francis cambell gray",
   :block/created-at 1666901449411,
   :block/updated-at 1666901449411}
@@ -496,6 +686,15 @@
  {:block/name "giving",
   :block/created-at 1665810821261,
   :block/updated-at 1665810821261}
+ {:block/name "gods-hand-at-work",
+  :block/created-at 1666903798788,
+  :block/updated-at 1666903798788}
+ {:block/name "grace-buechner",
+  :block/created-at 1666903798786,
+  :block/updated-at 1666903798786}
+ {:block/name "gramma-bridget-miriam",
+  :block/created-at 1666903798784,
+  :block/updated-at 1666903798784}
  {:block/name "gun control",
   :block/created-at 1665810828031,
   :block/updated-at 1665810828031}
@@ -526,12 +725,27 @@
  {:block/name "home-church",
   :block/created-at 1665810820760,
   :block/updated-at 1665810820760}
+ {:block/name "home-liturgy",
+  :block/created-at 1666903798782,
+  :block/updated-at 1666903798782}
+ {:block/name "hosting-tiddly",
+  :block/created-at 1666903798781,
+  :block/updated-at 1666903798781}
+ {:block/name "housing-allowance",
+  :block/created-at 1666903798780,
+  :block/updated-at 1666903798780}
  {:block/name "id-imported",
   :block/created-at 1665810829351,
   :block/updated-at 1665810829351}
  {:block/name "images",
   :block/created-at 1665810821990,
   :block/updated-at 1665810821990}
+ {:block/name "importing-image",
+  :block/created-at 1666903798779,
+  :block/updated-at 1666903798779}
+ {:block/name "impossible-to-say-how-offensive-gramma-bridget",
+  :block/created-at 1666903798778,
+  :block/updated-at 1666903798778}
  {:block/name "in-progress",
   :block/created-at 1665810916060,
   :block/updated-at 1665810916060}
@@ -697,6 +911,9 @@
  {:block/name "kids",
   :block/created-at 1665810823036,
   :block/updated-at 1665810823036}
+ {:block/name "kingsolvers-appalachian-elegy",
+  :block/created-at 1666903798834,
+  :block/updated-at 1666903798834}
  {:block/name "later",
   :block/created-at 1665810916060,
   :block/updated-at 1665810916060}
@@ -709,12 +926,24 @@
  {:block/name "linda serepca",
   :block/created-at 1665810831492,
   :block/updated-at 1665810831492}
+ {:block/name "link files']",
+  :block/created-at 1666903803016,
+  :block/updated-at 1666903803016}
  {:block/name "logseq",
   :block/created-at 1666883737281,
   :block/updated-at 1666883737281}
+ {:block/name "lost-in-grief",
+  :block/created-at 1666903798774,
+  :block/updated-at 1666903798774}
+ {:block/name "lost-is-a-place",
+  :block/created-at 1666903798775,
+  :block/updated-at 1666903798775}
  {:block/name "lydia",
   :block/created-at 1665810822840,
   :block/updated-at 1665810822840}
+ {:block/name "lydia-birth",
+  :block/created-at 1666903798773,
+  :block/updated-at 1666903798773}
  {:block/name "lydias wedding",
   :block/created-at 1665810827491,
   :block/updated-at 1665810827491}
@@ -790,6 +1019,12 @@
  {:block/name "markdown",
   :block/created-at 1666802304870,
   :block/updated-at 1666802304870}
+ {:block/name "martin-niemoeller",
+  :block/created-at 1666903798772,
+  :block/updated-at 1666903798772}
+ {:block/name "mary-pat-birthday-72",
+  :block/created-at 1666903798771,
+  :block/updated-at 1666903798771}
  {:block/name "marypat",
   :block/created-at 1665810823491,
   :block/updated-at 1665810823491}
@@ -856,6 +1091,9 @@
  {:block/name "miriam",
   :block/created-at 1665810820971,
   :block/updated-at 1665810820971}
+ {:block/name "miriam-letter",
+  :block/created-at 1666903798770,
+  :block/updated-at 1666903798770}
  {:block/name "modification-date",
   :block/created-at 1665810833439,
   :block/updated-at 1665810833439}
@@ -880,6 +1118,9 @@
  {:block/name "music",
   :block/created-at 1665810822923,
   :block/updated-at 1665810822923}
+ {:block/name "nc-diocese-info",
+  :block/created-at 1666903798769,
+  :block/updated-at 1666903798769}
  {:block/name "ng doing",
   :block/created-at 1665810828827,
   :block/updated-at 1665810828827}
@@ -916,6 +1157,9 @@
  {:block/name "obsidian",
   :block/created-at 1666558898021,
   :block/updated-at 1666558898021}
+ {:block/name "obsidian-notes",
+  :block/created-at 1666903798768,
+  :block/updated-at 1666903798768}
  {:block/name "oct 11th, 2022",
   :block/created-at 1665810819362,
   :block/updated-at 1666099525140}
@@ -982,6 +1226,15 @@
  {:block/name "odonohue-response",
   :block/created-at 1665810821508,
   :block/updated-at 1665810821508}
+ {:block/name "offensive-gramma-bridget-photo",
+  :block/created-at 1666903798833,
+  :block/updated-at 1666903798833}
+ {:block/name "outlander-song-of-skye",
+  :block/created-at 1666903798763,
+  :block/updated-at 1666903798763}
+ {:block/name "pcloud-public-folder",
+  :block/created-at 1666903798762,
+  :block/updated-at 1666903798762}
  {:block/name "personality",
   :block/created-at 1665810829520,
   :block/updated-at 1665810829520}
@@ -991,15 +1244,33 @@
  {:block/name "peter judge",
   :block/created-at 1665810829545,
   :block/updated-at 1665810829545}
+ {:block/name "planning-st-pauls",
+  :block/created-at 1666903798761,
+  :block/updated-at 1666903798761}
+ {:block/name "poem-72",
+  :block/created-at 1666903798759,
+  :block/updated-at 1666903798759}
+ {:block/name "possible-lenten-prayer-texts",
+  :block/created-at 1666903798758,
+  :block/updated-at 1666903798758}
+ {:block/name "presence-of-god",
+  :block/created-at 1666903798738,
+  :block/updated-at 1666903798738}
  {:block/name "problem solving",
   :block/created-at 1665810819976,
   :block/updated-at 1665810819976}
  {:block/name "proper 20",
   :block/created-at 1665810830838,
   :block/updated-at 1665810830838}
+ {:block/name "quote-feed-script",
+  :block/created-at 1666903798756,
+  :block/updated-at 1666903798756}
  {:block/name "quotes",
   :block/created-at 1665810821525,
   :block/updated-at 1665810821525}
+ {:block/name "racism-as-caste",
+  :block/created-at 1666903798755,
+  :block/updated-at 1666903798755}
  {:block/name "random quote",
   :block/created-at 1665810832251,
   :block/updated-at 1665810832251}
@@ -1009,6 +1280,12 @@
  {:block/name "readme",
   :block/created-at 1665810831008,
   :block/updated-at 1665810831008}
+ {:block/name "reflection-6-19",
+  :block/created-at 1666903798810,
+  :block/updated-at 1666903798810}
+ {:block/name "regret",
+  :block/created-at 1666903798754,
+  :block/updated-at 1666903798754}
  {:block/name "relativism",
   :block/created-at 1665810829400,
   :block/updated-at 1665810829400}
@@ -1018,9 +1295,24 @@
  {:block/name "retirement",
   :block/created-at 1665810822484,
   :block/updated-at 1665810822484}
+ {:block/name "return-the-chalice",
+  :block/created-at 1666903798753,
+  :block/updated-at 1666903798753}
+ {:block/name "roam-like-notes",
+  :block/created-at 1666903798765,
+  :block/updated-at 1666903798765}
+ {:block/name "roam-like-notes 1",
+  :block/created-at 1666903798751,
+  :block/updated-at 1666903798751}
  {:block/name "root",
   :block/created-at 1665810821736,
   :block/updated-at 1665810821736}
+ {:block/name "roy-jansen",
+  :block/created-at 1666903798749,
+  :block/updated-at 1666903798749}
+ {:block/name "rules-for-cleaning",
+  :block/created-at 1666903798748,
+  :block/updated-at 1666903798748}
  {:block/name "russian invasion ukraine",
   :block/created-at 1665810831292,
   :block/updated-at 1665810831292}
@@ -1033,6 +1325,9 @@
  {:block/name "sean",
   :block/created-at 1665810819908,
   :block/updated-at 1665810819908}
+ {:block/name "sean-willing-to-give-up-question",
+  :block/created-at 1666903798718,
+  :block/updated-at 1666903798718}
  {:block/name "sep 5th, 2022",
   :block/created-at 1665810821375,
   :block/updated-at 1665810821375}
@@ -1066,12 +1361,21 @@
  {:block/name "spiritual-director.suzanne-morris",
   :block/created-at 1665810831534,
   :block/updated-at 1665810831534}
+ {:block/name "st-pauls-planning",
+  :block/created-at 1666903798741,
+  :block/updated-at 1666903798741}
+ {:block/name "st-pauls-visioning",
+  :block/created-at 1666903798744,
+  :block/updated-at 1666903798744}
  {:block/name "st. alfred's",
   :block/created-at 1666194506059,
   :block/updated-at 1666194506059}
  {:block/name "suzanne morris",
   :block/created-at 1665810831611,
   :block/updated-at 1665810831611}
+ {:block/name "tableofcontents']",
+  :block/created-at 1666903801126,
+  :block/updated-at 1666903801126}
  {:block/name "tai chi outline",
   :block/created-at 1665810831673,
   :block/updated-at 1665810831673}
@@ -1090,6 +1394,9 @@
  {:block/name "tai-chi-outline/journal/2022/09/18",
   :block/created-at 1665810831629,
   :block/updated-at 1665810831629}
+ {:block/name "taxes']",
+  :block/created-at 1666903803253,
+  :block/updated-at 1666903803253}
  {:block/name "templates daily",
   :block/created-at 1665810829238,
   :block/updated-at 1665810829238}
@@ -1114,15 +1421,30 @@
  {:block/name "things i know",
   :block/created-at 1665810821289,
   :block/updated-at 1665810821289}
+ {:block/name "things-i-know",
+  :block/created-at 1666903798830,
+  :block/updated-at 1666903798830}
  {:block/name "this is a test",
   :block/created-at 1666560036531,
   :block/updated-at 1666560036531}
+ {:block/name "tiddly-table-contents",
+  :block/created-at 1666903798740,
+  :block/updated-at 1666903798740}
+ {:block/name "tiddlywiki-about",
+  :block/created-at 1666903798736,
+  :block/updated-at 1666903798736}
  {:block/name "tim vail",
   :block/created-at 1665810832619,
   :block/updated-at 1665810832619}
  {:block/name "tim-vail",
   :block/created-at 1665810822606,
   :block/updated-at 1665810822606}
+ {:block/name "time-of-the-magicians",
+  :block/created-at 1666903798732,
+  :block/updated-at 1666903798732}
+ {:block/name "time-travel",
+  :block/created-at 1666903798734,
+  :block/updated-at 1666903798734}
  {:block/name "timeline-emma",
   :block/created-at 1665810827366,
   :block/updated-at 1665810827366}
@@ -1132,12 +1454,18 @@
  {:block/name "title-imported",
   :block/created-at 1665810829356,
   :block/updated-at 1665810829356}
+ {:block/name "to-linda-thankyou",
+  :block/created-at 1666903798776,
+  :block/updated-at 1666903798776}
  {:block/name "todo",
   :block/created-at 1665810916061,
   :block/updated-at 1665810916061}
  {:block/name "totalsteps",
   :block/created-at 1665810829344,
   :block/updated-at 1665810829344}
+ {:block/name "trust",
+  :block/created-at 1666903798724,
+  :block/updated-at 1666903798724}
  {:block/name "tutorial",
   :block/created-at 1665810829359,
   :block/updated-at 1665810829359}
@@ -1153,6 +1481,9 @@
  {:block/name "updated-imported",
   :block/created-at 1665810829352,
   :block/updated-at 1665810829352}
+ {:block/name "values-of-society",
+  :block/created-at 1666903798721,
+  :block/updated-at 1666903798721}
  {:block/name "vs code",
   :block/created-at 1665810832952,
   :block/updated-at 1665810832952}
@@ -1165,9 +1496,22 @@
  {:block/name "waiting",
   :block/created-at 1665810916059,
   :block/updated-at 1665810916059}
+ {:block/name "warren-buffet-guide",
+  :block/created-at 1666903798719,
+  :block/updated-at 1666903798719}
  {:block/name "wastepro",
   :block/created-at 1666384182761,
   :block/updated-at 1666384262702}
+ {:block/name "weekly link |http:",
+  :block/created-at 1666903805686,
+  :block/updated-at 1666903805686}
+ {:block/name "weekly link |http://r20.rs6.net",
+  :block/created-at 1666903805688,
+  :block/updated-at 1666903805688}
+ {:block/name
+  "weekly link |http://r20.rs6.net/tn.jsp?f=001eiznetplr_tzzhrfomlnhdyabk2eutgzmjgsiz8cofhv2vf0umge32sbpl2dwock2q-qrclxa49l3no994vlosk4-awcw6rjgybeidllp_jauclny4cdptlzyrfmtnxsvb1cfc3ogsbzqfmpiqalo6w0mwvjq9tlyxjlzhb48r6p6ggzbc6l1a==&c=c6wqdtguip-dc2lu8b0sev8pu-bgqljooa58liebkwjv5pxrjuf41q==&ch=pnm5j4i9imbvs2hjbpzufoh3jg-3qmfzbxlsddihuupkem9ciowuea==",
+  :block/created-at 1666903805674,
+  :block/updated-at 1666903805674}
  {:block/name "what is love",
   :block/created-at 1665810820975,
   :block/updated-at 1665810820975}
@@ -1196,6 +1540,9 @@
  {:block/name "words",
   :block/created-at 1665810821689,
   :block/updated-at 1665810821689}
+ {:block/name "working-with-tiddly",
+  :block/created-at 1666903798760,
+  :block/updated-at 1666903798760}
  {:block/name "writing",
   :block/created-at 1665810823302,
   :block/updated-at 1665810823302}
@@ -1203,5 +1550,8 @@
   :block/created-at 1665810832315,
   :block/updated-at 1665810832315}
  {:block/name "yesterday's",
-  :block/created-at 1665810822604, 
-  :block/updated-at 1665810822604}]
+  :block/created-at 1665810822604,
+  :block/updated-at 1665810822604}
+ {:block/name "zettlr",
+  :block/created-at 1666903798715, 
+  :block/updated-at 1666903798715}]
