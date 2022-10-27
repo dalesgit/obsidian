@@ -1,3 +1,4 @@
+id:: hprm4ntst4uy01se33soh50
 ---
 id: hprm4ntst4uy01se33soh50
 title: Helen Macdonald
@@ -12,7 +13,7 @@ author: Maria Popova
 created_imported: '2022-07-10T06:50:47 (UTC -04:00)'
 ---
 
-[[helen-macdonald]]
+[[helen-macdonald]] #healing
 
 # H Is for Hawk: Helen Macdonald on Love, Loss, Time, and Our Improbable Allies in Healing – The Marginalian
 
