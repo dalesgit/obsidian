@@ -1,0 +1,1 @@
+- I feel both close and alienated. I would never willingly serve under +Bob. But then rarely do we get a choice in our authorities.
