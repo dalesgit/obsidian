@@ -78,7 +78,7 @@
   :block/updated-at 1666557872700}
  {:block/name "2021-wiki",
   :block/created-at 1666561618542,
-  :block/updated-at 1666905232587}
+  :block/updated-at 1666906558438}
  {:block/name "2022-09-20|notes.journal.2022.09.20",
   :block/created-at 1665810829129,
   :block/updated-at 1665810829129}
@@ -220,21 +220,48 @@
  {:block/name "attendees",
   :block/created-at 1665810832098,
   :block/updated-at 1665810832098}
+ {:block/name "aug 12th, 2021",
+  :block/created-at 1666906342107,
+  :block/updated-at 1666906342107}
  {:block/name "aug 13th, 2022",
   :block/created-at 1665810821324,
   :block/updated-at 1665810821324}
+ {:block/name "aug 15th, 2021",
+  :block/created-at 1666906360682,
+  :block/updated-at 1666906360682}
+ {:block/name "aug 20th, 2021",
+  :block/created-at 1666906373735,
+  :block/updated-at 1666906373735}
  {:block/name "aug 26th, 2022",
   :block/created-at 1665810821349,
   :block/updated-at 1665810821349}
+ {:block/name "aug 27th, 2021",
+  :block/created-at 1666906385108,
+  :block/updated-at 1666906385108}
+ {:block/name "aug 29th, 2021",
+  :block/created-at 1666906397684,
+  :block/updated-at 1666906397684}
+ {:block/name "aug 2nd, 2021",
+  :block/created-at 1666906303008,
+  :block/updated-at 1666906303008}
  {:block/name "aug 2nd, 2022",
   :block/created-at 1665810821165,
   :block/updated-at 1665810821165}
+ {:block/name "aug 31st, 2021",
+  :block/created-at 1666906411998,
+  :block/updated-at 1666906411998}
+ {:block/name "aug 3rd, 2021",
+  :block/created-at 1666906316218,
+  :block/updated-at 1666906316218}
  {:block/name "aug 3rd, 2022",
   :block/created-at 1665810821196,
   :block/updated-at 1665810821196}
  {:block/name "aug 6th, 2022",
   :block/created-at 1665810821262,
   :block/updated-at 1665810821262}
+ {:block/name "aug 7th, 2021",
+  :block/created-at 1666906329872,
+  :block/updated-at 1666906329872}
  {:block/name "aug 7th, 2022",
   :block/created-at 1665810821293,
   :block/updated-at 1665810821293}
@@ -884,6 +911,9 @@
  {:block/name "journal",
   :block/created-at 1665810826947,
   :block/updated-at 1665810826947}
+ {:block/name "jul 10th, 2021",
+  :block/created-at 1666906113050,
+  :block/updated-at 1666906113050}
  {:block/name "jul 10th, 2022",
   :block/created-at 1665810820934,
   :block/updated-at 1665810820934}
@@ -893,21 +923,57 @@
  {:block/name "jul 13th, 2022",
   :block/created-at 1665810821026,
   :block/updated-at 1665810821026}
+ {:block/name "jul 14th, 2021",
+  :block/created-at 1666906138016,
+  :block/updated-at 1666906138016}
  {:block/name "jul 14th, 2022",
   :block/created-at 1665810821068,
   :block/updated-at 1665810821068}
+ {:block/name "jul 15th, 2021",
+  :block/created-at 1666906153831,
+  :block/updated-at 1666906153831}
+ {:block/name "jul 17th, 2021",
+  :block/created-at 1666906170069,
+  :block/updated-at 1666906170069}
  {:block/name "jul 17th, 2022",
   :block/created-at 1665810821093,
   :block/updated-at 1665810821093}
+ {:block/name "jul 1st, 2021",
+  :block/created-at 1666906062074,
+  :block/updated-at 1666906062074}
+ {:block/name "jul 21st, 2021",
+  :block/created-at 1666906185884,
+  :block/updated-at 1666906185884}
+ {:block/name "jul 22nd, 2021",
+  :block/created-at 1666906203127,
+  :block/updated-at 1666906203127}
  {:block/name "jul 23rd, 2022",
   :block/created-at 1665810821123,
   :block/updated-at 1665810821123}
+ {:block/name "jul 26th, 2021",
+  :block/created-at 1666906222848,
+  :block/updated-at 1666906222848}
+ {:block/name "jul 28th, 2021",
+  :block/created-at 1666906238860,
+  :block/updated-at 1666906238860}
+ {:block/name "jul 29th, 2021",
+  :block/created-at 1666906252036,
+  :block/updated-at 1666906252036}
+ {:block/name "jul 31st, 2021",
+  :block/created-at 1666906265422,
+  :block/updated-at 1666906265422}
+ {:block/name "jul 3rd, 2021",
+  :block/created-at 1666906077359,
+  :block/updated-at 1666906077359}
  {:block/name "jul 3rd, 2022",
   :block/created-at 1665810820761,
   :block/updated-at 1665810820761}
  {:block/name "jul 5th, 2022",
   :block/created-at 1665810820795,
   :block/updated-at 1665810820795}
+ {:block/name "jul 6th, 2021",
+  :block/created-at 1666906096717,
+  :block/updated-at 1666906096717}
  {:block/name "jul 6th, 2022",
   :block/created-at 1665810820824,
   :block/updated-at 1665810820824}
@@ -1466,9 +1532,24 @@
  {:block/name "sean-willing-to-give-up-question",
   :block/created-at 1666903798718,
   :block/updated-at 1666903798718}
+ {:block/name "sep 10th, 2021",
+  :block/created-at 1666906502865,
+  :block/updated-at 1666906502865}
+ {:block/name "sep 1st, 2021",
+  :block/created-at 1666906439876,
+  :block/updated-at 1666906439876}
+ {:block/name "sep 4th, 2021",
+  :block/created-at 1666906453269,
+  :block/updated-at 1666906453269}
  {:block/name "sep 5th, 2022",
   :block/created-at 1665810821375,
   :block/updated-at 1665810821375}
+ {:block/name "sep 6th, 2021",
+  :block/created-at 1666906475077,
+  :block/updated-at 1666906475077}
+ {:block/name "sep 8th, 2021",
+  :block/created-at 1666906490139,
+  :block/updated-at 1666906490139}
  {:block/name "shirley",
   :block/created-at 1665810819737,
   :block/updated-at 1665810819737}
