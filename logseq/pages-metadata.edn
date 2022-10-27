@@ -703,6 +703,9 @@
  {:block/name "linda serepca",
   :block/created-at 1665810831492,
   :block/updated-at 1665810831492}
+ {:block/name "logseq",
+  :block/created-at 1666883737281,
+  :block/updated-at 1666883737281}
  {:block/name "lydia",
   :block/created-at 1665810822840,
   :block/updated-at 1665810822840}
@@ -948,7 +951,7 @@
   :block/updated-at 1666882950754}
  {:block/name "oct 27th, 2022",
   :block/created-at 1666871266297,
-  :block/updated-at 1666883289661}
+  :block/updated-at 1666883737283}
  {:block/name "oct 28th, 2022",
   :block/created-at 1666817657857,
   :block/updated-at 1666817657857}
