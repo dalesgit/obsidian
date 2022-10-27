@@ -871,9 +871,6 @@
  {:block/name "notes",
   :block/created-at 1665810821490,
   :block/updated-at 1665810821490}
- {:block/name "notes.tutorial",
-  :block/created-at 1665810829334,
-  :block/updated-at 1665810829334}
  {:block/name "notes/daily-journal-2022-09-15",
   :block/created-at 1665810829005,
   :block/updated-at 1665810829005}
