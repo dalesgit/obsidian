@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "f1ebbc4ec8fb94f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b55156a797848d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88b09e8bc17b2801",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "all-rest-wiki-ed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "856e34ab38c0e8c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fce682055907da4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3398543574238bcf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "a49fc89b150aec2e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac3361f53bacf1d4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "36b709a5af56c010",
+    "type": "split",
+    "children": [
+      {
+        "id": "22ca4cffc358beac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dc5e601b7e233d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "all-rest-wiki-ed.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6bad11e56dc5f046",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "all-rest-wiki-ed.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae6ea7f584dba568",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "990eff3c74cc5cb6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "all-rest-wiki-ed.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "88b09e8bc17b2801",
+  "lastOpenFiles": [
+    "grace-buechner.md",
+    "bi-directional-linking.md",
+    "sean-willing-to-give-up-question.md",
+    "all-rest-wiki-ed.md",
+    "florida-floor-plan.md",
+    "fathers-blessing.md",
+    "daily-prayer-2.md",
+    "daily-prayer.md"
+  ]
+}
