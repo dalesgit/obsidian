@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2022_10_25.md",
+                "file": "journals/2022_10_28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f691fa9e4dcb64ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/dioc of Hawai'i.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2022_10_25.md",
+                "file": "pages/dioc of Hawai'i.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2022_10_25.md",
+                "file": "pages/dioc of Hawai'i.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2022_10_25.md"
+                "file": "pages/dioc of Hawai'i.md"
               }
             }
           }
@@ -143,20 +156,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "fb10757f6d13e9fa",
+  "active": "f691fa9e4dcb64ec",
   "lastOpenFiles": [
+    "journals/2022_10_27.md",
+    "journals/2022_10_28.md",
+    "journals/2022_10_26.md",
+    "journals/2022_10_25.md",
     "journals/2022_10_24.md",
     "2021-01-09.md",
     "pages/2021-wiki.md",
     "2021-01-01.md",
     "2021-01-08.md",
-    "2021-01-02.md",
-    "journals/2022_10_23.md",
-    "logseq/bak/2022-10-11/2022-10-19T13_38_20.286Z.Desktop.md",
-    "pages/2020-wiki.md",
-    "2020_12_27.md"
+    "2021-01-02.md"
   ]
 }
