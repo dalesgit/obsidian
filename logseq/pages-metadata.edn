@@ -788,6 +788,9 @@
  {:block/name "health protocols",
   :block/created-at 1666480424553,
   :block/updated-at 1666480553550}
+ {:block/name "hearing aids",
+  :block/created-at 1666974110082,
+  :block/updated-at 1666974110082}
  {:block/name "helen-macdonald",
   :block/created-at 1665810828288,
   :block/updated-at 1665810828288}
@@ -1435,13 +1438,13 @@
   :block/updated-at 1666615081391}
  {:block/name "oct 26th, 2022",
   :block/created-at 1666791570885,
-  :block/updated-at 1666882950754}
+  :block/updated-at 1666973824876}
  {:block/name "oct 27th, 2022",
   :block/created-at 1666871266297,
   :block/updated-at 1666902656892}
  {:block/name "oct 28th, 2022",
   :block/created-at 1666817657857,
-  :block/updated-at 1666817657857}
+  :block/updated-at 1666974164485}
  {:block/name "oct 29th, 2021",
   :block/created-at 1666906790379,
   :block/updated-at 1666906790379}
