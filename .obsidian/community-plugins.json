@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "obsidian-outliner",
-  "templater-obsidian"
+  "templater-obsidian",
+  "calendar",
+  "note-refactor-obsidian"
 ]
