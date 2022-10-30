@@ -1,2 +1,3 @@
 - What inspires?
 	- Do the martyrs to the Mohawks (Black Robes -- Jesuits)?
+- [[Visioning at St. Alfred's]]
