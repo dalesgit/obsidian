@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "ba4e65c0577ed087",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/2022_10_30.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "15f21683f4d551c4",
             "type": "leaf",
             "state": {
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/dioc of Hawai'i.md",
+                "file": "journals/2022_10_30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/dioc of Hawai'i.md",
+                "file": "journals/2022_10_30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/dioc of Hawai'i.md"
+                "file": "journals/2022_10_30.md"
               }
             }
           }
@@ -156,7 +168,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f691fa9e4dcb64ec",
+  "active": "ba4e65c0577ed087",
   "lastOpenFiles": [
     "journals/2022_10_27.md",
     "journals/2022_10_28.md",
