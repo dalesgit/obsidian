@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/spiritual-director.linda-serepca.md",
+                "file": "pages/['MyChildren'].md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f43e197347c9f518",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Emma.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SpiritualDirection",
+                "query": "Miriam",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/spiritual-director.linda-serepca.md",
+                "file": "pages/Emma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/spiritual-director.linda-serepca.md",
+                "file": "pages/Emma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/spiritual-director.linda-serepca.md"
+                "file": "pages/Emma.md"
               }
             }
           },
@@ -150,23 +163,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 382.5
   },
-  "active": "0c3ec7ba1c10df89",
+  "active": "aef57d846be5c49e",
   "lastOpenFiles": [
+    "pages/['MyChildren'].md",
+    "journals/2021_04_05.md",
+    "pages/Lydia.md",
+    "pages/Miriam.md",
+    "journals/2022_10_31.md",
     "notes/tiddly-notes/to-linda-thankyou.md",
     "pages/spiritual-director.md",
     "notes/tiddly-notes/lost-is-a-place.md",
-    "pages/['MyChildren'].md",
-    "journals/2022_10_31.md",
     "journals/2022_10_30.md",
-    "notes/tiddly-notes/tiddlywiki-about.md",
-    "notes/tiddly-notes/hosting-tiddly.md",
-    "pages/timeshare.md",
-    "notes/tiddly-notes/tiddly-table-contents.md"
+    "notes/tiddly-notes/tiddlywiki-about.md"
   ]
 }
