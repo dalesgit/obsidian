@@ -1,0 +1,24 @@
+
+---
+title: 'EpiphanyCoupAttempt'
+date: '2021-01-11T11:41:49.917Z'
+tags: ['2021 / 01 / 08 / 11:33:16 /,ValuesofSociety']
+---
+
+<!-- Exported from TiddlyWiki at 19:18, 22nd October 2022 -->
+
+# EpiphanyCoupAttempt
+
+You may well have seen the response of the Presiding Bishop. It's unlikely that you would have seen my bishop's letter. Both of these are really very sound and words to be heard by the church. Blessings to you in your difficult responsibilities.
+
+[+ Bob (Hawaii)](http://r20.rs6.net/tn.jsp?f=001z7IJMXYlb6AZ79NW5_KLyRo0ydXuJcXc-MfEXhsNCkf5uLA0-lSBe7_zGjjYtCMlerXlfarOK9mnwwXRB55APTrzJSpbJRTBjnq2KiBehdQkDBbda-zUpdYs7nNrvbIKfOi2f5yaz0HJEnt71WC0ZoI9A6gZtE0oO2cFFfsJu4d3JtUZQmVKeJZUnpqNA9NxF4JL5mDG4gdQ3NZhIk2gl1uodunZRA2zOa4-Oqrz8rY=&c=G8nERXnI_TrK2gUEorCoU-WdJeMgtXhUFtJwjDh665Va9CbAD_81Tg==&ch=zp6T5h-iCFjd6x24XpQM7uWxYJGaTPr4aYWyDAICXcOwd-h9m2zNgw==)
+
+[Bp. Curry](http://r20.rs6.net/tn.jsp?f=001z7IJMXYlb6AZ79NW5_KLyRo0ydXuJcXc-MfEXhsNCkf5uLA0-lSBe7_zGjjYtCMl47c4mo62WipxL-Wq-5NeTNkZjAyzpot-6uCtda1MigeRjINNSelPpYRzNoDIF5mfDb_xyGHJbryD4ea7J0-PY0EK9UmLwtIeJkksBm96WI5grj5AkbssVUEN89jkVLY1ZePmQDrHJSUzrJIzGe5auh_xyC6Qk_3gMZ_7YQG3dShDhpBJPP7rNczYj7pkT4ZgxTSW5V4PbOp-KO3hppqt8g==&c=G8nERXnI_TrK2gUEorCoU-WdJeMgtXhUFtJwjDh665Va9CbAD_81Tg==&ch=zp6T5h-iCFjd6x24XpQM7uWxYJGaTPr4aYWyDAICXcOwd-h9m2zNgw==)
+
+Faithfully,
+Dale
+
+To see a World in a Grain of Sand
+And a Heaven in a Wild Flower
+Hold Infinity in the palm of your hand
+And Eternity in an hour (Blake)
