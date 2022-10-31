@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Visioning at St. Alfred.md",
+                "file": "journals/2022_10_30.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 234.50000381469727
   },
   "right": {
     "id": "789b306ea1af336e",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Visioning at St. Alfred.md",
+                "file": "journals/2022_10_30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Visioning at St. Alfred.md",
+                "file": "journals/2022_10_30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Visioning at St. Alfred.md"
+                "file": "journals/2022_10_30.md"
               }
             }
           },
@@ -151,23 +151,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 399.5
   },
   "active": "5b5239eb743489f6",
   "lastOpenFiles": [
+    "pages/Visioning at St. Alfred.md",
     "journals/2022_10_29.md",
-    "Visioning at St/ Alfred.md",
     "journals/2022_10_28.md",
     "journals/2022_10_30.md",
+    "Visioning at St/ Alfred.md",
     "Visioning at St. Alfred's.md",
     "pages/church.md",
     "journals/2022_10_27.md",
     "journals/2022_10_26.md",
-    "journals/2022_10_25.md",
-    "journals/2022_10_24.md"
+    "journals/2022_10_25.md"
   ]
 }
