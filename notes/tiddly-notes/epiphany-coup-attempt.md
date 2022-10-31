@@ -2,7 +2,7 @@
 ---
 title: 'EpiphanyCoupAttempt'
 date: '2021-01-11T11:41:49.917Z'
-tags: ['2021 / 01 / 08 / 11:33:16 /,ValuesofSociety']
+tags: ['ValuesofSociety']
 ---
 
 <!-- Exported from TiddlyWiki at 19:18, 22nd October 2022 -->

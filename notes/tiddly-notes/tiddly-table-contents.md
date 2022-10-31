@@ -2,7 +2,7 @@
 ---
 title: 'TableOfContents'
 date: '2021-03-23T03:13:55.327Z'
-tags: ['$:/tags/SideBar']
+tags: ['/tags/SideBar']
 ---
 
 <!-- Exported from TiddlyWiki at 19:18, 22nd October 2022 -->

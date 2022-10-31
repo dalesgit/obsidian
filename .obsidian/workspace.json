@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Visioning at St. Alfred.md",
+                "file": "notes/tiddly-notes/hosting-tiddly.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#PostModern",
+                "query": "tag:#WorkingWithTiddly",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Visioning at St. Alfred.md",
+                "file": "notes/tiddly-notes/hosting-tiddly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Visioning at St. Alfred.md",
+                "file": "notes/tiddly-notes/hosting-tiddly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2022_10_30.md"
+                "file": "notes/tiddly-notes/hosting-tiddly.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -160,18 +160,15 @@
   },
   "active": "5b5239eb743489f6",
   "lastOpenFiles": [
-    "journals/2022_10_30.md",
-    "pages/Visioning at St. Alfred.md",
+    "notes/tiddly-notes/tiddlywiki-about.md",
+    "notes/tiddly-notes/hosting-tiddly.md",
+    "pages/timeshare.md",
+    "notes/tiddly-notes/tiddly-table-contents.md",
+    "notes/tiddly-notes/epiphany-coup-attempt.md",
+    "notes/tiddly-notes/racism-as-caste.md",
+    "notes/tiddly-notes/time-of-the-magicians.md",
+    "journals/2022_10_31.md",
     "journals/2022_10_29.md",
-    "journals/2022_10_28.md",
-    "Visioning at St/ Alfred.md",
-    "journals/2022_10_28.md",
-    "journals/2022_10_30.md",
-    "Visioning at St. Alfred's.md",
-    "pages/church.md",
-    "journals/2022_10_27.md",
-    "journals/2022_10_26.md",
-    "journals/2022_10_25.md",
-    "journals/2022_10_24.md"
+    "pages/visioning-st-alfreds.md"
   ]
 }
