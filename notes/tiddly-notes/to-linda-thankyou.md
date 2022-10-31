@@ -7,7 +7,7 @@ tags: ['SpiritualDirection']
 
 <!-- Exported from TiddlyWiki at 19:18, 22nd October 2022 -->
 
-# Linda Serepca
+# Linda Serepca [[spiritual-director.linda-serepca]]
 
 1/11
 

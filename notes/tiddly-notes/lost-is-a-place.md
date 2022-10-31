@@ -9,7 +9,7 @@ tags: ['SpiritualDirection']
 
 # Lost is a place, too
 
-SpiritualDirection
+SpiritualDirection [[spiritual-director]]
 
 The below is from Linda Serepca (Charlotte Spiritual Direction). I feel so grateful to her for finding the trajectory of spiritual narrative in my fractured hesitant life. The context is that I feel "lost to myself" as I said the last session. Some months ago I reported that I was struggling to know **my place in the universe**.
 
