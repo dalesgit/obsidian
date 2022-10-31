@@ -39,7 +39,7 @@
   :block/updated-at 1666903801130}
  {:block/name "'floorplan.png'",
   :block/created-at 1666903801891,
-  :block/updated-at 1667212652740}
+  :block/updated-at 1666903801891}
  {:block/name "'god's-hand'",
   :block/created-at 1666903801939,
   :block/updated-at 1666903801939}
@@ -48,7 +48,7 @@
   :block/updated-at 1666903802076}
  {:block/name "'grammabridget'",
   :block/created-at 1666903803019,
-  :block/updated-at 1667212548631}
+  :block/updated-at 1666903803019}
  {:block/name "'hostingtiddly'",
   :block/created-at 1666903803212,
   :block/updated-at 1666903803212}
@@ -61,6 +61,9 @@
  {:block/name "'martin niemoeller'",
   :block/created-at 1666903805153,
   :block/updated-at 1666903805153}
+ {:block/name "'s",
+  :block/created-at 1667183519012,
+  :block/updated-at 1667183519012}
  {:block/name "+dabney",
   :block/created-at 1666202707138,
   :block/updated-at 1666206197913}
@@ -79,9 +82,135 @@
  {:block/name "2021-wiki",
   :block/created-at 1666561618542,
   :block/updated-at 1666907034293}
- {:block/name "2022-09-20|notes.journal.2022.09.20",
-  :block/created-at 1665810829129,
-  :block/updated-at 1665810829129}
+ {:block/name "2022-09-20_notes.journal.2022.09.20",
+  :block/created-at 1667183543579,
+  :block/updated-at 1667183543579}
+ {:block/name "2022-10-19t13_38_20",
+  :block/created-at 1667183525326,
+  :block/updated-at 1667183525326}
+ {:block/name "2022-10-19t13_38_20/286z",
+  :block/created-at 1667183525328,
+  :block/updated-at 1667183525328}
+ {:block/name "2022-10-19t13_38_20/286z/desktop",
+  :block/created-at 1667183525324,
+  :block/updated-at 1667183525324}
+ {:block/name "2022-10-19t13_38_20/308z",
+  :block/created-at 1667183525411,
+  :block/updated-at 1667183525411}
+ {:block/name "2022-10-19t13_38_20/308z/desktop",
+  :block/created-at 1667183525408,
+  :block/updated-at 1667183525408}
+ {:block/name "2022-10-21t11_45_28",
+  :block/created-at 1667183525445,
+  :block/updated-at 1667183525445}
+ {:block/name "2022-10-21t11_45_28/148z",
+  :block/created-at 1667183525447,
+  :block/updated-at 1667183525447}
+ {:block/name "2022-10-21t11_45_28/148z/desktop",
+  :block/created-at 1667183525443,
+  :block/updated-at 1667183525443}
+ {:block/name "2022-10-23t18_25_27",
+  :block/created-at 1667183525623,
+  :block/updated-at 1667183525623}
+ {:block/name "2022-10-23t18_25_27/070z",
+  :block/created-at 1667183525625,
+  :block/updated-at 1667183525625}
+ {:block/name "2022-10-23t18_25_27/070z/desktop",
+  :block/created-at 1667183525621,
+  :block/updated-at 1667183525621}
+ {:block/name "2022-10-23t18_26_36",
+  :block/created-at 1667183525377,
+  :block/updated-at 1667183525377}
+ {:block/name "2022-10-23t18_26_36/648z",
+  :block/created-at 1667183525379,
+  :block/updated-at 1667183525379}
+ {:block/name "2022-10-23t18_26_36/648z/desktop",
+  :block/created-at 1667183525375,
+  :block/updated-at 1667183525375}
+ {:block/name "2022-10-23t18_44_34",
+  :block/created-at 1667183525700,
+  :block/updated-at 1667183525700}
+ {:block/name "2022-10-23t18_44_34/853z",
+  :block/created-at 1667183525702,
+  :block/updated-at 1667183525702}
+ {:block/name "2022-10-23t18_44_34/853z/desktop",
+  :block/created-at 1667183525699,
+  :block/updated-at 1667183525699}
+ {:block/name "2022-10-23t20_08_08",
+  :block/created-at 1667183525790,
+  :block/updated-at 1667183525790}
+ {:block/name "2022-10-23t20_08_08/589z",
+  :block/created-at 1667183525792,
+  :block/updated-at 1667183525792}
+ {:block/name "2022-10-23t20_08_08/589z/desktop",
+  :block/created-at 1667183525789,
+  :block/updated-at 1667183525789}
+ {:block/name "2022-10-23t20_43_30",
+  :block/created-at 1667183525863,
+  :block/updated-at 1667183525863}
+ {:block/name "2022-10-23t20_43_30/089z",
+  :block/created-at 1667183525865,
+  :block/updated-at 1667183525865}
+ {:block/name "2022-10-23t20_43_30/089z/desktop",
+  :block/created-at 1667183525862,
+  :block/updated-at 1667183525862}
+ {:block/name "2022-10-23t22_12_45",
+  :block/created-at 1667183527829,
+  :block/updated-at 1667183527829}
+ {:block/name "2022-10-23t22_12_45/143z",
+  :block/created-at 1667183527830,
+  :block/updated-at 1667183527830}
+ {:block/name "2022-10-23t22_12_45/143z/desktop",
+  :block/created-at 1667183527827,
+  :block/updated-at 1667183527827}
+ {:block/name "2022-10-23t22_30_33",
+  :block/created-at 1667183529972,
+  :block/updated-at 1667183529972}
+ {:block/name "2022-10-23t22_30_33/402z",
+  :block/created-at 1667183529973,
+  :block/updated-at 1667183529973}
+ {:block/name "2022-10-23t22_30_33/402z/desktop",
+  :block/created-at 1667183529970,
+  :block/updated-at 1667183529970}
+ {:block/name "2022-10-24t12_36_52",
+  :block/created-at 1667183532090,
+  :block/updated-at 1667183532090}
+ {:block/name "2022-10-24t12_36_52/180z",
+  :block/created-at 1667183532092,
+  :block/updated-at 1667183532092}
+ {:block/name "2022-10-24t12_36_52/180z/desktop",
+  :block/created-at 1667183532088,
+  :block/updated-at 1667183532088}
+ {:block/name "2022-10-25t02_38_45",
+  :block/created-at 1667183534307,
+  :block/updated-at 1667183534307}
+ {:block/name "2022-10-25t02_38_45/552z",
+  :block/created-at 1667183534308,
+  :block/updated-at 1667183534308}
+ {:block/name "2022-10-25t02_38_45/552z/desktop",
+  :block/created-at 1667183534305,
+  :block/updated-at 1667183534305}
+ {:block/name "2022-10-30t11_00_37",
+  :block/created-at 1667183525490,
+  :block/updated-at 1667183525490}
+ {:block/name "2022-10-30t11_00_37/324z",
+  :block/created-at 1667183525492,
+  :block/updated-at 1667183525492}
+ {:block/name "2022-10-30t11_00_37/324z/desktop",
+  :block/created-at 1667183525488,
+  :block/updated-at 1667183525488}
+ {:block/name "2022-10-30t12_12_41",
+  :block/created-at 1667183525531,
+  :block/updated-at 1667183525531}
+ {:block/name "2022-10-30t12_12_41/467z",
+  :block/created-at 1667183525533,
+  :block/updated-at 1667183525533}
+ {:block/name "2022-10-30t12_12_41/467z/desktop",
+  :block/created-at 1667183525529,
+  :block/updated-at 1667183525529}
+ {:block/name "2022-12-27.md",
+  :block/created-at 1667183525695,
+  :block/updated-at 1667183525695}
  {:block/name "3-things-to-focus-on",
   :block/created-at 1666903798386,
   :block/updated-at 1666903798386}
@@ -94,6 +223,9 @@
  {:block/name "['financialissues",
   :block/created-at 1666903801125,
   :block/updated-at 1666903801125}
+ {:block/name "['florida']",
+  :block/created-at 1666903801888,
+  :block/updated-at 1666903801888}
  {:block/name "['miriam",
   :block/created-at 1666903803015,
   :block/updated-at 1666903803015}

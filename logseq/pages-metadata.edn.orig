@@ -1,1521 +1,1442 @@
 [{:block/name "''speak with your life''",
-  :block/created-at 1666931920853,
-  :block/updated-at 1666931920853}
+  :block/created-at 1666903798090,
+  :block/updated-at 1666903798090}
  {:block/name "'2022'",
-  :block/created-at 1666931932475,
-  :block/updated-at 1666931932475}
+  :block/created-at 1665810826919,
+  :block/updated-at 1665810826919}
  {:block/name "'chiasm'",
-  :block/created-at 1666931921072,
-  :block/updated-at 1666931921072}
+  :block/created-at 1666903799611,
+  :block/updated-at 1666903799611}
  {:block/name "'codependency'",
-  :block/created-at 1666931921102,
-  :block/updated-at 1666931921102}
+  :block/created-at 1666903799671,
+  :block/updated-at 1666903799671}
  {:block/name "'cognitive decline'",
-  :block/created-at 1666931921154,
-  :block/updated-at 1666931921154}
+  :block/created-at 1666903799811,
+  :block/updated-at 1666903799811}
  {:block/name "'daily prayer'",
-  :block/created-at 1666931921450,
-  :block/updated-at 1666931921450}
+  :block/created-at 1666903800187,
+  :block/updated-at 1666903800187}
  {:block/name "'donald whitley'",
-  :block/created-at 1666931921563,
-  :block/updated-at 1666931921563}
+  :block/created-at 1666903800400,
+  :block/updated-at 1666903800400}
  {:block/name "'examen1'",
-  :block/created-at 1666931921729,
-  :block/updated-at 1666931921729}
+  :block/created-at 1666903800672,
+  :block/updated-at 1666903800672}
  {:block/name "'examenweek'",
-  :block/created-at 1666931921777,
-  :block/updated-at 1666931921777}
+  :block/created-at 1666903800786,
+  :block/updated-at 1666903800786}
  {:block/name "'exercise'",
-  :block/created-at 1666931921805,
-  :block/updated-at 1666931921805}
+  :block/created-at 1666903800820,
+  :block/updated-at 1666903800820}
  {:block/name "'fathers-blessing'",
-  :block/created-at 1666931921873,
-  :block/updated-at 1666931921873}
+  :block/created-at 1666903800918,
+  :block/updated-at 1666903800918}
  {:block/name "'fellow-creatures'",
-  :block/created-at 1666931921929,
-  :block/updated-at 1666931921929}
+  :block/created-at 1666903801075,
+  :block/updated-at 1666903801075}
  {:block/name "'financialissues'",
-  :block/created-at 1666931921990,
-  :block/updated-at 1666931921990}
+  :block/created-at 1666903801130,
+  :block/updated-at 1666903801130}
  {:block/name "'floorplan.png'",
-  :block/created-at 1666931922699,
-  :block/updated-at 1666931922699}
+  :block/created-at 1666903801891,
+  :block/updated-at 1666903801891}
  {:block/name "'god's-hand'",
-  :block/created-at 1666931922761,
-  :block/updated-at 1666931922761}
+  :block/created-at 1666903801939,
+  :block/updated-at 1666903801939}
  {:block/name "'grace'",
-  :block/created-at 1666931922819,
-  :block/updated-at 1666931922819}
+  :block/created-at 1666903802076,
+  :block/updated-at 1666903802076}
  {:block/name "'grammabridget'",
-  :block/created-at 1666931923755,
-  :block/updated-at 1666931923755}
+  :block/created-at 1666903803019,
+  :block/updated-at 1666903803019}
  {:block/name "'hostingtiddly'",
-  :block/created-at 1666931923839,
-  :block/updated-at 1666931923839}
+  :block/created-at 1666903803212,
+  :block/updated-at 1666903803212}
  {:block/name "'housing-allowance'",
-  :block/created-at 1666931923900,
-  :block/updated-at 1666931923900}
+  :block/created-at 1666903803256,
+  :block/updated-at 1666903803256}
  {:block/name "'lydia'",
-  :block/created-at 1666931925134,
-  :block/updated-at 1666931925134}
+  :block/created-at 1666903805102,
+  :block/updated-at 1666903805102}
  {:block/name "'martin niemoeller'",
-  :block/created-at 1666931925187,
-  :block/updated-at 1666931925187}
+  :block/created-at 1666903805153,
+  :block/updated-at 1666903805153}
+ {:block/name "'s",
+  :block/created-at 1667183519012,
+  :block/updated-at 1667183519012}
  {:block/name "+dabney",
-  :block/created-at 1666931899143,
-  :block/updated-at 1666931899143}
- {:block/name "--'[object-object]'",
-  :block/created-at 1666931939037,
-  :block/updated-at 1666931939037}
- {:block/name "--https",
-  :block/created-at 1666931930575,
-  :block/updated-at 1666931930575}
+  :block/created-at 1666202707138,
+  :block/updated-at 1666206197913}
  {:block/name "2-corinthians-10-1-12",
-  :block/created-at 1666931920848,
-  :block/updated-at 1666931920848}
+  :block/created-at 1666903798326,
+  :block/updated-at 1666903798326}
  {:block/name "2020-wiki",
-  :block/created-at 1666931898965,
-  :block/updated-at 1666931898965}
+  :block/created-at 1666548720079,
+  :block/updated-at 1666557872700}
  {:block/name "2021-wiki",
-<<<<<<< HEAD
   :block/created-at 1666561618542,
   :block/updated-at 1666907034293}
-=======
-  :block/created-at 1666931898970,
-  :block/updated-at 1666931898970}
->>>>>>> 9e0bff18737afccaafe36adc60c66b6bc9f6f912
- {:block/name "2022-09-20|notes.journal.2022.09.20",
-  :block/created-at 1666931937093,
-  :block/updated-at 1666931937093}
+ {:block/name "2022-09-20_notes.journal.2022.09.20",
+  :block/created-at 1667183543579,
+  :block/updated-at 1667183543579}
  {:block/name "2022-10-19t13_38_20",
-  :block/created-at 1666931909883,
-  :block/updated-at 1666931909883}
+  :block/created-at 1667183525326,
+  :block/updated-at 1667183525326}
  {:block/name "2022-10-19t13_38_20/286z",
-  :block/created-at 1666931909782,
-  :block/updated-at 1666931909782}
+  :block/created-at 1667183525328,
+  :block/updated-at 1667183525328}
  {:block/name "2022-10-19t13_38_20/286z/desktop",
-  :block/created-at 1666931909778,
-  :block/updated-at 1666931909778}
+  :block/created-at 1667183525324,
+  :block/updated-at 1667183525324}
  {:block/name "2022-10-19t13_38_20/308z",
-  :block/created-at 1666931909885,
-  :block/updated-at 1666931909885}
+  :block/created-at 1667183525411,
+  :block/updated-at 1667183525411}
  {:block/name "2022-10-19t13_38_20/308z/desktop",
-  :block/created-at 1666931909881,
-  :block/updated-at 1666931909881}
+  :block/created-at 1667183525408,
+  :block/updated-at 1667183525408}
  {:block/name "2022-10-21t11_45_28",
-  :block/created-at 1666931898610,
-  :block/updated-at 1666931898610}
+  :block/created-at 1667183525445,
+  :block/updated-at 1667183525445}
  {:block/name "2022-10-21t11_45_28/148z",
-  :block/created-at 1666931898612,
-  :block/updated-at 1666931898612}
+  :block/created-at 1667183525447,
+  :block/updated-at 1667183525447}
  {:block/name "2022-10-21t11_45_28/148z/desktop",
-  :block/created-at 1666931898607,
-  :block/updated-at 1666931898607}
+  :block/created-at 1667183525443,
+  :block/updated-at 1667183525443}
  {:block/name "2022-10-23t18_25_27",
-  :block/created-at 1666931910054,
-  :block/updated-at 1666931910054}
+  :block/created-at 1667183525623,
+  :block/updated-at 1667183525623}
  {:block/name "2022-10-23t18_25_27/070z",
-  :block/created-at 1666931910057,
-  :block/updated-at 1666931910057}
+  :block/created-at 1667183525625,
+  :block/updated-at 1667183525625}
  {:block/name "2022-10-23t18_25_27/070z/desktop",
-  :block/created-at 1666931910052,
-  :block/updated-at 1666931910052}
+  :block/created-at 1667183525621,
+  :block/updated-at 1667183525621}
  {:block/name "2022-10-23t18_26_36",
-  :block/created-at 1666931909851,
-  :block/updated-at 1666931909851}
+  :block/created-at 1667183525377,
+  :block/updated-at 1667183525377}
  {:block/name "2022-10-23t18_26_36/648z",
-  :block/created-at 1666931909852,
-  :block/updated-at 1666931909852}
+  :block/created-at 1667183525379,
+  :block/updated-at 1667183525379}
  {:block/name "2022-10-23t18_26_36/648z/desktop",
-  :block/created-at 1666931909846,
-  :block/updated-at 1666931909846}
+  :block/created-at 1667183525375,
+  :block/updated-at 1667183525375}
  {:block/name "2022-10-23t18_44_34",
-  :block/created-at 1666931910155,
-  :block/updated-at 1666931910155}
+  :block/created-at 1667183525700,
+  :block/updated-at 1667183525700}
  {:block/name "2022-10-23t18_44_34/853z",
-  :block/created-at 1666931910157,
-  :block/updated-at 1666931910157}
+  :block/created-at 1667183525702,
+  :block/updated-at 1667183525702}
  {:block/name "2022-10-23t18_44_34/853z/desktop",
-  :block/created-at 1666931910153,
-  :block/updated-at 1666931910153}
+  :block/created-at 1667183525699,
+  :block/updated-at 1667183525699}
  {:block/name "2022-10-23t20_08_08",
-  :block/created-at 1666931910249,
-  :block/updated-at 1666931910249}
+  :block/created-at 1667183525790,
+  :block/updated-at 1667183525790}
  {:block/name "2022-10-23t20_08_08/589z",
-  :block/created-at 1666931910250,
-  :block/updated-at 1666931910250}
+  :block/created-at 1667183525792,
+  :block/updated-at 1667183525792}
  {:block/name "2022-10-23t20_08_08/589z/desktop",
-  :block/created-at 1666931910247,
-  :block/updated-at 1666931910247}
+  :block/created-at 1667183525789,
+  :block/updated-at 1667183525789}
  {:block/name "2022-10-23t20_43_30",
-  :block/created-at 1666931910344,
-  :block/updated-at 1666931910344}
+  :block/created-at 1667183525863,
+  :block/updated-at 1667183525863}
  {:block/name "2022-10-23t20_43_30/089z",
-  :block/created-at 1666931910346,
-  :block/updated-at 1666931910346}
+  :block/created-at 1667183525865,
+  :block/updated-at 1667183525865}
  {:block/name "2022-10-23t20_43_30/089z/desktop",
-  :block/created-at 1666931910342,
-  :block/updated-at 1666931910342}
+  :block/created-at 1667183525862,
+  :block/updated-at 1667183525862}
  {:block/name "2022-10-23t22_12_45",
-  :block/created-at 1666931912777,
-  :block/updated-at 1666931912777}
+  :block/created-at 1667183527829,
+  :block/updated-at 1667183527829}
  {:block/name "2022-10-23t22_12_45/143z",
-  :block/created-at 1666931912779,
-  :block/updated-at 1666931912779}
+  :block/created-at 1667183527830,
+  :block/updated-at 1667183527830}
  {:block/name "2022-10-23t22_12_45/143z/desktop",
-  :block/created-at 1666931912775,
-  :block/updated-at 1666931912775}
+  :block/created-at 1667183527827,
+  :block/updated-at 1667183527827}
  {:block/name "2022-10-23t22_30_33",
-  :block/created-at 1666931915416,
-  :block/updated-at 1666931915416}
+  :block/created-at 1667183529972,
+  :block/updated-at 1667183529972}
  {:block/name "2022-10-23t22_30_33/402z",
-  :block/created-at 1666931915417,
-  :block/updated-at 1666931915417}
+  :block/created-at 1667183529973,
+  :block/updated-at 1667183529973}
  {:block/name "2022-10-23t22_30_33/402z/desktop",
-  :block/created-at 1666931915414,
-  :block/updated-at 1666931915414}
+  :block/created-at 1667183529970,
+  :block/updated-at 1667183529970}
  {:block/name "2022-10-24t12_36_52",
-  :block/created-at 1666931917974,
-  :block/updated-at 1666931917974}
+  :block/created-at 1667183532090,
+  :block/updated-at 1667183532090}
  {:block/name "2022-10-24t12_36_52/180z",
-  :block/created-at 1666931917975,
-  :block/updated-at 1666931917975}
+  :block/created-at 1667183532092,
+  :block/updated-at 1667183532092}
  {:block/name "2022-10-24t12_36_52/180z/desktop",
-  :block/created-at 1666931917972,
-  :block/updated-at 1666931917972}
+  :block/created-at 1667183532088,
+  :block/updated-at 1667183532088}
  {:block/name "2022-10-25t02_38_45",
-  :block/created-at 1666931920375,
-  :block/updated-at 1666931920375}
+  :block/created-at 1667183534307,
+  :block/updated-at 1667183534307}
  {:block/name "2022-10-25t02_38_45/552z",
-  :block/created-at 1666931920380,
-  :block/updated-at 1666931920380}
+  :block/created-at 1667183534308,
+  :block/updated-at 1667183534308}
  {:block/name "2022-10-25t02_38_45/552z/desktop",
-  :block/created-at 1666931920372,
-  :block/updated-at 1666931920372}
+  :block/created-at 1667183534305,
+  :block/updated-at 1667183534305}
+ {:block/name "2022-10-30t11_00_37",
+  :block/created-at 1667183525490,
+  :block/updated-at 1667183525490}
+ {:block/name "2022-10-30t11_00_37/324z",
+  :block/created-at 1667183525492,
+  :block/updated-at 1667183525492}
+ {:block/name "2022-10-30t11_00_37/324z/desktop",
+  :block/created-at 1667183525488,
+  :block/updated-at 1667183525488}
+ {:block/name "2022-10-30t12_12_41",
+  :block/created-at 1667183525531,
+  :block/updated-at 1667183525531}
+ {:block/name "2022-10-30t12_12_41/467z",
+  :block/created-at 1667183525533,
+  :block/updated-at 1667183525533}
+ {:block/name "2022-10-30t12_12_41/467z/desktop",
+  :block/created-at 1667183525529,
+  :block/updated-at 1667183525529}
  {:block/name "2022-12-27.md",
-  :block/created-at 1666931910149,
-  :block/updated-at 1666931910149}
+  :block/created-at 1667183525695,
+  :block/updated-at 1667183525695}
  {:block/name "3-things-to-focus-on",
-  :block/created-at 1666931920846,
-  :block/updated-at 1666931920846}
+  :block/created-at 1666903798386,
+  :block/updated-at 1666903798386}
  {:block/name "711",
-  :block/created-at 1666931904566,
-  :block/updated-at 1666931904566}
+  :block/created-at 1666905376280,
+  :block/updated-at 1666905376280}
  {:block/name "['blessing']",
-  :block/created-at 1666931921870,
-  :block/updated-at 1666931921870}
+  :block/created-at 1666903800916,
+  :block/updated-at 1666903800916}
  {:block/name "['financialissues",
-  :block/created-at 1666931921986,
-  :block/updated-at 1666931921986}
+  :block/created-at 1666903801125,
+  :block/updated-at 1666903801125}
  {:block/name "['florida']",
-  :block/created-at 1666931922696,
-  :block/updated-at 1666931922696}
+  :block/created-at 1666903801888,
+  :block/updated-at 1666903801888}
  {:block/name "['miriam",
-  :block/created-at 1666931923751,
-  :block/updated-at 1666931923751}
+  :block/created-at 1666903803015,
+  :block/updated-at 1666903803015}
  {:block/name "['mychildren']",
-  :block/created-at 1666931925131,
-  :block/updated-at 1666931925131}
+  :block/created-at 1666903805100,
+  :block/updated-at 1666903805100}
  {:block/name "['selfreflection']",
-  :block/created-at 1666931922816,
-  :block/updated-at 1666931922816}
+  :block/created-at 1666903799661,
+  :block/updated-at 1666903799661}
  {:block/name "['september 2021",
-  :block/created-at 1666931921926,
-  :block/updated-at 1666931921926}
+  :block/created-at 1666903801073,
+  :block/updated-at 1666903801073}
  {:block/name "['stpauls",
-  :block/created-at 1666931923896,
-  :block/updated-at 1666931923896}
+  :block/created-at 1666903803252,
+  :block/updated-at 1666903803252}
  {:block/name "['stpauls']",
-  :block/created-at 1666931922758,
-  :block/updated-at 1666931922758}
+  :block/created-at 1666903801937,
+  :block/updated-at 1666903801937}
  {:block/name "['thinkingabout']",
-  :block/created-at 1666931921447,
-  :block/updated-at 1666931921447}
+  :block/created-at 1666903800184,
+  :block/updated-at 1666903800184}
  {:block/name "['workingwithtiddly']",
-  :block/created-at 1666931923836,
-  :block/updated-at 1666931923836}
+  :block/created-at 1666903803208,
+  :block/updated-at 1666903803208}
  {:block/name "[]",
-  :block/created-at 1666931933768,
-  :block/updated-at 1666931933768}
+  :block/created-at 1665810822227,
+  :block/updated-at 1665810822227}
  {:block/name "a",
-  :block/created-at 1666931875972,
-  :block/updated-at 1666931875972}
+  :block/created-at 1665810916061,
+  :block/updated-at 1665810916061}
  {:block/name "a prayer for owen meany",
-  :block/created-at 1666931939300,
-  :block/updated-at 1666931939300}
+  :block/created-at 1665810833430,
+  :block/updated-at 1665810833430}
  {:block/name "abortion",
-  :block/created-at 1666931900495,
-  :block/updated-at 1666931900495}
+  :block/created-at 1665810823492,
+  :block/updated-at 1666099749698}
  {:block/name "acceptible-time",
-  :block/created-at 1666931920845,
-  :block/updated-at 1666931920845}
+  :block/created-at 1666903798598,
+  :block/updated-at 1666903798598}
  {:block/name "alain badiou on love",
-  :block/created-at 1666931930133,
-  :block/updated-at 1666931930133}
+  :block/created-at 1665810821926,
+  :block/updated-at 1665810821926}
  {:block/name "alain-badiou-on-love",
-  :block/created-at 1666931936009,
-  :block/updated-at 1666931936009}
+  :block/created-at 1665810828285,
+  :block/updated-at 1665810828285}
  {:block/name "all-rest-wiki-ed",
-  :block/created-at 1666931920855,
-  :block/updated-at 1666931920855}
+  :block/created-at 1666903798838,
+  :block/updated-at 1666903798838}
  {:block/name "american experiment",
-  :block/created-at 1666931930200,
-  :block/updated-at 1666931930200}
+  :block/created-at 1665810821957,
+  :block/updated-at 1665810821957}
  {:block/name "american-experiment",
-  :block/created-at 1666931900920,
-  :block/updated-at 1666931900920}
+  :block/created-at 1665810822806,
+  :block/updated-at 1665810822806}
  {:block/name "apr 10th, 2021",
-  :block/created-at 1666931905738,
-  :block/updated-at 1666931905738}
+  :block/created-at 1666904271634,
+  :block/updated-at 1666904271634}
  {:block/name "apr 11th, 2021",
-  :block/created-at 1666931905706,
-  :block/updated-at 1666931905706}
+  :block/created-at 1666904287276,
+  :block/updated-at 1666904287276}
  {:block/name "apr 12th, 2021",
-  :block/created-at 1666931905666,
-  :block/updated-at 1666931905666}
+  :block/created-at 1666904306032,
+  :block/updated-at 1666904306032}
  {:block/name "apr 13th, 2021",
-  :block/created-at 1666931905619,
-  :block/updated-at 1666931905619}
+  :block/created-at 1666904323489,
+  :block/updated-at 1666904323489}
  {:block/name "apr 15th, 2021",
-  :block/created-at 1666931905597,
-  :block/updated-at 1666931905597}
+  :block/created-at 1666904338991,
+  :block/updated-at 1666904338991}
  {:block/name "apr 16th, 2021",
-  :block/created-at 1666931905558,
-  :block/updated-at 1666931905558}
+  :block/created-at 1666904355250,
+  :block/updated-at 1666904355250}
  {:block/name "apr 1st, 2021",
-  :block/created-at 1666931905971,
-  :block/updated-at 1666931905971}
+  :block/created-at 1666802011042,
+  :block/updated-at 1666802011042}
  {:block/name "apr 21st, 2021",
-  :block/created-at 1666931905514,
-  :block/updated-at 1666931905514}
+  :block/created-at 1666904371449,
+  :block/updated-at 1666904371449}
  {:block/name "apr 26th, 2021",
-  :block/created-at 1666931905477,
-  :block/updated-at 1666931905477}
+  :block/created-at 1666904388650,
+  :block/updated-at 1666904388650}
  {:block/name "apr 26th, 2022",
-  :block/created-at 1666931901217,
-  :block/updated-at 1666931901217}
+  :block/created-at 1665810819459,
+  :block/updated-at 1665810819459}
  {:block/name "apr 27th, 2021",
-  :block/created-at 1666931905449,
-  :block/updated-at 1666931905449}
+  :block/created-at 1666904406572,
+  :block/updated-at 1666904406572}
  {:block/name "apr 27th, 2022",
-  :block/created-at 1666931901188,
-  :block/updated-at 1666931901188}
+  :block/created-at 1665810819517,
+  :block/updated-at 1665810819517}
  {:block/name "apr 29th, 2021",
-  :block/created-at 1666931905407,
-  :block/updated-at 1666931905407}
+  :block/created-at 1666904424835,
+  :block/updated-at 1666904424835}
  {:block/name "apr 2nd, 2021",
-  :block/created-at 1666931905941,
-  :block/updated-at 1666931905941}
+  :block/created-at 1666802024179,
+  :block/updated-at 1666802024179}
  {:block/name "apr 30th, 2021",
-  :block/created-at 1666931905385,
-  :block/updated-at 1666931905385}
+  :block/created-at 1666904447817,
+  :block/updated-at 1666904447817}
  {:block/name "apr 4th, 2021",
-  :block/created-at 1666931905911,
-  :block/updated-at 1666931905911}
+  :block/created-at 1666904161692,
+  :block/updated-at 1666904161692}
  {:block/name "apr 5th, 2021",
-  :block/created-at 1666931905877,
-  :block/updated-at 1666931905877}
+  :block/created-at 1666904187626,
+  :block/updated-at 1666904187626}
  {:block/name "apr 6th, 2021",
-  :block/created-at 1666931905849,
-  :block/updated-at 1666931905849}
+  :block/created-at 1666904209147,
+  :block/updated-at 1666904209147}
  {:block/name "apr 7th, 2021",
-  :block/created-at 1666931905808,
-  :block/updated-at 1666931905808}
+  :block/created-at 1666904233531,
+  :block/updated-at 1666904233531}
  {:block/name "apr 9th, 2021",
-  :block/created-at 1666931905785,
-  :block/updated-at 1666931905785}
+  :block/created-at 1666904254318,
+  :block/updated-at 1666904254318}
  {:block/name "assets",
-  :block/created-at 1666931936873,
-  :block/updated-at 1666931936873}
+  :block/created-at 1665810828955,
+  :block/updated-at 1665810828955}
  {:block/name "assets images",
-  :block/created-at 1666931936774,
-  :block/updated-at 1666931936774}
- {:block/name "attendees",
-  :block/created-at 1666931939039,
-  :block/updated-at 1666931939039}
+  :block/created-at 1665810828891,
+  :block/updated-at 1665810828891}
  {:block/name "aug 12th, 2021",
-  :block/created-at 1666931902102,
-  :block/updated-at 1666931902102}
+  :block/created-at 1666906342107,
+  :block/updated-at 1666906342107}
  {:block/name "aug 13th, 2022",
-  :block/created-at 1666931899402,
-  :block/updated-at 1666931899402}
+  :block/created-at 1665810821324,
+  :block/updated-at 1665810821324}
  {:block/name "aug 15th, 2021",
-  :block/created-at 1666931902077,
-  :block/updated-at 1666931902077}
+  :block/created-at 1666906360682,
+  :block/updated-at 1666906360682}
  {:block/name "aug 20th, 2021",
-  :block/created-at 1666931902049,
-  :block/updated-at 1666931902049}
+  :block/created-at 1666906373735,
+  :block/updated-at 1666906373735}
  {:block/name "aug 26th, 2022",
-  :block/created-at 1666931899361,
-  :block/updated-at 1666931899361}
+  :block/created-at 1665810821349,
+  :block/updated-at 1665810821349}
  {:block/name "aug 27th, 2021",
-  :block/created-at 1666931902025,
-  :block/updated-at 1666931902025}
+  :block/created-at 1666906385108,
+  :block/updated-at 1666906385108}
  {:block/name "aug 29th, 2021",
-  :block/created-at 1666931901996,
-  :block/updated-at 1666931901996}
+  :block/created-at 1666906397684,
+  :block/updated-at 1666906397684}
  {:block/name "aug 2nd, 2021",
-  :block/created-at 1666931902185,
-  :block/updated-at 1666931902185}
+  :block/created-at 1666906303008,
+  :block/updated-at 1666906303008}
  {:block/name "aug 2nd, 2022",
-  :block/created-at 1666931899629,
-  :block/updated-at 1666931899629}
+  :block/created-at 1665810821165,
+  :block/updated-at 1665810821165}
  {:block/name "aug 31st, 2021",
-  :block/created-at 1666931901959,
-  :block/updated-at 1666931901959}
+  :block/created-at 1666906411998,
+  :block/updated-at 1666906411998}
  {:block/name "aug 3rd, 2021",
-  :block/created-at 1666931902151,
-  :block/updated-at 1666931902151}
+  :block/created-at 1666906316218,
+  :block/updated-at 1666906316218}
  {:block/name "aug 3rd, 2022",
-  :block/created-at 1666931899568,
-  :block/updated-at 1666931899568}
+  :block/created-at 1665810821196,
+  :block/updated-at 1665810821196}
  {:block/name "aug 6th, 2022",
-  :block/created-at 1666931899517,
-  :block/updated-at 1666931899517}
+  :block/created-at 1665810821262,
+  :block/updated-at 1665810821262}
  {:block/name "aug 7th, 2021",
-  :block/created-at 1666931902129,
-  :block/updated-at 1666931902129}
+  :block/created-at 1666906329872,
+  :block/updated-at 1666906329872}
  {:block/name "aug 7th, 2022",
-  :block/created-at 1666931899447,
-  :block/updated-at 1666931899447}
- {:block/name "author",
-  :block/created-at 1666931933782,
-  :block/updated-at 1666931933782}
+  :block/created-at 1665810821293,
+  :block/updated-at 1665810821293}
  {:block/name "avocado",
-  :block/created-at 1666931899807,
-  :block/updated-at 1666931899807}
+  :block/created-at 1665810822115,
+  :block/updated-at 1665810822115}
  {:block/name "b",
-  :block/created-at 1666931875972,
-  :block/updated-at 1666931875972}
+  :block/created-at 1665810916061,
+  :block/updated-at 1665810916061}
  {:block/name "becky friedenberg",
-  :block/created-at 1666931899190,
-  :block/updated-at 1666931899190}
+  :block/created-at 1665810822143,
+  :block/updated-at 1666190254704}
  {:block/name "becky-friedenberg",
-  :block/created-at 1666931932309,
-  :block/updated-at 1666931932309}
+  :block/created-at 1665810826813,
+  :block/updated-at 1665810826813}
  {:block/name "being doing",
-  :block/created-at 1666931930477,
-  :block/updated-at 1666931930477}
+  :block/created-at 1665810822165,
+  :block/updated-at 1665810822165}
  {:block/name "being-doing",
-  :block/created-at 1666931899513,
-  :block/updated-at 1666931899513}
+  :block/created-at 1665810821259,
+  :block/updated-at 1665810821259}
  {:block/name "betrayals",
-  :block/created-at 1666931920894,
-  :block/updated-at 1666931920894}
+  :block/created-at 1666903798826,
+  :block/updated-at 1666903798826}
  {:block/name "bi-directional-linking",
-  :block/created-at 1666931920942,
-  :block/updated-at 1666931920942}
+  :block/created-at 1666903798825,
+  :block/updated-at 1666903798825}
  {:block/name "bill",
-  :block/created-at 1666931900978,
-  :block/updated-at 1666931900978}
+  :block/created-at 1665810823042,
+  :block/updated-at 1665810823042}
  {:block/name "black-church",
-  :block/created-at 1666931920957,
-  :block/updated-at 1666931920957}
+  :block/created-at 1666903798823,
+  :block/updated-at 1666903798823}
  {:block/name "blake",
-  :block/created-at 1666931899801,
-  :block/updated-at 1666931899801}
+  :block/created-at 1665810822243,
+  :block/updated-at 1665810822243}
  {:block/name "book notes",
-  :block/created-at 1666931938741,
-  :block/updated-at 1666931938741}
+  :block/created-at 1665810831808,
+  :block/updated-at 1665810831808}
  {:block/name "book-notes",
-  :block/created-at 1666931909585,
-  :block/updated-at 1666931909585}
+  :block/created-at 1665810821418,
+  :block/updated-at 1665810821418}
  {:block/name "bridget",
-  :block/created-at 1666931901082,
-  :block/updated-at 1666931901082}
+  :block/created-at 1665810822606,
+  :block/updated-at 1665810822606}
  {:block/name "c",
-  :block/created-at 1666931875971,
-  :block/updated-at 1666931875971}
- {:block/name "canceled",
-  :block/created-at 1666931875971,
-  :block/updated-at 1666931875971}
- {:block/name "cancelled",
-  :block/created-at 1666931875972,
-  :block/updated-at 1666931875972}
+  :block/created-at 1665810916060,
+  :block/updated-at 1665810916060}
  {:block/name "card",
-  :block/created-at 1666931875971,
-  :block/updated-at 1666931875971}
+  :block/created-at 1665810916060,
+  :block/updated-at 1665810916060}
  {:block/name "caring-bridge",
-  :block/created-at 1666931920999,
-  :block/updated-at 1666931920999}
+  :block/created-at 1666903798820,
+  :block/updated-at 1666903798820}
  {:block/name "carolyn",
-  :block/created-at 1666931932801,
-  :block/updated-at 1666931932801}
+  :block/created-at 1665810827122,
+  :block/updated-at 1665810827122}
  {:block/name "catholic-church",
-  :block/created-at 1666931921029,
-  :block/updated-at 1666931921029}
+  :block/created-at 1666903798819,
+  :block/updated-at 1666903798819}
  {:block/name "character",
-  :block/created-at 1666931899625,
-  :block/updated-at 1666931899625}
+  :block/created-at 1665810822300,
+  :block/updated-at 1665810822300}
  {:block/name "charles carroll",
-  :block/created-at 1666931931813,
-  :block/updated-at 1666931931813}
+  :block/created-at 1665810826442,
+  :block/updated-at 1665810826442}
  {:block/name "checklists",
-  :block/created-at 1666931930715,
-  :block/updated-at 1666931930715}
+  :block/created-at 1666203094870,
+  :block/updated-at 1666203094870}
  {:block/name "checklists/445416",
-  :block/created-at 1666931930713,
-  :block/updated-at 1666931930713}
+  :block/created-at 1666203094872,
+  :block/updated-at 1666203094872}
  {:block/name "chiasm",
-  :block/created-at 1666931920838,
-  :block/updated-at 1666931920838}
+  :block/created-at 1666903798818,
+  :block/updated-at 1666903798818}
  {:block/name "church",
-  :block/created-at 1666931899141,
-  :block/updated-at 1666931899141}
- {:block/name "church officers form |http:",
-  :block/created-at 1666931925304,
-  :block/updated-at 1666931925304}
- {:block/name "church officers form |http://r20.rs6.net",
-  :block/created-at 1666931925307,
-  :block/updated-at 1666931925307}
+  :block/created-at 1666194639278,
+  :block/updated-at 1666194725486}
+ {:block/name "church officers form _http_",
+  :block/created-at 1667183538653,
+  :block/updated-at 1667183538653}
+ {:block/name "church officers form _http_//r20.rs6.net",
+  :block/created-at 1667183538654,
+  :block/updated-at 1667183538654}
  {:block/name
-  "church officers form |http://r20.rs6.net/tn.jsp?f=001eiznetplr_tzzhrfomlnhdyabk2eutgzmjgsiz8cofhv2vf0umge3xaag1zvl4uihltijdhbpyzcqozajqzqq4s1pyardg43qximdrwr4ymf-7gqnogxspaisxfodr7jm27ftfw8u5v5k9vqbaexfuptultsycbymgk5qzw_b3xv8qp5bwbf8duacvoc1_qijsdnwdu_gdopnvsoy1jwtbb12nd-qkrb&c=c6wqdtguip-dc2lu8b0sev8pu-bgqljooa58liebkwjv5pxrjuf41q==&ch=pnm5j4i9imbvs2hjbpzufoh3jg-3qmfzbxlsddihuupkem9ciowuea==",
-  :block/created-at 1666931925299,
-  :block/updated-at 1666931925299}
+  "church officers form _http_//r20.rs6.net/tn.jsp_f=001eiznetplr_tzzhrfomlnhdyabk2eutgzmjgsiz8cofhv2vf0umge3xaag1zvl4uihltijdhbpyzcqozajqzqq4s1pyardg43qximdrwr4ymf-7gqnogxspaisxfodr7jm27ftfw8u5v5k9vqbaexfuptultsycbymgk5qzw_b3xv8qp5bwbf8duacvoc1_qijsdnwdu_gdopnvsoy1jwtbb12nd-qkrb&c=c6wqdtguip-dc2lu8b0sev8pu-bgqljooa58liebkwjv5pxrjuf41q==&ch=pnm5j4i9imbvs2hjbpzufoh3jg-3qmfzbxlsddihuupkem9ciowuea==",
+  :block/created-at 1667183538647,
+  :block/updated-at 1667183538647}
  {:block/name "clearwater deanery",
-  :block/created-at 1666931930830,
-  :block/updated-at 1666931930830}
+  :block/created-at 1665810822362,
+  :block/updated-at 1665810822362}
  {:block/name "clearwater-deanery",
-  :block/created-at 1666931899979,
-  :block/updated-at 1666931899979}
+  :block/created-at 1665810820859,
+  :block/updated-at 1665810820859}
  {:block/name "co-dependency",
-  :block/created-at 1666931920837,
-  :block/updated-at 1666931920837}
+  :block/created-at 1666903798817,
+  :block/updated-at 1666903798817}
  {:block/name "cognitive-decline",
-  :block/created-at 1666931920836,
-  :block/updated-at 1666931920836}
- {:block/name "command:dendron.createdailyjournalnote",
-  :block/created-at 1666931939973,
-  :block/updated-at 1666931939973}
- {:block/name "command:dendron.importobsidianpod",
-  :block/created-at 1666931939977,
-  :block/updated-at 1666931939977}
- {:block/name "command:dendron.initws",
-  :block/created-at 1666931939976,
-  :block/updated-at 1666931939976}
+  :block/created-at 1666903798816,
+  :block/updated-at 1666903798816}
+ {:block/name "command_dendron.createdailyjournalnote",
+  :block/created-at 1667183544934,
+  :block/updated-at 1667183544934}
+ {:block/name "command_dendron.importobsidianpod",
+  :block/created-at 1667183544938,
+  :block/updated-at 1667183544938}
+ {:block/name "command_dendron.initws",
+  :block/created-at 1667183544937,
+  :block/updated-at 1667183544937}
  {:block/name "contents",
-  :block/created-at 1666931875970,
-  :block/updated-at 1666931875970}
+  :block/created-at 1665810916059,
+  :block/updated-at 1665810916059}
  {:block/name "create",
-  :block/created-at 1666931900630,
-  :block/updated-at 1666931900630}
- {:block/name "created",
-  :block/created-at 1666931909955,
-  :block/updated-at 1666931909955}
- {:block/name "created-imported",
-  :block/created-at 1666931933771,
-  :block/updated-at 1666931933771}
- {:block/name "creation-date",
-  :block/created-at 1666931939471,
-  :block/updated-at 1666931939471}
+  :block/created-at 1665810823392,
+  :block/updated-at 1665810823392}
  {:block/name "creatures']",
-  :block/created-at 1666931921927,
-  :block/updated-at 1666931921927}
+  :block/created-at 1666903801074,
+  :block/updated-at 1666903801074}
  {:block/name "cruise",
-  :block/created-at 1666931899101,
-  :block/updated-at 1666931899101}
+  :block/created-at 1666276594235,
+  :block/updated-at 1666276639979}
  {:block/name "culture politics",
-  :block/created-at 1666931930906,
-  :block/updated-at 1666931930906}
+  :block/created-at 1665810822401,
+  :block/updated-at 1665810822401}
  {:block/name "culture-politics",
-  :block/created-at 1666931899982,
-  :block/updated-at 1666931899982}
- {:block/name "currentstep",
-  :block/created-at 1666931940000,
-  :block/updated-at 1666931940000}
+  :block/created-at 1665810820860,
+  :block/updated-at 1665810820860}
  {:block/name "daily",
-  :block/created-at 1666931932553,
-  :block/updated-at 1666931932553}
+  :block/created-at 1665810826969,
+  :block/updated-at 1665810826969}
  {:block/name "daily journal template",
-  :block/created-at 1666931938922,
-  :block/updated-at 1666931938922}
+  :block/created-at 1665810832017,
+  :block/updated-at 1665810832017}
  {:block/name "daily note",
-  :block/created-at 1666931938878,
-  :block/updated-at 1666931938878}
+  :block/created-at 1665810831961,
+  :block/updated-at 1665810831961}
  {:block/name "daily questions",
-  :block/created-at 1666931938806,
-  :block/updated-at 1666931938806}
+  :block/created-at 1665810831896,
+  :block/updated-at 1665810831896}
  {:block/name "daily-note",
-  :block/created-at 1666931909536,
-  :block/updated-at 1666931909536}
+  :block/created-at 1665810821391,
+  :block/updated-at 1665810821391}
  {:block/name "daily-notes.2022-04-26",
-  :block/created-at 1666931935744,
-  :block/updated-at 1666931935744}
+  :block/created-at 1665810828140,
+  :block/updated-at 1665810828140}
  {:block/name "daily-prayer",
-  :block/created-at 1666931920835,
-  :block/updated-at 1666931920835}
+  :block/created-at 1666903798815,
+  :block/updated-at 1666903798815}
  {:block/name "daily-prayer-2",
-  :block/created-at 1666931921196,
-  :block/updated-at 1666931921196}
+  :block/created-at 1666903798813,
+  :block/updated-at 1666903798813}
  {:block/name "daily-questions",
-  :block/created-at 1666931909624,
-  :block/updated-at 1666931909624}
+  :block/created-at 1665810821450,
+  :block/updated-at 1665810821450}
  {:block/name "daily/journal",
-  :block/created-at 1666931932417,
-  :block/updated-at 1666931932417}
+  :block/created-at 1665810826894,
+  :block/updated-at 1665810826894}
  {:block/name "daily/journal/2022",
-  :block/created-at 1666931932419,
-  :block/updated-at 1666931932419}
+  :block/created-at 1665810826896,
+  :block/updated-at 1665810826896}
  {:block/name "daily/journal/2022/09",
-  :block/created-at 1666931932174,
-  :block/updated-at 1666931932174}
+  :block/created-at 1665810826719,
+  :block/updated-at 1665810826719}
  {:block/name "daily/journal/2022/09/15",
-  :block/created-at 1666931931707,
-  :block/updated-at 1666931931707}
+  :block/created-at 1665810826361,
+  :block/updated-at 1665810826361}
  {:block/name "daily/journal/2022/09/15/b",
-  :block/created-at 1666931931640,
-  :block/updated-at 1666931931640}
+  :block/created-at 1665810826291,
+  :block/updated-at 1665810826291}
  {:block/name "daily/journal/2022/09/18",
-  :block/created-at 1666931931777,
-  :block/updated-at 1666931931777}
+  :block/created-at 1665810826419,
+  :block/updated-at 1666276707159}
  {:block/name "daily/journal/2022/09/23",
-  :block/created-at 1666931931819,
-  :block/updated-at 1666931931819}
+  :block/created-at 1665810826452,
+  :block/updated-at 1665810826452}
  {:block/name "daily/journal/2022/09/24",
-  :block/created-at 1666931931881,
-  :block/updated-at 1666931931881}
+  :block/created-at 1665810826490,
+  :block/updated-at 1665810826490}
  {:block/name "daily/journal/2022/09/26",
-  :block/created-at 1666931931922,
-  :block/updated-at 1666931931922}
+  :block/created-at 1665810826540,
+  :block/updated-at 1665810826540}
  {:block/name "daily/journal/2022/09/27",
-  :block/created-at 1666931931989,
-  :block/updated-at 1666931931989}
+  :block/created-at 1665810826589,
+  :block/updated-at 1665810826589}
  {:block/name "daily/journal/2022/09/28",
-  :block/created-at 1666931932058,
-  :block/updated-at 1666931932058}
+  :block/created-at 1665810826622,
+  :block/updated-at 1665810826622}
  {:block/name "daily/journal/2022/09/29",
-  :block/created-at 1666931932120,
-  :block/updated-at 1666931932120}
+  :block/created-at 1665810826672,
+  :block/updated-at 1665810826672}
  {:block/name "daily/journal/2022/09/30",
-  :block/created-at 1666931932168,
-  :block/updated-at 1666931932168}
+  :block/created-at 1665810826714,
+  :block/updated-at 1665810826714}
  {:block/name "daily/journal/2022/10",
-  :block/created-at 1666931932420,
-  :block/updated-at 1666931932420}
+  :block/created-at 1665810826897,
+  :block/updated-at 1665810826897}
  {:block/name "daily/journal/2022/10/01",
-  :block/created-at 1666931932268,
-  :block/updated-at 1666931932268}
+  :block/created-at 1665810826778,
+  :block/updated-at 1665810826778}
  {:block/name "daily/journal/2022/10/03",
-  :block/created-at 1666931932313,
-  :block/updated-at 1666931932313}
+  :block/created-at 1665810826817,
+  :block/updated-at 1665810826817}
  {:block/name "daily/journal/2022/10/12",
-  :block/created-at 1666931932374,
-  :block/updated-at 1666931932374}
+  :block/created-at 1665810826853,
+  :block/updated-at 1665810826853}
  {:block/name "daily/journal/2022/10/13",
-  :block/created-at 1666931932415,
-  :block/updated-at 1666931932415}
+  :block/created-at 1665810826891,
+  :block/updated-at 1665810826891}
  {:block/name "dale-solve-problems",
-  :block/created-at 1666931921470,
-  :block/updated-at 1666931921470}
- {:block/name "date",
-<<<<<<< HEAD
-  :block/created-at 1666903799610,
-  :block/updated-at 1666903799610}
+  :block/created-at 1666903798746,
+  :block/updated-at 1666903798746}
  {:block/name "dec 16th, 2021",
   :block/created-at 1666906987848,
   :block/updated-at 1666906987848}
-=======
-  :block/created-at 1666931925185,
-  :block/updated-at 1666931925185}
- {:block/name "dec 16th, 2021",
-  :block/created-at 1666931901268,
-  :block/updated-at 1666931901268}
->>>>>>> 9e0bff18737afccaafe36adc60c66b6bc9f6f912
  {:block/name "dec 26th, 2020",
-  :block/created-at 1666931910336,
-  :block/updated-at 1666931910336}
+  :block/created-at 1666550674254,
+  :block/updated-at 1666550674254}
  {:block/name "dec 27th, 2020",
-  :block/created-at 1666931910337,
-  :block/updated-at 1666931910337}
+  :block/created-at 1666550674495,
+  :block/updated-at 1666550674495}
  {:block/name "dec 28th, 2020",
-  :block/created-at 1666931909414,
-  :block/updated-at 1666931909414}
+  :block/created-at 1666557310863,
+  :block/updated-at 1666557310863}
  {:block/name "dec 29th, 2020",
-  :block/created-at 1666931909452,
-  :block/updated-at 1666931909452}
+  :block/created-at 1666557809286,
+  :block/updated-at 1666557809286}
  {:block/name "dec 30th, 2020",
-  :block/created-at 1666931909471,
-  :block/updated-at 1666931909471}
+  :block/created-at 1666557809349,
+  :block/updated-at 1666557809349}
  {:block/name "dec 31st, 2020",
-<<<<<<< HEAD
   :block/created-at 1666557809630,
   :block/updated-at 1666557809630}
  {:block/name "dec 9th, 2021",
   :block/created-at 1666906973656,
   :block/updated-at 1666906973656}
-=======
-  :block/created-at 1666931909517,
-  :block/updated-at 1666931909517}
- {:block/name "dec 9th, 2021",
-  :block/created-at 1666931901308,
-  :block/updated-at 1666931901308}
->>>>>>> 9e0bff18737afccaafe36adc60c66b6bc9f6f912
  {:block/name "desantis",
-  :block/created-at 1666931932610,
-  :block/updated-at 1666931932610}
- {:block/name "desc",
-  :block/created-at 1666931909953,
-  :block/updated-at 1666931909953}
- {:block/name "desc-imported",
-  :block/created-at 1666931939995,
-  :block/updated-at 1666931939995}
+  :block/created-at 1665810821659,
+  :block/updated-at 1665810821659}
  {:block/name "dick hubbard",
-  :block/created-at 1666931938060,
-  :block/updated-at 1666931938060}
+  :block/created-at 1665810831419,
+  :block/updated-at 1665810831419}
  {:block/name "digitized film",
-  :block/created-at 1666931932645,
-  :block/updated-at 1666931932645}
+  :block/created-at 1665810827023,
+  :block/updated-at 1665810827023}
  {:block/name "digitized-film",
-  :block/created-at 1666931900406,
-  :block/updated-at 1666931900406}
+  :block/created-at 1665810823176,
+  :block/updated-at 1665810823176}
  {:block/name "dioc of hawai'i",
-  :block/created-at 1666931898841,
-  :block/updated-at 1666931898841}
+  :block/created-at 1666882723984,
+  :block/updated-at 1666882840052}
  {:block/name "divide-my-money-after-death",
-  :block/created-at 1666931921511,
-  :block/updated-at 1666931921511}
+  :block/created-at 1666903798812,
+  :block/updated-at 1666903798812}
  {:block/name "doing",
-  :block/created-at 1666931875972,
-  :block/updated-at 1666931875972}
+  :block/created-at 1665810916061,
+  :block/updated-at 1665810916061}
  {:block/name "donald-whitley",
-  :block/created-at 1666931920831,
-  :block/updated-at 1666931920831}
+  :block/created-at 1666903798811,
+  :block/updated-at 1666903798811}
  {:block/name "done",
-  :block/created-at 1666931875971,
-  :block/updated-at 1666931875971}
+  :block/created-at 1665810916060,
+  :block/updated-at 1665810916060}
  {:block/name "early-church-pacifism",
-  :block/created-at 1666931921605,
-  :block/updated-at 1666931921605}
+  :block/created-at 1666903798810,
+  :block/updated-at 1666903798810}
  {:block/name "efm",
-  :block/created-at 1666931899188,
-  :block/updated-at 1666931899188}
+  :block/created-at 1666099468725,
+  :block/updated-at 1666099468725}
  {:block/name "emma",
-  :block/created-at 1666931899922,
-  :block/updated-at 1666931899922}
+  :block/created-at 1665810820973,
+  :block/updated-at 1665810820973}
  {:block/name "emma story",
-  :block/created-at 1666931933177,
-  :block/updated-at 1666931933177}
+  :block/created-at 1665810827374,
+  :block/updated-at 1666203633929}
  {:block/name "emma's elegy",
-  :block/created-at 1666931935761,
-  :block/updated-at 1666931935761}
+  :block/created-at 1665810828154,
+  :block/updated-at 1665810828154}
  {:block/name "emma-mironichenko",
-  :block/created-at 1666931921622,
-  :block/updated-at 1666931921622}
+  :block/created-at 1666903798809,
+  :block/updated-at 1666903798809}
  {:block/name "epiphany-coup-attempt",
-  :block/created-at 1666931921667,
-  :block/updated-at 1666931921667}
+  :block/created-at 1666903798808,
+  :block/updated-at 1666903798808}
  {:block/name "etty-hillesum",
-  :block/created-at 1666931921683,
-  :block/updated-at 1666931921683}
+  :block/created-at 1666903798807,
+  :block/updated-at 1666903798807}
  {:block/name "examen-1",
-  :block/created-at 1666931920824,
-  :block/updated-at 1666931920824}
+  :block/created-at 1666903798806,
+  :block/updated-at 1666903798806}
  {:block/name "examen-week",
-  :block/created-at 1666931920822,
-  :block/updated-at 1666931920822}
+  :block/created-at 1666903798797,
+  :block/updated-at 1666903798797}
  {:block/name "exercise",
-  :block/created-at 1666931900632,
-  :block/updated-at 1666931900632}
+  :block/created-at 1665810823495,
+  :block/updated-at 1665810823495}
  {:block/name "eyes to see",
-  :block/created-at 1666931932716,
-  :block/updated-at 1666931932716}
+  :block/created-at 1665810827058,
+  :block/updated-at 1665810827058}
  {:block/name "eyes-to-see",
-  :block/created-at 1666931901149,
-  :block/updated-at 1666931901149}
+  :block/created-at 1665810822641,
+  :block/updated-at 1665810822641}
  {:block/name "family",
-  :block/created-at 1666931932873,
-  :block/updated-at 1666931932873}
+  :block/created-at 1665810827171,
+  :block/updated-at 1665810827171}
  {:block/name "family.bill",
-  :block/created-at 1666931933338,
-  :block/updated-at 1666931933338}
+  :block/created-at 1665810827486,
+  :block/updated-at 1665810827486}
  {:block/name "family.carolyn",
-  :block/created-at 1666931936974,
-  :block/updated-at 1666931936974}
+  :block/created-at 1665810829039,
+  :block/updated-at 1665810829039}
  {:block/name "family/journal",
-  :block/created-at 1666931932843,
-  :block/updated-at 1666931932843}
+  :block/created-at 1665810827141,
+  :block/updated-at 1665810827141}
  {:block/name "family/journal/2022",
-  :block/created-at 1666931932844,
-  :block/updated-at 1666931932844}
+  :block/created-at 1665810827142,
+  :block/updated-at 1665810827142}
  {:block/name "family/journal/2022/09",
-  :block/created-at 1666931932846,
-  :block/updated-at 1666931932846}
+  :block/created-at 1665810827143,
+  :block/updated-at 1665810827143}
  {:block/name "family/journal/2022/09/29",
-  :block/created-at 1666931932840,
-  :block/updated-at 1666931932840}
+  :block/created-at 1665810827139,
+  :block/updated-at 1665810827139}
  {:block/name "farewell letter st pauls",
-  :block/created-at 1666931933050,
-  :block/updated-at 1666931933050}
+  :block/created-at 1665810827272,
+  :block/updated-at 1665810827272}
  {:block/name "farewell-letter-st-pauls",
-  :block/created-at 1666931901215,
-  :block/updated-at 1666931901215}
+  :block/created-at 1665810822425,
+  :block/updated-at 1665810822425}
  {:block/name "fathers",
-  :block/created-at 1666931900336,
-  :block/updated-at 1666931900336}
+  :block/created-at 1665810823260,
+  :block/updated-at 1666204100750}
  {:block/name "fathers-blessing",
-  :block/created-at 1666931920820,
-  :block/updated-at 1666931920820}
+  :block/created-at 1666903798794,
+  :block/updated-at 1666903798794}
  {:block/name "fathers.emma",
-  :block/created-at 1666931920458,
-  :block/updated-at 1666931920458}
+  :block/created-at 1665810827608,
+  :block/updated-at 1665810827608}
  {:block/name "fathers.emma.emma-story",
-  :block/created-at 1666931936963,
-  :block/updated-at 1666931936963}
+  :block/created-at 1665810829033,
+  :block/updated-at 1665810829033}
  {:block/name "fathers.julian",
-  :block/created-at 1666931933449,
-  :block/updated-at 1666931933449}
+  :block/created-at 1666204117998,
+  :block/updated-at 1666204117998}
  {:block/name "fathers.lydia",
-  :block/created-at 1666931933454,
-  :block/updated-at 1666931933454}
+  :block/created-at 1665810826887,
+  :block/updated-at 1665810826887}
  {:block/name "fathers.miriam",
-  :block/created-at 1666931920499,
-  :block/updated-at 1666931920499}
+  :block/created-at 1665810823177,
+  :block/updated-at 1665810823177}
  {:block/name "favorites",
-  :block/created-at 1666931875970,
-  :block/updated-at 1666931875970}
+  :block/created-at 1665810916059,
+  :block/updated-at 1665810916059}
  {:block/name "feb 10th, 2021",
-  :block/created-at 1666931907424,
-  :block/updated-at 1666931907424}
+  :block/created-at 1666800686874,
+  :block/updated-at 1666800686874}
  {:block/name "feb 11th, 2021",
-  :block/created-at 1666931907380,
-  :block/updated-at 1666931907380}
+  :block/created-at 1666800729458,
+  :block/updated-at 1666800729458}
  {:block/name "feb 14th, 2021",
-  :block/created-at 1666931907345,
-  :block/updated-at 1666931907345}
+  :block/created-at 1666800753410,
+  :block/updated-at 1666800753410}
  {:block/name "feb 15th, 2021",
-  :block/created-at 1666931907312,
-  :block/updated-at 1666931907312}
+  :block/created-at 1666800776433,
+  :block/updated-at 1666800776433}
  {:block/name "feb 16th, 2021",
-  :block/created-at 1666931907296,
-  :block/updated-at 1666931907296}
+  :block/created-at 1666800794388,
+  :block/updated-at 1666800794388}
  {:block/name "feb 17th, 2021",
-  :block/created-at 1666931907254,
-  :block/updated-at 1666931907254}
+  :block/created-at 1666800809689,
+  :block/updated-at 1666800809689}
  {:block/name "feb 18th, 2021",
-  :block/created-at 1666931907178,
-  :block/updated-at 1666931907178}
+  :block/created-at 1666800888339,
+  :block/updated-at 1666800888339}
  {:block/name "feb 19th, 2021",
-  :block/created-at 1666931907105,
-  :block/updated-at 1666931907105}
+  :block/created-at 1666800904415,
+  :block/updated-at 1666800904415}
  {:block/name "feb 1st, 2021",
-  :block/created-at 1666931907695,
-  :block/updated-at 1666931907695}
+  :block/created-at 1666800021721,
+  :block/updated-at 1666800021721}
  {:block/name "feb 20th, 2021",
-  :block/created-at 1666931906995,
-  :block/updated-at 1666931906995}
+  :block/created-at 1666800922643,
+  :block/updated-at 1666800922643}
  {:block/name "feb 21st, 2021",
-  :block/created-at 1666931906954,
-  :block/updated-at 1666931906954}
+  :block/created-at 1666800937396,
+  :block/updated-at 1666800937396}
  {:block/name "feb 22nd, 2021",
-  :block/created-at 1666931906928,
-  :block/updated-at 1666931906928}
+  :block/created-at 1666800955682,
+  :block/updated-at 1666800955682}
  {:block/name "feb 23rd, 2021",
-  :block/created-at 1666931906892,
-  :block/updated-at 1666931906892}
+  :block/created-at 1666800970101,
+  :block/updated-at 1666800970101}
  {:block/name "feb 24th, 2021",
-  :block/created-at 1666931906869,
-  :block/updated-at 1666931906869}
+  :block/created-at 1666800984180,
+  :block/updated-at 1666800984180}
  {:block/name "feb 25th, 2021",
-  :block/created-at 1666931906811,
-  :block/updated-at 1666931906811}
+  :block/created-at 1666801067050,
+  :block/updated-at 1666801067050}
  {:block/name "feb 27th, 2021",
-  :block/created-at 1666931906773,
-  :block/updated-at 1666931906773}
+  :block/created-at 1666801087997,
+  :block/updated-at 1666801087997}
  {:block/name "feb 28th, 2021",
-  :block/created-at 1666931906732,
-  :block/updated-at 1666931906732}
+  :block/created-at 1666801102505,
+  :block/updated-at 1666801102505}
  {:block/name "feb 2nd, 2021",
-  :block/created-at 1666931907654,
-  :block/updated-at 1666931907654}
+  :block/created-at 1666800101979,
+  :block/updated-at 1666800101979}
  {:block/name "feb 3rd, 2021",
-  :block/created-at 1666931907616,
-  :block/updated-at 1666931907616}
+  :block/created-at 1666800137833,
+  :block/updated-at 1666800137833}
  {:block/name "feb 4th, 2021",
-  :block/created-at 1666931907583,
-  :block/updated-at 1666931907583}
+  :block/created-at 1666800170111,
+  :block/updated-at 1666800170111}
  {:block/name "feb 5th, 2021",
-  :block/created-at 1666931907548,
-  :block/updated-at 1666931907548}
+  :block/created-at 1666800240084,
+  :block/updated-at 1666800240084}
  {:block/name "feb 6th, 2021",
-  :block/created-at 1666931907509,
-  :block/updated-at 1666931907509}
+  :block/created-at 1666800340571,
+  :block/updated-at 1666800340571}
  {:block/name "feb 7th, 2021",
-  :block/created-at 1666931907477,
-  :block/updated-at 1666931907477}
+  :block/created-at 1666800420071,
+  :block/updated-at 1666800420071}
  {:block/name "feb 9th, 2021",
-  :block/created-at 1666931907442,
-  :block/updated-at 1666931907442}
+  :block/created-at 1666800594968,
+  :block/updated-at 1666800594968}
  {:block/name "fellow-creatures-a-poem",
-  :block/created-at 1666931920819,
-  :block/updated-at 1666931920819}
+  :block/created-at 1666903798792,
+  :block/updated-at 1666903798792}
  {:block/name "fictional meeting",
-  :block/created-at 1666931939369,
-  :block/updated-at 1666931939369}
- {:block/name "file",
-  :block/created-at 1666931935650,
-  :block/updated-at 1666931935650}
- {:block/name "file-path",
-  :block/created-at 1666931935649,
-  :block/updated-at 1666931935649}
+  :block/created-at 1665810833499,
+  :block/updated-at 1665810833499}
  {:block/name "financial-matters-bowman",
-  :block/created-at 1666931920818,
-  :block/updated-at 1666931920818}
+  :block/created-at 1666903798790,
+  :block/updated-at 1666903798790}
  {:block/name "florida",
-  :block/created-at 1666931900977,
-  :block/updated-at 1666931900977}
+  :block/created-at 1665810823498,
+  :block/updated-at 1665810823498}
  {:block/name "florida-floor-plan",
-  :block/created-at 1666931920816,
-  :block/updated-at 1666931920816}
- {:block/name "footnote_plugin_tooltip_8962_1_20",
-  :block/created-at 1666931920361,
-  :block/updated-at 1666931920361}
- {:block/name "footnote_plugin_tooltip_8962_1_21",
-  :block/created-at 1666931920358,
-  :block/updated-at 1666931920358}
- {:block/name "footnote_plugin_tooltip_8962_1_22",
-  :block/created-at 1666931920355,
-  :block/updated-at 1666931920355}
- {:block/name "footnote_plugin_tooltip_8962_1_23",
-  :block/created-at 1666931920352,
-  :block/updated-at 1666931920352}
- {:block/name "footnote_plugin_tooltip_8962_1_24",
-  :block/created-at 1666931920349,
-  :block/updated-at 1666931920349}
- {:block/name "footnote_plugin_tooltip_text_8962_1_20",
-  :block/created-at 1666931920360,
-  :block/updated-at 1666931920360}
- {:block/name "footnote_plugin_tooltip_text_8962_1_21",
-  :block/created-at 1666931920357,
-  :block/updated-at 1666931920357}
- {:block/name "footnote_plugin_tooltip_text_8962_1_22",
-  :block/created-at 1666931920354,
-  :block/updated-at 1666931920354}
- {:block/name "footnote_plugin_tooltip_text_8962_1_23",
-  :block/created-at 1666931920351,
-  :block/updated-at 1666931920351}
- {:block/name "footnote_plugin_tooltip_text_8962_1_24",
-  :block/created-at 1666931920348,
-  :block/updated-at 1666931920348}
+  :block/created-at 1666903798789,
+  :block/updated-at 1666903798789}
  {:block/name "francis cambell gray",
-  :block/created-at 1666931898738,
-  :block/updated-at 1666931898738}
+  :block/created-at 1666901449411,
+  :block/updated-at 1666901449411}
  {:block/name "francis chan",
-  :block/created-at 1666931901119,
-  :block/updated-at 1666931901119}
+  :block/created-at 1665810819658,
+  :block/updated-at 1665810819658}
  {:block/name "friend",
-  :block/created-at 1666931900627,
-  :block/updated-at 1666931900627}
+  :block/created-at 1665810823304,
+  :block/updated-at 1665810823304}
  {:block/name "fritz pfotenhauer",
-  :block/created-at 1666931938114,
-  :block/updated-at 1666931938114}
+  :block/created-at 1665810831456,
+  :block/updated-at 1665810831456}
  {:block/name "games people play",
-  :block/created-at 1666931933784,
-  :block/updated-at 1666931933784}
+  :block/created-at 1665810827899,
+  :block/updated-at 1665810827899}
  {:block/name "games-people-play",
-  :block/created-at 1666931899803,
-  :block/updated-at 1666931899803}
+  :block/created-at 1665810821021,
+  :block/updated-at 1665810821021}
  {:block/name "getting started with git",
-  :block/created-at 1666931933849,
-  :block/updated-at 1666931933849}
+  :block/created-at 1665810827938,
+  :block/updated-at 1665810827938}
  {:block/name "gift red bird",
-  :block/created-at 1666931933908,
-  :block/updated-at 1666931933908}
+  :block/created-at 1665810827964,
+  :block/updated-at 1665810827964}
  {:block/name "gift-red-bird",
-  :block/created-at 1666931900999,
-  :block/updated-at 1666931900999}
+  :block/created-at 1665810822692,
+  :block/updated-at 1665810822692}
  {:block/name "giving",
-  :block/created-at 1666931899515,
-  :block/updated-at 1666931899515}
+  :block/created-at 1665810821261,
+  :block/updated-at 1665810821261}
  {:block/name "gods-hand-at-work",
-  :block/created-at 1666931920815,
-  :block/updated-at 1666931920815}
+  :block/created-at 1666903798788,
+  :block/updated-at 1666903798788}
  {:block/name "grace-buechner",
-  :block/created-at 1666931920814,
-  :block/updated-at 1666931920814}
+  :block/created-at 1666903798786,
+  :block/updated-at 1666903798786}
  {:block/name "gramma-bridget-miriam",
-  :block/created-at 1666931920813,
-  :block/updated-at 1666931920813}
+  :block/created-at 1666903798784,
+  :block/updated-at 1666903798784}
  {:block/name "gun control",
-  :block/created-at 1666931935566,
-  :block/updated-at 1666931935566}
+  :block/created-at 1665810828031,
+  :block/updated-at 1665810828031}
  {:block/name "gun-control",
-  :block/created-at 1666931931493,
-  :block/updated-at 1666931931493}
+  :block/created-at 1665810821661,
+  :block/updated-at 1665810821661}
  {:block/name "healing",
-  :block/created-at 1666931935619,
-  :block/updated-at 1666931935619}
+  :block/created-at 1666902849034,
+  :block/updated-at 1666902849034}
  {:block/name "health protocols",
-  :block/created-at 1666931929803,
-  :block/updated-at 1666931929803}
+  :block/created-at 1666480424553,
+  :block/updated-at 1666480553550}
+ {:block/name "hearing aids",
+  :block/created-at 1666974110082,
+  :block/updated-at 1666974110082}
  {:block/name "helen-macdonald",
-  :block/created-at 1666931936012,
-  :block/updated-at 1666931936012}
+  :block/created-at 1665810828288,
+  :block/updated-at 1665810828288}
  {:block/name "hls__inc-exp-2022_1666811872671_0",
-  :block/created-at 1666931935651,
-  :block/updated-at 1666931935651}
+  :block/created-at 1666811894327,
+  :block/updated-at 1666812001529}
  {:block/name "holland america",
-  :block/created-at 1666931899005,
-  :block/updated-at 1666931899005}
+  :block/created-at 1666476871683,
+  :block/updated-at 1666480424939}
  {:block/name "home church",
-  :block/created-at 1666931935714,
-  :block/updated-at 1666931935714}
+  :block/created-at 1665810828115,
+  :block/updated-at 1665810828115}
  {:block/name "home-church",
-  :block/created-at 1666931900081,
-  :block/updated-at 1666931900081}
+  :block/created-at 1665810820760,
+  :block/updated-at 1665810820760}
  {:block/name "home-liturgy",
-  :block/created-at 1666931923810,
-  :block/updated-at 1666931923810}
+  :block/created-at 1666903798782,
+  :block/updated-at 1666903798782}
  {:block/name "hosting-tiddly",
-  :block/created-at 1666931920811,
-  :block/updated-at 1666931920811}
+  :block/created-at 1666903798781,
+  :block/updated-at 1666903798781}
  {:block/name "housing-allowance",
-  :block/created-at 1666931920809,
-  :block/updated-at 1666931920809}
- {:block/name "id-imported",
-  :block/created-at 1666931939990,
-  :block/updated-at 1666931939990}
+  :block/created-at 1666903798780,
+  :block/updated-at 1666903798780}
  {:block/name "images",
-  :block/created-at 1666931936812,
-  :block/updated-at 1666931936812}
+  :block/created-at 1665810821990,
+  :block/updated-at 1665810821990}
  {:block/name "importing-image",
-  :block/created-at 1666931923923,
-  :block/updated-at 1666931923923}
+  :block/created-at 1666903798779,
+  :block/updated-at 1666903798779}
  {:block/name "impossible-to-say-how-offensive-gramma-bridget",
-  :block/created-at 1666931924863,
-  :block/updated-at 1666931924863}
+  :block/created-at 1666903798778,
+  :block/updated-at 1666903798778}
  {:block/name "in-progress",
-  :block/created-at 1666931875972,
-  :block/updated-at 1666931875972}
+  :block/created-at 1665810916060,
+  :block/updated-at 1665810916060}
  {:block/name "index",
-  :block/created-at 1666931936994,
-  :block/updated-at 1666931936994}
+  :block/created-at 1665810829056,
+  :block/updated-at 1665810829056}
  {:block/name "index2",
-  :block/created-at 1666931937031,
-  :block/updated-at 1666931937031}
+  :block/created-at 1665810829090,
+  :block/updated-at 1665810829090}
  {:block/name "interests",
-  :block/created-at 1666931899984,
-  :block/updated-at 1666931899984}
- {:block/name "isdir",
-  :block/created-at 1666931909956,
-  :block/updated-at 1666931909956}
+  :block/created-at 1665810820863,
+  :block/updated-at 1665810820863}
  {:block/name "j",
-  :block/created-at 1666931912690,
-  :block/updated-at 1666931912690}
+  :block/created-at 1667183527713,
+  :block/updated-at 1667183527713}
  {:block/name "jan 10th, 2021",
-  :block/created-at 1666931920290,
-  :block/updated-at 1666931920290}
+  :block/created-at 1666616383276,
+  :block/updated-at 1666616383276}
  {:block/name "jan 11th, 2021",
-  :block/created-at 1666931920292,
-  :block/updated-at 1666931920292}
+  :block/created-at 1666616288787,
+  :block/updated-at 1666616306543}
  {:block/name "jan 12th, 2021",
-  :block/created-at 1666931909011,
-  :block/updated-at 1666931909011}
+  :block/created-at 1666616463515,
+  :block/updated-at 1666616463515}
  {:block/name "jan 13th, 2021",
-  :block/created-at 1666931908970,
-  :block/updated-at 1666931908970}
+  :block/created-at 1666616544862,
+  :block/updated-at 1666616544862}
  {:block/name "jan 15th, 2021",
-  :block/created-at 1666931908947,
-  :block/updated-at 1666931908947}
+  :block/created-at 1666665610698,
+  :block/updated-at 1666665610698}
  {:block/name "jan 16th, 2021",
-  :block/created-at 1666931908895,
-  :block/updated-at 1666931908895}
+  :block/created-at 1666665706101,
+  :block/updated-at 1666665706101}
  {:block/name "jan 17th, 2021",
-  :block/created-at 1666931908863,
-  :block/updated-at 1666931908863}
+  :block/created-at 1666665940921,
+  :block/updated-at 1666665940921}
  {:block/name "jan 18th, 2021",
-  :block/created-at 1666931908807,
-  :block/updated-at 1666931908807}
+  :block/created-at 1666791697792,
+  :block/updated-at 1666791697792}
  {:block/name "jan 19th, 2021",
-  :block/created-at 1666931908781,
-  :block/updated-at 1666931908781}
+  :block/created-at 1666791772934,
+  :block/updated-at 1666791772934}
  {:block/name "jan 1st, 2021",
-  :block/created-at 1666931920288,
-  :block/updated-at 1666931920288}
+  :block/created-at 1666562939393,
+  :block/updated-at 1666562939393}
  {:block/name "jan 20th, 2021",
-  :block/created-at 1666931908714,
-  :block/updated-at 1666931908714}
+  :block/created-at 1666791865799,
+  :block/updated-at 1666791865799}
  {:block/name "jan 21st, 2021",
-  :block/created-at 1666931908688,
-  :block/updated-at 1666931908688}
+  :block/created-at 1666791904133,
+  :block/updated-at 1666791904133}
  {:block/name "jan 22nd, 2021",
-  :block/created-at 1666931907947,
-  :block/updated-at 1666931907947}
+  :block/created-at 1666791944584,
+  :block/updated-at 1666791944584}
  {:block/name "jan 23rd, 2021",
-  :block/created-at 1666931907916,
-  :block/updated-at 1666931907916}
+  :block/created-at 1666791979246,
+  :block/updated-at 1666791979246}
  {:block/name "jan 24th, 2021",
-  :block/created-at 1666931907869,
-  :block/updated-at 1666931907869}
+  :block/created-at 1666792013725,
+  :block/updated-at 1666792013725}
  {:block/name "jan 26th, 2021",
-  :block/created-at 1666931907836,
-  :block/updated-at 1666931907836}
+  :block/created-at 1666792057265,
+  :block/updated-at 1666792057265}
  {:block/name "jan 27th, 2021",
-  :block/created-at 1666931907790,
-  :block/updated-at 1666931907790}
+  :block/created-at 1666792126737,
+  :block/updated-at 1666792126737}
  {:block/name "jan 28th, 2021",
-  :block/created-at 1666931907758,
-  :block/updated-at 1666931907758}
+  :block/created-at 1666792157141,
+  :block/updated-at 1666792157141}
  {:block/name "jan 2nd, 2021",
-  :block/created-at 1666931920286,
-  :block/updated-at 1666931920286}
+  :block/created-at 1666564232001,
+  :block/updated-at 1666564232001}
  {:block/name "jan 30th, 2021",
-  :block/created-at 1666931907721,
-  :block/updated-at 1666931907721}
+  :block/created-at 1666792197504,
+  :block/updated-at 1666792197504}
  {:block/name "jan 8th, 2021",
-  :block/created-at 1666931920284,
-  :block/updated-at 1666931920284}
+  :block/created-at 1666564232478,
+  :block/updated-at 1666564232478}
  {:block/name "jan 9th, 2021",
-  :block/created-at 1666931920282,
-  :block/updated-at 1666931920282}
+  :block/created-at 1666564232892,
+  :block/updated-at 1666564232892}
  {:block/name "jim becker",
-  :block/created-at 1666931931373,
-  :block/updated-at 1666931931373}
+  :block/created-at 1665810821591,
+  :block/updated-at 1665810821591}
  {:block/name "jim-becker",
-  :block/created-at 1666931931375,
-  :block/updated-at 1666931931375}
+  :block/created-at 1665810826039,
+  :block/updated-at 1665810826039}
  {:block/name "john odonohue",
-  :block/created-at 1666931935944,
-  :block/updated-at 1666931935944}
+  :block/created-at 1665810828255,
+  :block/updated-at 1665810828255}
  {:block/name "journal",
-  :block/created-at 1666931932526,
-  :block/updated-at 1666931932526}
+  :block/created-at 1665810826947,
+  :block/updated-at 1665810826947}
  {:block/name "jul 10th, 2021",
-  :block/created-at 1666931902499,
-  :block/updated-at 1666931902499}
+  :block/created-at 1666906113050,
+  :block/updated-at 1666906113050}
  {:block/name "jul 10th, 2022",
-  :block/created-at 1666931899926,
-  :block/updated-at 1666931899926}
+  :block/created-at 1665810820934,
+  :block/updated-at 1665810820934}
  {:block/name "jul 12th, 2022",
-  :block/created-at 1666931899873,
-  :block/updated-at 1666931899873}
+  :block/created-at 1665810820977,
+  :block/updated-at 1665810820977}
  {:block/name "jul 13th, 2022",
-  :block/created-at 1666931899809,
-  :block/updated-at 1666931899809}
+  :block/created-at 1665810821026,
+  :block/updated-at 1665810821026}
  {:block/name "jul 14th, 2021",
-  :block/created-at 1666931902479,
-  :block/updated-at 1666931902479}
+  :block/created-at 1666906138016,
+  :block/updated-at 1666906138016}
  {:block/name "jul 14th, 2022",
-  :block/created-at 1666931899741,
-  :block/updated-at 1666931899741}
+  :block/created-at 1665810821068,
+  :block/updated-at 1665810821068}
  {:block/name "jul 15th, 2021",
-  :block/created-at 1666931902453,
-  :block/updated-at 1666931902453}
+  :block/created-at 1666906153831,
+  :block/updated-at 1666906153831}
  {:block/name "jul 17th, 2021",
-  :block/created-at 1666931902383,
-  :block/updated-at 1666931902383}
+  :block/created-at 1666906170069,
+  :block/updated-at 1666906170069}
  {:block/name "jul 17th, 2022",
-  :block/created-at 1666931899707,
-  :block/updated-at 1666931899707}
+  :block/created-at 1665810821093,
+  :block/updated-at 1665810821093}
  {:block/name "jul 1st, 2021",
-  :block/created-at 1666931902593,
-  :block/updated-at 1666931902593}
+  :block/created-at 1666906062074,
+  :block/updated-at 1666906062074}
  {:block/name "jul 21st, 2021",
-  :block/created-at 1666931902354,
-  :block/updated-at 1666931902354}
+  :block/created-at 1666906185884,
+  :block/updated-at 1666906185884}
  {:block/name "jul 22nd, 2021",
-  :block/created-at 1666931902328,
-  :block/updated-at 1666931902328}
+  :block/created-at 1666906203127,
+  :block/updated-at 1666906203127}
  {:block/name "jul 23rd, 2022",
-  :block/created-at 1666931899669,
-  :block/updated-at 1666931899669}
+  :block/created-at 1665810821123,
+  :block/updated-at 1665810821123}
  {:block/name "jul 26th, 2021",
-  :block/created-at 1666931902305,
-  :block/updated-at 1666931902305}
+  :block/created-at 1666906222848,
+  :block/updated-at 1666906222848}
  {:block/name "jul 28th, 2021",
-  :block/created-at 1666931902277,
-  :block/updated-at 1666931902277}
+  :block/created-at 1666906238860,
+  :block/updated-at 1666906238860}
  {:block/name "jul 29th, 2021",
-  :block/created-at 1666931902248,
-  :block/updated-at 1666931902248}
+  :block/created-at 1666906252036,
+  :block/updated-at 1666906252036}
  {:block/name "jul 31st, 2021",
-  :block/created-at 1666931902221,
-  :block/updated-at 1666931902221}
+  :block/created-at 1666906265422,
+  :block/updated-at 1666906265422}
  {:block/name "jul 3rd, 2021",
-  :block/created-at 1666931902551,
-  :block/updated-at 1666931902551}
+  :block/created-at 1666906077359,
+  :block/updated-at 1666906077359}
  {:block/name "jul 3rd, 2022",
-  :block/created-at 1666931900083,
-  :block/updated-at 1666931900083}
+  :block/created-at 1665810820761,
+  :block/updated-at 1665810820761}
  {:block/name "jul 5th, 2022",
-  :block/created-at 1666931900056,
-  :block/updated-at 1666931900056}
+  :block/created-at 1665810820795,
+  :block/updated-at 1665810820795}
  {:block/name "jul 6th, 2021",
-  :block/created-at 1666931902529,
-  :block/updated-at 1666931902529}
+  :block/created-at 1666906096717,
+  :block/updated-at 1666906096717}
  {:block/name "jul 6th, 2022",
-  :block/created-at 1666931900025,
-  :block/updated-at 1666931900025}
+  :block/created-at 1665810820824,
+  :block/updated-at 1665810820824}
  {:block/name "jul 9th, 2022",
-  :block/created-at 1666931899987,
-  :block/updated-at 1666931899987}
+  :block/created-at 1665810820866,
+  :block/updated-at 1665810820866}
  {:block/name "julian",
-  :block/created-at 1666931933270,
-  :block/updated-at 1666931933270}
+  :block/created-at 1665810827445,
+  :block/updated-at 1665810827445}
  {:block/name "jun 10th, 2021",
-  :block/created-at 1666931904450,
-  :block/updated-at 1666931904450}
+  :block/created-at 1666905132157,
+  :block/updated-at 1666905132157}
  {:block/name "jun 17th, 2021",
-  :block/created-at 1666931904371,
-  :block/updated-at 1666931904371}
+  :block/created-at 1666905149610,
+  :block/updated-at 1666905149610}
  {:block/name "jun 19th, 2021",
-  :block/created-at 1666931904346,
-  :block/updated-at 1666931904346}
+  :block/created-at 1666905164678,
+  :block/updated-at 1666905164678}
  {:block/name "jun 19th, 2022",
-  :block/created-at 1666931900341,
-  :block/updated-at 1666931900341}
+  :block/created-at 1665810820521,
+  :block/updated-at 1665810820521}
  {:block/name "jun 1st, 2021",
-  :block/created-at 1666931904709,
-  :block/updated-at 1666931904709}
+  :block/created-at 1666905009492,
+  :block/updated-at 1666905009492}
  {:block/name "jun 1st, 2022",
-  :block/created-at 1666931900635,
-  :block/updated-at 1666931900635}
+  :block/created-at 1665810821662,
+  :block/updated-at 1665810821662}
  {:block/name "jun 20th, 2022",
-  :block/created-at 1666931900303,
-  :block/updated-at 1666931900303}
+  :block/created-at 1665810820576,
+  :block/updated-at 1665810820576}
  {:block/name "jun 21st, 2021",
-  :block/created-at 1666931904290,
-  :block/updated-at 1666931904290}
+  :block/created-at 1666905178011,
+  :block/updated-at 1666905178011}
  {:block/name "jun 21st, 2022",
-  :block/created-at 1666931900265,
-  :block/updated-at 1666931900265}
+  :block/created-at 1665810820609,
+  :block/updated-at 1665810820609}
  {:block/name "jun 22nd, 2022",
-  :block/created-at 1666931900230,
-  :block/updated-at 1666931900230}
+  :block/created-at 1665810820673,
+  :block/updated-at 1665810820673}
  {:block/name "jun 23rd, 2021",
-  :block/created-at 1666931904264,
-  :block/updated-at 1666931904264}
+  :block/created-at 1666905192665,
+  :block/updated-at 1666905192665}
  {:block/name "jun 23rd, 2022",
-  :block/created-at 1666931900165,
-  :block/updated-at 1666931900165}
+  :block/created-at 1665810820690,
+  :block/updated-at 1665810820690}
  {:block/name "jun 25th, 2021",
-  :block/created-at 1666931904216,
-  :block/updated-at 1666931904216}
+  :block/created-at 1666905208236,
+  :block/updated-at 1666905208236}
  {:block/name "jun 25th, 2022",
-  :block/created-at 1666931900144,
-  :block/updated-at 1666931900144}
+  :block/created-at 1665810820740,
+  :block/updated-at 1665810820740}
  {:block/name "jun 28th, 2021",
-  :block/created-at 1666931904145,
-  :block/updated-at 1666931904145}
+  :block/created-at 1666905227732,
+  :block/updated-at 1666905227732}
  {:block/name "jun 29th, 2021",
-  :block/created-at 1666931902621,
-  :block/updated-at 1666931902621}
+  :block/created-at 1666905244730,
+  :block/updated-at 1666905244730}
  {:block/name "jun 2nd, 2021",
-  :block/created-at 1666931904689,
-  :block/updated-at 1666931904689}
+  :block/created-at 1666905023768,
+  :block/updated-at 1666905023768}
  {:block/name "jun 2nd, 2022",
-  :block/created-at 1666931900582,
-  :block/updated-at 1666931900582}
+  :block/created-at 1665810820212,
+  :block/updated-at 1665810820212}
  {:block/name "jun 3rd, 2021",
-  :block/created-at 1666931904638,
-  :block/updated-at 1666931904638}
+  :block/created-at 1666905046159,
+  :block/updated-at 1666905046159}
  {:block/name "jun 3rd, 2022",
-  :block/created-at 1666931900499,
-  :block/updated-at 1666931900499}
+  :block/created-at 1665810820326,
+  :block/updated-at 1665810820326}
  {:block/name "jun 4th, 2021",
-  :block/created-at 1666931904614,
-  :block/updated-at 1666931904614}
+  :block/created-at 1666905060124,
+  :block/updated-at 1666905060124}
  {:block/name "jun 5th, 2022",
-  :block/created-at 1666931900461,
-  :block/updated-at 1666931900461}
+  :block/created-at 1665810820397,
+  :block/updated-at 1665810820397}
  {:block/name "jun 6th, 2021",
-  :block/created-at 1666931904568,
-  :block/updated-at 1666931904568}
+  :block/created-at 1666905087130,
+  :block/updated-at 1666905087130}
  {:block/name "jun 7th, 2021",
-  :block/created-at 1666931904527,
-  :block/updated-at 1666931904527}
+  :block/created-at 1666905100905,
+  :block/updated-at 1666905100905}
  {:block/name "jun 8th, 2022",
-  :block/created-at 1666931900412,
-  :block/updated-at 1666931900412}
+  :block/created-at 1665810820456,
+  :block/updated-at 1665810820456}
  {:block/name "jun 9th, 2021",
-  :block/created-at 1666931904501,
-  :block/updated-at 1666931904501}
+  :block/created-at 1666905115884,
+  :block/updated-at 1666905115884}
  {:block/name "jun 9th, 2022",
-  :block/created-at 1666931900367,
-  :block/updated-at 1666931900367}
+  :block/created-at 1665810820492,
+  :block/updated-at 1665810820492}
  {:block/name "kids",
-  :block/created-at 1666931900625,
-  :block/updated-at 1666931900625}
+  :block/created-at 1665810823036,
+  :block/updated-at 1665810823036}
  {:block/name "kingsolvers-appalachian-elegy",
-  :block/created-at 1666931925023,
-  :block/updated-at 1666931925023}
+  :block/created-at 1666903798834,
+  :block/updated-at 1666903798834}
  {:block/name "later",
-  :block/created-at 1666931875972,
-  :block/updated-at 1666931875972}
+  :block/created-at 1665810916060,
+  :block/updated-at 1665810916060}
  {:block/name "learn",
-  :block/created-at 1666931900628,
-  :block/updated-at 1666931900628}
+  :block/created-at 1665810823497,
+  :block/updated-at 1665810823497}
  {:block/name "lifelong learning",
-  :block/created-at 1666931932307,
-  :block/updated-at 1666931932307}
+  :block/created-at 1665810821782,
+  :block/updated-at 1665810821782}
  {:block/name "linda serepca",
-  :block/created-at 1666931938146,
-  :block/updated-at 1666931938146}
+  :block/created-at 1665810831492,
+  :block/updated-at 1665810831492}
  {:block/name "link files']",
-  :block/created-at 1666931923752,
-  :block/updated-at 1666931923752}
+  :block/created-at 1666903803016,
+  :block/updated-at 1666903803016}
  {:block/name "logseq",
-  :block/created-at 1666931898723,
-  :block/updated-at 1666931898723}
+  :block/created-at 1666883737281,
+  :block/updated-at 1666883737281}
  {:block/name "lost-in-grief",
-  :block/created-at 1666931925049,
-  :block/updated-at 1666931925049}
+  :block/created-at 1666903798774,
+  :block/updated-at 1666903798774}
  {:block/name "lost-is-a-place",
-  :block/created-at 1666931925108,
-  :block/updated-at 1666931925108}
+  :block/created-at 1666903798775,
+  :block/updated-at 1666903798775}
  {:block/name "lydia",
-  :block/created-at 1666931901087,
-  :block/updated-at 1666931901087}
+  :block/created-at 1665810822840,
+  :block/updated-at 1665810822840}
  {:block/name "lydia-birth",
-  :block/created-at 1666931920803,
-  :block/updated-at 1666931920803}
+  :block/created-at 1666903798773,
+  :block/updated-at 1666903798773}
  {:block/name "lydias wedding",
-  :block/created-at 1666931933346,
-  :block/updated-at 1666931933346}
+  :block/created-at 1665810827491,
+  :block/updated-at 1665810827491}
  {:block/name "lydias-wedding",
-  :block/created-at 1666931901148,
-  :block/updated-at 1666931901148}
+  :block/created-at 1665810822642,
+  :block/updated-at 1665810822642}
  {:block/name "mar 10th, 2021",
-  :block/created-at 1666931906528,
-  :block/updated-at 1666931906528}
+  :block/created-at 1666801448841,
+  :block/updated-at 1666801448841}
  {:block/name "mar 11th, 2021",
-  :block/created-at 1666931906499,
-  :block/updated-at 1666931906499}
+  :block/created-at 1666801486675,
+  :block/updated-at 1666801486675}
  {:block/name "mar 12th, 2021",
-  :block/created-at 1666931906456,
-  :block/updated-at 1666931906456}
+  :block/created-at 1666801509595,
+  :block/updated-at 1666801509595}
  {:block/name "mar 13th, 2021",
-  :block/created-at 1666931906419,
-  :block/updated-at 1666931906419}
+  :block/created-at 1666801529973,
+  :block/updated-at 1666801529973}
  {:block/name "mar 14th, 2021",
-  :block/created-at 1666931906383,
-  :block/updated-at 1666931906383}
+  :block/created-at 1666801553836,
+  :block/updated-at 1666801553836}
  {:block/name "mar 15th, 2021",
-  :block/created-at 1666931906351,
-  :block/updated-at 1666931906351}
+  :block/created-at 1666801575349,
+  :block/updated-at 1666801575349}
  {:block/name "mar 16th, 2021",
-  :block/created-at 1666931906326,
-  :block/updated-at 1666931906326}
+  :block/created-at 1666801596840,
+  :block/updated-at 1666801596840}
  {:block/name "mar 17th, 2021",
-  :block/created-at 1666931906285,
-  :block/updated-at 1666931906285}
+  :block/created-at 1666801627074,
+  :block/updated-at 1666801627074}
  {:block/name "mar 19th, 2021",
-  :block/created-at 1666931906265,
-  :block/updated-at 1666931906265}
+  :block/created-at 1666801651937,
+  :block/updated-at 1666801651937}
  {:block/name "mar 20th, 2021",
-  :block/created-at 1666931906212,
-  :block/updated-at 1666931906212}
+  :block/created-at 1666801677130,
+  :block/updated-at 1666801677130}
  {:block/name "mar 21st, 2021",
-  :block/created-at 1666931906195,
-  :block/updated-at 1666931906195}
+  :block/created-at 1666801694663,
+  :block/updated-at 1666801694663}
  {:block/name "mar 22nd, 2021",
-  :block/created-at 1666931906154,
-  :block/updated-at 1666931906154}
+  :block/created-at 1666801724279,
+  :block/updated-at 1666801799552}
  {:block/name "mar 24th, 2021",
-  :block/created-at 1666931906105,
-  :block/updated-at 1666931906105}
+  :block/created-at 1666801852568,
+  :block/updated-at 1666801852568}
  {:block/name "mar 25th, 2021",
-  :block/created-at 1666931906080,
-  :block/updated-at 1666931906080}
+  :block/created-at 1666801876872,
+  :block/updated-at 1666801876872}
  {:block/name "mar 27th, 2021",
-  :block/created-at 1666931906033,
-  :block/updated-at 1666931906033}
+  :block/created-at 1666801899672,
+  :block/updated-at 1666801899672}
  {:block/name "mar 31st, 2021",
-  :block/created-at 1666931906015,
-  :block/updated-at 1666931906015}
+  :block/created-at 1666801930113,
+  :block/updated-at 1666801930113}
  {:block/name "mar 3rd, 2021",
-  :block/created-at 1666931906694,
-  :block/updated-at 1666931906694}
+  :block/created-at 1666801306553,
+  :block/updated-at 1666801306553}
  {:block/name "mar 4th, 2021",
-  :block/created-at 1666931906649,
-  :block/updated-at 1666931906649}
+  :block/created-at 1666801343581,
+  :block/updated-at 1666801343581}
  {:block/name "mar 7th, 2021",
-  :block/created-at 1666931906624,
-  :block/updated-at 1666931906624}
+  :block/created-at 1666801367003,
+  :block/updated-at 1666801367003}
  {:block/name "mar 8th, 2021",
-  :block/created-at 1666931906581,
-  :block/updated-at 1666931906581}
+  :block/created-at 1666801401068,
+  :block/updated-at 1666801401068}
  {:block/name "mar 9th, 2021",
-  :block/created-at 1666931906563,
-  :block/updated-at 1666931906563}
+  :block/created-at 1666801423402,
+  :block/updated-at 1666801423402}
  {:block/name "marginalian",
-  :block/created-at 1666931899977,
-  :block/updated-at 1666931899977}
+  :block/created-at 1665810821121,
+  :block/updated-at 1665810821121}
  {:block/name "markdown",
-  :block/created-at 1666931906454,
-  :block/updated-at 1666931906454}
+  :block/created-at 1666802304870,
+  :block/updated-at 1666802304870}
  {:block/name "martin-niemoeller",
-  :block/created-at 1666931920801,
-  :block/updated-at 1666931920801}
+  :block/created-at 1666903798772,
+  :block/updated-at 1666903798772}
  {:block/name "mary-pat-birthday-72",
-  :block/created-at 1666931925210,
-  :block/updated-at 1666931925210}
+  :block/created-at 1666903798771,
+  :block/updated-at 1666903798771}
  {:block/name "marypat",
-  :block/created-at 1666931900862,
-  :block/updated-at 1666931900862}
+  :block/created-at 1665810823491,
+  :block/updated-at 1665810823491}
  {:block/name "may 11th, 2021",
-  :block/created-at 1666931905150,
-  :block/updated-at 1666931905150}
+  :block/created-at 1666904601814,
+  :block/updated-at 1666904648032}
  {:block/name "may 11th, 2022",
-  :block/created-at 1666931900981,
-  :block/updated-at 1666931900981}
+  :block/created-at 1665810819861,
+  :block/updated-at 1665810819861}
  {:block/name "may 12th, 2021",
-  :block/created-at 1666931905070,
-  :block/updated-at 1666931905070}
+  :block/created-at 1666904689719,
+  :block/updated-at 1666904689719}
  {:block/name "may 13th, 2022",
-  :block/created-at 1666931900939,
-  :block/updated-at 1666931900939}
+  :block/created-at 1665810819879,
+  :block/updated-at 1665810819879}
  {:block/name "may 14th, 2021",
-  :block/created-at 1666931905048,
-  :block/updated-at 1666931905048}
+  :block/created-at 1666904712157,
+  :block/updated-at 1666904712157}
  {:block/name "may 15th, 2021",
-  :block/created-at 1666931904996,
-  :block/updated-at 1666931904996}
+  :block/created-at 1666904729117,
+  :block/updated-at 1666904729117}
  {:block/name "may 18th, 2022",
-  :block/created-at 1666931900923,
-  :block/updated-at 1666931900923}
+  :block/created-at 1665810819911,
+  :block/updated-at 1665810819911}
  {:block/name "may 1st, 2021",
-  :block/created-at 1666931905344,
-  :block/updated-at 1666931905344}
+  :block/created-at 1666904475898,
+  :block/updated-at 1666904475898}
  {:block/name "may 21st, 2021",
-  :block/created-at 1666931904969,
-  :block/updated-at 1666931904969}
+  :block/created-at 1666904743504,
+  :block/updated-at 1666904743504}
  {:block/name "may 22nd, 2021",
-  :block/created-at 1666931904911,
-  :block/updated-at 1666931904911}
+  :block/created-at 1666904787178,
+  :block/updated-at 1666904787178}
  {:block/name "may 22nd, 2022",
-  :block/created-at 1666931900865,
-  :block/updated-at 1666931900865}
+  :block/created-at 1665810819946,
+  :block/updated-at 1665810819946}
  {:block/name "may 23rd, 2021",
-  :block/created-at 1666931904882,
-  :block/updated-at 1666931904882}
+  :block/created-at 1666904801011,
+  :block/updated-at 1666904801011}
  {:block/name "may 24th, 2021",
-  :block/created-at 1666931904845,
-  :block/updated-at 1666931904845}
+  :block/created-at 1666904816949,
+  :block/updated-at 1666904816949}
  {:block/name "may 25th, 2022",
-  :block/created-at 1666931900808,
-  :block/updated-at 1666931900808}
+  :block/created-at 1665810819978,
+  :block/updated-at 1665810819978}
  {:block/name "may 26th, 2021",
-  :block/created-at 1666931904817,
-  :block/updated-at 1666931904817}
+  :block/created-at 1666904830681,
+  :block/updated-at 1666904830681}
  {:block/name "may 27th, 2022",
-  :block/created-at 1666931900774,
-  :block/updated-at 1666931900774}
+  :block/created-at 1665810820034,
+  :block/updated-at 1665810820034}
  {:block/name "may 28th, 2021",
-  :block/created-at 1666931904772,
-  :block/updated-at 1666931904772}
+  :block/created-at 1666904846615,
+  :block/updated-at 1666904846615}
  {:block/name "may 29th, 2021",
-  :block/created-at 1666931904756,
-  :block/updated-at 1666931904756}
+  :block/created-at 1666904869479,
+  :block/updated-at 1666904869479}
  {:block/name "may 2nd, 2022",
-  :block/created-at 1666931901174,
-  :block/updated-at 1666931901174}
+  :block/created-at 1665810819545,
+  :block/updated-at 1665810819545}
  {:block/name "may 30th, 2022",
-  :block/created-at 1666931939460,
-  :block/updated-at 1666931939460}
+  :block/created-at 1665810833435,
+  :block/updated-at 1665810833435}
  {:block/name "may 3rd, 2022",
-  :block/created-at 1666931901150,
-  :block/updated-at 1666931901150}
+  :block/created-at 1665810822554,
+  :block/updated-at 1665810822554}
  {:block/name "may 4th, 2021",
-  :block/created-at 1666931905307,
-  :block/updated-at 1666931905307}
+  :block/created-at 1666904492576,
+  :block/updated-at 1666904492576}
  {:block/name "may 4th, 2022",
-  :block/created-at 1666931901121,
-  :block/updated-at 1666931901121}
+  :block/created-at 1665810819660,
+  :block/updated-at 1665810819660}
  {:block/name "may 5th, 2021",
-  :block/created-at 1666931905261,
-  :block/updated-at 1666931905261}
+  :block/created-at 1666904508533,
+  :block/updated-at 1666904508533}
  {:block/name "may 5th, 2022",
-  :block/created-at 1666931901089,
-  :block/updated-at 1666931901089}
+  :block/created-at 1665810819742,
+  :block/updated-at 1665810819742}
  {:block/name "may 6th, 2021",
-  :block/created-at 1666931905207,
-  :block/updated-at 1666931905207}
+  :block/created-at 1666904528539,
+  :block/updated-at 1666904528539}
  {:block/name "may 7th, 2021",
-  :block/created-at 1666931905166,
-  :block/updated-at 1666931905166}
+  :block/created-at 1666904585561,
+  :block/updated-at 1666904585561}
  {:block/name "may 8th, 2022",
-  :block/created-at 1666931901034,
-  :block/updated-at 1666931901034}
+  :block/created-at 1665810819775,
+  :block/updated-at 1665810819775}
  {:block/name "may 9th, 2022",
-  :block/created-at 1666931901001,
-  :block/updated-at 1666931901001}
+  :block/created-at 1665810819814,
+  :block/updated-at 1665810819814}
  {:block/name "meet",
-  :block/created-at 1666931936338,
-  :block/updated-at 1666931936338}
+  :block/created-at 1665810828517,
+  :block/updated-at 1665810828517}
  {:block/name "meet/2022",
-  :block/created-at 1666931936280,
-  :block/updated-at 1666931936280}
+  :block/created-at 1665810828475,
+  :block/updated-at 1665810828475}
  {:block/name "meet/2022/09",
-  :block/created-at 1666931936281,
-  :block/updated-at 1666931936281}
+  :block/created-at 1665810828479,
+  :block/updated-at 1665810828479}
  {:block/name "meet/2022/09/20",
-  :block/created-at 1666931936276,
-  :block/updated-at 1666931936276}
+  :block/created-at 1665810828471,
+  :block/updated-at 1665810828471}
  {:block/name "meeting notes template",
-  :block/created-at 1666931938989,
-  :block/updated-at 1666931938989}
+  :block/created-at 1665810832065,
+  :block/updated-at 1665810832065}
  {:block/name "meeting-notes",
-  :block/created-at 1666931909680,
-  :block/updated-at 1666931909680}
+  :block/created-at 1665810821474,
+  :block/updated-at 1665810821474}
  {:block/name "memories",
-  :block/created-at 1666931898735,
-  :block/updated-at 1666931898735}
+  :block/created-at 1666902656891,
+  :block/updated-at 1666902656891}
  {:block/name "miriam",
-  :block/created-at 1666931900408,
-  :block/updated-at 1666931900408}
+  :block/created-at 1665810820971,
+  :block/updated-at 1665810820971}
  {:block/name "miriam-letter",
-  :block/created-at 1666931925267,
-  :block/updated-at 1666931925267}
- {:block/name "modification-date",
-  :block/created-at 1666931939473,
-  :block/updated-at 1666931939473}
+  :block/created-at 1666903798770,
+  :block/updated-at 1666903798770}
  {:block/name "mothers",
-  :block/created-at 1666931940124,
-  :block/updated-at 1666931940124}
+  :block/created-at 1665810828564,
+  :block/updated-at 1665810828564}
+ {:block/name "movies",
+  :block/created-at 1667127638419,
+  :block/updated-at 1667127638419}
  {:block/name "moving",
-  :block/created-at 1666931900771,
-  :block/updated-at 1666931900771}
+  :block/created-at 1665810823042,
+  :block/updated-at 1665810823042}
  {:block/name "mp birthday 73",
-  :block/created-at 1666931936148,
-  :block/updated-at 1666931936148}
+  :block/created-at 1665810828380,
+  :block/updated-at 1665810828380}
  {:block/name "mp birthday draft",
-  :block/created-at 1666931936200,
-  :block/updated-at 1666931936200}
+  :block/created-at 1665810828415,
+  :block/updated-at 1665810828415}
  {:block/name "muriel rukeyser on aliveness",
-  :block/created-at 1666931936589,
-  :block/updated-at 1666931936589}
+  :block/created-at 1665810828755,
+  :block/updated-at 1665810828755}
  {:block/name "muriel-rukeyser-on-aliveness",
-  :block/created-at 1666931936010,
-  :block/updated-at 1666931936010}
+  :block/created-at 1665810828286,
+  :block/updated-at 1665810828286}
  {:block/name "music",
-  :block/created-at 1666931900769,
-  :block/updated-at 1666931900769}
+  :block/created-at 1665810822923,
+  :block/updated-at 1665810822923}
  {:block/name "nc-diocese-info",
-  :block/created-at 1666931925313,
-  :block/updated-at 1666931925313}
+  :block/created-at 1666903798769,
+  :block/updated-at 1666903798769}
  {:block/name "ng doing",
-  :block/created-at 1666931936680,
-  :block/updated-at 1666931936680}
+  :block/created-at 1665810828827,
+  :block/updated-at 1665810828827}
  {:block/name "notes",
-  :block/created-at 1666931899275,
-  :block/updated-at 1666931899275}
+  :block/created-at 1665810821490,
+  :block/updated-at 1665810821490}
  {:block/name "notes/daily-journal-2022-09-15",
-  :block/created-at 1666931936905,
-  :block/updated-at 1666931936905}
+  :block/created-at 1665810829005,
+  :block/updated-at 1665810829005}
  {:block/name "notes/journal",
-  :block/created-at 1666931899273,
-  :block/updated-at 1666931899273}
+  :block/created-at 1665810829135,
+  :block/updated-at 1665810829135}
  {:block/name "notes/journal/2022",
-  :block/created-at 1666931937099,
-  :block/updated-at 1666931937099}
+  :block/created-at 1665810829136,
+  :block/updated-at 1665810829136}
  {:block/name "notes/journal/2022/09",
-  :block/created-at 1666931937100,
-  :block/updated-at 1666931937100}
+  :block/created-at 1665810829137,
+  :block/updated-at 1665810829137}
  {:block/name "notes/journal/2022/09/18",
-  :block/created-at 1666931937070,
-  :block/updated-at 1666931937070}
+  :block/created-at 1665810829103,
+  :block/updated-at 1665810829103}
  {:block/name "notes/journal/2022/09/20",
-<<<<<<< HEAD
   :block/created-at 1665810829132,
   :block/updated-at 1665810829132}
  {:block/name "nov 13th, 2021",
@@ -1530,68 +1451,43 @@
  {:block/name "nov 6th, 2021",
   :block/created-at 1666906824710,
   :block/updated-at 1666906824710}
-=======
-  :block/created-at 1666931937095,
-  :block/updated-at 1666931937095}
- {:block/name "nov 13th, 2021",
-  :block/created-at 1666931901399,
-  :block/updated-at 1666931901399}
- {:block/name "nov 17th, 2021",
-  :block/created-at 1666931901370,
-  :block/updated-at 1666931901370}
- {:block/name "nov 19th, 2021",
-  :block/created-at 1666931901343,
-  :block/updated-at 1666931901343}
- {:block/name "nov 6th, 2021",
-  :block/created-at 1666931901446,
-  :block/updated-at 1666931901446}
->>>>>>> 9e0bff18737afccaafe36adc60c66b6bc9f6f912
  {:block/name "now",
-  :block/created-at 1666931875971,
-  :block/updated-at 1666931875971}
+  :block/created-at 1665810916060,
+  :block/updated-at 1665810916060}
  {:block/name "nt wright origin christianity",
-  :block/created-at 1666931937322,
-  :block/updated-at 1666931937322}
+  :block/created-at 1665810829405,
+  :block/updated-at 1665810829405}
  {:block/name "nt-wright-origin-christianity",
-  :block/created-at 1666931935754,
-  :block/updated-at 1666931935754}
+  :block/created-at 1665810828150,
+  :block/updated-at 1665810828150}
  {:block/name "obsidian",
-  :block/created-at 1666931898967,
-  :block/updated-at 1666931898967}
+  :block/created-at 1666558898021,
+  :block/updated-at 1666558898021}
  {:block/name "obsidian-notes",
-<<<<<<< HEAD
   :block/created-at 1666903798768,
   :block/updated-at 1666903798768}
  {:block/name "oct 11th, 2021",
   :block/created-at 1666906723237,
   :block/updated-at 1666906723237}
-=======
-  :block/created-at 1666931925358,
-  :block/updated-at 1666931925358}
- {:block/name "oct 11th, 2021",
-  :block/created-at 1666931901588,
-  :block/updated-at 1666931901588}
->>>>>>> 9e0bff18737afccaafe36adc60c66b6bc9f6f912
  {:block/name "oct 11th, 2022",
-  :block/created-at 1666931929521,
-  :block/updated-at 1666931929521}
+  :block/created-at 1665810819362,
+  :block/updated-at 1666099525140}
  {:block/name "oct 13th, 2022",
-  :block/created-at 1666931929545,
-  :block/updated-at 1666931929545}
+  :block/created-at 1665864225975,
+  :block/updated-at 1665864225975}
  {:block/name "oct 15th, 2022",
-  :block/created-at 1666931899281,
-  :block/updated-at 1666931899281}
+  :block/created-at 1665810819123,
+  :block/updated-at 1665863574269}
  {:block/name "oct 16th, 2022",
-  :block/created-at 1666931899247,
-  :block/updated-at 1666931899247}
+  :block/created-at 1666095827216,
+  :block/updated-at 1666095827216}
  {:block/name "oct 17th, 2022",
-  :block/created-at 1666931899218,
-  :block/updated-at 1666931899218}
+  :block/created-at 1666098605258,
+  :block/updated-at 1666098605258}
  {:block/name "oct 18th, 2022",
-  :block/created-at 1666931899196,
-  :block/updated-at 1666931899196}
+  :block/created-at 1666098605220,
+  :block/updated-at 1666099469961}
  {:block/name "oct 19th, 2022",
-<<<<<<< HEAD
   :block/created-at 1666186699673,
   :block/updated-at 1666202707140}
  {:block/name "oct 1st, 2021",
@@ -1603,193 +1499,180 @@
  {:block/name "oct 21st, 2021",
   :block/created-at 1666906738217,
   :block/updated-at 1666906738217}
-=======
-  :block/created-at 1666931899147,
-  :block/updated-at 1666931899147}
- {:block/name "oct 1st, 2021",
-  :block/created-at 1666931901650,
-  :block/updated-at 1666931901650}
- {:block/name "oct 20th, 2022",
-  :block/created-at 1666931899105,
-  :block/updated-at 1666931899105}
- {:block/name "oct 21st, 2021",
-  :block/created-at 1666931901550,
-  :block/updated-at 1666931901550}
->>>>>>> 9e0bff18737afccaafe36adc60c66b6bc9f6f912
  {:block/name "oct 21st, 2022",
-  :block/created-at 1666931899065,
-  :block/updated-at 1666931899065}
+  :block/created-at 1666326959600,
+  :block/updated-at 1666384227348}
  {:block/name "oct 22nd, 2022",
-<<<<<<< HEAD
   :block/created-at 1666476760070,
   :block/updated-at 1666479823213}
  {:block/name "oct 23rd, 2021",
   :block/created-at 1666906774642,
   :block/updated-at 1666906774642}
-=======
-  :block/created-at 1666931899011,
-  :block/updated-at 1666931899011}
- {:block/name "oct 23rd, 2021",
-  :block/created-at 1666931901512,
-  :block/updated-at 1666931901512}
->>>>>>> 9e0bff18737afccaafe36adc60c66b6bc9f6f912
  {:block/name "oct 23rd, 2022",
-  :block/created-at 1666931898974,
-  :block/updated-at 1666931898974}
+  :block/created-at 1666548718248,
+  :block/updated-at 1666561669344}
  {:block/name "oct 24th, 2022",
-  :block/created-at 1666931898932,
-  :block/updated-at 1666931898932}
+  :block/created-at 1666615011583,
+  :block/updated-at 1666666477859}
  {:block/name "oct 25th, 2022",
-  :block/created-at 1666931898901,
-  :block/updated-at 1666931898901}
+  :block/created-at 1666615081391,
+  :block/updated-at 1666615081391}
  {:block/name "oct 26th, 2022",
-  :block/created-at 1666931898855,
-  :block/updated-at 1666932344530}
+  :block/created-at 1666791570885,
+  :block/updated-at 1666973824876}
  {:block/name "oct 27th, 2022",
-  :block/created-at 1666931898743,
-  :block/updated-at 1666931898743}
+  :block/created-at 1666871266297,
+  :block/updated-at 1666902656892}
  {:block/name "oct 28th, 2022",
-<<<<<<< HEAD
   :block/created-at 1666817657857,
-  :block/updated-at 1666817657857}
+  :block/updated-at 1666974164485}
  {:block/name "oct 29th, 2021",
   :block/created-at 1666906790379,
   :block/updated-at 1666906790379}
+ {:block/name "oct 29th, 2022",
+  :block/created-at 1667127637326,
+  :block/updated-at 1667183816776}
+ {:block/name "oct 30th, 2022",
+  :block/created-at 1667127637533,
+  :block/updated-at 1667132252664}
+ {:block/name "oct 31st, 2022",
+<<<<<<< HEAD
+  :block/created-at 1667206876927,
+  :block/updated-at 1667237852211}
+=======
+  :block/created-at 1667214136739,
+  :block/updated-at 1667214136739}
+>>>>>>> 3cd5f8566a1e45f63b090f9e50247ac193e1d5ef
  {:block/name "oct 4th, 2021",
   :block/created-at 1666906702784,
   :block/updated-at 1666906702784}
-=======
-  :block/created-at 1666931768133,
-  :block/updated-at 1666960690417}
- {:block/name "oct 29th, 2021",
-  :block/created-at 1666931901478,
-  :block/updated-at 1666931901478}
- {:block/name "oct 4th, 2021",
-  :block/created-at 1666931901621,
-  :block/updated-at 1666931901621}
->>>>>>> 9e0bff18737afccaafe36adc60c66b6bc9f6f912
  {:block/name "octavia butler on the meaning of god",
-  :block/created-at 1666931899278,
-  :block/updated-at 1666931899278}
+  :block/created-at 1665810829457,
+  :block/updated-at 1665810829457}
  {:block/name "odonohue",
-  :block/created-at 1666931909699,
-  :block/updated-at 1666931909699}
+  :block/created-at 1665810821507,
+  :block/updated-at 1665810821507}
  {:block/name "odonohue questions",
-  :block/created-at 1666931939103,
-  :block/updated-at 1666931939103}
+  :block/created-at 1665810832169,
+  :block/updated-at 1665810832169}
  {:block/name "odonohue response",
-  :block/created-at 1666931937444,
-  :block/updated-at 1666931937444}
+  :block/created-at 1665810829491,
+  :block/updated-at 1665810829491}
  {:block/name "odonohue-questions",
-  :block/created-at 1666931909701,
-  :block/updated-at 1666931909701}
+  :block/created-at 1665810821510,
+  :block/updated-at 1665810821510}
  {:block/name "odonohue-response",
-  :block/created-at 1666931909700,
-  :block/updated-at 1666931909700}
+  :block/created-at 1665810821508,
+  :block/updated-at 1665810821508}
  {:block/name "offensive-gramma-bridget-photo",
-  :block/created-at 1666931925371,
-  :block/updated-at 1666931925371}
+  :block/created-at 1666903798833,
+  :block/updated-at 1666903798833}
  {:block/name "outlander-song-of-skye",
-  :block/created-at 1666931925415,
-  :block/updated-at 1666931925415}
+  :block/created-at 1666903798763,
+  :block/updated-at 1666903798763}
+ {:block/name "pages",
+  :block/created-at 1667131962192,
+  :block/updated-at 1667131962192}
+ {:block/name "pages/visioning at st. alfred",
+  :block/created-at 1667131962190,
+  :block/updated-at 1667131962190}
  {:block/name "pcloud-public-folder",
-  :block/created-at 1666931925458,
-  :block/updated-at 1666931925458}
+  :block/created-at 1666903798762,
+  :block/updated-at 1666903798762}
  {:block/name "personality",
-  :block/created-at 1666931937474,
-  :block/updated-at 1666931937474}
+  :block/created-at 1665810829520,
+  :block/updated-at 1665810829520}
  {:block/name "peter",
-  :block/created-at 1666931900863,
-  :block/updated-at 1666931900863}
+  :block/created-at 1665810819945,
+  :block/updated-at 1665810819945}
  {:block/name "peter judge",
-  :block/created-at 1666931937536,
-  :block/updated-at 1666931937536}
+  :block/created-at 1665810829545,
+  :block/updated-at 1665810829545}
  {:block/name "planning-st-pauls",
-  :block/created-at 1666931925480,
-  :block/updated-at 1666931925480}
+  :block/created-at 1666903798761,
+  :block/updated-at 1666903798761}
  {:block/name "poem-72",
-  :block/created-at 1666931925536,
-  :block/updated-at 1666931925536}
+  :block/created-at 1666903798759,
+  :block/updated-at 1666903798759}
  {:block/name "possible-lenten-prayer-texts",
-  :block/created-at 1666931925744,
-  :block/updated-at 1666931925744}
+  :block/created-at 1666903798758,
+  :block/updated-at 1666903798758}
  {:block/name "presence-of-god",
-  :block/created-at 1666931925782,
-  :block/updated-at 1666931925782}
+  :block/created-at 1666903798738,
+  :block/updated-at 1666903798738}
  {:block/name "problem solving",
-  :block/created-at 1666931900805,
-  :block/updated-at 1666931900805}
+  :block/created-at 1665810819976,
+  :block/updated-at 1665810819976}
  {:block/name "proper 20",
-  :block/created-at 1666931937623,
-  :block/updated-at 1666931937623}
+  :block/created-at 1665810830838,
+  :block/updated-at 1665810830838}
  {:block/name "quote-feed-script",
-  :block/created-at 1666931925825,
-  :block/updated-at 1666931925825}
+  :block/created-at 1666903798756,
+  :block/updated-at 1666903798756}
  {:block/name "quotes",
-  :block/created-at 1666931939135,
-  :block/updated-at 1666931939135}
+  :block/created-at 1665810821525,
+  :block/updated-at 1665810821525}
  {:block/name "racism-as-caste",
-  :block/created-at 1666931920785,
-  :block/updated-at 1666931920785}
+  :block/created-at 1666903798755,
+  :block/updated-at 1666903798755}
  {:block/name "random quote",
-  :block/created-at 1666931939200,
-  :block/updated-at 1666931939200}
+  :block/created-at 1665810832251,
+  :block/updated-at 1665810832251}
  {:block/name "random-quote",
-  :block/created-at 1666931940567,
-  :block/updated-at 1666931940567}
+  :block/created-at 1665810833374,
+  :block/updated-at 1665810833374}
  {:block/name "readme",
-  :block/created-at 1666931937658,
-  :block/updated-at 1666931937658}
+  :block/created-at 1665810831008,
+  :block/updated-at 1665810831008}
  {:block/name "reflection-6-19",
-  :block/created-at 1666931920829,
-  :block/updated-at 1666931920829}
+  :block/created-at 1666903798810,
+  :block/updated-at 1666903798810}
  {:block/name "regret",
-  :block/created-at 1666931920783,
-  :block/updated-at 1666931920783}
+  :block/created-at 1666903798754,
+  :block/updated-at 1666903798754}
  {:block/name "relativism",
-  :block/created-at 1666931937717,
-  :block/updated-at 1666931937717}
+  :block/created-at 1665810829400,
+  :block/updated-at 1665810829400}
  {:block/name "religion",
-  :block/created-at 1666931931485,
-  :block/updated-at 1666931931485}
+  :block/created-at 1665810821653,
+  :block/updated-at 1665810821653}
  {:block/name "retirement",
-  :block/created-at 1666931901172,
-  :block/updated-at 1666931901172}
+  :block/created-at 1665810822484,
+  :block/updated-at 1665810822484}
  {:block/name "return-the-chalice",
-  :block/created-at 1666931920782,
-  :block/updated-at 1666931920782}
+  :block/created-at 1666903798753,
+  :block/updated-at 1666903798753}
  {:block/name "roam-like-notes",
-  :block/created-at 1666931920794,
-  :block/updated-at 1666931920794}
+  :block/created-at 1666903798765,
+  :block/updated-at 1666903798765}
  {:block/name "roam-like-notes 1",
-  :block/created-at 1666931920781,
-  :block/updated-at 1666931920781}
+  :block/created-at 1666903798751,
+  :block/updated-at 1666903798751}
  {:block/name "root",
-  :block/created-at 1666931937855,
-  :block/updated-at 1666931937855}
+  :block/created-at 1665810821736,
+  :block/updated-at 1665810821736}
  {:block/name "roy-jansen",
-  :block/created-at 1666931920780,
-  :block/updated-at 1666931920780}
+  :block/created-at 1666903798749,
+  :block/updated-at 1666903798749}
  {:block/name "rules-for-cleaning",
-  :block/created-at 1666931920779,
-  :block/updated-at 1666931920779}
+  :block/created-at 1666903798748,
+  :block/updated-at 1666903798748}
  {:block/name "russian invasion ukraine",
-  :block/created-at 1666931937914,
-  :block/updated-at 1666931937914}
+  :block/created-at 1665810831292,
+  :block/updated-at 1665810831292}
  {:block/name "russian-invasion-ukraine",
-  :block/created-at 1666931900496,
-  :block/updated-at 1666931900496}
+  :block/created-at 1665810823085,
+  :block/updated-at 1665810823085}
  {:block/name "scott",
-  :block/created-at 1666931900979,
-  :block/updated-at 1666931900979}
+  :block/created-at 1665810823396,
+  :block/updated-at 1665810823396}
  {:block/name "sean",
-  :block/created-at 1666931900918,
-  :block/updated-at 1666931900918}
+  :block/created-at 1665810819908,
+  :block/updated-at 1665810819908}
  {:block/name "sean-willing-to-give-up-question",
-  :block/created-at 1666931920761,
-  :block/updated-at 1666931920761}
+  :block/created-at 1666903798718,
+  :block/updated-at 1666903798718}
  {:block/name "sep 10th, 2021",
-<<<<<<< HEAD
   :block/created-at 1666906502865,
   :block/updated-at 1666906502865}
  {:block/name "sep 18th, 2021",
@@ -1804,255 +1687,233 @@
  {:block/name "sep 29th, 2021",
   :block/created-at 1666906656077,
   :block/updated-at 1666906656077}
-=======
-  :block/created-at 1666931901798,
-  :block/updated-at 1666931901798}
- {:block/name "sep 18th, 2021",
-  :block/created-at 1666931901749,
-  :block/updated-at 1666931901749}
- {:block/name "sep 1st, 2021",
-  :block/created-at 1666931901923,
-  :block/updated-at 1666931901923}
- {:block/name "sep 27th, 2021",
-  :block/created-at 1666931901715,
-  :block/updated-at 1666931901715}
- {:block/name "sep 29th, 2021",
-  :block/created-at 1666931901689,
-  :block/updated-at 1666931901689}
->>>>>>> 9e0bff18737afccaafe36adc60c66b6bc9f6f912
  {:block/name "sep 4th, 2021",
-  :block/created-at 1666931901896,
-  :block/updated-at 1666931901896}
+  :block/created-at 1666906453269,
+  :block/updated-at 1666906453269}
  {:block/name "sep 5th, 2022",
-  :block/created-at 1666931899313,
-  :block/updated-at 1666931899313}
+  :block/created-at 1665810821375,
+  :block/updated-at 1665810821375}
  {:block/name "sep 6th, 2021",
-  :block/created-at 1666931901858,
-  :block/updated-at 1666931901858}
+  :block/created-at 1666906475077,
+  :block/updated-at 1666906475077}
  {:block/name "sep 8th, 2021",
-  :block/created-at 1666931901838,
-  :block/updated-at 1666931901838}
+  :block/created-at 1666906490139,
+  :block/updated-at 1666906490139}
  {:block/name "shirley",
-  :block/created-at 1666931901084,
-  :block/updated-at 1666931901084}
- {:block/name "source",
-  :block/created-at 1666931933778,
-  :block/updated-at 1666931933778}
+  :block/created-at 1665810819737,
+  :block/updated-at 1665810819737}
  {:block/name "spiritual",
-  :block/created-at 1666931900621,
-  :block/updated-at 1666931900621}
+  :block/created-at 1665810823494,
+  :block/updated-at 1665810823494}
  {:block/name "spiritual director",
-  :block/created-at 1666931938212,
-  :block/updated-at 1666931938212}
+  :block/created-at 1665810831543,
+  :block/updated-at 1665810831543}
  {:block/name "spiritual-director",
-  :block/created-at 1666931931812,
-  :block/updated-at 1666931931812}
+  :block/created-at 1665810826441,
+  :block/updated-at 1665810826441}
  {:block/name "spiritual-director.charles-carroll",
-  :block/created-at 1666931938195,
-  :block/updated-at 1666931938195}
+  :block/created-at 1665810831524,
+  :block/updated-at 1665810831524}
  {:block/name "spiritual-director.dick-hubbard",
-  :block/created-at 1666931938204,
-  :block/updated-at 1666931938204}
+  :block/created-at 1665810831535,
+  :block/updated-at 1665810831535}
  {:block/name "spiritual-director.fritz-pfotenhauer",
-  :block/created-at 1666931938201,
-  :block/updated-at 1666931938201}
+  :block/created-at 1665810831531,
+  :block/updated-at 1665810831531}
  {:block/name "spiritual-director.linda-serepca",
-  :block/created-at 1666931920515,
-  :block/updated-at 1666931920515}
+  :block/created-at 1665810819346,
+  :block/updated-at 1665810819346}
  {:block/name "spiritual-director.suzanne-morris",
-  :block/created-at 1666931938203,
-  :block/updated-at 1666931938203}
+  :block/created-at 1665810831534,
+  :block/updated-at 1665810831534}
  {:block/name "st-pauls-planning",
-  :block/created-at 1666931920775,
-  :block/updated-at 1666931920775}
+  :block/created-at 1666903798741,
+  :block/updated-at 1666903798741}
  {:block/name "st-pauls-visioning",
-  :block/created-at 1666931920776,
-  :block/updated-at 1666931920776}
+  :block/created-at 1666903798744,
+  :block/updated-at 1666903798744}
  {:block/name "st. alfred's",
-  :block/created-at 1666931899137,
-  :block/updated-at 1666931899137}
+  :block/created-at 1666194506059,
+  :block/updated-at 1666194506059}
  {:block/name "suzanne morris",
-  :block/created-at 1666931938248,
-  :block/updated-at 1666931938248}
+  :block/created-at 1665810831611,
+  :block/updated-at 1665810831611}
  {:block/name "tableofcontents']",
-  :block/created-at 1666931921987,
-  :block/updated-at 1666931921987}
+  :block/created-at 1666903801126,
+  :block/updated-at 1666903801126}
  {:block/name "tai chi outline",
-  :block/created-at 1666931938327,
-  :block/updated-at 1666931938327}
+  :block/created-at 1665810831673,
+  :block/updated-at 1665810831673}
  {:block/name "tai-chi-outline",
-  :block/created-at 1666931938286,
-  :block/updated-at 1666931938286}
+  :block/created-at 1665810831630,
+  :block/updated-at 1665810831630}
  {:block/name "tai-chi-outline/journal",
-  :block/created-at 1666931938288,
-  :block/updated-at 1666931938288}
+  :block/created-at 1665810831632,
+  :block/updated-at 1665810831632}
  {:block/name "tai-chi-outline/journal/2022",
-  :block/created-at 1666931938289,
-  :block/updated-at 1666931938289}
+  :block/created-at 1665810831633,
+  :block/updated-at 1665810831633}
  {:block/name "tai-chi-outline/journal/2022/09",
-  :block/created-at 1666931938290,
-  :block/updated-at 1666931938290}
+  :block/created-at 1665810831634,
+  :block/updated-at 1665810831634}
  {:block/name "tai-chi-outline/journal/2022/09/18",
-  :block/created-at 1666931938285,
-  :block/updated-at 1666931938285}
+  :block/created-at 1665810831629,
+  :block/updated-at 1665810831629}
  {:block/name "taxes']",
-  :block/created-at 1666931923897,
-  :block/updated-at 1666931923897}
+  :block/created-at 1666903803253,
+  :block/updated-at 1666903803253}
  {:block/name "templates daily",
-  :block/created-at 1666931938422,
-  :block/updated-at 1666931938422}
+  :block/created-at 1665810829238,
+  :block/updated-at 1665810829238}
  {:block/name "templates.daily",
-  :block/created-at 1666931932266,
-  :block/updated-at 1666931932266}
+  :block/created-at 1665810829221,
+  :block/updated-at 1665810829221}
  {:block/name "templates.meet",
-  :block/created-at 1666931938984,
-  :block/updated-at 1666931938984}
+  :block/created-at 1665810828470,
+  :block/updated-at 1665810828470}
  {:block/name "test",
-  :block/created-at 1666931939508,
-  :block/updated-at 1666931939508}
+  :block/created-at 1665810833466,
+  :block/updated-at 1665810833466}
  {:block/name "test 2",
-  :block/created-at 1666931939475,
-  :block/updated-at 1666931939475}
+  :block/created-at 1665810833440,
+  :block/updated-at 1665810833440}
  {:block/name "test.a-prayer-for-owen-meany",
-  :block/created-at 1666931939451,
-  :block/updated-at 1666931939451}
+  :block/created-at 1665810832471,
+  :block/updated-at 1665810832471}
  {:block/name "test.fictional-meeting",
-  :block/created-at 1666931939500,
-  :block/updated-at 1666931939500}
+  :block/created-at 1665810832525,
+  :block/updated-at 1665810832525}
  {:block/name "things i know",
-  :block/created-at 1666931899442,
-  :block/updated-at 1666931899442}
+  :block/created-at 1665810821289,
+  :block/updated-at 1665810821289}
  {:block/name "things-i-know",
-  :block/created-at 1666931920847,
-  :block/updated-at 1666931920847}
+  :block/created-at 1666903798830,
+  :block/updated-at 1666903798830}
  {:block/name "this is a test",
-  :block/created-at 1666931939580,
-  :block/updated-at 1666931939580}
+  :block/created-at 1666560036531,
+  :block/updated-at 1666560036531}
  {:block/name "tiddly-table-contents",
-  :block/created-at 1666931920774,
-  :block/updated-at 1666931920774}
+  :block/created-at 1666903798740,
+  :block/updated-at 1666903798740}
  {:block/name "tiddlywiki-about",
-  :block/created-at 1666931920771,
-  :block/updated-at 1666931920771}
+  :block/created-at 1666903798736,
+  :block/updated-at 1666903798736}
  {:block/name "tim vail",
-  :block/created-at 1666931939636,
-  :block/updated-at 1666931939636}
+  :block/created-at 1665810832619,
+  :block/updated-at 1665810832619}
  {:block/name "tim-vail",
-  :block/created-at 1666931901081,
-  :block/updated-at 1666931901081}
+  :block/created-at 1665810822606,
+  :block/updated-at 1665810822606}
  {:block/name "time-of-the-magicians",
-  :block/created-at 1666931920765,
-  :block/updated-at 1666931920765}
+  :block/created-at 1666903798732,
+  :block/updated-at 1666903798732}
  {:block/name "time-travel",
-  :block/created-at 1666931920770,
-  :block/updated-at 1666931920770}
+  :block/created-at 1666903798734,
+  :block/updated-at 1666903798734}
  {:block/name "timeline-emma",
-  :block/created-at 1666931933166,
-  :block/updated-at 1666931933166}
+  :block/created-at 1665810827366,
+  :block/updated-at 1665810827366}
  {:block/name "timeshare",
-  :block/created-at 1666931899738,
-  :block/updated-at 1666931899738}
- {:block/name "title-imported",
-  :block/created-at 1666931939998,
-  :block/updated-at 1666931939998}
+  :block/created-at 1665810821065,
+  :block/updated-at 1665810821065}
  {:block/name "to-linda-thankyou",
-  :block/created-at 1666931920806,
-  :block/updated-at 1666931920806}
+  :block/created-at 1666903798776,
+  :block/updated-at 1666903798776}
  {:block/name "todo",
-  :block/created-at 1666931875972,
-  :block/updated-at 1666931875972}
- {:block/name "totalsteps",
-  :block/created-at 1666931939986,
-  :block/updated-at 1666931939986}
+  :block/created-at 1665810916061,
+  :block/updated-at 1665810916061}
  {:block/name "trust",
-  :block/created-at 1666931920764,
-  :block/updated-at 1666931920764}
+  :block/created-at 1666903798724,
+  :block/updated-at 1666903798724}
  {:block/name "tutorial",
-  :block/created-at 1666931939968,
-  :block/updated-at 1666931939968}
+  :block/created-at 1665810829359,
+  :block/updated-at 1665810829359}
  {:block/name "tutorial.one",
-  :block/created-at 1666931939966,
-  :block/updated-at 1666931939966}
+  :block/created-at 1665810829333,
+  :block/updated-at 1665810829333}
  {:block/name "untitled",
-  :block/created-at 1666931940043,
-  :block/updated-at 1666931940043}
- {:block/name "updated",
-  :block/created-at 1666931909954,
-  :block/updated-at 1666931909954}
- {:block/name "updated-imported",
-  :block/created-at 1666931939993,
-  :block/updated-at 1666931939993}
+  :block/created-at 1665810832932,
+  :block/updated-at 1665810832932}
  {:block/name "values-of-society",
-  :block/created-at 1666931920763,
-  :block/updated-at 1666931920763}
+  :block/created-at 1666903798721,
+  :block/updated-at 1666903798721}
+ {:block/name "visioning at st",
+  :block/created-at 1667131961123,
+  :block/updated-at 1667131961123}
+ {:block/name "visioning at st. alfred's",
+  :block/created-at 1667127637322,
+  :block/updated-at 1667127637322}
+ {:block/name "visioning at st/ alfred",
+  :block/created-at 1667131961119,
+  :block/updated-at 1667131961119}
  {:block/name "vs code",
-  :block/created-at 1666931940091,
-  :block/updated-at 1666931940091}
+  :block/created-at 1665810832952,
+  :block/updated-at 1665810832952}
  {:block/name "vs-code",
-  :block/created-at 1666931937094,
-  :block/updated-at 1666931937094}
+  :block/created-at 1665810829131,
+  :block/updated-at 1665810829131}
  {:block/name "wait",
-  :block/created-at 1666931875971,
-  :block/updated-at 1666931875971}
+  :block/created-at 1665810916060,
+  :block/updated-at 1665810916060}
  {:block/name "waiting",
-  :block/created-at 1666931875971,
-  :block/updated-at 1666931875971}
+  :block/created-at 1665810916059,
+  :block/updated-at 1665810916059}
  {:block/name "warren-buffet-guide",
-  :block/created-at 1666931920762,
-  :block/updated-at 1666931920762}
+  :block/created-at 1666903798719,
+  :block/updated-at 1666903798719}
  {:block/name "wastepro",
-  :block/created-at 1666931899050,
-  :block/updated-at 1666931899050}
- {:block/name "weekly link |http:",
-  :block/created-at 1666931925309,
-  :block/updated-at 1666931925309}
- {:block/name "weekly link |http://r20.rs6.net",
-  :block/created-at 1666931925311,
-  :block/updated-at 1666931925311}
+  :block/created-at 1666384182761,
+  :block/updated-at 1666384262702}
+ {:block/name "weekly link _http_",
+  :block/created-at 1667183538657,
+  :block/updated-at 1667183538657}
+ {:block/name "weekly link _http_//r20.rs6.net",
+  :block/created-at 1667183538658,
+  :block/updated-at 1667183538658}
  {:block/name
-  "weekly link |http://r20.rs6.net/tn.jsp?f=001eiznetplr_tzzhrfomlnhdyabk2eutgzmjgsiz8cofhv2vf0umge32sbpl2dwock2q-qrclxa49l3no994vlosk4-awcw6rjgybeidllp_jauclny4cdptlzyrfmtnxsvb1cfc3ogsbzqfmpiqalo6w0mwvjq9tlyxjlzhb48r6p6ggzbc6l1a==&c=c6wqdtguip-dc2lu8b0sev8pu-bgqljooa58liebkwjv5pxrjuf41q==&ch=pnm5j4i9imbvs2hjbpzufoh3jg-3qmfzbxlsddihuupkem9ciowuea==",
-  :block/created-at 1666931925301,
-  :block/updated-at 1666931925301}
+  "weekly link _http_//r20.rs6.net/tn.jsp_f=001eiznetplr_tzzhrfomlnhdyabk2eutgzmjgsiz8cofhv2vf0umge32sbpl2dwock2q-qrclxa49l3no994vlosk4-awcw6rjgybeidllp_jauclny4cdptlzyrfmtnxsvb1cfc3ogsbzqfmpiqalo6w0mwvjq9tlyxjlzhb48r6p6ggzbc6l1a==&c=c6wqdtguip-dc2lu8b0sev8pu-bgqljooa58liebkwjv5pxrjuf41q==&ch=pnm5j4i9imbvs2hjbpzufoh3jg-3qmfzbxlsddihuupkem9ciowuea==",
+  :block/created-at 1667183538649,
+  :block/updated-at 1667183538649}
  {:block/name "what is love",
-  :block/created-at 1666931899869,
-  :block/updated-at 1666931899869}
+  :block/created-at 1665810820975,
+  :block/updated-at 1665810820975}
  {:block/name "where i am may 4",
-  :block/created-at 1666931940206,
-  :block/updated-at 1666931940206}
- {:block/name "where's the joy?",
-  :block/created-at 1666931900458,
-  :block/updated-at 1666931900458}
+  :block/created-at 1665810833090,
+  :block/updated-at 1665810833090}
+ {:block/name "where's the joy_",
+  :block/created-at 1667183523710,
+  :block/updated-at 1667183523710}
  {:block/name "where-i-am-may-4",
-  :block/created-at 1666931901117,
-  :block/updated-at 1666931901117}
+  :block/created-at 1665810822555,
+  :block/updated-at 1665810822555}
  {:block/name "wife",
-  :block/created-at 1666931900623,
-  :block/updated-at 1666931900623}
+  :block/created-at 1665810823493,
+  :block/updated-at 1665810823493}
  {:block/name "william blake",
-  :block/created-at 1666931940375,
-  :block/updated-at 1666931940375}
+  :block/created-at 1665810833255,
+  :block/updated-at 1665810833255}
  {:block/name "william-blake",
-  :block/created-at 1666931936011,
-  :block/updated-at 1666931936011}
+  :block/created-at 1665810828287,
+  :block/updated-at 1665810828287}
  {:block/name
   "women_declare_themselves_corporations_to_force_supreme_court_to_grant_them_rights_as_people_the_new_yorker",
-  :block/created-at 1666931899983,
-  :block/updated-at 1666931899983}
+  :block/created-at 1665810822388,
+  :block/updated-at 1665810822388}
  {:block/name "words",
-  :block/created-at 1666931931541,
-  :block/updated-at 1666931931541}
+  :block/created-at 1665810821689,
+  :block/updated-at 1665810821689}
  {:block/name "working-with-tiddly",
-  :block/created-at 1666931920790,
-  :block/updated-at 1666931920790}
+  :block/created-at 1666903798760,
+  :block/updated-at 1666903798760}
  {:block/name "writing",
-  :block/created-at 1666931900732,
-  :block/updated-at 1666931900732}
+  :block/created-at 1665810823302,
+  :block/updated-at 1665810823302}
  {:block/name "yaml md",
-  :block/created-at 1666931939231,
-  :block/updated-at 1666931939231}
+  :block/created-at 1665810832315,
+  :block/updated-at 1665810832315}
  {:block/name "yesterday's",
-  :block/created-at 1666931901078,
-  :block/updated-at 1666931901078}
+  :block/created-at 1665810822604,
+  :block/updated-at 1665810822604}
  {:block/name "zettlr",
-  :block/created-at 1666931920760, 
-  :block/updated-at 1666931920760}]
+  :block/created-at 1666903798715, 
+  :block/updated-at 1666903798715}]
