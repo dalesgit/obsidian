@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/church.md",
+                "file": "journals/2022_10_30.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Visioning at St. Alfred.md",
+                "file": "journals/2022_10_30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Visioning at St. Alfred.md"
+                "file": "journals/2022_10_30.md"
               }
             }
           },
@@ -151,7 +151,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -159,6 +160,7 @@
   },
   "active": "5b5239eb743489f6",
   "lastOpenFiles": [
+    "pages/Visioning at St. Alfred.md",
     "journals/2022_10_29.md",
     "Visioning at St/ Alfred.md",
     "journals/2022_10_28.md",
