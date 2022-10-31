@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 234.50000381469727
   },
   "right": {
     "id": "789b306ea1af336e",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2022_10_30.md",
+                "file": "pages/Visioning at St. Alfred.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,8 +160,10 @@
   },
   "active": "5b5239eb743489f6",
   "lastOpenFiles": [
+    "journals/2022_10_30.md",
     "pages/Visioning at St. Alfred.md",
     "journals/2022_10_29.md",
+    "journals/2022_10_28.md",
     "Visioning at St/ Alfred.md",
     "journals/2022_10_28.md",
     "journals/2022_10_30.md",
