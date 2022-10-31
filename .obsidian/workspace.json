@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/tiddly-notes/hosting-tiddly.md",
+                "file": "journals/2022_10_31.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/tiddly-notes/hosting-tiddly.md",
+                "file": "journals/2022_10_31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/tiddly-notes/hosting-tiddly.md",
+                "file": "journals/2022_10_31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/tiddly-notes/hosting-tiddly.md"
+                "file": "journals/2022_10_31.md"
               }
             }
           },
@@ -151,14 +151,13 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 382.5
   },
-  "active": "5b5239eb743489f6",
+  "active": "0c3ec7ba1c10df89",
   "lastOpenFiles": [
     "notes/tiddly-notes/tiddlywiki-about.md",
     "notes/tiddly-notes/hosting-tiddly.md",
