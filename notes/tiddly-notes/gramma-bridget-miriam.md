@@ -3,7 +3,7 @@ title: 'GrammaBridget'
 date: '2022-10-16T21:08:06.832Z'
 tags: ['Miriam,link files']
 ---
-
+[[Bridget]] [[Miriam]] 
 <!-- Exported from TiddlyWiki at 19:18, 22nd October 2022 -->
 
 # GrammaBridget
