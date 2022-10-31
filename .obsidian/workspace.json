@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/spiritual-director.linda-serepca.md",
+                "file": "journals/2022_10_31.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/spiritual-director.linda-serepca.md",
+                "file": "journals/2022_10_31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/spiritual-director.linda-serepca.md",
+                "file": "journals/2022_10_31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/spiritual-director.linda-serepca.md"
+                "file": "journals/2022_10_31.md"
               }
             }
           },
@@ -156,7 +156,7 @@
     "direction": "horizontal",
     "width": 382.5
   },
-  "active": "0c3ec7ba1c10df89",
+  "active": "8904d9c5b28549db",
   "lastOpenFiles": [
     "notes/tiddly-notes/to-linda-thankyou.md",
     "pages/spiritual-director.md",
