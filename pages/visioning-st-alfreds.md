@@ -5,7 +5,7 @@
 	- what hungry for in the areas?
 	- one needs to?
 	- Big Hairy Audacious Goal?
-	- any quick wins?
+		- any quick wins?
 - Voting a chance to prioritize since we are a small congregation with limited resources
 - commit to one of the 5 areas with signature
 ## Overview of rationale & focus
