@@ -1,0 +1,1 @@
+- Contemporary issues placed into a narrative challenge. Characters who are finding some strength for going forward to another day by the way they have responded to the day's challenge.
