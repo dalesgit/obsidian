@@ -1,0 +1,4 @@
+- ((logseq://graph/obsidian?block-id=6361be97-aa55-47c7-a42c-ea56124960b3)) symptoms
+	- ((6361be97-aa55-47c7-a42c-ea56124960b3))
+-
+-
