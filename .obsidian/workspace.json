@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SpiritualDirection",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.50000381469727
+    "width": 234.50000381469727,
+    "collapsed": true
   },
   "right": {
     "id": "789b306ea1af336e",
@@ -150,7 +151,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -158,20 +160,15 @@
   },
   "active": "8904d9c5b28549db",
   "lastOpenFiles": [
+    "journals/2022_10_30.md",
+    "journals/2022_10_31.md",
     "pages/['MyChildren'].md",
     "journals/2021_04_05.md",
     "pages/Lydia.md",
     "pages/Miriam.md",
-    "journals/2022_10_31.md",
     "notes/tiddly-notes/to-linda-thankyou.md",
     "pages/spiritual-director.md",
     "notes/tiddly-notes/lost-is-a-place.md",
-    "pages/['MyChildren'].md",
-    "journals/2022_10_31.md",
-    "journals/2022_10_30.md",
-    "notes/tiddly-notes/tiddlywiki-about.md",
-    "notes/tiddly-notes/hosting-tiddly.md",
-    "pages/timeshare.md",
-    "notes/tiddly-notes/tiddly-table-contents.md"
+    "pages/['MyChildren'].md"
   ]
 }
