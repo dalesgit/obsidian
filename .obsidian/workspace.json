@@ -82,6 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "journals/2022_11_02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "journals/2022_11_02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,6 +140,8 @@
   },
   "active": "852b948ff9938eab",
   "lastOpenFiles": [
+    "journals/2022_11_02.md",
+    "journals/2022_10_30.md",
     "journals/2022_10_31.md",
     "journals/2022_11_02.md",
     "pages/['MyChildren'].md",
