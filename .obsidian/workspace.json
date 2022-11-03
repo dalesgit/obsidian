@@ -18,18 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5b5239eb743489f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journals/2022_10_31.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "opht",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.50000381469727,
-    "collapsed": true
+    "width": 234.50000381469727
   },
   "right": {
     "id": "789b306ea1af336e",
@@ -156,10 +143,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 382.5,
+    "collapsed": true
   },
   "active": "8904d9c5b28549db",
   "lastOpenFiles": [
+    "journals/2022_11_02.md",
     "journals/2022_10_30.md",
     "journals/2022_10_31.md",
     "pages/['MyChildren'].md",
@@ -168,7 +157,6 @@
     "pages/Miriam.md",
     "notes/tiddly-notes/to-linda-thankyou.md",
     "pages/spiritual-director.md",
-    "notes/tiddly-notes/lost-is-a-place.md",
-    "pages/['MyChildren'].md"
+    "notes/tiddly-notes/lost-is-a-place.md"
   ]
 }
