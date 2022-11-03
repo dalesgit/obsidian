@@ -271,12 +271,6 @@
  {:block/name "b",
   :block/created-at 1665810916061,
   :block/updated-at 1665810916061}
- {:block/name "becky",
-  :block/created-at 1667482960960,
-  :block/updated-at 1667482960960}
- {:block/name "becky friedenberg",
-  :block/created-at 1665810822143,
-  :block/updated-at 1666190254704}
  {:block/name "becky-friedenberg",
   :block/created-at 1665810826813,
   :block/updated-at 1665810826813}
@@ -1387,7 +1381,7 @@
   :block/updated-at 1667445133699}
  {:block/name "nov 3rd, 2022",
   :block/created-at 1667482900835,
-  :block/updated-at 1667482960963}
+  :block/updated-at 1667483172386}
  {:block/name "nov 6th, 2021",
   :block/created-at 1666906824710,
   :block/updated-at 1666906824710}
@@ -1426,7 +1420,7 @@
   :block/updated-at 1666098605258}
  {:block/name "oct 18th, 2022",
   :block/created-at 1666098605220,
-  :block/updated-at 1666099469961}
+  :block/updated-at 1667483028167}
  {:block/name "oct 19th, 2022",
   :block/created-at 1666186699673,
   :block/updated-at 1666202707140}
