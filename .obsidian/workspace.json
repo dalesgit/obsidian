@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3978d90f67d7f218",
+        "id": "4597e47c67fd6e52",
         "type": "tabs",
         "children": [
           {
-            "id": "852b948ff9938eab",
+            "id": "7027cae33e017e1f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "journals/2022_11_03.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2022_11_02.md",
+                "file": "journals/2022_11_03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2022_11_02.md",
+                "file": "journals/2022_11_03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "journals/2022_11_03.md"
+              }
             }
           },
           {
@@ -132,25 +138,23 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 382.5
   },
-  "active": "852b948ff9938eab",
+  "active": "7027cae33e017e1f",
   "lastOpenFiles": [
     "journals/2022_11_02.md",
+    "journals/2022_11_03.md",
     "journals/2022_10_30.md",
     "journals/2022_10_31.md",
-    "journals/2022_11_02.md",
     "pages/['MyChildren'].md",
     "journals/2021_04_05.md",
     "pages/Lydia.md",
     "pages/Miriam.md",
-    "notes/tiddly-notes/to-linda-thankyou.md",
-    "pages/spiritual-director.md",
-    "notes/tiddly-notes/lost-is-a-place.md",
-    "pages/['MyChildren'].md"
+    "notes/tiddly-notes/to-linda-thankyou.md"
   ]
 }
