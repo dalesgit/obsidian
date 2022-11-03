@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "ba0a2473b6af46c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3978d90f67d7f218",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "852b948ff9938eab",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9141a4ffb4f03de",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c7577c510bbceec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "863c4ed001094d5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7eb1276bd735bfd1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#SpiritualDirection",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e62a3632e380ed1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.50000381469727
+  },
+  "right": {
+    "id": "789b306ea1af336e",
+    "type": "split",
+    "children": [
+      {
+        "id": "833a8762f6340d43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c3ec7ba1c10df89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aef57d846be5c49e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62388abf214f129a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3bd28fe5bd142c2d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "561001755f7b3b42",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 382.5
+  },
+  "active": "852b948ff9938eab",
+  "lastOpenFiles": [
+    "journals/2022_10_31.md",
+    "journals/2022_11_02.md",
+    "pages/['MyChildren'].md",
+    "journals/2021_04_05.md",
+    "pages/Lydia.md",
+    "pages/Miriam.md",
+    "notes/tiddly-notes/to-linda-thankyou.md",
+    "pages/spiritual-director.md",
+    "notes/tiddly-notes/lost-is-a-place.md",
+    "pages/['MyChildren'].md"
+  ]
+}
