@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4597e47c67fd6e52",
+        "id": "31a2a1312ee3e99e",
         "type": "tabs",
         "children": [
           {
-            "id": "7027cae33e017e1f",
+            "id": "ec5c72380ac58664",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -145,10 +145,10 @@
     "direction": "horizontal",
     "width": 382.5
   },
-  "active": "7027cae33e017e1f",
+  "active": "ec5c72380ac58664",
   "lastOpenFiles": [
-    "journals/2022_11_02.md",
     "journals/2022_11_03.md",
+    "journals/2022_11_02.md",
     "journals/2022_10_30.md",
     "journals/2022_10_31.md",
     "pages/['MyChildren'].md",
