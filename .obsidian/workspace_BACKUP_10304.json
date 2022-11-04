@@ -4,19 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "31a2a1312ee3e99e",
+        "id": "3978d90f67d7f218",
         "type": "tabs",
         "children": [
           {
-            "id": "ec5c72380ac58664",
+            "id": "852b948ff9938eab",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
+              "type": "empty",
+              "state": {}
+=======
               "type": "markdown",
               "state": {
-                "file": "journals/2022_11_04.md",
+                "file": "journals/2022_11_02.md",
                 "mode": "source",
                 "source": false
               }
+>>>>>>> 44944febfde02d2199bd9b962c55537a5f323001
             }
           }
         ]
@@ -48,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SpiritualDirection",
+                "query": "opht",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2022_11_04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2022_11_04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "journals/2022_11_04.md"
-              }
+              "state": {}
             }
           },
           {
@@ -143,18 +144,30 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 382.5,
+    "collapsed": true
   },
-  "active": "ec5c72380ac58664",
+  "active": "852b948ff9938eab",
   "lastOpenFiles": [
-    "journals/2022_11_03.md",
+<<<<<<< HEAD
+    "journals/2022_10_31.md",
+    "journals/2022_11_02.md",
+=======
     "journals/2022_11_02.md",
     "journals/2022_10_30.md",
     "journals/2022_10_31.md",
+>>>>>>> 44944febfde02d2199bd9b962c55537a5f323001
     "pages/['MyChildren'].md",
     "journals/2021_04_05.md",
     "pages/Lydia.md",
     "pages/Miriam.md",
-    "notes/tiddly-notes/to-linda-thankyou.md"
+    "notes/tiddly-notes/to-linda-thankyou.md",
+    "pages/spiritual-director.md",
+<<<<<<< HEAD
+    "notes/tiddly-notes/lost-is-a-place.md",
+    "pages/['MyChildren'].md"
+=======
+    "notes/tiddly-notes/lost-is-a-place.md"
+>>>>>>> 44944febfde02d2199bd9b962c55537a5f323001
   ]
 }

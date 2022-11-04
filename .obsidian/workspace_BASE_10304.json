@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "31a2a1312ee3e99e",
+        "id": "cc15d8e57e9cb822",
         "type": "tabs",
         "children": [
           {
-            "id": "ec5c72380ac58664",
+            "id": "8904d9c5b28549db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2022_11_04.md",
+                "file": "journals/2022_11_02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b5239eb743489f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/2022_10_31.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2022_11_04.md",
+                "file": "journals/2022_11_02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2022_11_04.md",
+                "file": "journals/2022_11_02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2022_11_04.md"
+                "file": "journals/2022_11_02.md"
               }
             }
           },
@@ -138,23 +150,28 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 382.5
   },
-  "active": "ec5c72380ac58664",
+  "active": "8904d9c5b28549db",
   "lastOpenFiles": [
-    "journals/2022_11_03.md",
-    "journals/2022_11_02.md",
-    "journals/2022_10_30.md",
-    "journals/2022_10_31.md",
     "pages/['MyChildren'].md",
     "journals/2021_04_05.md",
     "pages/Lydia.md",
     "pages/Miriam.md",
-    "notes/tiddly-notes/to-linda-thankyou.md"
+    "journals/2022_10_31.md",
+    "notes/tiddly-notes/to-linda-thankyou.md",
+    "pages/spiritual-director.md",
+    "notes/tiddly-notes/lost-is-a-place.md",
+    "pages/['MyChildren'].md",
+    "journals/2022_10_31.md",
+    "journals/2022_10_30.md",
+    "notes/tiddly-notes/tiddlywiki-about.md",
+    "notes/tiddly-notes/hosting-tiddly.md",
+    "pages/timeshare.md",
+    "notes/tiddly-notes/tiddly-table-contents.md"
   ]
 }
