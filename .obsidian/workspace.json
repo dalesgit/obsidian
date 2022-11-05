@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b79e814468746fc0",
+        "id": "31a2a1312ee3e99e",
         "type": "tabs",
         "children": [
           {
-            "id": "9792956235f174d9",
+            "id": "ec5c72380ac58664",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "journals/2022_11_05.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c837db31ca56bfcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/2022_11_04.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -83,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "journals/2022_11_05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "journals/2022_11_05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "journals/2022_11_05.md"
+              }
             }
           },
           {
@@ -137,8 +158,9 @@
     "direction": "horizontal",
     "width": 382.5
   },
-  "active": "9792956235f174d9",
+  "active": "ec5c72380ac58664",
   "lastOpenFiles": [
+    "pages/Memories.md",
     "journals/2022_11_04.md",
     "pages/Memories.md",
     "pages/Manny.md",
