@@ -1,3 +1,7 @@
+The paradoxical and incarnational aspect of Oliver reminds me of Wendell Berry -- both of these writers I know woefully little, only by bits and pieces as my life has reached maturity and beyond. He, it turns out is made up of inner contradictions, like Oliver, like me, like all of us, I guess.
+
+cf. [[berrys-new-book]]
+
 > In the same epoch when Hermann Hesse so beautifully defended the wisdom of the inner voice, Lawrence’s protagonist makes a passionate case for listening to the song of life as it reverberates through the singular cathedral of each self, yours and mine, as it did for Nin and Lawrence and every other great mind long sung out of existence:
 
 I offer no creed. I offer myself, my heart of wisdom, strange warm cavern where the voice of the oracle steams in from the unknown; I offer my consciousness, which hears the voice; and I offer my mind and my will, for the battle against every obstacle to respond to the voice of life.
