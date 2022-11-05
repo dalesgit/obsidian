@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2022_11_04.md",
+                "file": "pages/Manny.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SpiritualDirection",
+                "query": "peter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2022_11_04.md",
+                "file": "pages/Manny.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2022_11_04.md",
+                "file": "pages/Manny.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2022_11_04.md"
+                "file": "pages/Manny.md"
               }
             }
           },
@@ -138,8 +138,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,14 +146,15 @@
   },
   "active": "ec5c72380ac58664",
   "lastOpenFiles": [
+    "pages/St-Alfreds.md",
+    "pages/Peter-Lane.md",
+    "journals/2022_10_29.md",
+    "pages/visioning-st-alfreds.md",
+    "journals/2022_11_04.md",
     "journals/2022_11_03.md",
     "journals/2022_11_02.md",
     "journals/2022_10_30.md",
     "journals/2022_10_31.md",
-    "pages/['MyChildren'].md",
-    "journals/2021_04_05.md",
-    "pages/Lydia.md",
-    "pages/Miriam.md",
-    "notes/tiddly-notes/to-linda-thankyou.md"
+    "pages/['MyChildren'].md"
   ]
 }
