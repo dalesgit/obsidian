@@ -51,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Alfred",
+                "query": "dabney",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,13 +78,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 234.50000381469727,
-    "collapsed": true
+    "width": 234.50000381469727
   },
   "right": {
     "id": "789b306ea1af336e",
@@ -160,16 +158,15 @@
   },
   "active": "ec5c72380ac58664",
   "lastOpenFiles": [
+    "logseq/bak/journals/2022_11_05/2022-11-05T18_47_31.379Z.Desktop.md",
+    "pages/Francis Cambell Gray.md",
+    "pages/+Dabney.md",
+    "journals/2022_11_05.md",
     "pages/Memories.md",
     "journals/2022_11_04.md",
     "pages/Memories.md",
     "pages/Manny.md",
     "pages/St-Alfreds.md",
-    "pages/Peter-Lane.md",
-    "journals/2022_10_29.md",
-    "pages/visioning-st-alfreds.md",
-    "journals/2022_11_03.md",
-    "journals/2022_11_02.md",
-    "journals/2022_10_30.md"
+    "pages/Peter-Lane.md"
   ]
 }
