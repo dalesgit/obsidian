@@ -21,3 +21,6 @@ as though I had wings.
 
   
 ― Mary Oliver, [Owls and Other Fantasies: Poems and Essays] (From NoCar liturgy)
+
+---
+[[mary-oliver-and-krista-tippet]]
