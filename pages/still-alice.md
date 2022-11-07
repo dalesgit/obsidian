@@ -1,0 +1,1 @@
+- The movie so skillfully portrayed the slow-motion losing of self. Alice prepared a message for herself for when she couldn't answer the basic questions: 1) your birthday? 2) what month is it? She was to take an overdose of sleeping pills. But when the time came she couldn't pull it off.

@@ -20,6 +20,7 @@
 =======
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "journals/2022_11_05.md",
                 "mode": "source",
                 "source": false
@@ -111,6 +112,8 @@
 <<<<<<< HEAD
 =======
                 "file": "journals/2022_11_05.md",
+=======
+                "file": "journals/2022_11_06.md",
 >>>>>>> origin
                 "collapseAll": false,
                 "extraContext": false,
@@ -131,6 +134,8 @@
 <<<<<<< HEAD
 =======
                 "file": "journals/2022_11_05.md",
+=======
+                "file": "journals/2022_11_06.md",
 >>>>>>> origin
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
@@ -160,6 +165,7 @@
                 "file": "journals/2022_11_05.md"
               }
 >>>>>>> origin
+              }
             }
           },
           {
