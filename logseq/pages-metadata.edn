@@ -379,7 +379,7 @@
   :block/updated-at 1665810829337}
  {:block/name "contents",
   :block/created-at 1665810916059,
-  :block/updated-at 1667487106592}
+  :block/updated-at 1667909337542}
  {:block/name "create",
   :block/created-at 1665810823392,
   :block/updated-at 1665810823392}
@@ -566,15 +566,15 @@
  {:block/name "emma",
   :block/created-at 1665810820973,
   :block/updated-at 1665810820973}
- {:block/name "emma story",
-  :block/created-at 1665810827374,
-  :block/updated-at 1666203633929}
  {:block/name "emma's elegy",
   :block/created-at 1665810828154,
   :block/updated-at 1665810828154}
  {:block/name "emma-mironichenko",
   :block/created-at 1666903798809,
   :block/updated-at 1666903798809}
+ {:block/name "emma-story",
+  :block/created-at 1665810827374,
+  :block/updated-at 1667909848219}
  {:block/name "epiphany-coup-attempt",
   :block/created-at 1666903798808,
   :block/updated-at 1666903798808}
@@ -1424,6 +1424,9 @@
  {:block/name "nov 7th, 2022",
   :block/created-at 1667818559084,
   :block/updated-at 1667829283355}
+ {:block/name "nov 8th, 2022",
+  :block/created-at 1667909263441,
+  :block/updated-at 1667909314150}
  {:block/name "now",
   :block/created-at 1665810916060,
   :block/updated-at 1665810916060}
