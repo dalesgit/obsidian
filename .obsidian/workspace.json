@@ -11,12 +11,8 @@
             "id": "ec5c72380ac58664",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journals/2022_11_06.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -87,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2022_11_06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2022_11_06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "journals/2022_11_06.md"
-              }
+              "state": {}
             }
           },
           {
@@ -139,7 +131,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,6 +140,8 @@
   },
   "active": "ec5c72380ac58664",
   "lastOpenFiles": [
+    "journals/2022_11_11.md",
+    "journals/2022_11_06.md",
     "pages/Mary Oliver.md",
     "pages/berrys-new-book.md",
     "journals/2022_11_04.md",
@@ -154,9 +149,6 @@
     "pages/b.md",
     "pages/mary-oliver-and-krista-tippet.md",
     "journals/2022_11_05.md",
-    "logseq/bak/journals/2022_11_05/2022-11-05T18_47_31.379Z.Desktop.md",
-    "pages/Francis Cambell Gray.md",
-    "pages/+Dabney.md",
-    "pages/Memories.md"
+    "logseq/bak/journals/2022_11_05/2022-11-05T18_47_31.379Z.Desktop.md"
   ]
 }
