@@ -14,8 +14,29 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "89f0449d5d5eec2c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c27a5afea2d9fe98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -83,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -138,8 +163,9 @@
     "direction": "horizontal",
     "width": 382.5
   },
-  "active": "ec5c72380ac58664",
+  "active": "c27a5afea2d9fe98",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "journals/2022_11_11.md",
     "journals/2022_11_06.md",
     "pages/Mary Oliver.md",
@@ -148,7 +174,6 @@
     "pages/Mary Oliver.md",
     "pages/b.md",
     "pages/mary-oliver-and-krista-tippet.md",
-    "journals/2022_11_05.md",
-    "logseq/bak/journals/2022_11_05/2022-11-05T18_47_31.379Z.Desktop.md"
+    "journals/2022_11_05.md"
   ]
 }
