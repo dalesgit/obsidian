@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "journals/2022_11_10.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "journals/2022_11_10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "journals/2022_11_10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "journals/2022_11_10.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -165,8 +165,8 @@
   },
   "active": "c27a5afea2d9fe98",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "journals/2022_11_11.md",
+    "conflict-files-obsidian-git.md",
     "journals/2022_11_06.md",
     "pages/Mary Oliver.md",
     "pages/berrys-new-book.md",
