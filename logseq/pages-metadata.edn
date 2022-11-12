@@ -541,7 +541,7 @@
   :block/updated-at 1666882840052}
  {:block/name "diocese-southwest-florida",
   :block/created-at 1667828619855,
-  :block/updated-at 1667828943340}
+  :block/updated-at 1668190010904}
  {:block/name "divide-my-money-after-death",
   :block/created-at 1666903798812,
   :block/updated-at 1666903798812}
@@ -1388,6 +1388,12 @@
  {:block/name "notes/journal/2022/09/20",
   :block/created-at 1665810829132,
   :block/updated-at 1665810829132}
+ {:block/name "nov 10th, 2022",
+  :block/created-at 1668101541156,
+  :block/updated-at 1668101756594}
+ {:block/name "nov 11th, 2022",
+  :block/created-at 1668168492174,
+  :block/updated-at 1668168492174}
  {:block/name "nov 13th, 2021",
   :block/created-at 1666906842490,
   :block/updated-at 1666906842490}
@@ -1427,6 +1433,9 @@
  {:block/name "nov 8th, 2022",
   :block/created-at 1667909263441,
   :block/updated-at 1667909314150}
+ {:block/name "nov 9th, 2022",
+  :block/created-at 1668000209491,
+  :block/updated-at 1668000307302}
  {:block/name "now",
   :block/created-at 1665810916060,
   :block/updated-at 1665810916060}
