@@ -70,8 +70,3 @@
 - Safe Church training
 - Application to be certified to supply
 	- [North Carolina app](https://drive.google.com/file/d/0B8ezT0-tUjVZWldCTFU2aTNtSEE/view?usp=sharing&resourcekey=0-Q-B669CAyaUryQNTzp2TeQ)
-- Lenovo purchase Julian
-	- 21415 US Highway 19 N
-	  Clearwater, FL 33765
-	  Phone Number727-669-0282
-	  Store details
