@@ -1,6 +1,5 @@
 - https://www.episcopalswfl.org/digital_faith/
 	- Staff
-	  collapsed:: true
 		- ---
 		  created: 2022-11-07T08:43:58 (UTC -05:00)
 		  tags: []
@@ -74,7 +73,7 @@
   :END:
 	- Needed
 		- A Letter of Good Standing from your diocese of canonical residence.
-		- We will also need a letter from a Rector, Vicar or Priest-in-Charge in oghur diocese indicating that they are willing to exercise oversight of your ministry in our diocese.
+		- We will also need a letter from a Rector, Vicar or Priest-in-Charge in our diocese indicating that they are willing to exercise oversight of your ministry in our diocese.
 		- A copy of your current Safe Church certification. Please note that this training has a 5-year validity in our diocese. Should you need to renew your certification, please let me know so that I can arrange to give you access to our Praesidium Academy online training platform.
 		- Background check application
 			- [pdf](https://drive.google.com/file/d/14tlXECUYuXzrzw1hbxdk2EGpiC6YAazG/view?usp=sharing)
