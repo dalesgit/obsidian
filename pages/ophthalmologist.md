@@ -1,5 +1,4 @@
 - ((logseq://graph/obsidian?block-id=6361be97-aa55-47c7-a42c-ea56124960b3)) symptoms
 	- ((6361be97-aa55-47c7-a42c-ea56124960b3))
 - https://harborophthalmology.com
-	-
 	- ((63668bbf-b3da-4e6b-b8a3-7c5f37dd0680))
