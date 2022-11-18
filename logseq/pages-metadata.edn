@@ -400,7 +400,7 @@
   :block/updated-at 1666903801074}
  {:block/name "cruise",
   :block/created-at 1666276594235,
-  :block/updated-at 1666276639979}
+  :block/updated-at 1668771014614}
  {:block/name "culture politics",
   :block/created-at 1665810822401,
   :block/updated-at 1665810822401}
@@ -1418,6 +1418,9 @@
  {:block/name "nov 17th, 2022",
   :block/created-at 1667486977559,
   :block/updated-at 1668699146698}
+ {:block/name "nov 18th, 2022",
+  :block/created-at 1668770830616,
+  :block/updated-at 1668771056049}
  {:block/name "nov 19th, 2021",
   :block/created-at 1666906871532,
   :block/updated-at 1666906871532}
@@ -1868,6 +1871,9 @@
  {:block/name "values-of-society",
   :block/created-at 1666903798721,
   :block/updated-at 1666903798721}
+ {:block/name "verifly",
+  :block/created-at 1668771014613,
+  :block/updated-at 1668771032816}
  {:block/name "visioning at st",
   :block/created-at 1667131961123,
   :block/updated-at 1667131961123}
