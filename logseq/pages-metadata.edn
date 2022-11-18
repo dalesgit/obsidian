@@ -400,7 +400,10 @@
   :block/updated-at 1666903801074}
  {:block/name "cruise",
   :block/created-at 1666276594235,
-  :block/updated-at 1668771014614}
+  :block/updated-at 1668772142863}
+ {:block/name "cruise-links",
+  :block/created-at 1668772142862,
+  :block/updated-at 1668772142862}
  {:block/name "culture politics",
   :block/created-at 1665810822401,
   :block/updated-at 1665810822401}
@@ -590,6 +593,9 @@
  {:block/name "examen-week",
   :block/created-at 1666903798797,
   :block/updated-at 1666903798797}
+ {:block/name "excursions",
+  :block/created-at 1668771652534,
+  :block/updated-at 1668771652534}
  {:block/name "exercise",
   :block/created-at 1665810823495,
   :block/updated-at 1665810823495}
@@ -1420,7 +1426,7 @@
   :block/updated-at 1668699146698}
  {:block/name "nov 18th, 2022",
   :block/created-at 1668770830616,
-  :block/updated-at 1668771056049}
+  :block/updated-at 1668771652535}
  {:block/name "nov 19th, 2021",
   :block/created-at 1666906871532,
   :block/updated-at 1666906871532}
