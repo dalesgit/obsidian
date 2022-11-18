@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "abb8154e855890ef",
+        "id": "552af4a3f7498d89",
         "type": "tabs",
         "children": [
           {
-            "id": "0bb0cffa9f08ab09",
+            "id": "d14c7463c8877902",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journals/2022_11_17.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -88,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2022_11_17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2022_11_17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "journals/2022_11_17.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,8 +138,9 @@
     "direction": "horizontal",
     "width": 382.5
   },
-  "active": "0bb0cffa9f08ab09",
+  "active": "d14c7463c8877902",
   "lastOpenFiles": [
+    "journals/2022_11_17.md",
     "journals/2022_11_16.md",
     "journals/2022_11_09.md",
     "journals/2022_11_11.md",
@@ -157,7 +149,6 @@
     "conflict-files-obsidian-git.md",
     "journals/2022_11_06.md",
     "pages/Mary Oliver.md",
-    "pages/berrys-new-book.md",
-    "journals/2022_11_04.md"
+    "pages/berrys-new-book.md"
   ]
 }
