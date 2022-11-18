@@ -4,5 +4,6 @@
   "templater-obsidian",
   "calendar",
   "note-refactor-obsidian",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "table-editor-obsidian"
 ]

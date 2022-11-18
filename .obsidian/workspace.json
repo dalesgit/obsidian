@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "journals/2022_11_18.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -139,9 +139,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "b9a33d610e3ca4a7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
