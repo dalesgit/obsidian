@@ -1,0 +1,2 @@
+- https://support.myverifly.com/hc/en-us/articles/360020569980-Installing-VeriFLY
+-
