@@ -68,6 +68,7 @@
 			  
 			  ![Unnamed](https://s3.amazonaws.com/dfc_attachments/images/3633393/unnamed.png)
 - Safe Church training
+	- 30 page diocesan policies for the "Protection of Children and Youth from Abuse"
 	-
 - DOING Application to be certified to supply
   collapsed:: true
