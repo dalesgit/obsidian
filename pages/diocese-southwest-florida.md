@@ -72,6 +72,8 @@
 		- there is a form for reporting of **concern** about an inappropriate situation
 		- p. 15 there is a checkmark system for agreeing to the poilicy, but my browser/system didn't work. Also a signature line.
 	- Policy for the prevention of sexual exploitation of adults
+		- all of this was written in deep **legalese**.
+		-
 	-
 - DOING Application to be certified to supply
   collapsed:: true
