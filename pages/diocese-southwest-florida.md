@@ -74,6 +74,7 @@
 	- Policy for the prevention of sexual exploitation of adults
 		- all of this was written in deep **legalese**.
 		- requirement to report (also law)
+		- interview questions include giving examples of
 	-
 - DOING Application to be certified to supply
   collapsed:: true
