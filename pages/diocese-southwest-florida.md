@@ -70,6 +70,7 @@
 - Safe Church training
 	- 30 page diocesan policies for the "Protection of Children and Youth from Abuse"
 	- there is a form for reporting of **concern** about an inappropriate situation
+	- p. 15 there is a checkmark system for agreeing to the poilicy, but my browser
 - DOING Application to be certified to supply
   collapsed:: true
   :LOGBOOK:
