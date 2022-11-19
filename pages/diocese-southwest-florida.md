@@ -1,4 +1,5 @@
 - https://www.episcopalswfl.org/digital_faith/
+  collapsed:: true
 	- Staff
 		- ---
 		  created: 2022-11-07T08:43:58 (UTC -05:00)
@@ -67,7 +68,9 @@
 			  
 			  ![Unnamed](https://s3.amazonaws.com/dfc_attachments/images/3633393/unnamed.png)
 - Safe Church training
+	-
 - DOING Application to be certified to supply
+  collapsed:: true
   :LOGBOOK:
   CLOCK: [2022-11-16 Wed 13:58:43]
   :END:
