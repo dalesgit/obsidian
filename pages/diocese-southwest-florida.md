@@ -74,7 +74,7 @@
 	- Policy for the prevention of sexual exploitation of adults
 		- all of this was written in deep **legalese**.
 		- requirement to report (also law)
-		- interview questions include giving examples of
+		- interview questions include giving examples of when my boundaries were crossed. Give an example of how someone maintains good boundaries with adults.
 	-
 - DOING Application to be certified to supply
   collapsed:: true
