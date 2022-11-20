@@ -31,3 +31,4 @@
 	  collapsed:: true
 		- variety of ways to monitor
 	- training
+		- list of characteristics of those who experience childhood abuse
