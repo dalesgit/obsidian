@@ -157,7 +157,7 @@
 			- steps for witness of harassment
 				- discourage the behavior
 				- report the harassment to employer
-				-
+				- support the victim
 -
 -
 -
