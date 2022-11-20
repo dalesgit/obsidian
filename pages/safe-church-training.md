@@ -42,3 +42,4 @@
 		- 3 reasons people don't respond
 			- worry about false accusation
 			- don't believe an adult would actually abuse a child
+			- don't know what will happen if they do report their concerns
