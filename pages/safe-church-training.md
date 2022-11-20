@@ -171,9 +171,11 @@
 		- ![overview-course.png](../assets/overview-course_1668985702694_0.png)
 		-
 - Duty to report
-	- why it is important
-	- identify why people don't report
-	-
+	- Overview
+	  collapsed:: true
+		- why it is important
+		- identify why people don't report
+		- understand the moral and possibly legal requirement to report
 	-
 -
 -
