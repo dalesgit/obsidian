@@ -191,6 +191,8 @@
 	- data
 		- 1 in 4 girls & 1 in 6 boys are sexually abused before 18
 	- Mandated reporter
+		- Am I a **mandated reporter**? I don't know.
+	- what must be reported
 		-
 -
 -
