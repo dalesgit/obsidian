@@ -94,5 +94,7 @@
 		- Responding: Report the complaint
 		  collapsed:: true
 			- Protect against retaliation
-		- Accusations
+		- Accusations against supervisors
+			- retaliation unacceptable
+			- confidentiality maintained
 		-
