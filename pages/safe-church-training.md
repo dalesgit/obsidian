@@ -117,7 +117,9 @@
 				- visual
 				- verbal
 				- physical
-		-
+			- anyone can file a complaint, not just the victim
+		- Varying perspectives
+			-
 -
 -
 -
