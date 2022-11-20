@@ -105,5 +105,7 @@
 - Sexual Harassment: Employee
 	- Title VII: race, color, religion, sex, national origin, + added sexual orientation or gender identity.
 	- definition
+	  collapsed:: true
+		- ![definition-sexual-harrassment.png](../assets/definition-sexual-harrassment_1668982967296_0.png)
 -
 -
