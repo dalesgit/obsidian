@@ -123,6 +123,8 @@
 		  collapsed:: true
 			- **reasonable person** test
 		- types and cases
+			- visual, verbal, physical
+		-
 -
 -
 -
