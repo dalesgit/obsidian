@@ -205,11 +205,15 @@
 		- who
 		- what
 	- Safeguards for mandated reporters
+	  collapsed:: true
 		- liability
 		- confidentiality
 		- documentation
 		- anonymity
 		- joint knowledge
+	- How respond to child
+		- be prepared
+		- 5 technics for if a child discloses abuse
 -
 -
 -
