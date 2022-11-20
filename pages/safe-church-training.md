@@ -143,6 +143,7 @@
 					- boundaries
 					- ![fuzzy-boundaries.png](../assets/fuzzy-boundaries_1668984441018_0.png)
 		- steps to prevent
+		- responding to sexual harassment
 			-
 -
 -
