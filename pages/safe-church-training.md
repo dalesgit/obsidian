@@ -76,3 +76,7 @@
 			- quid pro quo
 			- hostile work environment
 			- tangible employment action
+		- hostile work environment egs:
+			- visual
+			- verbal
+			- physical
