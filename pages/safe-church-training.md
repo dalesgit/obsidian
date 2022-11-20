@@ -200,9 +200,16 @@
 			- psychological or emotional
 			- neglect
 	- How report?
+	  collapsed:: true
 		- when
 		- who
 		- what
+	- Safeguards for mandated reporters
+		- liability
+		- confidentiality
+		- documentation
+		- anonymity
+		- joint knowledge
 -
 -
 -
