@@ -95,6 +95,9 @@
 		  collapsed:: true
 			- Protect against retaliation
 		- Accusations against supervisors
+		  collapsed:: true
 			- retaliation unacceptable
 			- confidentiality maintained
+		- resources & remedies
+			-
 		-
