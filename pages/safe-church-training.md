@@ -165,6 +165,8 @@
 				- tell supervisor
 				- apologize to coworkers
 				- review organizational policies
+			- Most organizations require you to report -- or find trusted person
+			-
 -
 -
 -
