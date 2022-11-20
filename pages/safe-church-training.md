@@ -77,6 +77,8 @@
 			- hostile work environment
 			- tangible employment action
 		- hostile work environment egs:
+		  collapsed:: true
 			- visual
 			- verbal
 			- physical
+		- Reasonable person test -- rather than
