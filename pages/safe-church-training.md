@@ -150,8 +150,13 @@
 				- document everything
 				- report the harassment
 			- barriers to reporting
+			  collapsed:: true
 				- fear of being ignored
 				- fear of retaliation
+				- fear of making accusations
+			- steps for witness of harassment
+				- discourage the behavior
+				- report the harassment to employer
 				-
 -
 -
