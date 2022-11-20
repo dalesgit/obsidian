@@ -11,4 +11,7 @@
 	- **Promoting a Safe Environment: Employee Sexual Harassment Training**
 	- **Promoting a Safe Environment: Supervisor Sexual Harassment Training**
 	- **Duty to Report: Mandated Reporter**
--
+- Course has an **action plan** to be used for
+	- Complete activities
+	- store thoughts
+	- retrieve information
