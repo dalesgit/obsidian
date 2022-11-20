@@ -104,5 +104,6 @@
 		-
 - Sexual Harassment: Employee
 	- Title VII: race, color, religion, sex, national origin, + added sexual orientation or gender identity.
+	- definition
 -
 -
