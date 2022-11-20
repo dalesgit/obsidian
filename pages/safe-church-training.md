@@ -47,3 +47,17 @@
 - Sexual Harassment: Supervisor
 	- Overview
 		- TItle VII of CIvil Rights Act 1964
+			- > Unwelcome sexual advances, requests for sexual favors, and other 
+			  verbal or physical conduct of a sexual nature constitute sexual 
+			  harassment when this conduct explicitly or implicitly affects an 
+			  individual's employment, unreasonably interferes
+			  with an individual's work performance, or creates an intimidating, 
+			  hostile, or offensive work environment.
+			  
+			  > Sexual harassment can occur in a variety of circumstances, including but not limited to the following:
+			- The victim as well as the harasser may be a woman or a man. The victim does not have to be of the opposite sex.
+			- The harasser can be the victim's supervisor, an agent of the 
+			  employer, a supervisor in another area, a co-worker, or a non-employee.
+			- The victim does not have to be the person harassed but could be anyone affected by the offensive conduct.
+			- Unlawful sexual harassment may occur without economic injury to or discharge of the victim.
+			- The harasser's conduct must be unwelcome.
