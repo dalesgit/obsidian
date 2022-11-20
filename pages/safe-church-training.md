@@ -81,4 +81,4 @@
 			- visual
 			- verbal
 			- physical
-		- Reasonable person test -- rather than
+		- Reasonable person test -- rather than what a person's **intentions** were
