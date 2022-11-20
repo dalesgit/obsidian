@@ -32,3 +32,5 @@
 		- variety of ways to monitor
 	- training
 		- list of characteristics of those who experience childhood abuse
+		  collapsed:: true
+			- ![effects-childhood-abuse.png](../assets/effects-childhood-abuse_1668968040318_0.png)
