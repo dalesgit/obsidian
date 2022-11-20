@@ -22,4 +22,6 @@
 	- retrieve information
 - Keep church safe
 	- screening
+	  collapsed:: true
 		- past behavior impo. therefore good to ask how they've handled things in the past
+	- appropriate interactions
