@@ -46,3 +46,4 @@
 			- know how reports are handled
 - Sexual Harassment: Supervisor
 	- Overview
+		- TItle VII of CIvil Rights Act 1964
