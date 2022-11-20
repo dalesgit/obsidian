@@ -124,6 +124,10 @@
 			- **reasonable person** test
 		- types and cases
 			- visual, verbal, physical
+		- How can  you tell?
+			- unwelcome behavior
+			- negative impact
+			- reasonable person
 		-
 -
 -
