@@ -37,4 +37,5 @@
 			- ![effects-childhood-abuse.png](../assets/effects-childhood-abuse_1668968040318_0.png)
 	- responding
 		- **if you see something, say something**
+		  collapsed:: true
 			- ![warning-signs-of-abuse.png](../assets/warning-signs-of-abuse_1668968302752_0.png)
