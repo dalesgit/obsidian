@@ -20,6 +20,7 @@
 	- store thoughts
 	- retrieve information
 - Keep church safe
+  collapsed:: true
 	- screening
 		- past behavior impo. therefore good to ask how they've handled things in the past
 	- appropriate interactions
@@ -43,3 +44,4 @@
 			- prioritize the protection of the child
 			- use anonymous reporting
 			- know how reports are handled
+- Sexual Harrassment: Supervisor
