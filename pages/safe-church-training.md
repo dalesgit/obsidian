@@ -22,3 +22,4 @@
 	- retrieve information
 - Keep church safe
 	- screening
+		- past behavior impo. therefore good to ask how they've handled things in the past
