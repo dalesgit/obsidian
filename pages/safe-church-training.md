@@ -144,7 +144,10 @@
 					- ![fuzzy-boundaries.png](../assets/fuzzy-boundaries_1668984441018_0.png)
 		- steps to prevent
 		- responding to sexual harassment
-			-
+			- 3 steps
+				- firmly & directly tell them to stop
+				- document everything
+				- report the harassment
 -
 -
 -
