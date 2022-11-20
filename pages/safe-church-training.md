@@ -155,9 +155,16 @@
 				- fear of retaliation
 				- fear of making accusations
 			- steps for witness of harassment
+			  collapsed:: true
 				- discourage the behavior
 				- report the harassment to employer
 				- support the victim
+			- steps if you think you harassed someone
+			  collapsed:: true
+				- stop the behavior immediately
+				- tell supervisor
+				- apologize to coworkers
+				- review organizational policies
 -
 -
 -
