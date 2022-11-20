@@ -72,3 +72,7 @@
 			- age discrimination
 			- disabilities
 	- Harassment
+		- in workplace:
+			- quid pro quo
+			- hostile work environment
+			- tangible employment action
