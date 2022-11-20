@@ -39,3 +39,6 @@
 		- **if you see something, say something**
 		  collapsed:: true
 			- ![warning-signs-of-abuse.png](../assets/warning-signs-of-abuse_1668968302752_0.png)
+		- 3 reasons people don't respond
+			- worry about false accusation
+			- don't believe an adult would actually abuse a child
