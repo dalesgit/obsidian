@@ -65,5 +65,8 @@
 				- Unlawful sexual harassment may occur without economic injury to or discharge of the victim.
 				- The harasser's conduct must be unwelcome.
 	- Discrimination
-		- also cf.
-			-
+		- also cf. discrimination in:
+		  collapsed:: true
+			- equal pay
+			- age discrimination
+			- disabilities
