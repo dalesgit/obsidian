@@ -138,6 +138,9 @@
 				- reporting: who to report to and how
 				- leadership: what supervisors must do
 				- **maintaining clear boundaries**
+				  collapsed:: true
+					- boundaries
+					- ![fuzzy-boundaries.png](../assets/fuzzy-boundaries_1668984441018_0.png)
 -
 -
 -
