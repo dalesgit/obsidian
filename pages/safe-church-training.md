@@ -166,7 +166,9 @@
 				- apologize to coworkers
 				- review organizational policies
 			- Most organizations require you to report -- or find trusted person
-			-
+	- overview of course
+		- ![overview-course.png](../assets/overview-course_1668985702694_0.png)
+		-
 -
 -
 -
