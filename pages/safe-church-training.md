@@ -45,6 +45,7 @@
 			- use anonymous reporting
 			- know how reports are handled
 - Sexual Harassment: Supervisor
+  collapsed:: true
 	- Overview
 	  collapsed:: true
 		- TItle VII of CIvil Rights Act 1964
@@ -101,3 +102,4 @@
 		- resources & remedies
 			-
 		-
+- Sexual Harassment: Employee
