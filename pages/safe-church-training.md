@@ -184,7 +184,9 @@
 		- bring policy and practice gaps to attention
 		- avoid civil litigation & criminal charges
 	- reasons people don't report
-		-
+		- uncertainty
+		- fear of reprisal
+		- wrongly accusing
 -
 -
 -
