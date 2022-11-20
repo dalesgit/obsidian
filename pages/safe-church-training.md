@@ -46,6 +46,7 @@
 			- know how reports are handled
 - Sexual Harassment: Supervisor
 	- Overview
+	  collapsed:: true
 		- TItle VII of CIvil Rights Act 1964
 		  collapsed:: true
 			- collapsed:: true
@@ -63,3 +64,6 @@
 				- The victim does not have to be the person harassed but could be anyone affected by the offensive conduct.
 				- Unlawful sexual harassment may occur without economic injury to or discharge of the victim.
 				- The harasser's conduct must be unwelcome.
+	- Discrimination
+		- also cf.
+			-
