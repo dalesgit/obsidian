@@ -44,4 +44,4 @@
 			- prioritize the protection of the child
 			- use anonymous reporting
 			- know how reports are handled
-- Sexual Harrassment: Supervisor
+- Sexual Harassment: Supervisor
