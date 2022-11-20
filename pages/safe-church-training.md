@@ -27,3 +27,4 @@
 	- appropriate interactions
 		- most offenders use same methods
 	- monitoring
+		- variety of ways to monitor
