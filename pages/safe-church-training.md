@@ -1,6 +1,7 @@
-- 30 page diocesan policies for the "Protection of Children and Youth from Abuse"
-	- there is a form for reporting of **concern** about an inappropriate situation
-	- p. 15 there is a checkmark system for agreeing to the poilicy, but my browser/system didn't work. Also a signature line.
+-
+	- 30 page diocesan policies for the "Protection of Children and Youth from Abuse"
+		- there is a form for reporting of **concern** about an inappropriate situation
+		- p. 15 there is a checkmark system for agreeing to the poilicy, but my browser/system didn't work. Also a signature line.
 - Policy for the prevention of sexual exploitation of adults
 	- all of this was written in deep **legalese**.
 	- requirement to report (also law)
@@ -12,6 +13,7 @@
 	- **Promoting a Safe Environment: Supervisor Sexual Harassment Training**
 	- **Duty to Report: Mandated Reporter**
 - Course has an **action plan** to be used for
+  collapsed:: true
 	- Complete activities
 	- store thoughts
 	- retrieve information
