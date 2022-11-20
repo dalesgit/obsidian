@@ -184,9 +184,13 @@
 		- bring policy and practice gaps to attention
 		- avoid civil litigation & criminal charges
 	- reasons people don't report
+	  collapsed:: true
 		- uncertainty
 		- fear of reprisal
 		- wrongly accusing
+	- data
+		- 1 in 4 girls & 1 in 6 boys are sexually abused before 18
+	-
 -
 -
 -
