@@ -92,5 +92,6 @@
 		- Preventing
 		- Stopping
 		- Report the complaint
+			- Protect against retaliation
 		-
 		-
