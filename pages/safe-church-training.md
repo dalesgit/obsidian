@@ -110,6 +110,10 @@
 	- Effects
 	  collapsed:: true
 		- ![harassment-widespread.png](../assets/harassment-widespread_1668983119039_0.png)
+	- types:
+		- quid pro quo
+		- hostile work environment
+	-
 -
 -
 -
