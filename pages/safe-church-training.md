@@ -107,5 +107,9 @@
 	- definition
 	  collapsed:: true
 		- ![definition-sexual-harrassment.png](../assets/definition-sexual-harrassment_1668982967296_0.png)
+	- Effects
+	  collapsed:: true
+		- ![harassment-widespread.png](../assets/harassment-widespread_1668983119039_0.png)
+-
 -
 -
