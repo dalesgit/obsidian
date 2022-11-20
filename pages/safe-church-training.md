@@ -212,7 +212,6 @@
 		- anonymity
 		- joint knowledge
 	- How respond to child
-	  collapsed:: true
 		- be prepared
 		- 5 techniques for if a child discloses abuse
 			- stay calm
