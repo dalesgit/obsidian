@@ -145,9 +145,14 @@
 		- steps to prevent
 		- responding to sexual harassment
 			- 3 steps
+			  collapsed:: true
 				- firmly & directly tell them to stop
 				- document everything
 				- report the harassment
+			- barriers to reporting
+				- fear of being ignored
+				- fear of retaliation
+				-
 -
 -
 -
