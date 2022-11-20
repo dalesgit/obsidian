@@ -9,7 +9,6 @@
 		- requirement to report (also law)
 		- interview questions include giving examples of when my boundaries were crossed. Give an example of how someone maintains good boundaries with adults.
 	- These 5 units need to be completed
-	  collapsed:: true
 		- **Diocese of Southwest Florida Policies**
 		- **Keep your Church Safe**
 		- **Promoting a Safe Environment: Employee Sexual Harassment Training**
