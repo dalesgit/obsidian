@@ -91,7 +91,8 @@
 		- Retaliation
 		- Preventing
 		- Stopping
-		- Report the complaint
+		- Responding: Report the complaint
+		  collapsed:: true
 			- Protect against retaliation
-		-
+		- Accusations
 		-
