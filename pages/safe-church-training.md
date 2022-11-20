@@ -199,7 +199,10 @@
 			- sexual
 			- psychological or emotional
 			- neglect
-	-
+	- How report?
+		- when
+		- who
+		- what
 -
 -
 -
