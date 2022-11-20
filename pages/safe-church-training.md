@@ -213,7 +213,12 @@
 		- joint knowledge
 	- How respond to child
 		- be prepared
-		- 5 technics for if a child discloses abuse
+		- 5 techniques for if a child discloses abuse
+			- stay calm
+			- listen
+			- comfort
+			- don't critize
+			- report
 -
 -
 -
