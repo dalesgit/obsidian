@@ -113,7 +113,11 @@
 	- types:
 		- quid pro quo
 		- hostile work environment
-	-
+			- 3 ways created
+				- visual
+				- verbal
+				- physical
+		-
 -
 -
 -
