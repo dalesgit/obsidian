@@ -113,13 +113,16 @@
 	- types:
 		- quid pro quo
 		- hostile work environment
+		  collapsed:: true
 			- 3 ways created
 				- visual
 				- verbal
 				- physical
 			- anyone can file a complaint, not just the victim
 		- Varying perspectives
+		  collapsed:: true
 			- **reasonable person** test
+		- types and cases
 -
 -
 -
