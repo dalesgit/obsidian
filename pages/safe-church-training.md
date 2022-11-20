@@ -177,11 +177,14 @@
 		- identify why people don't report
 		- understand the moral and possibly legal requirement to report
 	- reasons
+	  collapsed:: true
 		- prevent further harm
 		- may save other children
 		- contribute to safety of your community
 		- bring policy and practice gaps to attention
 		- avoid civil litigation & criminal charges
+	- reasons people don't report
+		-
 -
 -
 -
