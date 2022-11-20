@@ -125,6 +125,7 @@
 		- types and cases
 			- visual, verbal, physical
 		- How can  you tell?
+		  collapsed:: true
 			- unwelcome behavior
 			- negative impact
 			- reasonable person
@@ -141,6 +142,7 @@
 				  collapsed:: true
 					- boundaries
 					- ![fuzzy-boundaries.png](../assets/fuzzy-boundaries_1668984441018_0.png)
+		-
 -
 -
 -
