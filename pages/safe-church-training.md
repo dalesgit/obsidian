@@ -133,7 +133,10 @@
 				- parent test
 				- respect test
 				- zero tolerance test
-			-
+			- organizations clearly establish
+				- interactions between employees
+				- reporting: who to report to and how
+				- leadership
 -
 -
 -
