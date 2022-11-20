@@ -193,7 +193,11 @@
 	- Mandated reporter
 		- Am I a **mandated reporter**? I don't know.
 	- what must be reported
-		-
+		- 4 categories
+			- physical
+			- sexual
+			- psychological or emotional
+			- neglect
 -
 -
 -
