@@ -36,10 +36,16 @@
 		  collapsed:: true
 			- ![effects-childhood-abuse.png](../assets/effects-childhood-abuse_1668968040318_0.png)
 	- responding
+	  collapsed:: true
 		- **if you see something, say something**
 		  collapsed:: true
 			- ![warning-signs-of-abuse.png](../assets/warning-signs-of-abuse_1668968302752_0.png)
 		- 3 reasons people don't respond
+		  collapsed:: true
 			- worry about false accusation
 			- don't believe an adult would actually abuse a child
 			- don't know what will happen if they do report their concerns
+		- responses to above:
+			- prioritize the protection of the child
+			- use anonymous reporting
+			- know how reports are handled
