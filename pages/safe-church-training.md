@@ -136,7 +136,7 @@
 			- organizations clearly establish
 				- interactions between employees
 				- reporting: who to report to and how
-				- leadership
+				- leadership: what supervisors must do
 -
 -
 -
