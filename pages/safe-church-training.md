@@ -22,21 +22,16 @@
 	- retrieve information
 - Keep church safe
 	- screening
-	  collapsed:: true
 		- past behavior impo. therefore good to ask how they've handled things in the past
 	- appropriate interactions
-	  collapsed:: true
 		- most offenders use same methods
 	- monitoring
-	  collapsed:: true
 		- variety of ways to monitor
 	- training
-	  collapsed:: true
 		- list of characteristics of those who experience childhood abuse
 		  collapsed:: true
 			- ![effects-childhood-abuse.png](../assets/effects-childhood-abuse_1668968040318_0.png)
 	- responding
-	  collapsed:: true
 		- **if you see something, say something**
 		  collapsed:: true
 			- ![warning-signs-of-abuse.png](../assets/warning-signs-of-abuse_1668968302752_0.png)
