@@ -83,6 +83,8 @@
 			- physical
 		- Reasonable person test -- rather than what a person's **intentions** were
 		- Organizational liability if:
+		  collapsed:: true
 			- knowledge
 			- lack of policies
 			- no corrective action
+		- abusive conduct
