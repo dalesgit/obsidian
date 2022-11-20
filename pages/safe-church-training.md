@@ -25,6 +25,9 @@
 	  collapsed:: true
 		- past behavior impo. therefore good to ask how they've handled things in the past
 	- appropriate interactions
+	  collapsed:: true
 		- most offenders use same methods
 	- monitoring
+	  collapsed:: true
 		- variety of ways to monitor
+	- training
