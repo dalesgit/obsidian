@@ -171,6 +171,7 @@
 		- ![overview-course.png](../assets/overview-course_1668985702694_0.png)
 		-
 - Duty to report
+  collapsed:: true
 	- Overview
 	  collapsed:: true
 		- why it is important
