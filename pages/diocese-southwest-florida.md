@@ -67,20 +67,7 @@
 			  ![Img 9554](https://s3.amazonaws.com/dfc_attachments/images/3633390/IMG_9554.jpg)
 			  
 			  ![Unnamed](https://s3.amazonaws.com/dfc_attachments/images/3633393/unnamed.png)
-- Safe Church training
-	- 30 page diocesan policies for the "Protection of Children and Youth from Abuse"
-		- there is a form for reporting of **concern** about an inappropriate situation
-		- p. 15 there is a checkmark system for agreeing to the poilicy, but my browser/system didn't work. Also a signature line.
-	- Policy for the prevention of sexual exploitation of adults
-		- all of this was written in deep **legalese**.
-		- requirement to report (also law)
-		- interview questions include giving examples of when my boundaries were crossed. Give an example of how someone maintains good boundaries with adults.
-	- These 5 units need to be completed
-		- **Diocese of Southwest Florida Policies**
-		- **Keep your Church Safe**
-		- **Promoting a Safe Environment: Employee Sexual Harassment Training**
-		- **Promoting a Safe Environment: Supervisor Sexual Harassment Training**
-		- **Duty to Report: Mandated Reporter**
+- Safe Church training [[safe-church-training]]
 	-
 - DOING Application to be certified to supply
   collapsed:: true
