@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "31a2a1312ee3e99e",
+        "id": "b100c79b08676e7a",
         "type": "tabs",
         "children": [
           {
-            "id": "ec5c72380ac58664",
+            "id": "f39d8fabd28fee6a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journals/2022_11_11.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -87,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2022_11_11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2022_11_11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "journals/2022_11_11.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,10 +138,10 @@
     "direction": "horizontal",
     "width": 382.5
   },
-  "active": "ec5c72380ac58664",
+  "active": "f39d8fabd28fee6a",
   "lastOpenFiles": [
-    "journals/2022_11_10.md",
     "journals/2022_11_11.md",
+    "journals/2022_11_10.md",
     "conflict-files-obsidian-git.md",
     "journals/2022_11_06.md",
     "pages/Mary Oliver.md",
