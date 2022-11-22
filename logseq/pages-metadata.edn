@@ -85,6 +85,9 @@
  {:block/name "3-things-to-focus-on",
   :block/created-at 1666903798386,
   :block/updated-at 1666903798386}
+ {:block/name "38889",
+  :block/created-at 1668619619779,
+  :block/updated-at 1668619619779}
  {:block/name "711",
   :block/created-at 1666905376280,
   :block/updated-at 1666905376280}
@@ -397,7 +400,13 @@
   :block/updated-at 1666903801074}
  {:block/name "cruise",
   :block/created-at 1666276594235,
-  :block/updated-at 1666276639979}
+  :block/updated-at 1668772142863}
+ {:block/name "cruise-links",
+  :block/created-at 1668772142862,
+  :block/updated-at 1668772142862}
+ {:block/name "cruise-ports-of-call",
+  :block/created-at 1668899825686,
+  :block/updated-at 1668899825686}
  {:block/name "culture politics",
   :block/created-at 1665810822401,
   :block/updated-at 1665810822401}
@@ -541,7 +550,7 @@
   :block/updated-at 1666882840052}
  {:block/name "diocese-southwest-florida",
   :block/created-at 1667828619855,
-  :block/updated-at 1668190010904}
+  :block/updated-at 1669048885647}
  {:block/name "divide-my-money-after-death",
   :block/created-at 1666903798812,
   :block/updated-at 1666903798812}
@@ -587,6 +596,9 @@
  {:block/name "examen-week",
   :block/created-at 1666903798797,
   :block/updated-at 1666903798797}
+ {:block/name "excursions",
+  :block/created-at 1668771652534,
+  :block/updated-at 1668771652534}
  {:block/name "exercise",
   :block/created-at 1665810823495,
   :block/updated-at 1665810823495}
@@ -1367,6 +1379,9 @@
  {:block/name "ng doing",
   :block/created-at 1665810828827,
   :block/updated-at 1665810828827}
+ {:block/name "nnn",
+  :block/created-at 1668556095991,
+  :block/updated-at 1668556323637}
  {:block/name "notes",
   :block/created-at 1665810821490,
   :block/updated-at 1665810821490}
@@ -1393,28 +1408,49 @@
   :block/updated-at 1668101756594}
  {:block/name "nov 11th, 2022",
   :block/created-at 1668168492174,
-  :block/updated-at 1668168492174}
+  :block/updated-at 1668905063548}
+ {:block/name "nov 12th, 2022",
+  :block/created-at 1668254915689,
+  :block/updated-at 1668303217338}
  {:block/name "nov 13th, 2021",
   :block/created-at 1666906842490,
   :block/updated-at 1666906842490}
+ {:block/name "nov 15th, 2022",
+  :block/created-at 1668554196854,
+  :block/updated-at 1668556355991}
+ {:block/name "nov 16th, 2022",
+  :block/created-at 1668610034189,
+  :block/updated-at 1668648095130}
  {:block/name "nov 17th, 2021",
   :block/created-at 1666906858365,
   :block/updated-at 1666906858365}
  {:block/name "nov 17th, 2022",
   :block/created-at 1667486977559,
-  :block/updated-at 1667487039670}
+  :block/updated-at 1668699146698}
+ {:block/name "nov 18th, 2022",
+  :block/created-at 1668770830616,
+  :block/updated-at 1668812699348}
  {:block/name "nov 19th, 2021",
   :block/created-at 1666906871532,
   :block/updated-at 1666906871532}
+ {:block/name "nov 19th, 2022",
+  :block/created-at 1668898991946,
+  :block/updated-at 1668904797371}
  {:block/name "nov 1st, 2022",
   :block/created-at 1667445214266,
   :block/updated-at 1667445214266}
+ {:block/name "nov 20th, 2022",
+  :block/created-at 1669048273353,
+  :block/updated-at 1669048273353}
+ {:block/name "nov 21st, 2022",
+  :block/created-at 1669048271716,
+  :block/updated-at 1669048297311}
  {:block/name "nov 2nd, 2022",
   :block/created-at 1667445133699,
   :block/updated-at 1667830570006}
  {:block/name "nov 3rd, 2022",
   :block/created-at 1667482900835,
-  :block/updated-at 1667830677767}
+  :block/updated-at 1668619596009}
  {:block/name "nov 4th, 2022",
   :block/created-at 1667664828216,
   :block/updated-at 1667664828216}
@@ -1549,7 +1585,7 @@
   :block/updated-at 1666903798833}
  {:block/name "ophthalmologist",
   :block/created-at 1667445214256,
-  :block/updated-at 1667445214256}
+  :block/updated-at 1668647878216}
  {:block/name "outlander-song-of-skye",
   :block/created-at 1666903798763,
   :block/updated-at 1666903798763}
@@ -1655,6 +1691,9 @@
  {:block/name "russian-invasion-ukraine",
   :block/created-at 1665810823085,
   :block/updated-at 1665810823085}
+ {:block/name "safe-church-training",
+  :block/created-at 1669048465188,
+  :block/updated-at 1669048465188}
  {:block/name "scott",
   :block/created-at 1665810823396,
   :block/updated-at 1665810823396}
@@ -1703,6 +1742,9 @@
  {:block/name "spiritual director",
   :block/created-at 1665810831543,
   :block/updated-at 1665810831543}
+ {:block/name "spiritual-autobiography",
+  :block/created-at 1669048273982,
+  :block/updated-at 1669049049215}
  {:block/name "spiritual-director",
   :block/created-at 1665810826441,
   :block/updated-at 1665810826441}
@@ -1736,6 +1778,9 @@
  {:block/name "still-alice",
   :block/created-at 1667733224811,
   :block/updated-at 1667733707771}
+ {:block/name "supply-application-addendum",
+  :block/created-at 1669048885645,
+  :block/updated-at 1669049006937}
  {:block/name "suzanne morris",
   :block/created-at 1665810831611,
   :block/updated-at 1665810831611}
@@ -1853,6 +1898,9 @@
  {:block/name "values-of-society",
   :block/created-at 1666903798721,
   :block/updated-at 1666903798721}
+ {:block/name "verifly",
+  :block/created-at 1668771014613,
+  :block/updated-at 1668771032816}
  {:block/name "visioning at st",
   :block/created-at 1667131961123,
   :block/updated-at 1667131961123}

@@ -83,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "journals/2022_11_11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "journals/2022_11_11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "journals/2022_11_21.md"
+              }
             }
           },
           {
@@ -128,6 +132,14 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b9a33d610e3ca4a7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -140,7 +152,13 @@
   },
   "active": "f39d8fabd28fee6a",
   "lastOpenFiles": [
+    "journals/2022_11_19.md",
+    "journals/2022_11_18.md",
+    "journals/2022_11_17.md",
+    "journals/2022_11_16.md",
+    "journals/2022_11_09.md",
     "journals/2022_11_11.md",
+    "journals/2022_11_12.md",
     "journals/2022_11_10.md",
     "conflict-files-obsidian-git.md",
     "journals/2022_11_06.md",
