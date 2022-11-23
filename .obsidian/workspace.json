@@ -148,15 +148,17 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 382.5,
+    "collapsed": true
   },
   "active": "f39d8fabd28fee6a",
   "lastOpenFiles": [
+    "pages/things-i-know.md",
+    "journals/2022_11_23.md",
     "journals/2022_11_19.md",
     "journals/2022_11_18.md",
     "journals/2022_11_17.md",
@@ -164,14 +166,6 @@
     "journals/2022_11_09.md",
     "journals/2022_11_11.md",
     "journals/2022_11_12.md",
-    "journals/2022_11_10.md",
-    "conflict-files-obsidian-git.md",
-    "journals/2022_11_06.md",
-    "pages/Mary Oliver.md",
-    "pages/berrys-new-book.md",
-    "journals/2022_11_04.md",
-    "pages/Mary Oliver.md",
-    "pages/b.md",
-    "pages/mary-oliver-and-krista-tippet.md"
+    "journals/2022_11_10.md"
   ]
 }

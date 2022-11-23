@@ -1,4 +1,4 @@
-Spiritual autobiography of priesthood}}
+Spiritual autobiography of priesthood [[spiritual-director.linda-serepca]]
 
 From the time I first began to imagine myself as an ordained priest, sometime in my early 20’s, the worker priests in France were models of what I thought my ministry could be.  A ministry aimed at the poor and the outcast, those who could least afford it, seemed most attractive to me. I was inspired by the stories I read about the emerging ministry with those who are dying, hospice as it emerged first in England. Such were the dreams of ministry I thought and talked about.
   
