@@ -21,7 +21,7 @@ Based on the journaling method created by Intelligent Change:
 <!-- Fill out this section after waking up -->
 I woke early -- 5am. I hadn't taken my night pills, and that seems to influence whether I'm able to sleep the night. My dream this morning somehow featured my father. He was benign, trying to be helpful. 
 
-It hit me with force when the other day Bill [[family.bill]] reminded me of how awkward the times were when Dad would visit us or we would be sent to his house.
+It hit me with force when the other day Bill [[Bill]] reminded me of how awkward the times were when Dad would visit us or we would be sent to his house.
 
 This was apropos of the awkwardness I feel when trying to kickstart a relationship with Lydia. [[fathers.lydia]]
 ### Gratitude
@@ -31,27 +31,22 @@ I am grateful for:
 1.
 2.
 3.
-
 ### What would make today great?
 
 1.
 2.
 3.
-
 ### Daily affirmations
 
 I am...
-
 ## Evening
 
 <!-- Fill out this section before going to sleep, reflecting on your day -->
-
 ### Amazing things that happened today
 
 1.
 2.
 3.
-
 ### How could I have made today even better?
 
 I could have made today better by

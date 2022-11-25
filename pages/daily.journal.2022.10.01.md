@@ -41,17 +41,16 @@ View Mia’s profileMia Freidenburg
 Mia Freidenburg (She/Her)  8:12 PM
 
 Father Dale!!! I don’t know if you remember me, but my mom (Rebecca) and I knew you back in Hawaii. My mom and I were reminiscing the other day about how kind and wonderful you are and it led to me wondering if I could find you online somewhere! I hope you’ve been well, and I know my mom would love to get in touch if that’s okay with you 😊
-
 #### Points of connection
 - Pi'ikea has cut herself from her parents in the past year. It has been a healthy time of setting boundaries.
 - She has 2 younger daughters (that are with David); oldest is entering high school
 - She thought Bridget [[bridget]] was **toxic** from early on
 - She experienced Bob as venal, shallow, and vindictive -- seen while serving on vestry at Good Shepherd, Maui; during a clergy transition. Bob the gossip, cut people down behind their back -- "liar"?
-- She has been in continued communication with Bridget and Emma [[fathers.emma]]. It didn't make sense to her that I was out of the picture.
+- She has been in continued communication with Bridget and Emma [[Emma]]. It didn't make sense to her that I was out of the picture.
 - She said that I was a model Father for David & her.
 - She said that Mia thought of me as a father figure
-
-I am aware that this experience has **reconnected me with an entire episode** of my life that I have been emotionally disconnected. It's not resolved or anything, but it is there. I loved Mia. I respected David and Pi'ikea. They respected me.
+  
+  I am aware that this experience has **reconnected me with an entire episode** of my life that I have been emotionally disconnected. It's not resolved or anything, but it is there. I loved Mia. I respected David and Pi'ikea. They respected me.
 ### Gratitude
 
 I am grateful for:
@@ -59,27 +58,22 @@ I am grateful for:
 1.
 2.
 3.
-
 ### What would make today great?
 
 1.
 2.
 3.
-
 ### Daily affirmations
 
 I am...
-
 ## Evening
 
 <!-- Fill out this section before going to sleep, reflecting on your day -->
-
 ### Amazing things that happened today
 
 1.
 2.
 3.
-
 ### How could I have made today even better?
 
 I could have made today better by
