@@ -2,6 +2,8 @@
 
 [Destinations to visit](https://lifehacker.com/the-most-overrated-tourist-destinations-and-where-to-g-1848911182)
 
+- Ports of call [[cruise-ports-of-call]]
+
 - *The following cities have yet to be totally overrun by tourists:*
    - Udaipur, India. A little more peaceful and spread out compared to other popular cities in India.
    - Lima, Peru. A lively capital city that gets overlooked, but shouldn’t.
@@ -16,13 +18,9 @@
    - Luang Prubang, Laos. The perfect spot for day trip to remarkable aqua waterfalls.
    - Taipei, Taiwan. This capital city has a culinary scene to die for.
 
-[Holland America](https://www.hollandamerica.com/en_US/log-in/sso-log-in.html)
-
-Booking number:  XW4R5K
-
-Photo
-
-- https://www.hollandamerica.com/
+- [Holland America](https://www.hollandamerica.com/en_US/log-in/sso-log-in.html)
+	- Booking number:  XW4R5K
+	- Photo https://www.hollandamerica.com/
 ![](https://checkvist-prod-uploads.s3.eu-west-1.amazonaws.com/u/haObyceuZYhLqy/e9c3f197480bba011ce54cabc383e9280ad2eabc/preview/image.png?X-Amz-Expires=3600&X-Amz-Date=20221118T114840Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIPQDSU45IS7DDLBA%2F20221118%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=1ad84f58c22cb65749a75ac88871610e8a979c93213d7ee360351abc65c57dc0)
 
 Attachments

@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2022_11_27.md",
+                "file": "pages/Cruise-Links.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f60effa42a3c3a3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/cruise-ports-of-call.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ports",
+                "query": "cruise",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2022_11_27.md",
+                "file": "pages/Cruise-Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2022_11_27.md",
+                "file": "pages/Cruise-Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2022_11_27.md"
+                "file": "pages/Cruise-Links.md"
               }
             }
           },
@@ -155,17 +168,17 @@
     "width": 382.5,
     "collapsed": true
   },
-  "active": "7eb1276bd735bfd1",
+  "active": "9426c805bca2b25f",
   "lastOpenFiles": [
+    "pages/cruise-ports-of-call.md",
+    "pages/Cruise-Links.md",
+    "journals/2022_10_28.md",
+    "journals/2022_11_27.md",
     "pages/hanai-children.md",
     "pages/mia.md",
     "journals/2022_11_25.md",
     "pages/Emma-Story.md",
     "logseq/bak/pages/diocese-southwest-florida/2022-11-21T16_34_24.474Z.Desktop.md",
-    "journals/2022_11_23.md",
-    "assets/effects-childhood-abuse_1668968040318_0.png",
-    "Templates/daily-questions.md",
-    "pages/things-i-know.md",
-    "journals/2022_11_19.md"
+    "journals/2022_11_23.md"
   ]
 }
