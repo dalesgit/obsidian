@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2022_11_27.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd84850e0530c398",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/cruise-ports-of-call.md",
+                "file": "journals/2022_11_29.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -102,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/cruise-ports-of-call.md",
+                "file": "journals/2022_11_29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/cruise-ports-of-call.md",
+                "file": "journals/2022_11_29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/cruise-ports-of-call.md"
+                "file": "journals/2022_11_29.md"
               }
             }
           },
@@ -169,11 +155,11 @@
     "width": 382.5,
     "collapsed": true
   },
-  "active": "dd84850e0530c398",
+  "active": "9426c805bca2b25f",
   "lastOpenFiles": [
     "journals/2022_11_27.md",
-    "pages/Cruise-Links.md",
     "pages/cruise-ports-of-call.md",
+    "pages/Cruise-Links.md",
     "journals/2022_10_28.md",
     "pages/hanai-children.md",
     "pages/mia.md",
