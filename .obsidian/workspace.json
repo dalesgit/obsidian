@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1150c214fe0edd62",
+        "id": "8caa6f4f34f51345",
         "type": "tabs",
         "children": [
           {
-            "id": "fd07be93c26868f2",
+            "id": "a184e412fbefbdb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2022_11_27.md",
+                "file": "pages/cruise-ports-of-call.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cruise",
+                "query": "tag:#cruise",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2022_11_27.md",
+                "file": "pages/cruise-ports-of-call.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2022_11_27.md",
+                "file": "pages/cruise-ports-of-call.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2022_11_27.md"
+                "file": "pages/cruise-ports-of-call.md"
               }
             }
           },
@@ -156,17 +155,17 @@
     "width": 382.5,
     "collapsed": true
   },
-  "active": "fd07be93c26868f2",
+  "active": "a184e412fbefbdb4",
   "lastOpenFiles": [
     "journals/2022_11_05.md",
-    "journals/2022_10_26.md",
+    "pages/cruise.md",
     "journals/2022_10_28.md",
     "journals/2022_11_30.md",
+    "journals/2022_11_27.md",
+    "pages/cruise-ports-of-call.md",
+    "journals/2022_10_26.md",
     "logseq/bak/pages/Cruise-Links/2022-11-30T18_41_02.611Z.Desktop.md",
     "logseq/bak/journals/2022_11_05/2022-11-05T18_47_31.379Z.Desktop.md",
-    "pages/cruise.md",
-    "pages/Excursions.md",
-    "pages/Cruise-Links.md",
-    "logseq/bak/pages/2021-wiki/2022-10-24T12_36_52.180Z.Desktop.md"
+    "pages/Excursions.md"
   ]
 }
