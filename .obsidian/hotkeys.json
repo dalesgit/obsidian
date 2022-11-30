@@ -1,1 +1,10 @@
-{}
+{
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "PageUp"
+    }
+  ]
+}
