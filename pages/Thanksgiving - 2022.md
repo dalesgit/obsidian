@@ -13,10 +13,18 @@
 - [ ] Shirts
 	- [ ] Aloha
 	- [ ] 
-- [ ] Coat, gloves, hat
+- [ ] Warmth
+	- [ ] Coat, gloves, hat
 - [ ] Sleeping
+	- [ ] lounge pants
+	- [ ] long-sleeve t-shirts
 - [ ] Swim suit
-## technical
+- [ ] Acutrement
+- [ ] ties (bow & long)
+- [ ] socks
+- [ ] handkerchiefs
+- [ ] underwear
+## Technical
 - [ ] Devices
 	- [ ] Tablet, hp,
 	- [ ] hearing aids, Fitbit watch
@@ -28,7 +36,8 @@
 	- [ ] Backup watch charger?
 - [ ] Binoculars
 - [ ] Night light
-- [ ] 
+- [ ] backup memory for phones
+- [ ] memory card device for HP
 ## Bathroom
 - [ ] Devices
 	- [ ] Water pic
@@ -45,11 +54,13 @@
 - [ ] razor (new blade)
 - [ ] bath scrubby
 - [ ] nail clippers
+- [ ] hair brush
 ## Medication
 - [ ] Daily
 	- [ ] 90 day supply
 - [ ] Voltaren for pain
 - [ ] Ear drops prescription
 - [ ] First aid
-- [ ] 
+- [ ] mosquitoes repellant
+- [ ] Malaria meds
 
