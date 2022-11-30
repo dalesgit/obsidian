@@ -16,20 +16,28 @@
 - [ ] Coat, gloves, hat
 - [ ] Sleeping
 ## technical
-- [ ] Tablet, hp,
-- [ ] hearing aids, Fitbit watch
-- [ ] cords: watch, hearing aids, convertible
+- [ ] Devices
+	- [ ] Tablet, hp,
+	- [ ] hearing aids, Fitbit watch
+- [ ] cords: 
+	- [ ] watch, 
+	- [ ] hearing aids, 
+	- [ ] convertible
+	- [ ] HP convertible
+	- [ ] Backup watch charger?
 - [ ] Binoculars
-- [ ] Backup watch charger?
 - [ ] Night light
-- [ ] Extra watch charger
+- [ ] 
 ## Bathroom
-- [ ] Shampoo
-- [ ] Usual
+- [ ] Shampoo (how much?)
+- [ ] floss (extra)
 - [ ] Scalp medication bottle
 - [ ] Water pic
 - [ ] Extra hair bands
 - [ ] Q-tips
+- [ ] flossing brushes
+- [ ] tooth brush & charger
+- [ ] hair 
 ## Medication
 - [ ] Voltaren for pain
 - [ ] Ear hair trimmer
