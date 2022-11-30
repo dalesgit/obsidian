@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/cruise.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b689582e33356156",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/cruise-ports-of-call.md",
+                "file": "journals/2022_11_30.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/cruise-ports-of-call.md",
+                "file": "journals/2022_11_30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/cruise-ports-of-call.md",
+                "file": "journals/2022_11_30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/cruise-ports-of-call.md"
+                "file": "journals/2022_11_30.md"
               }
             }
           },
@@ -166,18 +152,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5,
-    "collapsed": true
+    "width": 382.5
   },
-  "active": "b689582e33356156",
+  "active": "a184e412fbefbdb4",
   "lastOpenFiles": [
+    "journals/2022_11_30.md",
     "pages/cruise.md",
+    "pages/cruise-ports-of-call.md",
     "pages/Excursions.md",
     "pages/culture-politics.md",
-    "pages/cruise-ports-of-call.md",
     "journals/2022_11_05.md",
     "journals/2022_10_28.md",
-    "journals/2022_11_30.md",
     "journals/2022_11_27.md",
     "journals/2022_10_26.md",
     "logseq/bak/pages/Cruise-Links/2022-11-30T18_41_02.611Z.Desktop.md"
