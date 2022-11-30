@@ -9,12 +9,10 @@ isDir: false
 ---
 
 - # Emma -- an unfinished life #
-  collapsed:: true
 	- [Personal](/checklists/445416)
 	  [[timeline-emma]]
-	- [[fathers.emma]]
+	- [[Emma]]
 - ## Precious daughter
-  collapsed:: true
 	- Since the 70's my first instinct was to root for the girls over the boys.
 	  
 	  Fathers and daughters. Fathers and sons. I have wrestled with my relationship with my parents. I have tried to be sensitive to the dynamics I see in others.
@@ -55,16 +53,17 @@ isDir: false
 	  
 	  A nurse had forgot to clip off the identification bracelet on Emma's ankle. That was my Emma.
 - ## Fathering
-  collapsed:: true
 	- When Lydia had come home from the hospital, Bridget seemed to have difficulty knowing what a mother was to do. I felt like Mo had taught me something of that and I tried to step in. Perhaps Bridget resented me for that. I was something of a "La Leche League" coach for her. Encouraging her in ways that I had learned from earlier experiences. I "mothered" Lydia in significant ways. I was the one who could quiet her at night. I took pride – that's an observation to be wary of – being able to sooth her at night, put her to sleep in my arms, comfort her when nothing else or no one else could accomplish it.
 	  
 	  Emma was a different story. Her mother was a little more confident in her ability to nurse. I now needed to pay even more attention to Lydia as Bridget was focused on her new-born. I felt an inner pressure to open my heart to Emma in compensation for the extra time I spent with Lydia. It was right and proper that Emma's mother be the primary care-giver at this point.
 	  
 	  And so it was that I began what I thought would be an innocent time of fathering and nurturing two little girls. They shared a bedroom then. Emma in a crib and Lydia in the "big girl" bed. I solidified my deepest intention to be the best father ever. I thought I knew deep within that I could do it by growing a love within me like an oak tree or baobab tree. I read, I fed, I rocked, and read stories. Lydia seemed to naturally melt into my arms after only a few minutes of rocking. Emma, on the other hand, seemed to demonstrate a "strong will" from the beginning. When she was upset there seemed to be now way to get past it with gentleness. She would fall asleep after she was exhausted. Again and again.
 	  
-	  Bathing
+	  I changed diapers and gave them baths. I was conscious of being a male in a female dominated family. I was ultra-sensitive to gender issues as related to privacy and appropriateness. This was made especially present to me as it was during these years that the church was increasing at great speed it's awareness of and sensitivity to abuse issues. From the beginning of my marriage to Bridget I was aware that my approach to relationships was vastly different from hers. The differences were manifest in the way we approached parenting. I was utterly committed to a mutuality and sharing of parental roles. My sense was that Bridget [[Bridget]] was far more committed to traditional roles of fathering and mothering.
 	  
-	  Carrying her on shoulders to pre-school
+	  Does it make any difference so many years later that both my mother [[Mom]] and my brother [[Bill]] thought that Bridget and I were mis-matched and inappropriately wed? If I had known how skeptical they were in 1991, would it have made any difference?
+	  
+	  One little illustration of my parenting with Emma was a sort of game we had as I took her into her preschool. When I took her out of her car seat I would hoist her onto my shoulders and we would proceed into the front doors, ducking because with her height above me we didn't fit the doorway. How little I could have suspected where that little gesture would lead.
 - ## The Police?
   collapsed:: true
 	- stolen without notice -- in this case by the **state**
