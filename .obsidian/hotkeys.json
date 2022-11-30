@@ -6,5 +6,13 @@
       ],
       "key": "PageUp"
     }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "PageDown"
+    }
   ]
 }

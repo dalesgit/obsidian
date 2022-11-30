@@ -1,4 +1,4 @@
-## clothes
+## Clothes
 - [ ] Pants
 	- [ ] Eddie Bauer
 	- [ ] gray slacks
@@ -12,18 +12,21 @@
 	- [ ] 
 - [ ] Shirts
 	- [ ] Aloha
-	- [ ] 
+	- [ ] long-sleeved
+	- [ ] dress shirts
+	- [ ] short-sleeved
 - [ ] Warmth
 	- [ ] Coat, gloves, hat
+	- [ ] over-shirt
 - [ ] Sleeping
 	- [ ] lounge pants
 	- [ ] long-sleeve t-shirts
-- [ ] Swim suit
-- [ ] Acutrement
-- [ ] ties (bow & long)
-- [ ] socks
-- [ ] handkerchiefs
-- [ ] underwear
+- [ ] accoutrements
+	- [ ] ties (bow & long)
+	- [ ] socks
+	- [ ] handkerchiefs
+	- [ ] underwear
+	- [ ] Swim suit
 ## Technical
 - [ ] Devices
 	- [ ] Tablet, hp,
