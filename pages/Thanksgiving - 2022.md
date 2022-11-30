@@ -15,6 +15,7 @@
 	- [ ] 
 - [ ] Coat, gloves, hat
 - [ ] Sleeping
+- [ ] Swim suit
 ## technical
 - [ ] Devices
 	- [ ] Tablet, hp,
@@ -29,23 +30,26 @@
 - [ ] Night light
 - [ ] 
 ## Bathroom
+- [ ] Devices
+	- [ ] Water pic
+	- [ ] tooth brush & 
+	- [ ] charger
+	- [ ] Ear hair trimmer
 - [ ] Shampoo (how much?)
 - [ ] floss (extra)
 - [ ] Scalp medication bottle
-- [ ] Water pic
 - [ ] Extra hair bands
 - [ ] Q-tips
 - [ ] flossing brushes
-- [ ] tooth brush & charger
-- [ ] hair 
+- [ ] hair brush
+- [ ] razor (new blade)
+- [ ] bath scrubby
+- [ ] nail clippers
 ## Medication
+- [ ] Daily
+	- [ ] 90 day supply
 - [ ] Voltaren for pain
-- [ ] Ear hair trimmer
 - [ ] Ear drops prescription
-## Kitchen
-- [ ] Water bottles
-- [ ] Cheese
-- [ ] Liquor
-## Forgotten
-- [ ] secure.guestinternet.com (Hilton)
-- [ ] Bad internet/wife in Rock Hill was a trial run for the cruise
+- [ ] First aid
+- [ ] 
+
