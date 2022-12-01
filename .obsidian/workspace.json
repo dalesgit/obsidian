@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "72d27e4df4c303f7",
+        "id": "f5834af51d2a4ca8",
         "type": "tabs",
         "children": [
           {
-            "id": "8445d862578448b1",
+            "id": "c56d252fe17266f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journals/2022_11_30.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "393e0a2bf4f473b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journals/2022_11_30.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -101,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2022_11_30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2022_11_30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "journals/2022_11_30.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,7 +146,7 @@
     "width": 382.5,
     "collapsed": true
   },
-  "active": "8445d862578448b1",
+  "active": "c56d252fe17266f5",
   "lastOpenFiles": [
     "journals/2022_11_30.md",
     "journals/2022_11_29.md",
