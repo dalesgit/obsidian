@@ -88,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "journals/2022_11_30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "journals/2022_11_30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "journals/2022_11_30.md"
+              }
             }
           },
           {
