@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,6 +156,8 @@
   },
   "active": "4abf39067dbe9197",
   "lastOpenFiles": [
+    "pages/Lydia.md",
+    "pages/Lydia 11-30 1.md",
     "journals/2022_11_30.md",
     "Templates/timestamp.md",
     "pages/cruise.md",
@@ -163,8 +165,6 @@
     "pages/Excursions.md",
     "pages/culture-politics.md",
     "journals/2022_11_05.md",
-    "journals/2022_10_28.md",
-    "journals/2022_11_27.md",
-    "journals/2022_10_26.md"
+    "journals/2022_10_28.md"
   ]
 }
