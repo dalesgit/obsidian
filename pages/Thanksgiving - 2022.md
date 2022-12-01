@@ -1,4 +1,4 @@
-## Clothes
+## Clothes [[Cruise-Links]]
 - [ ] Pants
 	- [ ] Eddie Bauer
 	- [ ] gray slacks
@@ -41,6 +41,7 @@
 - [ ] Night light
 - [ ] backup memory for phones
 - [ ] memory card device for HP
+- [ ] sewing kit
 ## Bathroom
 - [ ] Devices
 	- [ ] Water pic
