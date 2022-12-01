@@ -1,4 +1,4 @@
-## clothes
+## Clothes
 - [ ] Pants
 	- [ ] Eddie Bauer
 	- [ ] gray slacks
@@ -12,32 +12,58 @@
 	- [ ] 
 - [ ] Shirts
 	- [ ] Aloha
-	- [ ] 
-- [ ] Coat, gloves, hat
+	- [ ] long-sleeved
+	- [ ] dress shirts
+	- [ ] short-sleeved
+- [ ] Warmth
+	- [ ] Coat, gloves, hat
+	- [ ] over-shirt
 - [ ] Sleeping
-## technical
-- [ ] Tablet, hp,
-- [ ] hearing aids, Fitbit watch
-- [ ] cords: watch, hearing aids, convertible
+	- [ ] lounge pants
+	- [ ] long-sleeve t-shirts
+- [ ] accoutrements
+	- [ ] ties (bow & long)
+	- [ ] socks
+	- [ ] handkerchiefs
+	- [ ] underwear
+	- [ ] Swim suit
+## Technical
+- [ ] Devices
+	- [ ] Tablet, hp,
+	- [ ] hearing aids, Fitbit watch
+- [ ] cords: 
+	- [ ] watch, 
+	- [ ] hearing aids, 
+	- [ ] convertible
+	- [ ] HP convertible
+	- [ ] Backup watch charger?
 - [ ] Binoculars
-- [ ] Backup watch charger?
 - [ ] Night light
-- [ ] Extra watch charger
+- [ ] backup memory for phones
+- [ ] memory card device for HP
 ## Bathroom
-- [ ] Shampoo
-- [ ] Usual
+- [ ] Devices
+	- [ ] Water pic
+	- [ ] tooth brush & 
+	- [ ] charger
+	- [ ] Ear hair trimmer
+- [ ] Shampoo (how much?)
+- [ ] floss (extra)
 - [ ] Scalp medication bottle
-- [ ] Water pic
 - [ ] Extra hair bands
 - [ ] Q-tips
+- [ ] flossing brushes
+- [ ] hair brush
+- [ ] razor (new blade)
+- [ ] bath scrubby
+- [ ] nail clippers
+- [ ] hair brush
 ## Medication
+- [ ] Daily
+	- [ ] 90 day supply
 - [ ] Voltaren for pain
-- [ ] Ear hair trimmer
 - [ ] Ear drops prescription
-## Kitchen
-- [ ] Water bottles
-- [ ] Cheese
-- [ ] Liquor
-## Forgotten
-- [ ] secure.guestinternet.com (Hilton)
-- [ ] Bad internet/wife in Rock Hill was a trial run for the cruise
+- [ ] First aid
+- [ ] mosquitoes repellant
+- [ ] Malaria meds
+

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "72d27e4df4c303f7",
+        "id": "8caa6f4f34f51345",
         "type": "tabs",
         "children": [
           {
-            "id": "8445d862578448b1",
+            "id": "a184e412fbefbdb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Thanksgiving - 2022.md",
+                "file": "journals/2022_11_30.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cruise",
+                "query": "tag:#cruise",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,13 +67,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 234.50000381469727,
-    "collapsed": true
+    "width": 234.50000381469727
   },
   "right": {
     "id": "789b306ea1af336e",
@@ -89,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Thanksgiving - 2022.md",
+                "file": "journals/2022_11_30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Thanksgiving - 2022.md",
+                "file": "journals/2022_11_30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Thanksgiving - 2022.md"
+                "file": "journals/2022_11_30.md"
               }
             }
           },
@@ -149,24 +147,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 382.5,
-    "collapsed": true
+    "width": 382.5
   },
-  "active": "8445d862578448b1",
+  "active": "a184e412fbefbdb4",
   "lastOpenFiles": [
     "journals/2022_11_30.md",
-    "journals/2022_11_29.md",
-    "journals/2022_11_27.md",
+    "Templates/timestamp.md",
+    "pages/cruise.md",
     "pages/cruise-ports-of-call.md",
-    "pages/Cruise-Links.md",
+    "pages/Excursions.md",
+    "pages/culture-politics.md",
+    "journals/2022_11_05.md",
     "journals/2022_10_28.md",
-    "pages/hanai-children.md",
-    "pages/mia.md",
-    "journals/2022_11_25.md",
-    "pages/Emma-Story.md"
+    "journals/2022_11_27.md",
+    "journals/2022_10_26.md"
   ]
 }
