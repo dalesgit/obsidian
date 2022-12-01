@@ -1,31 +1,69 @@
-## clothes
-- [ ] Coat, gloves, hat
-- [ ] Shoes
+## Clothes
 - [ ] Pants
+	- [ ] Eddie Bauer
+	- [ ] gray slacks
+	- [ ] black slacks
+	- [ ] levis (1)
+	- [ ] Pants
+- [ ] Shoes
+	- [ ] rubber slippers
+	- [ ] indoor slippers
+	- [ ] new sneakers
+	- [ ] 
+- [ ] Shirts
+	- [ ] Aloha
+	- [ ] long-sleeved
+	- [ ] dress shirts
+	- [ ] short-sleeved
+- [ ] Warmth
+	- [ ] Coat, gloves, hat
+	- [ ] over-shirt
 - [ ] Sleeping
-## technical
-- [ ] Tablet, hp, 
-- [ ] hearing aids, Fitbit watch
-- [ ] cords: watch, hearing aids, convertible
+	- [ ] lounge pants
+	- [ ] long-sleeve t-shirts
+- [ ] accoutrements
+	- [ ] ties (bow & long)
+	- [ ] socks
+	- [ ] handkerchiefs
+	- [ ] underwear
+	- [ ] Swim suit
+## Technical
+- [ ] Devices
+	- [ ] Tablet, hp,
+	- [ ] hearing aids, Fitbit watch
+- [ ] cords: 
+	- [ ] watch, 
+	- [ ] hearing aids, 
+	- [ ] convertible
+	- [ ] HP convertible
+	- [ ] Backup watch charger?
 - [ ] Binoculars
-
-## Bathroom
-- [ ] Shampoo
-- [ ] Usual
-## Kitchen
-- [ ] Water bottles
-- [ ] Cheese
-- [ ] Liquor
-## Forgotten
-- [ ] Voltaren for pain
-- [ ] Water pic
 - [ ] Night light
-- [ ] Extra hair bands
-- [ ] Ear hair trimmer
-- [ ] Where is my second watch charger?
+- [ ] backup memory for phones
+- [ ] memory card device for HP
+## Bathroom
+- [ ] Devices
+	- [ ] Water pic
+	- [ ] tooth brush & 
+	- [ ] charger
+	- [ ] Ear hair trimmer
+- [ ] Shampoo (how much?)
+- [ ] floss (extra)
 - [ ] Scalp medication bottle
-- [ ] secure.guestinternet.com (Hilton)
-- [ ] Bad internet/wife in Rock Hill was a trial run for the cruise
-- [ ] Ear drops prescription
-- [ ] Extra watch charger
+- [ ] Extra hair bands
 - [ ] Q-tips
+- [ ] flossing brushes
+- [ ] hair brush
+- [ ] razor (new blade)
+- [ ] bath scrubby
+- [ ] nail clippers
+- [ ] hair brush
+## Medication
+- [ ] Daily
+	- [ ] 90 day supply
+- [ ] Voltaren for pain
+- [ ] Ear drops prescription
+- [ ] First aid
+- [ ] mosquitoes repellant
+- [ ] Malaria meds
+
