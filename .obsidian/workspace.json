@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f1fb957fbf78e377",
+        "id": "296d9e05f1d93c35",
         "type": "tabs",
         "children": [
           {
-            "id": "4abf39067dbe9197",
+            "id": "6d292fdc36a1dc66",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journals/2022_12_01.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -89,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2022_12_01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2022_12_01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "journals/2022_12_01.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,12 +145,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 382.5,
+    "collapsed": true
   },
-  "active": "4abf39067dbe9197",
+  "active": "6d292fdc36a1dc66",
   "lastOpenFiles": [
-    "journals/2023_01_07.md",
     "journals/2022_12_01.md",
+    "journals/2023_01_07.md",
     "journals/2022_11_30.md",
     "pages/Thanksgiving - 2022.md",
     "pages/Cruise-Links.md",
