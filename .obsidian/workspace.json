@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8caa6f4f34f51345",
+        "id": "f1fb957fbf78e377",
         "type": "tabs",
         "children": [
           {
-            "id": "a184e412fbefbdb4",
+            "id": "4abf39067dbe9197",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,7 +154,7 @@
     "direction": "horizontal",
     "width": 382.5
   },
-  "active": "a184e412fbefbdb4",
+  "active": "4abf39067dbe9197",
   "lastOpenFiles": [
     "journals/2022_11_30.md",
     "Templates/timestamp.md",

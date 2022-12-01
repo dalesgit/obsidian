@@ -6,5 +6,6 @@
   "note-refactor-obsidian",
   "obsidian-pandoc",
   "table-editor-obsidian",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "obsidian-timestamper"
 ]
