@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2022_12_02.md",
+                "file": "Templates/Daily/daily-note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "odonohue",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.50000381469727,
-    "collapsed": true
+    "width": 234.50000381469727
   },
   "right": {
     "id": "789b306ea1af336e",
@@ -89,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2022_12_02.md",
+                "file": "Templates/Daily/daily-note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2022_12_02.md",
+                "file": "Templates/Daily/daily-note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2022_12_02.md"
+                "file": "Templates/Daily/daily-note.md"
               }
             }
           },
@@ -159,15 +158,15 @@
   },
   "active": "6d292fdc36a1dc66",
   "lastOpenFiles": [
-    "pages/David.md",
+    "pages/templates.odonohue-questions.md",
+    "pages/templates.daily.daily-note.md",
+    "pages/odonohue-response.md",
     "journals/2022_12_02.md",
-    "pages/Bill.md",
-    "journals/2022_12_01.md",
     "journals/2022_11_30.md",
-    "pages/Lydia.md",
-    "pages/Lydia 11-30 1.md",
-    "journals/2023_01_07.md",
-    "pages/Thanksgiving - 2022.md",
-    "pages/Cruise-Links.md"
+    "journals/2022_11_29.md",
+    "journals/2022_11_27.md",
+    "journals/2022_11_25.md",
+    "pages/David.md",
+    "pages/Bill.md"
   ]
 }
