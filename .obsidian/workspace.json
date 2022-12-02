@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily/daily-note.md",
+                "file": "notes/tiddly-notes/gramma-bridget-miriam.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily/daily-note.md",
+                "file": "notes/tiddly-notes/gramma-bridget-miriam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily/daily-note.md",
+                "file": "notes/tiddly-notes/gramma-bridget-miriam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily/daily-note.md"
+                "file": "notes/tiddly-notes/gramma-bridget-miriam.md"
               }
             }
           },
@@ -156,17 +155,17 @@
     "width": 382.5,
     "collapsed": true
   },
-  "active": "6d292fdc36a1dc66",
+  "active": "863c4ed001094d5d",
   "lastOpenFiles": [
-    "pages/templates.odonohue-questions.md",
-    "pages/templates.daily.daily-note.md",
+    "notes/assets/logo_small-1yrox5publsy-a3efq9h3npoa.png",
+    "notes/assets/may-wedding-4yiloooyxj80.png",
+    "notes/assets/mp-birthday-73-wpswebu3xbxn.pdf",
+    "notes/assets/our-new-house-dt0fxgmoelm4.jpeg",
+    "Visioning at St. Alfred.md",
+    "Visioning at St/ Alfred.md",
+    "Templates/daily-questions.md",
+    "Templates/odonohue-questions.md",
     "pages/odonohue-response.md",
-    "journals/2022_12_02.md",
-    "journals/2022_11_30.md",
-    "journals/2022_11_29.md",
-    "journals/2022_11_27.md",
-    "journals/2022_11_25.md",
-    "pages/David.md",
-    "pages/Bill.md"
+    "pages/avocado.md"
   ]
 }
