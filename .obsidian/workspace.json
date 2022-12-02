@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/tiddly-notes/gramma-bridget-miriam.md",
+                "file": "journals/2022_12_02.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.50000381469727
+    "width": 234.50000381469727,
+    "collapsed": true
   },
   "right": {
     "id": "789b306ea1af336e",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/tiddly-notes/gramma-bridget-miriam.md",
+                "file": "journals/2022_12_02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/tiddly-notes/gramma-bridget-miriam.md",
+                "file": "journals/2022_12_02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/tiddly-notes/gramma-bridget-miriam.md"
+                "file": "journals/2022_12_02.md"
               }
             }
           },
@@ -152,20 +153,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5,
-    "collapsed": true
+    "width": 382.5
   },
-  "active": "863c4ed001094d5d",
+  "active": "6d292fdc36a1dc66",
   "lastOpenFiles": [
+    "pages/odonohue-questions.md",
+    "pages/odonohue-response.md",
+    "logseq/bak/journals/2022_10_29/2022-10-31T10_09_02.231Z.Desktop.md",
+    "notes/tiddly-notes/gramma-bridget-miriam.md",
     "notes/assets/logo_small-1yrox5publsy-a3efq9h3npoa.png",
     "notes/assets/may-wedding-4yiloooyxj80.png",
     "notes/assets/mp-birthday-73-wpswebu3xbxn.pdf",
     "notes/assets/our-new-house-dt0fxgmoelm4.jpeg",
     "Visioning at St. Alfred.md",
-    "Visioning at St/ Alfred.md",
-    "Templates/daily-questions.md",
-    "Templates/odonohue-questions.md",
-    "pages/odonohue-response.md",
-    "pages/avocado.md"
+    "Visioning at St/ Alfred.md"
   ]
 }
