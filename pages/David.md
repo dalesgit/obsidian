@@ -1,0 +1,1 @@
+Marrying Laura in January. Emma will be a part of the service.
