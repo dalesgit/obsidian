@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.50000381469727
+    "width": 234.50000381469727,
+    "collapsed": true
   },
   "right": {
     "id": "789b306ea1af336e",
@@ -149,23 +150,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 382.5
   },
-  "active": "7eb1276bd735bfd1",
+  "active": "6d292fdc36a1dc66",
   "lastOpenFiles": [
-    "journals/2022_12_01.md",
     "journals/2022_12_02.md",
+    "pages/Will.md",
+    "notes/tiddly-notes/housing-allowance.md",
+    "notes/tiddly-notes/all-rest-wiki-ed.md",
+    "notes/tiddly-notes/miriam-letter.md",
+    "journals/2022_12_01.md",
     "notes/tiddly-notes/exercise.md",
     "Templates/daily-questions.md",
     "pages/odonohue-questions.md",
-    "pages/odonohue-response.md",
-    "logseq/bak/journals/2022_10_29/2022-10-31T10_09_02.231Z.Desktop.md",
-    "notes/tiddly-notes/gramma-bridget-miriam.md",
-    "notes/assets/logo_small-1yrox5publsy-a3efq9h3npoa.png",
-    "notes/assets/may-wedding-4yiloooyxj80.png"
+    "pages/odonohue-response.md"
   ]
 }
