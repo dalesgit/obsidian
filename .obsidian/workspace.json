@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2022_12_02.md",
-                "mode": "source",
+                "file": "journals/2022_12_01.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2022_12_02.md",
+                "file": "journals/2022_12_01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2022_12_02.md",
+                "file": "journals/2022_12_01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2022_12_02.md"
+                "file": "journals/2022_12_01.md"
               }
             }
           },
@@ -157,9 +157,9 @@
   },
   "active": "6d292fdc36a1dc66",
   "lastOpenFiles": [
+    "journals/2022_12_02.md",
     "notes/tiddly-notes/exercise.md",
     "Templates/daily-questions.md",
-    "journals/2022_12_02.md",
     "pages/odonohue-questions.md",
     "pages/odonohue-response.md",
     "logseq/bak/journals/2022_10_29/2022-10-31T10_09_02.231Z.Desktop.md",
