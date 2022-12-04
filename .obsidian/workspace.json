@@ -19,19 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "839395853eac6dda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/odonohue-questions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
         "stacked": true
@@ -172,15 +159,15 @@
   },
   "active": "4abf39067dbe9197",
   "lastOpenFiles": [
+    "Templates/daily-questions.md",
+    "journals/2022_12_03.md",
     "pages/odonohue-questions.md",
     "pages/odonohue-response.md",
-    "journals/2022_12_03.md",
     "journals/2022_12_02.md",
     "pages/cruise-ports-of-call.md",
     "journals/2022_10_26.md",
     "journals/2022_11_30.md",
     "pages/Thanksgiving - 2022.md",
-    "pages/Health protocols.md",
-    "pages/cruise.md"
+    "pages/Health protocols.md"
   ]
 }
