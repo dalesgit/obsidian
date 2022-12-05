@@ -14,6 +14,8 @@
   the quality of a person's life.
   Dale Evans' *Angel Unaware.* You know the story.
   We've had 10 years to share stories.
--
+- Is that a lot? Is 10 times that 10 times better?
+  Is knowing you and your stories quantifiable?
+  Is taking you
 -
 -
