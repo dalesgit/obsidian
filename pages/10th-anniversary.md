@@ -1,7 +1,3 @@
-- we've got this
-- long enough to ...
-- Not long enough ...
-- Associate with travel -- cf. news story on CNN today -- MP resonated
 - What is the measure of a man? A woman? A marriage?
   Is there a ruler? Is there a scale? How do you reckon it?
   Is 10 a lot? A little? Depends on 10 what? Right?
@@ -33,4 +29,4 @@
   And a smile rises up within me.
 - 10 years is long enough to have traveled together thousands of miles.
   There are still miles and miles that lie before us. 
-  Take your pick.
+  Take your pick. I would still choose you.
