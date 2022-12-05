@@ -30,4 +30,5 @@
   retelling the story in a new year's new context.
   It's long enough see you in the morning, 
   looking like a song rising from the mist off a forested lake.
-  And a smile rises
+  And a smile rises up within me.
+- 10 years is long enough to traveled together thousands of miles.
