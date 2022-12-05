@@ -35,3 +35,4 @@
 - 10 years is long enough to have traveled together thousands of miles,
   But there are still miles and miles that lie before us. 
   Take your pick. I would still choose you.
+  Today I delight inside when I look up at you
