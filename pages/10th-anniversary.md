@@ -23,10 +23,12 @@
   10 years. 
   I remember the evening by the jewelry shop along the north shore
   When I asked you to marry me. I remember it again and again.
+  *Anamnesis* remembers into being, a sacrament, 
+  A presence in time present, time past and yet to come.
 - 10 years is long enough to know many of your stories.
   Not really long enough to hear a year's worth of 
   retelling the story in a new year's new context.
-  It's long enough see you in the morning, 
+  It's long enough to see you in the morning, 
   looking like a song rising from the mist off a forested lake.
   And a smile rises up within me.
 - 10 years is long enough to have traveled together thousands of miles.
