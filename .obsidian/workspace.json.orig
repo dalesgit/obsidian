@@ -4,29 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "016bf52dc1b5acf6",
+        "id": "f1fb957fbf78e377",
         "type": "tabs",
         "children": [
           {
-            "id": "2b18157ecf2e6845",
+            "id": "4abf39067dbe9197",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2022_12_02.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f164c73684be0eae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+<<<<<<< HEAD
+                "file": "journals/2022_12_04.md",
+=======
+                "file": "journals/2022_12_05.md",
+>>>>>>> origin
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,36 +25,36 @@
             }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "bf69d6cdb126530a",
+    "id": "e9141a4ffb4f03de",
     "type": "split",
     "children": [
       {
-        "id": "108ffebd7cc297e8",
+        "id": "7c7577c510bbceec",
         "type": "tabs",
         "children": [
           {
-            "id": "12dd71cecae172b1",
+            "id": "863c4ed001094d5d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
           {
-            "id": "27512d5f1ca9df0b",
+            "id": "7eb1276bd735bfd1",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#task",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,42 +64,40 @@
             }
           },
           {
-            "id": "1a31ec05c8884083",
+            "id": "7e62a3632e380ed1",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 234.50000381469727,
+    "collapsed": true
   },
   "right": {
-    "id": "c315463b010fa85b",
+    "id": "789b306ea1af336e",
     "type": "split",
     "children": [
       {
-        "id": "c8c8e5c3d498b4eb",
+        "id": "833a8762f6340d43",
         "type": "tabs",
         "children": [
           {
-            "id": "930c08678fe8b11c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "a418ba1f59f62c9a",
+            "id": "0c3ec7ba1c10df89",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+<<<<<<< HEAD
+                "file": "journals/2022_12_04.md",
+=======
+                "file": "journals/2022_12_05.md",
+>>>>>>> origin
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,19 +109,23 @@
             }
           },
           {
-            "id": "6e39ee2f44b88a81",
+            "id": "aef57d846be5c49e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+<<<<<<< HEAD
+                "file": "journals/2022_12_04.md",
+=======
+                "file": "journals/2022_12_05.md",
+>>>>>>> origin
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "022048edd6cc1370",
+            "id": "62388abf214f129a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -143,33 +136,53 @@
             }
           },
           {
-            "id": "8e93be3ff8505096",
+            "id": "3bd28fe5bd142c2d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+<<<<<<< HEAD
+                "file": "journals/2022_12_04.md"
+=======
+                "file": "journals/2022_12_05.md"
+>>>>>>> origin
               }
             }
+          },
+          {
+            "id": "561001755f7b3b42",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b9a33d610e3ca4a7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 382.5
   },
-  "active": "f164c73684be0eae",
+  "active": "4abf39067dbe9197",
   "lastOpenFiles": [
+    "journals/2022_12_03.md",
+    "Templates/daily-questions.md",
+    "pages/odonohue-questions.md",
+    "pages/odonohue-response.md",
     "journals/2022_12_02.md",
-    "journals/2022_10_18.md",
-    "journals/2022_10_15.md",
-    "pages/fathers.emma.emma-story.md",
-    "pages/spiritual-director.linda-serepca.md",
-    "pages/notes%2Fjournal.md",
-    "emma-story.md",
-    "notes/daily-notes.2022-08-06.md",
-    "2022-10-13.md",
-    "notes/fathers.emma.emma-story.md"
+    "pages/cruise-ports-of-call.md",
+    "journals/2022_10_26.md",
+    "journals/2022_11_30.md",
+    "pages/Thanksgiving - 2022.md",
+    "pages/Health protocols.md"
   ]
 }
