@@ -6,4 +6,5 @@ Needing reassurance
 - Not long enough ...
 - Associate with travel -- cf. news story on CNN today -- MP resonated
 - What is the measure of a man? A woman? A marriage?
-- Is there a ruler? Is there a scale?
+- Is there a ruler? Is there a scale? How do you measure?
+- Is 10 a lot? Or little? Depends on 10 what? Right?
