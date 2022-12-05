@@ -18,8 +18,7 @@
   “All Welcomed. All Loved. No Exceptions.”
   That's tough to incarnate.
   10 years is 10 years of enfleshing "I love you" -- no matter what.
-  
-  You asked once if there was **chemistry**? Oh, indeed.
+- You asked once if there was **chemistry**? Oh, indeed.
   No matter what, no exceptions -- it's easier today, 
   I'm more assured, than yesterday -- multiplied back
   10 years.
