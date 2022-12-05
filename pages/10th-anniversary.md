@@ -21,8 +21,8 @@
   Oh, indeed.
   No matter what, no exceptions -- it's easier today, 
   I'm more assured, than yesterday -- multiplied back
-  10 years. 
-  I remember the evening by the jewelry shop along the north shore
+  10 years.
+- I remember the evening by the jewelry shop along the north shore
   When I asked you to marry me. I remember it again and again.
   *Anamnesis* rememtd
   bers into being, a sacrament, 
@@ -39,5 +39,5 @@
   Today I delight inside when I look up at you
   And I see a beautiful woman.
   It's not words. It's what I see. I may be crazy.
-  But I'm in love with you tdat the mile-marker
+  But I'm in love with you at the mile-marker
   10 years.
