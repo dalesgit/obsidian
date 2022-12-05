@@ -1,5 +1,3 @@
-- "Chemistry"
-- Needing reassurance
 - we've got this
 - long enough to ...
 - Not long enough ...
@@ -22,6 +20,8 @@
   10 years is 10 years of enfleshing "I love you" -- no matter what.
   
   You asked once if there was **chemistry**? Oh, indeed.
-  No matter what, no exceptions -- it's easier today, I'm more assured,
+  No matter what, no exceptions -- it's easier today, 
+  I'm more assured, than yesterday -- multiplied back
+  10 years.
 -
 -
