@@ -10,8 +10,10 @@
   10 ants crawling on the back lanai is better than a 1,000.
   10 grams of gold is valued today at $577.12.
 - It was in my life's ancient of days that I knew
-  that length of days is no way to judge the quality of a person's life.
+  that length of days is no way to judge 
+  the quality of a person's life.
   Dale Evans' *Angel Unaware.* You know the story.
   We've had 10 years to share stories.
+-
 -
 -
