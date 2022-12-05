@@ -36,3 +36,7 @@
   But there are still miles and miles that lie before us. 
   Take your pick. I would still choose you.
   Today I delight inside when I look up at you
+  And I see a beautiful woman.
+  It's not words. It's what I see. I may be crazy.
+  But I'm in love with you at the mile-marker
+  10 years.
