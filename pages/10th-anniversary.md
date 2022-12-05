@@ -24,7 +24,8 @@
   10 years. 
   I remember the evening by the jewelry shop along the north shore
   When I asked you to marry me. I remember it again and again.
-  *Anamnesis* remembers into being, a sacrament, 
+  *Anamnesis* rememtd
+  bers into being, a sacrament, 
   A presence in time present, time past and yet to come.
 - 10 years is long enough to know many of your stories.
   Not really long enough to hear a year's worth of 
@@ -38,5 +39,5 @@
   Today I delight inside when I look up at you
   And I see a beautiful woman.
   It's not words. It's what I see. I may be crazy.
-  But I'm in love with you at the mile-marker
+  But I'm in love with you tdat the mile-marker
   10 years.
