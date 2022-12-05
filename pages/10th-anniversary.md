@@ -1,5 +1,5 @@
 - "Chemistry"
-  Needing reassurance
+- Needing reassurance
 - we've got this
 - long enough to ...
 - Not long enough ...
