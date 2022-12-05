@@ -26,7 +26,8 @@
   I remember the evening by the jewelry shop along the north shore
   When I asked you to marry me.
 - 10 years is long enough to know many of your stories.
-  Not really long enough to hear a year's worth of retelling the story
-  In this year's new context.
+  Not really long enough to hear a year's worth of 
+  retelling the story in a new year's new context.
   It's long enough see you in the morning, 
   looking like a song rising from the mist off a forested lake.
+  And a smile rises
