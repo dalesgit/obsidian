@@ -25,4 +25,5 @@
   10 years. 
   I remember the evening by the jewelry shop along the north shore
   When I asked you to marry me.
--
+- 10 years is long enough to know many of your stories.
+  10 years isn't really long enough
