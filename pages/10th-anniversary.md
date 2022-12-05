@@ -17,5 +17,7 @@
 - Is that a lot? Is 10 times that 10 times better?
   Is knowing you and your stories quantifiable?
   Is taking you for my **isha** "no matter what" a thing to be measured?
+  “All Welcomed. All Loved. No Exceptions.”
+  That's tough to incarnate.
 -
 -
