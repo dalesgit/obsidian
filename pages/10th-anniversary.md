@@ -16,8 +16,9 @@
   reads the motto on the church we chose.
   That's tough to incarnate.
   10 years is 10 years of enfleshing "I love you" -- no matter what.
-  That's something.
-- You asked once if there was **chemistry**? Oh, indeed.
+  That's something, not to be sneezed at, no laughing matter.
+- You asked once if there was **chemistry**? 
+  Oh, indeed.
   No matter what, no exceptions -- it's easier today, 
   I'm more assured, than yesterday -- multiplied back
   10 years. 
