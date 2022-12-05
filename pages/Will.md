@@ -1,4 +1,5 @@
 - Judy - Facebook - good ideas
+  collapsed:: true
 	- Are your affairs in order?  And have you EXECUTED them?  Also, have you told someone about them?
 	- IMPORTANT information to get your affairs in order.
 	- 💰Make sure all bank accounts have direct beneficiaries. The beneficiary need only go to the bank with your death certificate and an ID of their own.
@@ -8,3 +9,14 @@
 	- 🏥Power of Attorney for Healthcare:  This document allows one to designate someone to make healthcare decisions for their person.
 	- 🛍Last Will and Testament:  Designates to whom personal belongings will go too.
 	- 🪦Funeral Planning Declaration:  allows one to say exactly one’s wishes as far as disposition of the body and the services.
+- Before the cruise Share with Bill and Joe S.
+  collapsed:: true
+	- Account info
+	  David’s contact info 
+	  Sharlene’s contact info 
+	  Location of will
+	  Contact info for friends
+	- List of valuables 
+	  Sr. Yoo Soo’s painting
+	- Hilton points, login info
+	  Facebook logins
