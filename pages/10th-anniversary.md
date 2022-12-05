@@ -31,4 +31,6 @@
   It's long enough see you in the morning, 
   looking like a song rising from the mist off a forested lake.
   And a smile rises up within me.
-- 10 years is long enough to traveled together thousands of miles.
+- 10 years is long enough to have traveled together thousands of miles.
+  There are still miles and miles that lie before us. 
+  Take your pick.
