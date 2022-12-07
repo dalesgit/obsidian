@@ -9,7 +9,6 @@
 	- 🛍**Last Will and Testament**:  Designates to whom personal belongings will go too.
 	- 🪦**Funeral Planning Declaration**:  allows one to say exactly one’s wishes as far as disposition of the body and the services.
 - Planning for the future
-  collapsed:: true
   cf. above in Judy Facebook ideas
 	- > If the above documents are done, you can AVOID probate. If all the above is not done, you have to open an estate account at the bank. All money that doesn’t have direct beneficiaries goes into this account. You have to have an attorney to open the estate account. The attorney also has to publicize your passing in the newspaper or post publication at the county courthouse, to allow anyone to make a claim on your property. - It’s a complete PAIN.
 	- **Make a list of all** banks and account numbers, all investment institutions with account numbers, lists of credit cards, utility accounts, etc. Leave clear instructions as to how and when these things are paid. Make sure heirs knows where life insurance policies are located.
