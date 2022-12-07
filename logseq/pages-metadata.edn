@@ -360,7 +360,7 @@
   :block/updated-at 1666903798818}
  {:block/name "church",
   :block/created-at 1666194639278,
-  :block/updated-at 1666194725486}
+  :block/updated-at 1670446932570}
  {:block/name "church officers form |http:",
   :block/created-at 1666903805680,
   :block/updated-at 1666903805680}
@@ -559,7 +559,7 @@
   :block/updated-at 1670359574790}
  {:block/name "dec 7th, 2022",
   :block/created-at 1670417716734,
-  :block/updated-at 1670443359051}
+  :block/updated-at 1670447741761}
  {:block/name "dec 8th, 2022",
   :block/created-at 1670431300579,
   :block/updated-at 1670431300579}
@@ -1522,7 +1522,7 @@
   :block/updated-at 1667487077153}
  {:block/name "nov 4th, 2022",
   :block/created-at 1667664828216,
-  :block/updated-at 1667664828216}
+  :block/updated-at 1670446774050}
  {:block/name "nov 5th, 2022",
   :block/created-at 1667664828713,
   :block/updated-at 1667687626235}
@@ -1832,18 +1832,15 @@
  {:block/name "spiritual-director.suzanne-morris",
   :block/created-at 1665810831534,
   :block/updated-at 1665810831534}
- {:block/name "st-alfreds",
-  :block/created-at 1667664828206,
-  :block/updated-at 1667664828206}
  {:block/name "st-pauls-planning",
   :block/created-at 1666903798741,
   :block/updated-at 1666903798741}
  {:block/name "st-pauls-visioning",
   :block/created-at 1666903798744,
   :block/updated-at 1666903798744}
- {:block/name "st. alfred's",
+ {:block/name "st.-alfred's",
   :block/created-at 1666194506059,
-  :block/updated-at 1666194506059}
+  :block/updated-at 1670446713142}
  {:block/name "still-alice",
   :block/created-at 1669386944199,
   :block/updated-at 1669386944199}
@@ -1985,9 +1982,6 @@
  {:block/name "visioning at st",
   :block/created-at 1667131961123,
   :block/updated-at 1667131961123}
- {:block/name "visioning at st. alfred's",
-  :block/created-at 1667127637322,
-  :block/updated-at 1667127637322}
  {:block/name "visioning-st-alfreds",
   :block/created-at 1667214223140,
   :block/updated-at 1667214223140}
