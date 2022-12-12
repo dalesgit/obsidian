@@ -12,7 +12,7 @@
 		- [ ] grey
 		- [ ] running style
 - [ ] Shorts
-	- [ ] 3 belt
+	- [ ] 2 belt (1 to wear in transit)
 	- [ ] 2 trunks style
 	- [ ] swim trunks
 - [ ] Shoes
@@ -41,11 +41,11 @@
 	- [ ] Coat, gloves, hat
 	- [ ] zippered jacket
 	- [ ] vest
-	- [ ] 
+	- [ ] pullover
 - [ ] accoutrements
 	- [ ] ties (2 bow & 2 long)
 	- [ ] socks
-	- [ ] handkerchiefs
+	- [ ] handkerchiefs 14
 	- [ ] underwear
 - [ ] Dinner jackets
 	- [ ] white
