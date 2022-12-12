@@ -22,6 +22,6 @@
 		- ![[cruise-graphic.png]]
 - [Cruise outline - simple](https://docs.google.com/document/d/1MR5ypD-X1FZC_bI7JOpJB85ovV_UazDmKFAiHmND4oI/edit?usp=sharing)
 - [Excursions document Google Doc - more elaborate](https://docs.google.com/document/d/1nFDHeXl7yz4jrh1h06qkIQ6M4fot26FClA4grBak_14/edit?usp=sharing)
-	- Word docx local file [docx](excursions-cruise.docx)
+	- Word docx local file [odt file](excursions-cruise.odt)
 - Ports of call local file [[cruise-ports-of-call]]
 - Short excursion, drinks, dining, wifi $500 ??
