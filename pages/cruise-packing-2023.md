@@ -11,6 +11,10 @@
 		- [ ] new Kohls
 		- [ ] grey
 		- [ ] running style
+- [ ] Shorts
+	- [ ] 3 belt
+	- [ ] 2 trunks style
+	- [ ] swim trunks
 - [ ] Shoes
 	- [ ] rubber slippers
 	- [ ] indoor slippers
@@ -18,7 +22,7 @@
 	- [ ] white slip-ons
 	- [ ] Sean poolside slippers
 - [ ] Shirts
-	- [ ] Long-sleeved
+	- [ ] Long-sleeved collars
 		- [ ] 2 dress shirts
 		- [ ] Gillz
 		- [ ] flannel
@@ -26,22 +30,26 @@
 		- [ ] zippered (match pants)
 	- [ ] Short-sleeved
 		- [ ] 4 polo style shirts
+	- [ ] Long-sleeve pullover
+		- [ ] 3 cotton
+		- [ ] 2 poly
 	- [ ] Aloha
 	- [ ] long-sleeved
 	- [ ] dress shirts
 	- [ ] short-sleeved
 - [ ] Warmth
 	- [ ] Coat, gloves, hat
-	- [ ] over-shirt
-- [ ] Sleeping
-	- [ ] lounge pants
-	- [ ] long-sleeve t-shirts
+	- [ ] zippered jacket
+	- [ ] vest
+	- [ ] 
 - [ ] accoutrements
-	- [ ] ties (bow & long)
+	- [ ] ties (2 bow & 2 long)
 	- [ ] socks
 	- [ ] handkerchiefs
 	- [ ] underwear
-	- [ ] Swim suit
+- [ ] Dinner jackets
+	- [ ] white
+	- [ ] navy
 ## Technical
 - [ ] Devices
 	- [ ] Tablet, hp,
