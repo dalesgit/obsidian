@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/cruise-packing-2023.md",
+                "file": "journals/2022_12_12.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/cruise-packing-2023.md",
+                "file": "journals/2022_12_12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/cruise-packing-2023.md",
+                "file": "journals/2022_12_12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/cruise-packing-2023.md"
+                "file": "journals/2022_12_12.md"
               }
             }
           },
@@ -148,7 +148,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -157,8 +158,8 @@
   "active": "4abf39067dbe9197",
   "lastOpenFiles": [
     "pages/Cruise-Links.md",
-    "pages/cruise-2023.md",
     "pages/cruise-packing-2023.md",
+    "pages/cruise-2023.md",
     "pages/Thanksgiving-packing-2022.md",
     "journals/2022_12_12.md",
     "pages/cruise-ports-of-call.md",
