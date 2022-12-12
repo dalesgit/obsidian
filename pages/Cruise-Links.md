@@ -1,6 +1,7 @@
 ## Cruise
-- [Destinations to visit](https://lifehacker.com/the-most-overrated-tourist-destinations-and-where-to-g-1848911182)
-- Ports of call [[cruise-ports-of-call]]
+- General of interest for cruising
+	- [Destinations to visit](https://lifehacker.com/the-most-overrated-tourist-destinations-and-where-to-g-1848911182)
+- 
 - *The following cities have yet to be totally overrun by tourists:*
 	- Udaipur, India. A little more peaceful and spread out compared to other popular cities in India.
 	- Lima, Peru. A lively capital city that gets overlooked, but shouldn’t.
@@ -22,5 +23,6 @@
 	- [image.png](https://checkvist-prod-uploads.s3.eu-west-1.amazonaws.com/u/haObyceuZYhLqy/e9c3f197480bba011ce54cabc383e9280ad2eabc/original/image.png?X-Amz-Expires=3600&X-Amz-Date=20221118T114840Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIPQDSU45IS7DDLBA%2F20221118%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=508870121a80a5674e5c051e85cbafa6ae83483e805e5d88b97325a27d51845f)
 - [Cruise outline](https://docs.google.com/document/d/1MR5ypD-X1FZC_bI7JOpJB85ovV_UazDmKFAiHmND4oI/edit?usp=sharing)
 - [Excursions document](https://docs.google.com/document/d/1nFDHeXl7yz4jrh1h06qkIQ6M4fot26FClA4grBak_14/edit?usp=sharing)
+- Ports of call [[cruise-ports-of-call]]
 - Short excursion, drinks, dining, wifi $500 ??
-- [CDC Moves 5 Countries To High Risk Category Including Colombia And Paraguay - Travel Off Path](https://www.traveloffpath.com/cdc-moves-5-countries-to-high-risk-category-including-colombia-and-paraguay/)-
+- 

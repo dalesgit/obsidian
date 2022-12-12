@@ -1,4 +1,5 @@
 - ## Health issues #cruise 
+	- [CDC Moves 5 Countries To High Risk Category Including Colombia And Paraguay - Travel Off Path](https://www.traveloffpath.com/cdc-moves-5-countries-to-high-risk-category-including-colombia-and-paraguay/)
 	- yellow-fever, perhaps hepatitis b immunization
 	- "orange" clothes for special events
 	- Health protocols
@@ -15,7 +16,8 @@
 			- **Please upload all required documentation to the [[VeriFLY]] app for a quick and seamless embarkation process.**
 		- Global COVID-19 regulations and protocols are continuously changing and we may revise or modify these requirements (effective immediately) to evolve in line with the latest practices at any time. Please check back regularly for any updates. These protocols only apply to the specific booking number or voyage entered.
 		- As of October 12, 2022
-- [[Excursions]]
-- [[Cruise-Links]]
-- [[cruise-ports-of-call]]
+- Cruise data / links #cruise 
+	- [[Excursions]]
+	- [[Cruise-Links]]
+	- [[cruise-ports-of-call]]
 -
