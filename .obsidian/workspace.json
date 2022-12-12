@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2022_12_12.md",
+                "file": "pages/Cruise-Links.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2022_12_12.md",
+                "file": "pages/Cruise-Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2022_12_12.md",
+                "file": "pages/Cruise-Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2022_12_12.md"
+                "file": "pages/Cruise-Links.md"
               }
             }
           },
@@ -156,9 +156,9 @@
   },
   "active": "4abf39067dbe9197",
   "lastOpenFiles": [
+    "journals/2022_12_12.md",
     "pages/cruise-ports-of-call.md",
     "pages/Cruise-Links.md",
-    "journals/2022_12_12.md",
     "pages/cruise-2023.md",
     "journals/2022_12_09.md",
     "journals/2022_10_28.md",
