@@ -40,9 +40,12 @@
 	- [ ] Backup watch charger?
 - [ ] Binoculars
 - [ ] Night light
-- [ ] backup memory for phones
+- [ ] **Black packet** backup memory for phones etc.
 - [ ] memory card device for HP
 - [ ] sewing kit
+- [ ] backup hearing aids
+- [ ] batteries for backup hearing aids
+- [ ] vibrator + extra battery 
 ## Bathroom
 - [ ] Devices
 	- [ ] Water pic
@@ -65,6 +68,7 @@
 - [ ] hair brush
 - [ ] nose hair trimmer
 - [ ] deoderant
+- [ ] ibuprofen / aleve
 ## Medication
 - [ ] Daily
 	- [ ] 90 day supply?
