@@ -9,5 +9,6 @@
   },
   "newFileLocation": "folder",
   "newFileFolderPath": "pages",
-  "attachmentFolderPath": "assets"
+  "attachmentFolderPath": "assets",
+  "alwaysUpdateLinks": true
 }

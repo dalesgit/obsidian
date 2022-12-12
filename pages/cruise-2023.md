@@ -1,4 +1,4 @@
-- ## Health issues
+- ## Health issues #cruise 
 	- yellow-fever, perhaps hepatitis b immunization
 	- "orange" clothes for special events
 	- Health protocols
