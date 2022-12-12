@@ -63,9 +63,17 @@
 ## Medication
 - [ ] Daily
 	- [ ] 90 day supply
+	- [ ] Vitamins
+	- [ ] Magnesium
+	- [ ] Clopidogrel
+	- [ ] Ezetimibe
+	- [ ] Rosuvastatin
+	- [ ] Sotalol
+	- [ ] aspirin
 - [ ] Voltaren for pain
 - [ ] Ear drops prescription
 - [ ] First aid
 - [ ] mosquitoes repellant
 - [ ] Malaria meds
+
 
