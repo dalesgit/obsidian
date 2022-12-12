@@ -1,10 +1,16 @@
 ## Clothes [[Cruise-Links]]
 - [ ] Pants
-	- [ ] Eddie Bauer
-	- [ ] gray slacks
-	- [ ] black slacks (2)
-	- [ ] khaki slacks
-	- [ ] levis 
+	- [ ] Casual slacks
+		- [ ] Eddie Bauer
+		- [ ] levis 
+	- [ ] Slacks
+		- [ ] gray slacks
+		- [ ] black slacks (2)
+		- [ ] khaki slacks
+	- [ ] exercise style
+		- [ ] new Kohls
+		- [ ] grey
+		- [ ] running style
 - [ ] Shoes
 	- [ ] rubber slippers
 	- [ ] indoor slippers
@@ -12,6 +18,14 @@
 	- [ ] white slip-ons
 	- [ ] Sean poolside slippers
 - [ ] Shirts
+	- [ ] Long-sleeved
+		- [ ] 2 dress shirts
+		- [ ] Gillz
+		- [ ] flannel
+		- [ ] pullover
+		- [ ] zippered (match pants)
+	- [ ] Short-sleeved
+		- [ ] 4 polo style shirts
 	- [ ] Aloha
 	- [ ] long-sleeved
 	- [ ] dress shirts
