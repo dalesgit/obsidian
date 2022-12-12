@@ -1,0 +1,70 @@
+## Clothes [[Cruise-Links]]
+- [ ] Pants
+	- [ ] Eddie Bauer
+	- [ ] gray slacks
+	- [ ] black slacks
+	- [ ] levis (1)
+	- [ ] Pants
+- [ ] Shoes
+	- [ ] rubber slippers
+	- [ ] indoor slippers
+	- [ ] new sneakers
+	- [ ] 
+- [ ] Shirts
+	- [ ] Aloha
+	- [ ] long-sleeved
+	- [ ] dress shirts
+	- [ ] short-sleeved
+- [ ] Warmth
+	- [ ] Coat, gloves, hat
+	- [ ] over-shirt
+- [ ] Sleeping
+	- [ ] lounge pants
+	- [ ] long-sleeve t-shirts
+- [ ] accoutrements
+	- [ ] ties (bow & long)
+	- [ ] socks
+	- [ ] handkerchiefs
+	- [ ] underwear
+	- [ ] Swim suit
+## Technical
+- [ ] Devices
+	- [ ] Tablet, hp,
+	- [ ] hearing aids, Fitbit watch
+- [ ] cords: 
+	- [ ] watch, 
+	- [ ] hearing aids, 
+	- [ ] convertible
+	- [ ] HP convertible
+	- [ ] Backup watch charger?
+- [ ] Binoculars
+- [ ] Night light
+- [ ] backup memory for phones
+- [ ] memory card device for HP
+- [ ] sewing kit
+## Bathroom
+- [ ] Devices
+	- [ ] Water pic
+	- [ ] tooth brush & 
+	- [ ] charger
+	- [ ] Ear hair trimmer
+- [ ] Shampoo (how much?)
+- [ ] floss (extra)
+- [ ] Scalp medication bottle
+- [ ] Extra hair bands
+- [ ] Q-tips
+- [ ] flossing brushes
+- [ ] hair brush
+- [ ] razor (new blade)
+- [ ] bath scrubby
+- [ ] nail clippers
+- [ ] hair brush
+## Medication
+- [ ] Daily
+	- [ ] 90 day supply
+- [ ] Voltaren for pain
+- [ ] Ear drops prescription
+- [ ] First aid
+- [ ] mosquitoes repellant
+- [ ] Malaria meds
+
