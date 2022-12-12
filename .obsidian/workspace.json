@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,13 +156,13 @@
   },
   "active": "4abf39067dbe9197",
   "lastOpenFiles": [
+    "journals/2022_12_12.md",
+    "pages/Cruise-Links.md",
     "pages/cruise-2023.md",
     "pages/cruise-ports-of-call.md",
     "journals/2022_12_09.md",
-    "pages/Cruise-Links.md",
     "journals/2022_10_28.md",
     "pages/Excursions.md",
-    "journals/2022_12_12.md",
     "journals/2022_12_10.md",
     "journals/2022_12_11.md",
     "journals/2022_12_01.md"
