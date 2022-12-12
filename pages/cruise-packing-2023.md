@@ -49,7 +49,7 @@
 	- [ ] tooth brush & 
 	- [ ] charger
 	- [ ] Ear hair trimmer
-- [ ] Shampoo (how much?)
+- [ ] Shampoo (how much?) #replenish 
 - [ ] floss (extra)
 - [ ] Scalp medication bottle
 - [ ] Extra hair bands
@@ -62,7 +62,7 @@
 - [ ] hair brush
 ## Medication
 - [ ] Daily
-	- [ ] 90 day supply
+	- [ ] 90 day supply?
 	- [ ] Vitamins
 	- [ ] Magnesium
 	- [ ] Clopidogrel
@@ -70,10 +70,13 @@
 	- [ ] Rosuvastatin
 	- [ ] Sotalol
 	- [ ] aspirin
-- [ ] Voltaren for pain
-- [ ] Ear drops prescription
-- [ ] First aid
+- [ ] Voltaren for pain #replenish
+- [ ] Ear drops prescription #replenish
+- [ ] First aid kit
 - [ ] mosquitoes repellant
-- [ ] Malaria meds
+- [ ] Malaria meds called into Dr. Irvin 2022-12-12 09:55:46 AM #replenish 
+- [ ] nose drops
+- [ ] allergy meds
+- [ ] famotidine #replenish 
 
 
