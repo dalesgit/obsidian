@@ -51,15 +51,20 @@
 	- [ ] Ear hair trimmer
 - [ ] Shampoo (how much?) #replenish 
 - [ ] floss (extra)
-- [ ] Scalp medication bottle
+- [ ] Scalp medication bottle betamethazone
+- [ ] ketoconazole cream
+- [ ] hydrocortizone #replenish 
 - [ ] Extra hair bands
 - [ ] Q-tips
 - [ ] flossing brushes
 - [ ] hair brush
-- [ ] razor (new blade)
+- [ ] razor 
+- [ ] extra razor blades
 - [ ] bath scrubby
 - [ ] nail clippers
 - [ ] hair brush
+- [ ] nose hair trimmer
+- [ ] deoderant
 ## Medication
 - [ ] Daily
 	- [ ] 90 day supply?
