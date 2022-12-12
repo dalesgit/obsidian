@@ -26,3 +26,4 @@
 - Ports of call local file [[cruise-ports-of-call]]
 - [Weather & Malaria sheet](ports-of-call-weather.xlsx)
 - Short excursion, drinks, dining, wifi $500 ??
+- [[cruise-packing-2023]]

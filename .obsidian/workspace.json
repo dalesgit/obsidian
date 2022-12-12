@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.50000381469727
+    "width": 234.50000381469727,
+    "collapsed": true
   },
   "right": {
     "id": "789b306ea1af336e",
@@ -147,8 +148,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,15 +156,15 @@
   },
   "active": "4abf39067dbe9197",
   "lastOpenFiles": [
-    "pages/Thanksgiving-packing-2022.md",
+    "pages/cruise-2023.md",
     "pages/Cruise-Links.md",
+    "pages/cruise-packing-2023.md",
+    "pages/Thanksgiving-packing-2022.md",
     "journals/2022_12_12.md",
     "pages/cruise-ports-of-call.md",
-    "pages/cruise-2023.md",
     "journals/2022_12_09.md",
     "journals/2022_10_28.md",
     "pages/Excursions.md",
-    "journals/2022_12_10.md",
-    "journals/2022_12_11.md"
+    "journals/2022_12_10.md"
   ]
 }

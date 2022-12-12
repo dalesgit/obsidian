@@ -2,14 +2,15 @@
 - [ ] Pants
 	- [ ] Eddie Bauer
 	- [ ] gray slacks
-	- [ ] black slacks
-	- [ ] levis (1)
-	- [ ] Pants
+	- [ ] black slacks (2)
+	- [ ] khaki slacks
+	- [ ] levis 
 - [ ] Shoes
 	- [ ] rubber slippers
 	- [ ] indoor slippers
 	- [ ] new sneakers
-	- [ ] 
+	- [ ] white slip-ons
+	- [ ] Sean poolside slippers
 - [ ] Shirts
 	- [ ] Aloha
 	- [ ] long-sleeved
