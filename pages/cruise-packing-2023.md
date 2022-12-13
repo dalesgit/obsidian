@@ -50,8 +50,40 @@
 - [ ] Dinner jackets
 	- [ ] white
 	- [ ] navy
-Binoculars
+## Support items
+- [ ] Binoculars
 - [ ] Extension cord 
+- [ ] sewing kit
+- [ ] backup hearing aids
+- [ ] batteries for backup hearing aids
+- [ ] First aid kit
+	- A basic first aid kit may contain:
+		- plasters in a variety of different sizes and shapes
+		- small, medium and large sterile gauze dressings
+		- at least 2 sterile eye dressings
+		- triangular bandages
+		- crêpe rolled bandages
+		- safety pins
+		- disposable sterile gloves
+		- tweezers
+		- scissors
+		- alcohol-free cleansing wipes
+		- sticky tape
+		- thermometer (preferably digital)
+		- skin rash cream, such as hydrocortisone or calendula
+		- cream or spray to relieve insect bites and stings
+		- antiseptic cream
+		- painkillers such as paracetamol (or infant paracetamol for children), aspirin (not to be given to children under 16), or ibuprofen
+		- antihistamine cream or tablets
+		- distilled water for cleaning wounds
+		- eye wash and eye bath
+	- [ ] tape
+	- [ ] gauze
+	- [ ] sizzors
+	- [ ] antibiotic
+	- [ ] bandaids
+	- [ ] tweezers
+- [ ] mosquitoes repellant
 # Bus 1/3
 ## Technical
 - [ ] Devices
@@ -66,9 +98,6 @@ Binoculars
 	- [ ] Backup watch charger?
 - [ ] **Black packet** backup memory for phones etc.
 - [ ] memory card device for HP
-- [ ] sewing kit
-- [ ] backup hearing aids
-- [ ] batteries for backup hearing aids
 - [ ] vibrator + extra battery 
 ## Bathroom
 - [ ] Devices
@@ -105,34 +134,6 @@ Binoculars
 	- [ ] aspirin
 - [ ] Voltaren for pain #replenish
 - [ ] Ear drops prescription #replenish
-- [ ] First aid kit
-	- A basic first aid kit may contain:
-		- plasters in a variety of different sizes and shapes
-		- small, medium and large sterile gauze dressings
-		- at least 2 sterile eye dressings
-		- triangular bandages
-		- crêpe rolled bandages
-		- safety pins
-		- disposable sterile gloves
-		- tweezers
-		- scissors
-		- alcohol-free cleansing wipes
-		- sticky tape
-		- thermometer (preferably digital)
-		- skin rash cream, such as hydrocortisone or calendula
-		- cream or spray to relieve insect bites and stings
-		- antiseptic cream
-		- painkillers such as paracetamol (or infant paracetamol for children), aspirin (not to be given to children under 16), or ibuprofen
-		- antihistamine cream or tablets
-		- distilled water for cleaning wounds
-		- eye wash and eye bath
-	- [ ] tape
-	- [ ] gauze
-	- [ ] sizzors
-	- [ ] antibiotic
-	- [ ] bandaids
-	- [ ] tweezers
-- [ ] mosquitoes repellant
 - [ ] Malaria meds called into Dr. Irvin 2022-12-12 09:55:46 AM #replenish 
 - [ ] nose drops
 - [ ] allergy meds
