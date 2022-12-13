@@ -1,3 +1,4 @@
+# Shipped
 ## Clothes [[Cruise-Links]]
 - [ ] Pants
 	- [ ] Casual slacks
@@ -49,9 +50,13 @@
 - [ ] Dinner jackets
 	- [ ] white
 	- [ ] navy
+Binoculars
+- [ ] Extension cord 
+# Bus 1/3
 ## Technical
 - [ ] Devices
 	- [ ] Tablet, hp,
+- [ ] Night light
 	- [ ] hearing aids, Fitbit watch
 - [ ] cords: 
 	- [ ] watch, 
@@ -59,9 +64,6 @@
 	- [ ] convertible
 	- [ ] HP convertible
 	- [ ] Backup watch charger?
-- [ ] Binoculars
-- [ ] Night light
-- [ ] Extension cord 
 - [ ] **Black packet** backup memory for phones etc.
 - [ ] memory card device for HP
 - [ ] sewing kit
@@ -135,8 +137,6 @@
 - [ ] nose drops
 - [ ] allergy meds
 - [ ] famotidine #replenish 
-
-
 
 ## For transit to ship
 - [ ] neck pillow
