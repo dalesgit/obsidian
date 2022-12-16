@@ -1,0 +1,26 @@
+Prompts
+		- What are you doing to care for yourself physically, emotionally, and spiritually? 
+			- Spiritual Direction has been an essential part of my personal care. An insight earlier this year was important to me. I realized that I had had a "Soul Friend" accompanying me on my journey going all the way back to my youth. I didn't have the name "spiritual director", but in effect I have relied on such companions for a long time.
+			- Playing piano has for long been a way to keep my balance. It gives my life meaning in ways that are not logical and cognitive, but somehow reach inward.
+			- I began regularly baking bread and cooking soup this year. Both activities seem to connect me to something primordial. Both are nourishing. Both exercise tertiary sides of my personality. 
+		- Is there something I should know?
+			- You already know of our move to Florida. That's the big one for the year. The other is that we are planning to leave on Jan. 3, 2023 for a 2 1/2 month cruise around South America. Within that we spend several days around Antarctica and several days going up the Amazon. Several of our "bucket list" items will be served up. I plan to write extensively during our trip. We both anticipate it being a significant life experience. 
+		- How are you exercising your ministry? Are you doing something new or different?
+			- As you know I have applied for a license to supply in the diocese of Southwest Florida. I don't want regular work, but I am content to offer myself to be used by the church where there is a need. The hurricanes these past months have caused considerable disruption in the diocese and thus lots of needs.
+		- Is there anything else that you would like to tell me? How can I support you?
+	- Please list your continuing education (workshops attended, books read,etc) during the past year.
+		- During the surge in the Omicron variant I was tasked with preparing a young woman for Confirmation. I had to devise ways to allow sharing stories, bridging cultures, and finding ways of passing on the faith. We utilized *My Faith My Life* and Zoom sessions as well as carefully prepared small groups in the near-empty church.
+		-  Towards the end of my tenure in North Carolina I was blessed to prepare a toddler for baptism. The parents were English and American in background, Catholic and Episcopal in church traditions. Each brought both skepticism about the church and a fierce devotion to their young daughter. As we met and shared our stories over several months there was a blessed sense of conversion and commitment.
+		- N. T. Wright *The New Testament and the People of God; Christian origins and the Question of God, Vol. 1*. Conversation with my brother in law that was both thoughtful and surrounded with genuinely searching questions about Christian faith.
+		- Considering "How to be church following our experiences of pandemic" cf. *We shall be changed; questions for the post-pandemic Church.*
+		- *Pilgrim; a course for the Christian Journey; the Beatitudes* with the people of St. Paul's.
+		- Sue Monk Kidd's; *The Book of Longings* cf. imagining Jesus' life from the perspectivce of fuller appreciation of women. *God's joyful surprise; finding yourself loved.* and *When the heart waits; Spiritual-direction, Life's sacred questions.*
+		- Rereading: *Absolute Truths* by Susan Howatch. Reminiscences taking me back over the last 30 years of ministry.
+		- Margaret Atwood: *Oryx and Crake*; *The Handmaid's Tale*.
+		- *The Bonesetter's Daughter* Amy Tan
+		- *Florida; a short history*. Michael Gannon
+		- *The Jesuit guide to almost everything*; James Martin, S.J.
+		- *The novice; a story of true love* by Thich Nhat Hanh
+		- *The Sabbath*. Abraham Joshua Heschel
+		- *Ulysses*. James Joyce
+		- *A Prayer for Owen Meany*. John Irving
