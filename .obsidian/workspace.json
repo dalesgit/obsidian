@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/cruise-packing-2023.md",
+                "file": "journals/2022_12_15.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/cruise-packing-2023.md",
+                "file": "journals/2022_12_15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/cruise-packing-2023.md",
+                "file": "journals/2022_12_15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/cruise-packing-2023.md"
+                "file": "journals/2022_12_15.md"
               }
             }
           },
@@ -157,9 +157,9 @@
   },
   "active": "4abf39067dbe9197",
   "lastOpenFiles": [
+    "pages/cruise-packing-2023.md",
     "pages/Cruise-Links.md",
     "journals/2022_12_13.md",
-    "pages/cruise-packing-2023.md",
     "pages/cruise-2023.md",
     "journals/2022_12_07.md",
     "pages/VeriFLY.md",
