@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/lydia-messaging.md",
+                "file": "journals/2022_12_15.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hawaii",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/lydia-messaging.md",
+                "file": "journals/2022_12_15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/lydia-messaging.md",
+                "file": "journals/2022_12_15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/lydia-messaging.md"
+                "file": "journals/2022_12_15.md"
               }
             }
           },
@@ -153,17 +154,17 @@
     "direction": "horizontal",
     "width": 382.5
   },
-  "active": "4abf39067dbe9197",
+  "active": "7eb1276bd735bfd1",
   "lastOpenFiles": [
-    "journals/2022_12_15.md",
+    "journals/2022_12_16.md",
     "pages/lydia-messaging.md",
+    "journals/2022_12_15.md",
     "pages/Lydia.md",
     "journals/2022_11_30.md",
     "pages/cruise-packing-2023.md",
     "pages/Cruise-Links.md",
     "journals/2022_12_13.md",
     "pages/cruise-2023.md",
-    "journals/2022_12_07.md",
-    "pages/VeriFLY.md"
+    "journals/2022_12_07.md"
   ]
 }
