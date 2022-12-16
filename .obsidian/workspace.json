@@ -13,6 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "pages/Lydia.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed4b6d18a4e8e8ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "journals/2022_12_15.md",
                 "mode": "source",
                 "backlinks": true,
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2022_12_15.md",
+                "file": "pages/Lydia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2022_12_15.md",
+                "file": "pages/Lydia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2022_12_15.md"
+                "file": "pages/Lydia.md"
               }
             }
           },
@@ -148,8 +161,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,15 +169,15 @@
   },
   "active": "4abf39067dbe9197",
   "lastOpenFiles": [
+    "pages/lydia-messaging.md",
+    "journals/2022_12_15.md",
+    "pages/Lydia.md",
     "pages/cruise-packing-2023.md",
     "pages/Cruise-Links.md",
     "journals/2022_12_13.md",
     "pages/cruise-2023.md",
     "journals/2022_12_07.md",
     "pages/VeriFLY.md",
-    "journals/2022_12_12.md",
-    "pages/Thanksgiving-packing-2022.md",
-    "pages/cruise-ports-of-call.md",
-    "journals/2022_12_09.md"
+    "journals/2022_12_12.md"
   ]
 }
