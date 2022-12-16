@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cruise",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,10 +155,10 @@
   },
   "active": "4abf39067dbe9197",
   "lastOpenFiles": [
-    "pages/Lydia.md",
     "journals/2022_12_15.md",
-    "journals/2022_11_30.md",
     "pages/lydia-messaging.md",
+    "pages/Lydia.md",
+    "journals/2022_11_30.md",
     "pages/cruise-packing-2023.md",
     "pages/Cruise-Links.md",
     "journals/2022_12_13.md",
