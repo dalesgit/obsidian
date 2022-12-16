@@ -1,5 +1,5 @@
 # 2022-12-15
-
+There are not that many people who remember you when you were in diapers and also the first time you drove a car. Not that many who would say that during that entire span you were one of the two most precious persons in my life -- for whom I would have gladly given my life. I tell you that not to shine a light on me. I've had plenty of light shone on me in my life. But I do it to convey to you that  
 
 # Dec 14
 Yesterday we watched a movie about Alan Turing. There were sort of 2 plot themes. One was the effort in WW2 to decode the Nazi Enigma machine. The world only learned about the astounding effort about 30 years ago. It was that “top secret.” Turing was responsible for decoding it and in the process virtually invented the concept of a “digital computer”. The other plot strand was that he was persecuted for being homosexual and committed suicide as a result. The world we live in is filled with amazing things of the light and discouraging things of the dark. “Children of light and dark” some people taught around the time of Jesus. Seems to be the same today. I so want for you, my dear daughter, the fruit of the light. What might be a sign of the “light” for you? Today?
