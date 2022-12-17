@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f1fb957fbf78e377",
+        "id": "1e0f628c5fba4d77",
         "type": "tabs",
         "children": [
           {
-            "id": "4abf39067dbe9197",
+            "id": "fe5ac37bd76b5f2a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journals/2022_12_16.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -88,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2022_12_16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2022_12_16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "journals/2022_12_16.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,11 +145,11 @@
     "direction": "horizontal",
     "width": 382.5
   },
-  "active": "4abf39067dbe9197",
+  "active": "fe5ac37bd76b5f2a",
   "lastOpenFiles": [
+    "journals/2022_12_16.md",
     "pages/Lydia.md",
     "pages/['MyChildren'].md",
-    "journals/2022_12_16.md",
     "journals/2022_12_15.md",
     "pages/Dioc-Hawaii-report.md",
     "pages/lydia-messaging.md",
