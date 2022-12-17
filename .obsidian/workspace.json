@@ -13,19 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2022_12_15.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd6f935f8f5df316",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "journals/2022_12_16.md",
                 "mode": "source",
                 "backlinks": true,
@@ -34,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -64,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lydia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.50000381469727,
-    "collapsed": true
+    "width": 234.50000381469727
   },
   "right": {
     "id": "789b306ea1af336e",
@@ -103,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2022_12_16.md",
+                "file": "journals/2022_11_30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2022_12_16.md",
+                "file": "journals/2022_11_30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2022_12_16.md"
+                "file": "journals/2022_11_30.md"
               }
             }
           },
@@ -167,20 +152,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5,
-    "collapsed": true
+    "width": 382.5
   },
-  "active": "fd6f935f8f5df316",
+  "active": "4abf39067dbe9197",
   "lastOpenFiles": [
+    "pages/Lydia.md",
+    "pages/['MyChildren'].md",
+    "journals/2022_12_16.md",
     "journals/2022_12_15.md",
     "pages/Dioc-Hawaii-report.md",
-    "journals/2022_12_16.md",
     "pages/lydia-messaging.md",
-    "pages/Lydia.md",
     "journals/2022_11_30.md",
     "pages/cruise-packing-2023.md",
     "pages/Cruise-Links.md",
-    "journals/2022_12_13.md",
-    "pages/cruise-2023.md"
+    "journals/2022_12_13.md"
   ]
 }
