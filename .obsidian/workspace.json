@@ -11,8 +11,13 @@
             "id": "fe5ac37bd76b5f2a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pages/Cruise-Links.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -45,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lydia",
+                "query": "tag:#cruise",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pages/Cruise-Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "pages/Cruise-Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "pages/Cruise-Links.md"
+              }
             }
           },
           {
@@ -139,7 +148,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,15 +157,15 @@
   },
   "active": "fe5ac37bd76b5f2a",
   "lastOpenFiles": [
+    "pages/cruise-2023.md",
+    "journals/2022_10_28.md",
     "journals/2022_12_16.md",
+    "journals/2022_12_17.md",
     "pages/Lydia.md",
     "pages/['MyChildren'].md",
     "journals/2022_12_15.md",
     "pages/Dioc-Hawaii-report.md",
     "pages/lydia-messaging.md",
-    "journals/2022_11_30.md",
-    "pages/cruise-packing-2023.md",
-    "pages/Cruise-Links.md",
-    "journals/2022_12_13.md"
+    "journals/2022_11_30.md"
   ]
 }
