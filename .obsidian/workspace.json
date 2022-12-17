@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -153,10 +152,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 382.5,
+    "collapsed": true
   },
   "active": "fe5ac37bd76b5f2a",
   "lastOpenFiles": [
+    "assets/hal-deck-plans-020522.pdf",
+    "pages/Cruise-Links.md",
     "pages/cruise-2023.md",
     "journals/2022_10_28.md",
     "journals/2022_12_16.md",
@@ -164,8 +166,6 @@
     "pages/Lydia.md",
     "pages/['MyChildren'].md",
     "journals/2022_12_15.md",
-    "pages/Dioc-Hawaii-report.md",
-    "pages/lydia-messaging.md",
-    "journals/2022_11_30.md"
+    "pages/Dioc-Hawaii-report.md"
   ]
 }

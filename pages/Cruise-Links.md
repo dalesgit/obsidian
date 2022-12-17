@@ -28,3 +28,5 @@
 	- 11 days
 - Short excursion, drinks, dining, wifi $500 ??
 - [[cruise-packing-2023]]
+- Deck plans pdf
+	- ![[hal-deck-plans-020522.pdf]]
