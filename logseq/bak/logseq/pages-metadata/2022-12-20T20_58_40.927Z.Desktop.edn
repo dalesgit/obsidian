@@ -400,7 +400,13 @@
   :block/updated-at 1666903801074}
  {:block/name "cruise",
   :block/created-at 1666276594235,
-  :block/updated-at 1666276639979}
+  :block/updated-at 1668772142863}
+ {:block/name "cruise-links",
+  :block/created-at 1668772142862,
+  :block/updated-at 1668772142862}
+ {:block/name "cruise-ports-of-call",
+  :block/created-at 1668899825686,
+  :block/updated-at 1668899825686}
  {:block/name "culture politics",
   :block/created-at 1665810822401,
   :block/updated-at 1665810822401}
@@ -590,6 +596,9 @@
  {:block/name "examen-week",
   :block/created-at 1666903798797,
   :block/updated-at 1666903798797}
+ {:block/name "excursions",
+  :block/created-at 1668771652534,
+  :block/updated-at 1668771652534}
  {:block/name "exercise",
   :block/created-at 1665810823495,
   :block/updated-at 1665810823495}
@@ -1399,7 +1408,7 @@
   :block/updated-at 1668101756594}
  {:block/name "nov 11th, 2022",
   :block/created-at 1668168492174,
-  :block/updated-at 1668255024704}
+  :block/updated-at 1668905063548}
  {:block/name "nov 12th, 2022",
   :block/created-at 1668254915689,
   :block/updated-at 1668303217338}
@@ -1411,16 +1420,22 @@
   :block/updated-at 1668556355991}
  {:block/name "nov 16th, 2022",
   :block/created-at 1668610034189,
-  :block/updated-at 1668621158478}
+  :block/updated-at 1668648095130}
  {:block/name "nov 17th, 2021",
   :block/created-at 1666906858365,
   :block/updated-at 1666906858365}
  {:block/name "nov 17th, 2022",
   :block/created-at 1667486977559,
-  :block/updated-at 1668612206744}
+  :block/updated-at 1668699146698}
+ {:block/name "nov 18th, 2022",
+  :block/created-at 1668770830616,
+  :block/updated-at 1668812699348}
  {:block/name "nov 19th, 2021",
   :block/created-at 1666906871532,
   :block/updated-at 1666906871532}
+ {:block/name "nov 19th, 2022",
+  :block/created-at 1668898991946,
+  :block/updated-at 1668904797371}
  {:block/name "nov 1st, 2022",
   :block/created-at 1667445214266,
   :block/updated-at 1667445214266}
@@ -1562,12 +1577,9 @@
  {:block/name "offensive-gramma-bridget-photo",
   :block/created-at 1666903798833,
   :block/updated-at 1666903798833}
- {:block/name "ophthalm[]ologist",
-  :block/created-at 1668612206741,
-  :block/updated-at 1668612206741}
  {:block/name "ophthalmologist",
   :block/created-at 1667445214256,
-  :block/updated-at 1668612214083}
+  :block/updated-at 1668647878216}
  {:block/name "outlander-song-of-skye",
   :block/created-at 1666903798763,
   :block/updated-at 1666903798763}
@@ -1871,6 +1883,9 @@
  {:block/name "values-of-society",
   :block/created-at 1666903798721,
   :block/updated-at 1666903798721}
+ {:block/name "verifly",
+  :block/created-at 1668771014613,
+  :block/updated-at 1668771032816}
  {:block/name "visioning at st",
   :block/created-at 1667131961123,
   :block/updated-at 1667131961123}
