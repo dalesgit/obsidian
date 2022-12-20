@@ -19,6 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a511d0e46c82a33b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1d4dfa476e8f4243",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "stacked": true
@@ -166,8 +182,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "863c4ed001094d5d",
+  "active": "fe5ac37bd76b5f2a",
   "lastOpenFiles": [
+    "journals/2022_12_20.md",
     "journals/2022_12_19.md",
     "journals/2022_12_17.md",
     "assets/hal-deck-plans-020522.pdf",
@@ -176,7 +193,6 @@
     "journals/2022_10_28.md",
     "journals/2022_12_16.md",
     "pages/Lydia.md",
-    "pages/['MyChildren'].md",
-    "journals/2022_12_15.md"
+    "pages/['MyChildren'].md"
   ]
 }
