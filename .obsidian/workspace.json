@@ -11,21 +11,10 @@
             "id": "fe5ac37bd76b5f2a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "journals/2022_12_20.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "assets/Christmas-2020-c.pdf"
               }
-            }
-          },
-          {
-            "id": "a511d0e46c82a33b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -103,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2022_12_20.md",
+                "file": "assets/Christmas-2020-c.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2022_12_20.md",
+                "file": "assets/Christmas-2020-c.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2022_12_20.md"
+                "file": "assets/Christmas-2020-c.pdf"
               }
             }
           },
