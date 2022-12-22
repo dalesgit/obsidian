@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Excursions.md",
+                "file": "pages/Cruise-Links.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Excursions.md",
+                "file": "pages/Cruise-Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Excursions.md",
+                "file": "pages/Cruise-Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Excursions.md"
+                "file": "pages/Cruise-Links.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   "active": "598112fe2bcf63d0",
   "lastOpenFiles": [
     "pages/cruise-2023.md",
+    "pages/Excursions.md",
     "logseq/bak/journals/2022_10_28/2022-10-30T11_00_37.324Z.Desktop.md",
     "journals/2022_12_22.md",
     "journals/2022_12_07.md",
@@ -177,7 +178,6 @@
     "2022-W52.md",
     "journals/2022_12_20.md",
     "pages/Untitled 1.md",
-    "journals/2022_12_19.md",
-    "journals/2022_12_17.md"
+    "journals/2022_12_19.md"
   ]
 }
