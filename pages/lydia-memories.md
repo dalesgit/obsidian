@@ -29,5 +29,6 @@
 - # Move to South Bend
 	- She kept me out of the loop in choosing a school.
 	- Somehow I got the message from the priest on Kaua'i (spiritual director for Happening?) that a parent should pay for whatever school the child chooses
-	- Glad that she was associated with my alma mater. Disappointed that she was going to be around 
+	- Glad that she was associated with my alma mater. Disappointed that she was going to be around the old cronies and family of Bridget.
 - # Post-Divorce
+	- Desire for connection.
