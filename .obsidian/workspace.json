@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/lydia-memories.md",
+                "file": "journals/2022_12_22.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/lydia-memories.md",
+                "file": "journals/2022_12_22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/lydia-memories.md",
+                "file": "journals/2022_12_22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/lydia-memories.md"
+                "file": "journals/2022_12_22.md"
               }
             }
           },
@@ -169,15 +169,15 @@
   },
   "active": "fe5ac37bd76b5f2a",
   "lastOpenFiles": [
+    "2022-W52.md",
+    "pages/lydia-memories.md",
     "journals/2022_12_22.md",
     "journals/2022_12_20.md",
     "pages/Untitled 1.md",
-    "pages/lydia-memories.md",
     "journals/2022_12_19.md",
     "journals/2022_12_17.md",
     "assets/hal-deck-plans-020522.pdf",
     "pages/Cruise-Links.md",
-    "pages/cruise-2023.md",
-    "journals/2022_10_28.md"
+    "pages/cruise-2023.md"
   ]
 }
