@@ -16,6 +16,18 @@
 	- Connected with her 3rd grade teacher at Kamilo'iki. Special focus on writing -- Lydia knew about telling stories.
 	- Learning to swim -- passion for water.
 - # Priory
+	- Driving to school -- "pastor's kid knows homeless names"
+	- Assisting me at Isaiah's baptism (in the rain)
+	- Picking up the Kia and she drove for the first time. Going to the center and waiting for hours to take the exam and get the permit.
 - # Leadership in Happening
+	- I felt so proud of her.
+	- But there on Maui I felt sad that again she wanted me to be gone.
+		- Was she intimidated by me?
+		- So angry with me?
+		- Her counseling uncovered her anger at me -- and this was before the divorce
+		- Leen dancing at her graduation ceremonies
 - # Move to South Bend
+	- She kept me out of the loop in choosing a school.
+	- Somehow I got the message from the priest on Kaua'i (spiritual director for Happening?) that a parent should pay for whatever school the child chooses
+	- Glad that she was associated with my alma mater. Disappointed that she was going to be around 
 - # Post-Divorce

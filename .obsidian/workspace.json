@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2022_12_22.md",
+                "file": "pages/lydia-memories.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2022_12_22.md",
+                "file": "pages/lydia-memories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2022_12_22.md",
+                "file": "pages/lydia-memories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2022_12_22.md"
+                "file": "pages/lydia-memories.md"
               }
             }
           },
@@ -169,9 +169,9 @@
   },
   "active": "fe5ac37bd76b5f2a",
   "lastOpenFiles": [
+    "journals/2022_12_22.md",
     "2022-W52.md",
     "pages/lydia-memories.md",
-    "journals/2022_12_22.md",
     "journals/2022_12_20.md",
     "pages/Untitled 1.md",
     "journals/2022_12_19.md",
