@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Cruise-Links.md",
+                "file": "pages/lydia-memories.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -67,12 +67,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 234.50000381469727
+    "width": 234.50000381469727,
+    "collapsed": true
   },
   "right": {
     "id": "789b306ea1af336e",
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Cruise-Links.md",
+                "file": "pages/lydia-memories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Cruise-Links.md",
+                "file": "pages/lydia-memories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Cruise-Links.md"
+                "file": "pages/lydia-memories.md"
               }
             }
           },
@@ -169,15 +169,15 @@
   },
   "active": "598112fe2bcf63d0",
   "lastOpenFiles": [
+    "journals/2022_12_22.md",
+    "pages/Cruise-Links.md",
     "pages/cruise-2023.md",
     "pages/Excursions.md",
     "logseq/bak/journals/2022_10_28/2022-10-30T11_00_37.324Z.Desktop.md",
-    "journals/2022_12_22.md",
     "journals/2022_12_07.md",
     "pages/lydia-memories.md",
     "2022-W52.md",
     "journals/2022_12_20.md",
-    "pages/Untitled 1.md",
-    "journals/2022_12_19.md"
+    "pages/Untitled 1.md"
   ]
 }
