@@ -1,0 +1,4 @@
+- pain when the knife put to Bridget's belly. I was thrown out of delivery room -- she's the only one of five.
+	- giving my best to coach and encourage Bridget in nursing. Wanting the best for Lydia. *La Leche League with Mo*
+	- holding her til she fell asleep
+	- reading storie
