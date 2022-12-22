@@ -1,13 +1,21 @@
-- pain when the knife put to Bridget's belly. I was thrown out of delivery room -- she's the only one of five.
-	- giving my best to coach and encourage Bridget in nursing. Wanting the best for Lydia. *La Leche League with Mo*
-- reading stories. She loved them.
-- holding her til she fell asleep
-- filming her concert at Kindergarten. So proud of her.
-- Father/Daughter dance. So proud. Thought her so beautiful. Disappointed that she was too shy or embarrassed to be with me, she wouldn't dance.
-- Michigan City
-- Singing Potters song as we drove to Hawai'i. Her sadness at leaving e.g. her substitute family, Ethan, Mama Sue.
-- Flopping in the mountains of leaves.
-- Swimming in the pool at Hawai'i Kai.
-- Playing in the snow on top of Pikes Peak.
-- Connected with her 3rd grade teacher at Kamilo'iki. Special focus on writing -- Lydia knew about telling stories.
-- Kneeling in the grass to see living things.
+- # Birth and more
+	- pain when the knife put to Bridget's belly. I was thrown out of delivery room -- she's the only one of five.
+		- giving my best to coach and encourage Bridget in nursing. Wanting the best for Lydia. *La Leche League with Mo*
+	- reading stories. She loved them.
+	- holding her til she fell asleep
+- # Michigan City
+	- Kneeling in the grass to see living things.
+	- Flopping in the mountains of leaves.
+	- Father/Daughter dance. So proud. Thought her so beautiful. Disappointed that she was too shy or embarrassed to be with me, she wouldn't dance.
+	- filming her concert at Kindergarten. So proud of her.
+	- Passion for water -- Lake Michigan in the cold May weather. Dislocating shoulder when we were jumping in the waves. I felt so bad -- and left out of the healing as Bridget took her without me to hospital.
+- # Move to Hawai'i
+	- Singing Potters song as we drove to Hawai'i. Her sadness at leaving e.g. her substitute family, Ethan, Mama Sue.
+	- Swimming in the pool at Hawai'i Kai.
+	- Playing in the snow on top of Pikes Peak.
+	- Connected with her 3rd grade teacher at Kamilo'iki. Special focus on writing -- Lydia knew about telling stories.
+	- Learning to swim -- passion for water.
+- # Priory
+- # Leadership in Happening
+- # Move to South Bend
+- # Post-Divorce
