@@ -20,6 +20,7 @@
 	  ![](https://checkvist-prod-uploads.s3.eu-west-1.amazonaws.com/u/haObyceuZYhLqy/e9c3f197480bba011ce54cabc383e9280ad2eabc/preview/image.png?X-Amz-Expires=3600&X-Amz-Date=20221118T114840Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIPQDSU45IS7DDLBA%2F20221118%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=1ad84f58c22cb65749a75ac88871610e8a979c93213d7ee360351abc65c57dc0)
 	- Attachments
 		- ![[cruise-graphic.png]]
+	- [Online excursions](https://book2.hollandamerica.com/secondaryFlow/excursions/GCM/20230105?tourNotFound=false&portNotFound=false)
 - [Cruise outline - simple](https://docs.google.com/document/d/1MR5ypD-X1FZC_bI7JOpJB85ovV_UazDmKFAiHmND4oI/edit?usp=sharing)
 - [Excursions document Google Doc - more elaborate](https://docs.google.com/document/d/1nFDHeXl7yz4jrh1h06qkIQ6M4fot26FClA4grBak_14/edit?usp=sharing)
 - Word doc local file [odt file](excursions-cruise.odt)
