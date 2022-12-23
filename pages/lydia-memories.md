@@ -41,10 +41,13 @@ As we drove through Colorado on our way to California where we were to board the
 
 There in Colorado Springs we took the train to the top of Pikes Peak. You discovered, as it were, that frozen water was just as delightful as the liquid kind. You played so freely in the patches of snow in the middle of the summer there at 14,000 feet.
 
-Connected with her 3rd grade teacher at Kamilo’iki. Special focus on writing -Lydia knew about telling stories.
-Learning to swim -passion for water.
+You seem to find a way to be at home in Honolulu and our townhouse in Hawaii Kai. I remember especially your third grade teacher whose specialty was teaching writing. It seemed as if you understood the task of telling stories and perceived the strength that they carried.
 ## Priory
-Driving to school -“pastor’s kid knows homeless names”
+As you got older you wanted to try new things. As soon as you could you wanted to play soccer, and through AYSO I had to follow you into the sport, learning how to coach and to referee as well as to make the spam musubis that accompanied our game day presence.
+
+I remember driving you to school after we figured out a way to get you into the priory. It was a special time for me, because every day going off to my own work I had the company of my daughter. It was on one of those drives that you said to me that's the problem with being a pastor's kid is that you know the first names of all the homeless people you pass.
+
+We went to the drivers license building and waited and waited in a long line in order to get you a learners permit. I remember picking up the Kia and the first thing that you drove was the Kia around the tennis park.
 Picking up the Kia and she drove for the first time. Going to the center and waiting for hours to take the exam and get the permit.
 ## Church related
 Assisting me at Isaiah’s baptism (in the rain)
