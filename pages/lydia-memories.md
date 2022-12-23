@@ -47,16 +47,15 @@ As you got older you wanted to try new things. As soon as you could you wanted t
 
 I remember driving you to school after we figured out a way to get you into the priory. It was a special time for me, because every day going off to my own work I had the company of my daughter. It was on one of those drives that you said to me that's the problem with being a pastor's kid is that you know the first names of all the homeless people you pass.
 
-We went to the drivers license building and waited and waited in a long line in order to get you a learners permit. I remember picking up the Kia and the first thing that you drove was the Kia around the tennis park.
-Picking up the Kia and she drove for the first time. Going to the center and waiting for hours to take the exam and get the permit.
+We went to the drivers license building and waited and waited in a long line in order to get you a learners permit. I remember picking up the Kia and the first thing that you drove was the Kia around Ke’ehi Lagoon Beach Park.
+
 ## Church related
-Assisting me at Isaiah’s baptism (in the rain)
-I felt so proud of her.
-But there on Maui I felt sad that again she wanted me to be gone.
-Was she intimidated by me?
-So angry with me?
-Her counseling uncovered her anger at me -and this was before the divorce
-Leen dancing at her graduation ceremonies
+You were my acolyte assistant when we baptized Isaiah. As before I have a photograph let me treasure that experience. The Horimoto’s waited until after his formal adoption before bringing him to the baptismal font. It was Easter. The way we did it then, the vigil was in the chapel, the baptism outside in the pool, and the Eucharist in the main sanctuary. As we got into the water, the rain began in a deluge. That was one baptism that really “took”. And you were with me.
+
+Later you were to lead one of the Happenings. You didn't want me to be around and I didn't understand that. I had already agreed to be the spiritual Director for the weekend. Were you angry at me? Intimidated by me? I would later learn that you harbored a lot of bitterness towards me. Perhaps you blamed me for not being able to go to your grandmother’s funeral. Before we flew out to South Bend your mother and I had agreed that we could pull you out of school for a final visit or for the funeral but not for both. 
+
+Any of the ways that I have hurt you along the way or never with the intention of hurt. For having hurt you I'm sorry and I apologize to you.
+
 ## Move to South Bend
 She kept me out of the loop in choosing a school.
 Somehow I got the message from the priest on Kaua’i (spiritual director for Happening?) that a parent should pay for whatever school the child chooses
