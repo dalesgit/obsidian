@@ -1,3 +1,9 @@
+---
+title: A Memoir devoted to Lydia Rebeccah
+author: Her father
+date: Her 30<sup>th</sup> Birthday
+---
+
 ## Birth and more
 When you were conceived it was a little like you were first born. There was joy in the house that's for sure.
 
@@ -6,16 +12,18 @@ There at the very beginning of your life there was one thing that stands out for
 Even before we got home I acted as a kind of La Leche League coach. I wanted you to be nursed because I had seen the benefits of that for the three older children. Your mother hadn't done very much with nursing.
 
 I remember reading stories to you from an early age, before you were able even to comprehend them. I remember rocking you until you fell asleep in my arms. That gave me a satisfaction and joy that it is really impossible to describe.
+
 ## Michigan City
 As you grew into a toddler, I remember the delight we both felt as we went out to the front yard, knelt down and crawled around looking at all the living creatures.
 
 Partly because we have photographs depicting you and your sister lying contentedly in the mountains of autumn leaves, I can remember you playing in the yard, swinging on the swings, running to play games with the next-door neighbors. I remember when you wanted to have a party and invited your friends from kindergarten. There were one or two who were people of color, but you didn't see color do you only saw friends. That's a characteristic of you that I have treasured and never lost sight.
 
-Again I have one or two photographs when I have company due to a father daughter dance. I was so excited for you and thought you were the loveliest child in the room. There was probably a part of me that was sad because I missed those opportunities with your older sister Miriam. But this time around I missed the chance to dance with you. You were embarrassed to be with me, or maybe you were afraid that you didn't know how to dance. I don't know what it was but I do think I was the proudest father in the room.
+Again I have one or two photographs from when I accompanied you to a father / daughter dance. I was so excited for you and thought you were the loveliest child in the room. There was probably a part of me that was sad because I missed those opportunities with your older sister Miriam. But this time around I missed the chance to dance with you. You were embarrassed to be with me, or maybe you were afraid that you didn't know how to dance. I don't know what it was, -- but I do think I was the proudest father in the room.
 
 One of the last things I did before we moved to Hawaii was to film you performing the year end concert at the school. I think that video may be lost somewhere. Probably no one would treasure it as much as I would. Again, such a proud father I was at that moment.
 
 One of the things that was clear in your personality in those days was your love of the water. It wasn't just playing in the sand or enjoying the company of friends on the beach at Lake Michigan. You loved the water. I remember the day that you romped in the surf in May. The water was so cold I couldn't imagine going in it. But you were fearless. When I was holding your hand and we were running through the little waves you suddenly screamed in pain. I had inadvertently pulled your arm out of it socket. Your mother took you to her hospital where someone with a quick gesture made it right and the pain was gone.
+
 ## Toward Hawai’i
 I've written about how poignant it was as we drove away from Michigan City, from the things and people that you knew, from your security, toward this new land of Hawaii that you didn't know, and how you played *The Potters Hand* over and over again as a way of comforting yourself. What a striking thing it is that you knew how to give yourself the message that gave you the strength to go on.
 
@@ -45,6 +53,7 @@ As we drove through Colorado on our way to California where we were to board the
 There in Colorado Springs we took the train to the top of Pikes Peak. You discovered, as it were, that frozen water was just as delightful as the liquid kind. You played so freely in the patches of snow in the middle of the summer there at 14,000 feet.
 
 You seem to find a way to be at home in Honolulu and our townhouse in Hawaii Kai. I remember especially your third grade teacher whose specialty was teaching writing. It seemed as if you understood the task of telling stories and perceived the strength that they carried.
+
 ## Priory
 As you got older you wanted to try new things. As soon as you could you wanted to play soccer, and through AYSO I had to follow you into the sport, learning how to coach and to referee as well as to make the spam musubis that accompanied our game day presence.
 
