@@ -1,35 +1,35 @@
 ## Birth and more
 When you were conceived 
-	- pain when the knife put to Bridget's belly. I was thrown out of delivery room -- she's the only one of five.
-		- giving my best to coach and encourage Bridget in nursing. Wanting the best for Lydia. *La Leche League with Mo*
-	- reading stories. She loved them.
-	- holding her til she fell asleep
+pain when the knife put to Bridget's belly. I was thrown out of delivery room -she's the only one of five.
+giving my best to coach and encourage Bridget in nursing. Wanting the best for Lydia. *La Leche League with Mo*
+reading stories. She loved them.
+holding her til she fell asleep
 ## Michigan City
-	- Kneeling in the grass to see living things.
-	- Flopping in the mountains of leaves.
-	- Father/Daughter dance. So proud. Thought her so beautiful. Disappointed that she was too shy or embarrassed to be with me, she wouldn't dance.
-	- filming her concert at Kindergarten. So proud of her.
-	- Passion for water -- Lake Michigan in the cold May weather. Dislocating shoulder when we were jumping in the waves. I felt so bad -- and left out of the healing as Bridget took her without me to hospital.
-- ## Move to Hawai'i
-	- Singing Potters song as we drove to Hawai'i. Her sadness at leaving e.g. her substitute family, Ethan, Mama Sue.
-	- Swimming in the pool at Hawai'i Kai.
-	- Playing in the snow on top of Pikes Peak.
-	- Connected with her 3rd grade teacher at Kamilo'iki. Special focus on writing -- Lydia knew about telling stories.
-	- Learning to swim -- passion for water.
-- ## Priory
-	- Driving to school -- "pastor's kid knows homeless names"
-	- Picking up the Kia and she drove for the first time. Going to the center and waiting for hours to take the exam and get the permit.
-- ## Church related
-	- Assisting me at Isaiah's baptism (in the rain)
-	- I felt so proud of her.
-	- But there on Maui I felt sad that again she wanted me to be gone.
-		- Was she intimidated by me?
-		- So angry with me?
-		- Her counseling uncovered her anger at me -- and this was before the divorce
-		- Leen dancing at her graduation ceremonies
-- ## Move to South Bend
-	- She kept me out of the loop in choosing a school.
-	- Somehow I got the message from the priest on Kaua'i (spiritual director for Happening?) that a parent should pay for whatever school the child chooses
-	- Glad that she was associated with my alma mater. Disappointed that she was going to be around the old cronies and family of Bridget.
-- # Post-Divorce
-	- Desire for connection.
+Kneeling in the grass to see living things.
+Flopping in the mountains of leaves.
+Father/Daughter dance. So proud. Thought her so beautiful. Disappointed that she was too shy or embarrassed to be with me, she wouldn't dance.
+filming her concert at Kindergarten. So proud of her.
+Passion for water -Lake Michigan in the cold May weather. Dislocating shoulder when we were jumping in the waves. I felt so bad -and left out of the healing as Bridget took her without me to hospital.
+## Move to Hawai'i
+Singing Potters song as we drove to Hawai'i. Her sadness at leaving e.g. her substitute family, Ethan, Mama Sue.
+Swimming in the pool at Hawai'i Kai.
+Playing in the snow on top of Pikes Peak.
+Connected with her 3rd grade teacher at Kamilo'iki. Special focus on writing -Lydia knew about telling stories.
+Learning to swim -passion for water.
+## Priory
+Driving to school -"pastor's kid knows homeless names"
+Picking up the Kia and she drove for the first time. Going to the center and waiting for hours to take the exam and get the permit.
+## Church related
+Assisting me at Isaiah's baptism (in the rain)
+I felt so proud of her.
+But there on Maui I felt sad that again she wanted me to be gone.
+Was she intimidated by me?
+So angry with me?
+Her counseling uncovered her anger at me -and this was before the divorce
+Leen dancing at her graduation ceremonies
+## Move to South Bend
+She kept me out of the loop in choosing a school.
+Somehow I got the message from the priest on Kaua'i (spiritual director for Happening?) that a parent should pay for whatever school the child chooses
+Glad that she was associated with my alma mater. Disappointed that she was going to be around the old cronies and family of Bridget.
+# Post-Divorce
+Desire for connection.
