@@ -7,9 +7,12 @@ Even before we got home I acted as a kind of La Leche League coach. I wanted you
 
 I remember reading stories to you from an early age, before you were able even to comprehend them. I remember rocking you until you fell asleep in my arms. That gave me a satisfaction and joy that it is really impossible to describe.
 ## Michigan City
-Kneeling in the grass to see living things.
-Flopping in the mountains of leaves.
-Father/Daughter dance. So proud. Thought her so beautiful. Disappointed that she was too shy or embarrassed to be with me, she wouldn’t dance.
+As you grew into a toddler, I remember the delight we both felt as we went out to the front yard, knelt down and crawled around looking at all the living creatures.
+
+Partly because we have photographs depicting you and your sister lying contentedly in the mountains of autumn leaves, I can remember you playing in the yard, swinging on the swings, running to play games with the next-door neighbors. I remember when you wanted to have a party and invited your friends from kindergarten. There were one or two who were people of color, but you didn't see color do you only saw friends. That's a characteristic of you that I have treasured and never lost sight.
+
+Again I have one or two photographs when I have company due to a father daughter dance. I was so excited for you and thought you were the loveliest child in the room. There was probably a part of me that was sad because I missed those opportunities with your older sister Miriam. But this time around I missed the chance to dance with you. You were embarrassed to be with me, or maybe you were afraid that you didn't know how to dance. I don't know what it was but I do think I was the proudest father in the room.
+
 filming her concert at Kindergarten. So proud of her.
 Passion for water -Lake Michigan in the cold May weather. Dislocating shoulder when we were jumping in the waves. I felt so bad -and left out of the healing as Bridget took her without me to hospital.
 ## Move to Hawai’i
