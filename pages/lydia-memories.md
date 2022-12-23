@@ -13,9 +13,13 @@ Partly because we have photographs depicting you and your sister lying contented
 
 Again I have one or two photographs when I have company due to a father daughter dance. I was so excited for you and thought you were the loveliest child in the room. There was probably a part of me that was sad because I missed those opportunities with your older sister Miriam. But this time around I missed the chance to dance with you. You were embarrassed to be with me, or maybe you were afraid that you didn't know how to dance. I don't know what it was but I do think I was the proudest father in the room.
 
-filming her concert at Kindergarten. So proud of her.
-Passion for water -Lake Michigan in the cold May weather. Dislocating shoulder when we were jumping in the waves. I felt so bad -and left out of the healing as Bridget took her without me to hospital.
-## Move to Hawai’i
+One of the last things I did before we moved to Hawaii was to film you performing the year and concert at the school. I think that video may be lost somewhere. Probably no one would treasure it as much as I would. Again, such a proud father I was at that moment.
+
+One of the things that was clear in your personality in those days was your love of the water. It wasn't just playing in the sand or enjoying the company of friends on the beach at Lake Michigan. You loved the water. I remember the day that you romped in the surf in May. The water was so cold I couldn't imagine going in it. But you were fearless. When I was holding your hand and we were running through the little waves you suddenly screamed in pain. I had inadvertently pulled your arm out of it socket. Your mother took you to her hospital where someone with a quick gesture made it right and the pain was gone.
+## Toward Hawai’i
+I've written about how poignant it was as we drove away from Michigan city, from the things and people that you knew, from your security, toward this new land of Hawaii that you didn't know. Who played the potters hand over and over again as a way of comforting yourself. What a striking thing it is that you knew how to give yourself the message that gave you the strength to go on.
+
+
 Singing Potters song as we drove to Hawai’i. Her sadness at leaving e.g. her substitute family, Ethan, Mama Sue.
 Swimming in the pool at Hawai’i Kai.
 Playing in the snow on top of Pikes Peak.
