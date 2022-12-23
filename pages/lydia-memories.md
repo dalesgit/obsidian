@@ -1,10 +1,10 @@
 ## Birth and more
-	- 
+When you were conceived 
 	- pain when the knife put to Bridget's belly. I was thrown out of delivery room -- she's the only one of five.
 		- giving my best to coach and encourage Bridget in nursing. Wanting the best for Lydia. *La Leche League with Mo*
 	- reading stories. She loved them.
 	- holding her til she fell asleep
-- ## Michigan City
+## Michigan City
 	- Kneeling in the grass to see living things.
 	- Flopping in the mountains of leaves.
 	- Father/Daughter dance. So proud. Thought her so beautiful. Disappointed that she was too shy or embarrassed to be with me, she wouldn't dance.
