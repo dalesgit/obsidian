@@ -19,10 +19,28 @@ One of the things that was clear in your personality in those days was your love
 ## Toward Hawai’i
 I've written about how poignant it was as we drove away from Michigan city, from the things and people that you knew, from your security, toward this new land of Hawaii that you didn't know. Who played the potters hand over and over again as a way of comforting yourself. What a striking thing it is that you knew how to give yourself the message that gave you the strength to go on.
 
+Beautiful Lord, wonderful Savior
+I know for sure all of my days are held in Your hand
+And crafted into Your perfect plan
 
-Singing Potters song as we drove to Hawai’i. Her sadness at leaving e.g. her substitute family, Ethan, Mama Sue.
-Swimming in the pool at Hawai’i Kai.
-Playing in the snow on top of Pikes Peak.
+You gently called me into Your presence
+Guiding me by Your Holy Spirit
+Teach me dear Lord, to live all of my life
+Through Your eyes
+
+And I’m captured by Your Holy calling
+Set me apart, I know You’re drawing me to Yourself
+Lead me Lord, I pray
+
+Take me and mold me, use me, fill me
+I give my life to the Potter’s hand
+Call me, You guide me, lead me, walk beside me
+I give my life to the Potter’s hand
+
+As we drove through Colorado on our way to California where we were to board the plane, you knew that you had to learn to swim. There was a total focus. Julian helped you at a motel we stayed at. Our first month at the condo in Waikiki you spent every waking moment you could either in the waves of the ocean or the chilly waters of the pool. At the end of that month you knew how to swim.
+
+There in Colorado Springs we took the train to the top of Pikes Peak. You discovered, as it were, that frozen water was just as delightful as the liquid kind. You played so freely in the patches of snow in the middle of the summer there at 14,000 feet.
+
 Connected with her 3rd grade teacher at Kamilo’iki. Special focus on writing -Lydia knew about telling stories.
 Learning to swim -passion for water.
 ## Priory
