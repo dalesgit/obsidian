@@ -1,5 +1,7 @@
+https://en.everybodywiki.com/Night_of_Silence
+**Night of Silence** is a Christmas carol and Roman Catholic Advent hymn, written in 1981 by American composer, Daniel Kantor,[1] and then published in 1984 by GIA Publications.[2] The carol is a *quodlibet*,[3] the term used for a partner song that can be sung simultaneously with another song. ("Night of Silence" can be sung simultaneously with the Christmas carol "Silent Night").[citation needed] It has been recorded by Marty Haugen, David Haas, Yvonne Kenny, Chris Squire, St. Olaf College, Cantus, Theocracy, and many other choirs and singers worldwide.
+
 ---
-David Haas( David Robert Haas )
 
 Night of Silence - Silent Night
 
