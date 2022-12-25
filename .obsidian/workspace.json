@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2022_12_25.md",
+                "file": "pages/night-of-silence-lyrics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2022_12_25.md",
+                "file": "pages/night-of-silence-lyrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2022_12_25.md",
+                "file": "pages/night-of-silence-lyrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2022_12_25.md"
+                "file": "pages/night-of-silence-lyrics.md"
               }
             }
           },
@@ -166,11 +166,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "863c4ed001094d5d",
+  "active": "829ffc76d47739aa",
   "lastOpenFiles": [
+    "journals/2022_12_25.md",
     "journals/2022_12_23.md",
     "journals/2022_12_16.md",
-    "journals/2022_12_25.md",
     "journals/2022_12_22.md",
     "pages/lydia-memories.md",
     "Templates/random-quote.md",
