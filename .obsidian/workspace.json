@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d9b84651c5b9f931",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -88,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/lydia-memories.md",
+                "file": "journals/2022_12_23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/lydia-memories.md",
+                "file": "journals/2022_12_23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/lydia-memories.md"
+                "file": "journals/2022_12_23.md"
               }
             }
           },
@@ -167,7 +178,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "829ffc76d47739aa",
+  "active": "d9b84651c5b9f931",
   "lastOpenFiles": [
     "journals/2022_12_22.md",
     "journals/2022_12_23.md",
