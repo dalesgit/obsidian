@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/process-keep-files.md",
+                "file": "journals/2022_12_28.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shiflet",
+                "query": "#cruise",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/process-keep-files.md",
+                "file": "journals/2022_12_28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/process-keep-files.md",
+                "file": "journals/2022_12_28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/process-keep-files.md"
+                "file": "journals/2022_12_28.md"
               }
             }
           },
@@ -148,7 +149,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,15 +169,15 @@
   },
   "active": "829ffc76d47739aa",
   "lastOpenFiles": [
-    "journals/2022_12_27.md",
+    "pages/cruise-2023.md",
+    "journals/2022_10_28.md",
+    "journals/2022_12_28.md",
     "pages/process-keep-files.md",
+    "journals/2022_12_27.md",
     "pages/concat-md-output.md",
     "journals/2022_12_25.md",
     "pages/night-of-silence-lyrics.md",
     "journals/2022_12_23.md",
-    "journals/2022_12_16.md",
-    "journals/2022_12_22.md",
-    "pages/lydia-memories.md",
-    "Templates/random-quote.md"
+    "journals/2022_12_16.md"
   ]
 }
