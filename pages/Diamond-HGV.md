@@ -27,7 +27,7 @@ E-mail
 (Alternate) DHATH12@GMAIL.COM
 # Purchases
 
- Ownership Summary 
+Ownership Summary 
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Contract # | Description | Week Season | Usage Frequency | Unit Type | Use Term |
 | Start - End | Allocated Points | Available Points |
@@ -39,11 +39,14 @@ E-mail
 
 Hilton Honors: 750855522
 
-- tia
+- Tia general questions + Ajanea (877-907-8599 x27677) re. reservations 
 	- Contract July 13, 2022
 		- 90 day (courtesy extension past July 13 to complete)
 	- they book the reservation for the vacation at one place
 	- flight coordinator is separate
 	- club would assist with club points
 	- ok to call in March? subject to inventory
-	- inventory for June: 
+	- inventory for June: 10-24 available at "Modern" rooms are slim but do have some
+	- July 1-24 bit more inventory available (better)
+	- call back March 20
+	- will send email
