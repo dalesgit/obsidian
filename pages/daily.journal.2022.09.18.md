@@ -21,7 +21,7 @@ Based on the journaling method created by Intelligent Change:
   <!-- Fill out this section after waking up -->
   Decision made during the sermon. I need to make an appointment with one or the other of the bishop's of the diocese to inquire about the possible needs of supply clergy. I don't need to do it if there's no need. I'm willing if there is a need.
   
-  We need to regularize our will and the attached trust. MP [[Marypat]] assures me that the orders attached to the stocks take precedence in settling an estate. That leaves the house and associated other that would have to be adjusted for: Sean, Emma, to focus on the problem children.
+  We need to regularize our will and the attached trust. MP [[MaryPat]] assures me that the orders attached to the stocks take precedence in settling an estate. That leaves the house and associated other that would have to be adjusted for: Sean, Emma, to focus on the problem children.
 ### Gratitude
 
 I am grateful for:

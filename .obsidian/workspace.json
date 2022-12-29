@@ -149,7 +149,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -169,15 +169,15 @@
   },
   "active": "829ffc76d47739aa",
   "lastOpenFiles": [
-    "pages/Diamond-HGV.md",
+    "journals/2022_12_15.md",
+    "journals/2022_11_30.md",
     "journals/2022_12_29.md",
+    "pages/MaryPat.md",
+    "pages/Diamond-HGV.md",
     "journals/2022_12_07.md",
     "journals/2022_12_03.md",
     "journals/2022_12_02.md",
     "logseq/bak/notes/tiddly-notes/epiphany-coup-attempt/2022-10-31T10_09_02.832Z.Desktop.md",
-    "notes/tiddly-notes/tiddly-table-contents.md",
-    "journals/2022_12_27.md",
-    "journals/2022_12_28.md",
-    "pages/cruise-2023.md"
+    "notes/tiddly-notes/tiddly-table-contents.md"
   ]
 }
