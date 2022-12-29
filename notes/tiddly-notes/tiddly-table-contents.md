@@ -1,4 +1,3 @@
-
 ---
 title: 'TableOfContents'
 date: '2021-03-23T03:13:55.327Z'
@@ -7,7 +6,7 @@ tags: ['/tags/SideBar']
 
 <!-- Exported from TiddlyWiki at 19:18, 22nd October 2022 -->
 
-# TableOfContents
+#TableOfContents
 
 ![](./img/thought_quote.jpg)
 1. <button><svg></svg></button>
