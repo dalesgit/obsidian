@@ -40,3 +40,10 @@ E-mail
 Hilton Honors: 750855522
 
 - tia
+	- Contract July 13, 2022
+		- 90 day (courtesy extension past July 13 to complete)
+	- they book the reservation for the vacation at one place
+	- flight coordinator is separate
+	- club would assist with club points
+	- ok to call in March? subject to inventory
+	- inventory for June: 
