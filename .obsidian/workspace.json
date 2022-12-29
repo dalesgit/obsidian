@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Diamond-HGV.md",
+                "file": "journals/2022_12_29.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Diamond-HGV.md",
+                "file": "journals/2022_12_29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Diamond-HGV.md",
+                "file": "journals/2022_12_29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Diamond-HGV.md"
+                "file": "journals/2022_12_29.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "829ffc76d47739aa",
   "lastOpenFiles": [
-    "journals/2022_12_29.md",
     "pages/Diamond-HGV.md",
+    "journals/2022_12_29.md",
     "journals/2022_12_07.md",
     "journals/2022_12_03.md",
     "journals/2022_12_02.md",
