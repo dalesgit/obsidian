@@ -1,4 +1,4 @@
-# as of 12/2022 Diamond International is now Hilton
+## as of 12/2022 Diamond International is now Hilton
 - https://www.diamondresorts.com/ is now
 
 https://www.hiltongrandvacations.com/
@@ -25,9 +25,9 @@ Email: MARYPAT.SJOSTROM@GMAIL.COM
 E-mail
 (Primary E-mail) MARYPAT.SJOSTROM@GMAIL.COM
 (Alternate) DHATH12@GMAIL.COM
-# Purchases
+## Purchases
 
-Ownership Summary 
+- Ownership Summary 
 
 | Contract # | Description                      | Allocated Points |
 | ---------- | -------------------------------- | ---------------- |
@@ -39,8 +39,9 @@ Ownership Summary
 | Total      |                                  | 65000            |
 <!-- TBLFM: @>$7=sum(@I..@-1) -->
 https://github.com/tgrosinger/advanced-tables-obsidian/blob/main/docs/help.md
-Hilton Honors: 750855522
 
+
+## Hilton Honors: 750855522
 - Tia general questions + Ajanea (877-907-8599 x27677) re. reservations 
 	- Contract July 13, 2022
 		- 90 day (courtesy extension past July 13 to complete)
@@ -52,3 +53,5 @@ Hilton Honors: 750855522
 	- July 1-24 bit more inventory available (better)
 	- call back March 20
 	- will send email
+- Tia corresponded email with us. Then she called [[MaryPat]]. These notes:
+	- 
