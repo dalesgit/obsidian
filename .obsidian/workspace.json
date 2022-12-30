@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Diamond-HGV.md",
+                "file": "journals/2022_12_30.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Diamond-HGV.md",
+                "file": "journals/2022_12_30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Diamond-HGV.md",
+                "file": "journals/2022_12_30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Diamond-HGV.md"
+                "file": "journals/2022_12_30.md"
               }
             }
           },
@@ -169,15 +168,15 @@
   },
   "active": "829ffc76d47739aa",
   "lastOpenFiles": [
-    "journals/2022_12_29.md",
+    "pages/Mike_Shrader.md",
     "journals/2022_12_30.md",
+    "pages/Diamond-HGV.md",
+    "journals/2022_12_29.md",
     "journals/2022_12_15.md",
     "journals/2022_11_30.md",
     "pages/MaryPat.md",
-    "pages/Diamond-HGV.md",
     "journals/2022_12_07.md",
     "journals/2022_12_03.md",
-    "journals/2022_12_02.md",
-    "logseq/bak/notes/tiddly-notes/epiphany-coup-attempt/2022-10-31T10_09_02.832Z.Desktop.md"
+    "journals/2022_12_02.md"
   ]
 }

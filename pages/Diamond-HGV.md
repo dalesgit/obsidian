@@ -59,7 +59,6 @@ https://github.com/tgrosinger/advanced-tables-obsidian/blob/main/docs/help.md
 		- Ajanea Ware will call Mar. 20
 		- Can use Dream Holiday at the Modern, book inter-island to Kauai, points for Poipu. They will fly us to Honolulu and Home from Kauai!
 	- email
-		- ---
 		- This is Ajanea Ware with Hilton Grand Vacations Signature Vacations at **877-907-8599 EXT. 27677**.  
 		- **This email is in regards to your 7,500 bonus points. Below you will find the locations you can travel to, along with links so you may check out the different properties we have to offer  **and TWO round-trip airline tickets are included as well!!****\*\*****
 			- ****Honolulu, Hawaii** 
