@@ -14,5 +14,13 @@
       ],
       "key": "PageDown"
     }
+  ],
+  "editor:toggle-fold": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Home"
+    }
   ]
 }
