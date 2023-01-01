@@ -11,8 +11,13 @@
             "id": "a785a88f78c6b50f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pages/letter-mk.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -45,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#task",
+                "query": "mike",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,11 +67,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 234.50000381469727
+    "width": 234.50000381469727,
+    "collapsed": true
   },
   "right": {
     "id": "789b306ea1af336e",
@@ -82,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pages/letter-mk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "pages/letter-mk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "pages/letter-mk.md"
+              }
             }
           },
           {
@@ -161,13 +172,13 @@
   "lastOpenFiles": [
     "journals/2022_12_30.md",
     "pages/Mike_Shrader.md",
+    "journals/2022_12_31.md",
     "pages/Diamond-HGV.md",
     "journals/2022_12_29.md",
     "journals/2022_12_15.md",
     "journals/2022_11_30.md",
     "pages/MaryPat.md",
     "journals/2022_12_07.md",
-    "journals/2022_12_03.md",
-    "journals/2022_12_02.md"
+    "journals/2022_12_03.md"
   ]
 }
