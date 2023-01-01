@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Miriam.md",
+                "file": "pages/family.carolyn.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Miriam.md",
+                "file": "pages/family.carolyn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Miriam.md",
+                "file": "pages/family.carolyn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Miriam.md"
+                "file": "pages/family.carolyn.md"
               }
             }
           },
@@ -169,15 +169,15 @@
   },
   "active": "a785a88f78c6b50f",
   "lastOpenFiles": [
-    "pages/fathers.miriam.md",
+    "pages/notes.index.md",
+    "pages/notes.daily-journal-2022-09-15.md",
+    "pages/notes.assets.images.md",
+    "pages/notes.assets-images.md",
+    "pages/notes.assets.md",
     "journals/2022_12_31.md",
+    "pages/bridget.md",
     "pages/Miriam.md",
-    "logseq/bak/pages/fathers/2022-11-30T18_41_03.021Z.Desktop.md",
-    "pages/cruise-2023.md",
-    "pages/cruise-ports-of-call.md",
-    "logseq/bak/journals/2022_11_05/2022-11-05T18_47_31.379Z.Desktop.md",
-    "journals/2022_12_30.md",
-    "pages/Mike_Shrader.md",
-    "pages/Diamond-HGV.md"
+    "pages/['MyChildren'].md",
+    "pages/fathers.miriam.md"
   ]
 }
