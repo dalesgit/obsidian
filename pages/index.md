@@ -12,7 +12,7 @@ isDir: false
 - [[american-experiment]]
 - [[florida]]
 - [[scott]]
-- [Emma's elegy](emma-story.md)
+- [Emma's elegy](pages/Emma-Story.md)
 # - 
 
 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

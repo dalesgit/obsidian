@@ -1,2 +1,2 @@
-- [[Emma-Story]]
+- [[pages/Emma-Story]]
 -
