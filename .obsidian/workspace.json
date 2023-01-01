@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/concat-md-output.md",
+                "file": "journals/2022_12_27.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "journals/2022_12_27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "journals/2022_12_27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "journals/2022_12_27.md"
+              }
             }
           },
           {
@@ -164,15 +168,15 @@
   },
   "active": "a785a88f78c6b50f",
   "lastOpenFiles": [
-    "journals/2022_12_30.md",
-    "pages/Mike_Shrader.md",
-    "pages/Diamond-HGV.md",
-    "journals/2022_12_29.md",
+    "journals/2022_12_25.md",
+    "journals/2022_12_23.md",
+    "journals/2022_12_22.md",
     "journals/2022_12_15.md",
-    "journals/2022_11_30.md",
-    "pages/MaryPat.md",
-    "journals/2022_12_07.md",
-    "journals/2022_12_03.md",
-    "journals/2022_12_02.md"
+    "journals/2022_12_16.md",
+    "journals/2022_12_17.md",
+    "journals/2022_12_19.md",
+    "journals/2022_12_20.md",
+    "journals/2023_01_01.md",
+    "journals/2022_12_30.md"
   ]
 }
