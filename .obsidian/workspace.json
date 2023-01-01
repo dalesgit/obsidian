@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2022_12_27.md",
+                "file": "pages/regular-expenses.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2022_12_27.md",
+                "file": "pages/regular-expenses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2022_12_27.md",
+                "file": "pages/regular-expenses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2022_12_27.md"
+                "file": "pages/regular-expenses.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "2b18157ecf2e6845",
   "lastOpenFiles": [
+    "journals/2022_12_27.md",
     "journals/2023_01_01.md",
     "journals/2022_10_18.md",
     "journals/2022_10_15.md",
@@ -168,7 +169,6 @@
     "pages/notes%2Fjournal.md",
     "emma-story.md",
     "notes/daily-notes.2022-08-06.md",
-    "2022-10-13.md",
-    "notes/fathers.emma.emma-story.md"
+    "2022-10-13.md"
   ]
 }
