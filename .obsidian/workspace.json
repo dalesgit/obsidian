@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/notes.index.md",
+                "file": "pages/concat-md-output.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "carolyn",
+                "query": "subscription",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/notes.index.md",
+                "file": "pages/concat-md-output.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/notes.index.md",
+                "file": "pages/concat-md-output.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/notes.index.md"
+                "file": "pages/concat-md-output.md"
               }
             }
           },
@@ -152,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 382.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,15 +168,15 @@
   },
   "active": "a785a88f78c6b50f",
   "lastOpenFiles": [
-    "pages/emma.emma-story.md",
+    "notes/assets/mp-birthday-73-wpswebu3xbxn.pdf",
+    "notes/assets/our-new-house-dt0fxgmoelm4.jpeg",
+    "journals/2023_01_01.md",
     "pages/notes.index.md",
+    "pages/emma-story.md",
     "pages/letter.carolyn.md",
     "pages/Untitled 2.md",
     "pages/Untitled 1.md",
     "pages/Thanksgiving - 2022.mindnode/QuickLook/Preview.jpg",
-    "pages/['MyChildren'].md",
-    "journals/2023_01_01.md",
-    "pages/notes.daily-journal-2022-09-15.md",
-    "pages/notes.assets.images.md"
+    "pages/['MyChildren'].md"
   ]
 }

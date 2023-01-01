@@ -13,6 +13,6 @@ created_imported: 1663357017664
 ---
 
 
-- [[emma.emma-story]]
+- [[pages/emma-story]]
 - [[letter.carolyn]]
 - 
