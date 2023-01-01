@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/letter-mk.md",
+                "file": "journals/2023_01_01.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/letter-mk.md",
+                "file": "journals/2023_01_01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/letter-mk.md",
+                "file": "journals/2023_01_01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/letter-mk.md"
+                "file": "journals/2023_01_01.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   },
   "active": "a785a88f78c6b50f",
   "lastOpenFiles": [
+    "pages/letter-mk.md",
     "journals/2022_12_30.md",
     "pages/Mike_Shrader.md",
     "journals/2022_12_31.md",
@@ -178,7 +179,6 @@
     "journals/2022_12_15.md",
     "journals/2022_11_30.md",
     "pages/MaryPat.md",
-    "journals/2022_12_07.md",
-    "journals/2022_12_03.md"
+    "journals/2022_12_07.md"
   ]
 }
