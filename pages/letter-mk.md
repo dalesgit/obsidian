@@ -20,14 +20,14 @@ First, please accept our deep gratitude for your willingness to assist us in our
 
 2. Mary Pat's brother, Joe Sjostrom:
 
-- jsjostrom@gmail.com  • Home  
+- jsjostrom@gmail.com   
 - 614 325-5892  • Mobile  
 - 6698 Masefield St., Worthington, OH 43085
 
 4. Our financial adviser, David Bowman:
 
 - david.t.bowman@lpl.com
-- (803) 372-8090  • Mobile
+- 803-372-8090  • Mobile
 
 5. Mary Pat's sister: Mary Ann Smith:
 
@@ -42,6 +42,8 @@ First, please accept our deep gratitude for your willingness to assist us in our
 - The anthurium is new. The directions indicate to put 5 ice cubes in it once per week.
 - The bonsai is watered ever 3-4 days. 
 - The others as needed.
+
 ### In case of emergency
 1. There is an envelope marked "Emergency" in the drawer of the desk with the computer on it. In it is usb drive that contains a file that identifies most of the passwords associated with Dale's online presence.
 2. There is a short list (not comprehensive) of subscriptions that are regularly paid for through auto-payment.
+3. The ADT alarm on the wall in the dining room goes off occasionally. Monthly? The only way I know how to stop it is by pushing buttons. "#" of "off" seem to work.
