@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/family.carolyn.md",
+                "file": "pages/['MyChildren'].md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "miriam",
+                "query": "carolyn",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/family.carolyn.md",
+                "file": "pages/['MyChildren'].md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/family.carolyn.md",
+                "file": "pages/['MyChildren'].md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/family.carolyn.md"
+                "file": "pages/['MyChildren'].md"
               }
             }
           },
@@ -169,6 +169,8 @@
   },
   "active": "a785a88f78c6b50f",
   "lastOpenFiles": [
+    "journals/2023_01_01.md",
+    "pages/family.carolyn.md",
     "pages/notes.index.md",
     "pages/notes.daily-journal-2022-09-15.md",
     "pages/notes.assets.images.md",
@@ -176,8 +178,6 @@
     "pages/notes.assets.md",
     "journals/2022_12_31.md",
     "pages/bridget.md",
-    "pages/Miriam.md",
-    "pages/['MyChildren'].md",
-    "pages/fathers.miriam.md"
+    "pages/Miriam.md"
   ]
 }
