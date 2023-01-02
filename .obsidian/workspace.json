@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e14e35cff91f4581",
+        "id": "189309bdbc23beac",
         "type": "tabs",
         "children": [
           {
-            "id": "2b18157ecf2e6845",
+            "id": "07905b65f78727f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/regular-expenses.md",
+                "file": "journals/2023_01_01.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/regular-expenses.md",
+                "file": "journals/2023_01_01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/regular-expenses.md",
+                "file": "journals/2023_01_01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,16 +135,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/regular-expenses.md"
+                "file": "journals/2023_01_01.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,17 +158,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b18157ecf2e6845",
+  "active": "07905b65f78727f6",
   "lastOpenFiles": [
     "journals/2022_12_27.md",
+    "pages/regular-expenses.md",
+    "pages/concat-md-output.md",
     "journals/2023_01_01.md",
     "journals/2022_10_18.md",
     "journals/2022_10_15.md",
     "pages/fathers.emma.emma-story.md",
     "pages/spiritual-director.linda-serepca.md",
     "pages/notes%2Fjournal.md",
-    "emma-story.md",
-    "notes/daily-notes.2022-08-06.md",
-    "2022-10-13.md"
+    "emma-story.md"
   ]
 }
