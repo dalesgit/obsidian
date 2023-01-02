@@ -1,0 +1,26 @@
+- Compile repeating ( #subscription ) charges to pay attention to:
+	- gingko: support@gingkowriter.com $4.99 per month
+		- GINGKO 4.99
+	- nytimes: 
+		- NYTimesCOM NY TIMES8006984637 NY 18.15 per month
+	- Compassion International
+		- ciinfo@compassion-intl.com
+		- $38.00
+	- Amazon Prime
+	- Washington Post (Amazon)
+	- git
+	- Dropbox
+	- Google: As a Google One member, you can always check your storage usage and update your plan at one.google.com
+	- Apple icloud: iCloud+ with 50 GB of Storage -- .99 per month
+		- Amex .... 6023 (Apple Pay)
+	- St. Alfred's Episcopal Church
+	- LITURGICAL PRESS, Daily Bread *Give us this day* 20.00 per year
+	- GOOGLEYOUTUBE TV GO GCO HELPPAY 73.61
+	- PEACOCKE20EA PREMIUNEW YORK CITY 1.99
+	- NETFLIXCOM 8665797172 CA 16.57
+	- COMPASSION INTERNATICOLORADO SPR 38.00
+	- BEYOND BORDERS 75.00
+	- Top Notch Lawn Service - Camille Dr. 65.00
+	- Union Home Mortgage Payment 1,819.70
+	- Duke Energy 113.19
+	- US COLLECTION MEMBERLAS VEGAS NV (HGV) ca. under $1,000.00
