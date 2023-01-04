@@ -1,3 +1,4 @@
+cf. budget estimate
 ## Cruise ports of call ManSan#cruise 
 ![](cruise-graphic.png)
 
