@@ -1,4 +1,4 @@
-## Cruise ports of call Man#cruise 
+## Cruise ports of call ManSan#cruise 
 ![](cruise-graphic.png)
 
 ### Tuesday, January 3 Fort Lauderdale, Florida, US
