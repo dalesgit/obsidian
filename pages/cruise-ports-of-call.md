@@ -207,7 +207,7 @@ $109.95 Per Adult
 Olinda & Recife's Jewish Heritage
 $109.95 Per Adult
 
-Recife Arts & Culture
+Recife Arts & CultureIIsl
 $109.95 Per Adult
 
 Venice of Brazil & Catamaran Cruising
