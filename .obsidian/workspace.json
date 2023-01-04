@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2023_01_04.md",
+                "file": "pages/cruise-ports-of-call.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SelfReflection",
+                "query": "tag:#cruise",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b6d7eff13e1c3271",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2023_01_04.md",
+                "file": "pages/cruise-ports-of-call.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2023_01_04.md",
+                "file": "pages/cruise-ports-of-call.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2023_01_04.md"
+                "file": "pages/cruise-ports-of-call.md"
               }
             }
           }
@@ -144,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,8 +160,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21a4135f81dcb598",
+  "active": "07905b65f78727f6",
   "lastOpenFiles": [
+    "journals/2023_01_04.md",
     "journals/2023_01_01.md",
     "journals/2022_12_27.md",
     "pages/regular-expenses.md",
@@ -168,7 +171,6 @@
     "journals/2022_10_15.md",
     "pages/fathers.emma.emma-story.md",
     "pages/spiritual-director.linda-serepca.md",
-    "pages/notes%2Fjournal.md",
-    "emma-story.md"
+    "pages/notes%2Fjournal.md"
   ]
 }
