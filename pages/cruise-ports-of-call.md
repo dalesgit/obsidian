@@ -1,4 +1,4 @@
-cf. budget estimate
+cf. budget estimate: [Budget](excursion-budget.xlsx)
 ## Cruise ports of call ManSan#cruise 
 ![](cruise-graphic.png)
 
