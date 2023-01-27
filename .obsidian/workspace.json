@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "139296aa5609a074",
+        "id": "6cbe155d9d18289f",
         "type": "tabs",
         "children": [
           {
-            "id": "4c470918f858bddf",
+            "id": "2d65c9ead7c1050c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/keep-security-index.md",
+                "file": "journals/2023_01_27.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/keep-security-index.md",
+                "file": "journals/2023_01_27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/keep-security-index.md",
+                "file": "journals/2023_01_27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/keep-security-index.md"
+                "file": "journals/2023_01_27.md"
               }
             }
           }
@@ -158,13 +157,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c470918f858bddf",
+  "active": "60f685bf9474dae6",
   "lastOpenFiles": [
+    "pages/keep-security-index.md",
     "pages/Cruise-Links.md",
     "pages/cruise-2023.md",
     "journals/2023_01_26.md",
     "journals/2023_01_22.md",
-    "pages/keep-security-index.md",
     "journals/2023_01_21.md",
     "journals/2023_01_04.md",
     "pages/cruise-ports-of-call.md",
