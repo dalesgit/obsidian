@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b6d0b53cab4d373",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2023_03_19.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2023_03_19.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2023_03_19.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -172,8 +185,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1af712976553b92",
+  "active": "6b6d0b53cab4d373",
   "lastOpenFiles": [
+    "journals/2023_03_19.md",
+    "conflict-files-obsidian-git.md",
     "notes/Linda-report-2.md",
     "journals/2023_03_15.md",
     "pages/Linda-report.md",
@@ -181,8 +196,6 @@
     "journals/2023_02_26.md",
     "pages/Abc notation 2.md",
     "journals/2023_02_23.md",
-    "pages/remaining-excursions.md",
-    "journals/2023_02_20.md",
-    "pages/cruise-ports-of-call.md"
+    "pages/remaining-excursions.md"
   ]
 }
