@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "6cbe155d9d18289f",
+        "id": "a8580944eb456bd3",
         "type": "tabs",
         "children": [
           {
-            "id": "2d65c9ead7c1050c",
+            "id": "a9d2311bf59687ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2023_01_27.md",
+                "file": "journals/2023_03_15.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1af712976553b92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/2023_03_19.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +53,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -49,8 +63,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "password",
-                "matchingCase": false,
+                "query": "prayer",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -70,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b6d7eff13e1c3271",
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2023_01_27.md",
+                "file": "journals/2023_03_19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2023_01_27.md",
+                "file": "journals/2023_03_19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,16 +149,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2023_01_27.md"
+                "file": "journals/2023_03_19.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,17 +172,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60f685bf9474dae6",
+  "active": "e1af712976553b92",
   "lastOpenFiles": [
-    "pages/keep-security-index.md",
-    "pages/Cruise-Links.md",
-    "pages/cruise-2023.md",
-    "journals/2023_01_26.md",
-    "journals/2023_01_22.md",
-    "journals/2023_01_21.md",
-    "journals/2023_01_04.md",
-    "pages/cruise-ports-of-call.md",
-    "pages/Excursions.md",
-    "journals/2023_01_01.md"
+    "notes/Linda-report-2.md",
+    "journals/2023_03_15.md",
+    "pages/Linda-report.md",
+    "journals/2023_03_04.md",
+    "journals/2023_02_26.md",
+    "pages/Abc notation 2.md",
+    "journals/2023_02_23.md",
+    "pages/remaining-excursions.md",
+    "journals/2023_02_20.md",
+    "pages/cruise-ports-of-call.md"
   ]
 }

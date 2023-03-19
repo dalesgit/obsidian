@@ -2,5 +2,6 @@
   "theme": "system",
   "cssTheme": "",
   "accentColor": "",
-  "textFontFamily": "Georgia"
+  "textFontFamily": "Georgia",
+  "baseFontSize": 18
 }

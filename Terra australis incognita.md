@@ -1,0 +1,16 @@
+- Discovery of last continent
+- Terra Australis Incognita: The Discovery and Exploration Of the Last Continent
+- 200 years of history. 
+- Disputes over ownership. Eisenhower resolution. 
+- Name Antarctica from Aristotle. Based on conviction observation on eclipse that earth was sphere. 
+- cook's trip motivated by regular circumnavigate of Venus 
+- His route wasn't successful until 1960. 
+- Early 19 c great sealing, hunts, disasters. 
+- Fight for new sealing grounds. 
+- Turn of 20th c? Mapped but still none landed on the mainland. 
+- Only continent where the first building still exists. 1899. 
+- 1906 french after really there discovery of peninsula
+- 1934. Byrd beginning to study metrology if Antarctica knowing how much it drives world climate.
+- 1930s Germany claiming land but testing planes anticipating invasion of Soviet Union. 
+- 1940s US in earnest trying to penetrate. 
+- New Zealand tries to stick it to Britain since they are still a colony?
