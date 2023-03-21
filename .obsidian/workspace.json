@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "b2774e0bf28ad1ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Linda-report-2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e1af712976553b92",
             "type": "leaf",
             "state": {
@@ -46,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prayer",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +106,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,8 +198,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9d2311bf59687ae",
+  "active": "b2774e0bf28ad1ea",
   "lastOpenFiles": [
+    "pages/We All Depend on Someone. Let’s Celebrate That.md",
+    "notes/Linda-report-2.md",
     "journals/2023_03_15.md",
     "journals/2023_03_19.md",
     "pages/MaryPat.md",
@@ -194,7 +211,6 @@
     "pages/Abc notation 2.md",
     "pages/Abc notation.md",
     "conflict-files-obsidian-git.md",
-    "notes/Linda-report-2.md",
     "pages/Linda-report.md",
     "journals/2023_03_04.md",
     "journals/2023_02_26.md",
