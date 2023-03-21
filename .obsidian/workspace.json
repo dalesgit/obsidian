@@ -34,19 +34,6 @@
             }
           },
           {
-            "id": "e1af712976553b92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journals/2023_03_19.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6b6d0b53cab4d373",
             "type": "leaf",
             "state": {
@@ -200,10 +187,10 @@
   },
   "active": "b2774e0bf28ad1ea",
   "lastOpenFiles": [
-    "pages/We All Depend on Someone. Let’s Celebrate That.md",
-    "notes/Linda-report-2.md",
-    "journals/2023_03_15.md",
     "journals/2023_03_19.md",
+    "notes/Linda-report-2.md",
+    "pages/We All Depend on Someone. Let’s Celebrate That.md",
+    "journals/2023_03_15.md",
     "pages/MaryPat.md",
     "journals/2023_03_20.md",
     "Templates/Daily/daily-note.md",
