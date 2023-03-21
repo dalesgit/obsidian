@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2023_03_15.md",
+                "file": "notes/Linda-report-2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,15 +39,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily/daily-note.md",
+                "file": "pages/MaryPat.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily/daily-note.md",
+                "file": "notes/Linda-report-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily/daily-note.md",
+                "file": "notes/Linda-report-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily/daily-note.md"
+                "file": "notes/Linda-report-2.md"
               }
             }
           }
@@ -184,16 +183,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b6d0b53cab4d373",
+  "active": "a9d2311bf59687ae",
   "lastOpenFiles": [
+    "journals/2023_03_15.md",
+    "journals/2023_03_19.md",
+    "pages/MaryPat.md",
     "journals/2023_03_20.md",
+    "Templates/Daily/daily-note.md",
     "pages/covid-report.md",
     "pages/Abc notation 2.md",
     "pages/Abc notation.md",
-    "journals/2023_03_19.md",
     "conflict-files-obsidian-git.md",
     "notes/Linda-report-2.md",
-    "journals/2023_03_15.md",
     "pages/Linda-report.md",
     "journals/2023_03_04.md",
     "journals/2023_02_26.md",
