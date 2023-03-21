@@ -50,8 +50,13 @@
             "id": "8ddaa2607c90784e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/Linda-report-2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -129,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/Linda-report-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/Linda-report-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/Linda-report-2.md"
+              }
             }
           }
         ]
@@ -187,14 +196,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60f685bf9474dae6",
+  "active": "8ddaa2607c90784e",
   "lastOpenFiles": [
+    "journals/2023_03_20.md",
     "notes/Linda-report-2.md",
     "journals/2023_03_19.md",
     "pages/We All Depend on Someone. Let’s Celebrate That.md",
     "journals/2023_03_15.md",
     "pages/MaryPat.md",
-    "journals/2023_03_20.md",
     "Templates/Daily/daily-note.md",
     "pages/covid-report.md",
     "pages/Abc notation 2.md",
