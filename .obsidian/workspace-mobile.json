@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "09fdd7c1f00e29c6",
+        "id": "e8edd7d2a7ec58f3",
         "type": "tabs",
         "children": [
           {
-            "id": "2b18157ecf2e6845",
+            "id": "ae68521679fb4286",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2022_10_18.md",
+                "file": "journals/2023_03_20.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journals/2022_10_18.md",
+            "file": "journals/2023_03_20.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "journals/2022_10_18.md",
+            "file": "journals/2023_03_20.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "journals/2022_10_18.md"
+            "file": "journals/2023_03_20.md"
           }
         }
       },
@@ -142,8 +142,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2b18157ecf2e6845",
+  "active": "ae68521679fb4286",
   "lastOpenFiles": [
+    "journals/2023_03_20.md",
     "journals/2022_10_18.md",
     "journals/2022_10_15.md",
     "pages/fathers.emma.emma-story.md",
