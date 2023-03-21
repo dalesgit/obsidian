@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2023_03_20.md",
+                "file": "Templates/Daily/daily-note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2023_03_20.md",
+                "file": "Templates/Daily/daily-note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2023_03_20.md",
+                "file": "Templates/Daily/daily-note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2023_03_20.md"
+                "file": "Templates/Daily/daily-note.md"
               }
             }
           }
@@ -186,8 +186,8 @@
   },
   "active": "6b6d0b53cab4d373",
   "lastOpenFiles": [
-    "pages/covid-report.md",
     "journals/2023_03_20.md",
+    "pages/covid-report.md",
     "pages/Abc notation 2.md",
     "pages/Abc notation.md",
     "journals/2023_03_19.md",
