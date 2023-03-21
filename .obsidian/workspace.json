@@ -110,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b6d7eff13e1c3271",
@@ -182,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,10 +200,10 @@
   },
   "active": "8ddaa2607c90784e",
   "lastOpenFiles": [
-    "journals/2023_03_20.md",
-    "notes/Linda-report-2.md",
-    "journals/2023_03_19.md",
     "pages/We All Depend on Someone. Let’s Celebrate That.md",
+    "notes/Linda-report-2.md",
+    "journals/2023_03_20.md",
+    "journals/2023_03_19.md",
     "journals/2023_03_15.md",
     "pages/MaryPat.md",
     "Templates/Daily/daily-note.md",

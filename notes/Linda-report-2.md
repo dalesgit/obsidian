@@ -1,4 +1,4 @@
-> This is a report on the journaling I did during the 2nd half of our Grand Voyage cruise around South America. 
+> This is a report on the journaling I did during the 2nd half of our Grand Voyage cruise around South America. The continual mantra I said to myself during the journey was that I was looking for a connection between the sacred and the profane. I was looking for signs of grace, for thin places between the ordinary and the extraordinary. (DCH: March 21)
 # Encounter
 I have a note from the day February began that I saw a whale role over the top of the water just below the deck (3) used for walking laps. It's a beautiful image I don't want to let go of, and is a metaphor for a part of what is most memorable and beautiful about this trip. Perhaps it is an example of "exotica". Wildlife. Natural beauty and wonders. Things that in my youth I thought of as **permanent** and which now appear to be signs of the ever-changing characteristic of all creation.
 
@@ -51,6 +51,7 @@ That brother was in the navy in the 80's. He missed a family reunion of the Swan
 
 I have lost sleep over the brokenness of my family ties, especially Emma and Lydia. I have lost sleep over the bitterness I feel toward the bishop of Hawai'i. There is a strange numbness (emptiness?) in the feelings I have for Bridget. Clearly, it would seem, I am still working at resolving the conflicts of my life's narrative. Still, I have a sense of a growing peace. Hinted at in a short exchange with Mo where I shared with her my anguish over the violence that is at the heart of so much that we call human. She was familiar with the notion of **redemptive violence**, perhaps most identified with Walter Wink. He and those I respect and admire regard the fetish of redemptive violence as one of the deadends in the path of human beings. There is a different sort of path reflected in the many humans who have found a different way, characterized by humility and compassion, service and cooperation. In just the past days I have thought that perhaps I should (could) start a project along the lines of Merton's *Seven Story Mountain*. I have perhaps made a start of it with the journals of our **Grand Tour** with Holland America.
 
-
+# Next Step
+I have now returned to our home in Florida. I continue to feel the rocking of the ship 4 days after disembarking in Ft. Lauderdale. I feel a kind of
 
 [^1]: [[We All Depend on Someone. Let’s Celebrate That]]
