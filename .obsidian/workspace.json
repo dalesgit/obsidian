@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b6d7eff13e1c3271",
@@ -158,10 +159,11 @@
   },
   "active": "6b6d0b53cab4d373",
   "lastOpenFiles": [
+    "journals/2023_03_22.md",
+    "pages/Woke' Is Just Another Word for Liberal.md",
     "Klugman.md",
     "journals/2023_01_05.md",
     "journals/2023_01_04.md",
-    "journals/2023_03_22.md",
     "Journal/2023-01-07 (1).md",
     "Journal/2023-01-07.md",
     "Journal/2023-01-05.md",
@@ -182,7 +184,6 @@
     "pages/Linda-report.md",
     "journals/2023_03_04.md",
     "journals/2023_02_26.md",
-    "journals/2023_02_23.md",
-    "pages/remaining-excursions.md"
+    "journals/2023_02_23.md"
   ]
 }
