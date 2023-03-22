@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2023_03_20.md",
+                "file": "journals/2023_03_22.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2023_03_20.md",
+                "file": "journals/2023_03_22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2023_03_20.md",
+                "file": "journals/2023_03_22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2023_03_20.md"
+                "file": "journals/2023_03_22.md"
               }
             }
           }
@@ -198,8 +198,9 @@
   },
   "active": "8ddaa2607c90784e",
   "lastOpenFiles": [
-    "journals/2023_03_19.md",
     "journals/2023_03_20.md",
+    "journals/2023_03_22.md",
+    "journals/2023_03_19.md",
     "journals/2023_03_15.md",
     "notes/Linda-report-2.md",
     "pages/We All Depend on Someone. Let’s Celebrate That.md",

@@ -1,23 +1,7 @@
-[  
-SKIP TO CONTENT](https://www.nytimes.com/2023/01/06/opinion/ukraine-russia-war.html#site-content)[SKIP TO SITE INDEX](https://www.nytimes.com/2023/01/06/opinion/ukraine-russia-war.html#site-index)
 
-[](https://www.nytimes.com/)
-
-[
-
-SUBSCRIBER-ONLY NEWSLETTER
 
 ## Paul Krugman
 
-
-
-](https://www.nytimes.com/newsletters/signup/PK)
-
-[
-
-OPINION
-
-](https://www.nytimes.com/section/opinion)
 
 # What Ukraine Teaches Us About Power
 
@@ -112,44 +96,3 @@ TWICE A WEEK
 
 A guide to U.S. politics and the economy — from the mainstream to the wonkish.
 
-[See the latest](https://static.nytimes.com/email-content/PK_sample.html)
-
-ADVERTISEMENT
-
-[Continue reading the main story](https://www.nytimes.com/2023/01/06/opinion/ukraine-russia-war.html#after-bottom)
-
-## Site Index
-
-[](https://www.nytimes.com/)
-
-[Go to Home Page »](https://www.nytimes.com/)
-
-NEWS
-
-OPINION
-
-ARTS
-
-LIVING
-
-LISTINGS & MORE
-
-## Site Information Navigation
-
--   [© 2023 The New York Times Company](https://help.nytimes.com/hc/en-us/articles/115014792127-Copyright-notice)
-
--   [NYTCo](https://www.nytco.com/)
--   [Contact Us](https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-Us)
--   [Accessibility](https://help.nytimes.com/hc/en-us/articles/115015727108-Accessibility)
--   [Work with us](https://www.nytco.com/careers/)
--   [Advertise](https://nytmediakit.com/)
--   [T Brand Studio](https://www.tbrandstudio.com/)
--   [Your Ad Choices](https://www.nytimes.com/privacy/cookie-policy#how-do-i-manage-trackers)
--   [Privacy Policy](https://www.nytimes.com/privacy/privacy-policy)
--   [Terms of Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
--   [Terms of Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
--   [Site Map](https://www.nytimes.com/sitemap/)
--   [Canada](https://www.nytimes.com/ca/?action=click&region=Footer&pgtype=Homepage)
--   [International](https://www.nytimes.com/international/?action=click&region=Footer&pgtype=Homepage)
--   [Help](https://help.nytimes.com/hc/en-us)
--   [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
