@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2023_03_22.md",
+                "file": "journals/2023_03_21.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2023_03_22.md",
+                "file": "journals/2023_03_21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2023_03_22.md",
+                "file": "journals/2023_03_21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2023_03_22.md"
+                "file": "journals/2023_03_21.md"
               }
             }
           }
@@ -158,8 +158,9 @@
   },
   "active": "6b6d0b53cab4d373",
   "lastOpenFiles": [
-    "notes/Linda-report-2.md",
     "journals/2023_03_22.md",
+    "journals/2023_03_21.md",
+    "notes/Linda-report-2.md",
     "journals/2023_03_20.md",
     "journals/2023_03_19.md",
     "journals/2023_03_15.md",
