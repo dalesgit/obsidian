@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Linda-report-2.md",
+                "file": "journals/2023_03_19.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b6d7eff13e1c3271",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Linda-report-2.md",
+                "file": "journals/2023_03_19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Linda-report-2.md",
+                "file": "journals/2023_03_19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Linda-report-2.md"
+                "file": "journals/2023_03_19.md"
               }
             }
           }
@@ -183,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,11 +198,11 @@
   },
   "active": "8ddaa2607c90784e",
   "lastOpenFiles": [
-    "pages/We All Depend on Someone. Let’s Celebrate That.md",
-    "notes/Linda-report-2.md",
     "journals/2023_03_20.md",
-    "journals/2023_03_19.md",
     "journals/2023_03_15.md",
+    "notes/Linda-report-2.md",
+    "pages/We All Depend on Someone. Let’s Celebrate That.md",
+    "journals/2023_03_19.md",
     "pages/MaryPat.md",
     "Templates/Daily/daily-note.md",
     "pages/covid-report.md",
