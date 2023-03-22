@@ -8,46 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a9d2311bf59687ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Linda-report-2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2774e0bf28ad1ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Linda-report-2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6b6d0b53cab4d373",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/MaryPat.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ddaa2607c90784e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -59,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,13 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ddaa2607c90784e",
+  "active": "6b6d0b53cab4d373",
   "lastOpenFiles": [
-    "journals/2023_03_20.md",
+    "notes/Linda-report-2.md",
     "journals/2023_03_22.md",
+    "journals/2023_03_20.md",
     "journals/2023_03_19.md",
     "journals/2023_03_15.md",
-    "notes/Linda-report-2.md",
     "pages/We All Depend on Someone. Let’s Celebrate That.md",
     "pages/MaryPat.md",
     "Templates/Daily/daily-note.md",
