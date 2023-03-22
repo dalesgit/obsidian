@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2022_12_05.md",
+                "file": "Journal/2023-01-05.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2022_12_05.md",
+                "file": "Journal/2023-01-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2022_12_05.md",
+                "file": "Journal/2023-01-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2022_12_05.md"
+                "file": "Journal/2023-01-05.md"
               }
             }
           }
@@ -158,6 +158,8 @@
   },
   "active": "6b6d0b53cab4d373",
   "lastOpenFiles": [
+    "Journal/2023-01-31.md",
+    "journals/2022_12_05.md",
     "journals/2023_03_22.md",
     "journals/2023_03_21.md",
     "Templates/Daily/daily-note.md",
