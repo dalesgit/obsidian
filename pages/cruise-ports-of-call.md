@@ -1,4 +1,5 @@
-## Cruise ports of call #cruise 
+cf. budget estimate: [Budget](excursion-budget.xlsx)
+## Cruise ports of call ManSan#cruise 
 ![](cruise-graphic.png)
 
 ### Tuesday, January 3 Fort Lauderdale, Florida, US
@@ -207,7 +208,7 @@ $109.95 Per Adult
 Olinda & Recife's Jewish Heritage
 $109.95 Per Adult
 
-Recife Arts & Culture
+Recife Arts & CultureIIsl
 $109.95 Per Adult
 
 Venice of Brazil & Catamaran Cruising

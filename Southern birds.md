@@ -1,0 +1,18 @@
+- albatross disappear after three convergence
+- Then will reappear on there way too
+- Effortless flight. Longest gliding. Navigation. Circumnavigate globe 2 years. Then return to mate with one they meet 2 years ago. 
+- 3 meter wrong. 6000 in 14 days. 70 years
+- Early explorers treated them as food. Pastas for various things.
+- Coleridge ryhme of ancient mariner superstitious. Problem? Albatross around neck. 
+- Skimming to of water walking on the waves. We saw. 
+- They can sleep at night. 
+- Stay at sea for months. 
+- Wings are so burdensome on land they can barely walk. 
+- Vulnerable to being caught with long line fishing
+- Behavior so like humans. No predators until humans 200 years ago. 
+- Mice and rats eat the brains of them
+- 3 years of courtship. 8 years before breed. Then mate for life. 
+- Chicks have tough environment
+- Albatross federation working to save them. Chile China Argentina Taiwanese Korean killing massive numbers. 
+- Tuna fishing especially
+- Antipodean albatross going extinct in 20 years. Female especially dying because much lighter. Rate male to female ideas liker 8/1. Males trying to mate with males. 

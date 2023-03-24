@@ -1,0 +1,17 @@
+- Docking though some ships tender
+- Container port location
+- Secondary shuttle to duty free mall
+- Between 2 oceans. Southern most Chile. 
+- In the strait of Magellan
+- Sheep main activity on Patagonia. Sheep outnumber people 7 to 1
+- Glory age of.  
+- Lots of museums
+- Baroque mansions
+- Also a cemetery
+- Peak of power and influence at end of 19th c. 
+- Next 2 ports have good local tourist information
+- Southernmost brewery on planet "Austral"
+- SARA BRAUN 1862 - 1955
+- ISLA MAGDALENA Suspended ferry service. No restrooms. 
+- 10:30 tomorrow the glacier visible
+- 

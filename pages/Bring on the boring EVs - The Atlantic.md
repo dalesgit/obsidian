@@ -1,0 +1,51 @@
+---
+created: 2023-02-16T09:37:14 (UTC -03:00)
+tags: []
+source: https://www.theatlantic.com/science/archive/2023/02/electric-vehicles-netflix-gm-deal-emissions-climate-change/673059/
+author: Emma Marris
+---
+
+# Bring on the boring EVs - The Atlantic
+
+> ## Excerpt
+> The next step toward electric cars just becoming cars is playing out on your TV screen.
+
+---
+# Bring on the boring EVs - The Atlantic
+The next step toward electric cars just becoming cars is playing out on your TV screen.
+
+![An aerial photo of new energy vehicles at a factory in China](https://cdn.theatlantic.com/thumbor/PnAKs498PhsGkTZdoJAqGJECS-E=/0x0:4800x2700/960x540/media/img/mt/2023/02/EVs_are_basic_1/original.jpg)
+
+Zhou Mu Xinhua / eyevine / Redux
+
+February 15, 2023, 7:30 AM ET
+
+_[Sign up for The Weekly Planet,](https://www.theatlantic.com/newsletters/sign-up/weekly-planet/)_ [The Atlantic’](https://www.theatlantic.com/newsletters/sign-up/weekly-planet/)_[s newsletter about living through climate change, here.](https://www.theatlantic.com/newsletters/sign-up/weekly-planet/)_
+
+If you tune in to _Queer Eye_ next season, you may find the “Fab Five” talking about the transformative power of a carefully curated refresh from the interior of a zero-emissions Hummer pickup truck. The placement is part of a new [deal between Netflix and General Motors](https://about.netflix.com/en/news/general-motors-and-netflix-partner-to-give-evs-the-stage-they-deserve) to feature electric vehicles on the streaming service, a deal that both companies are promoting as a step toward “creating a better, more sustainable future for our world.” But the idea that placing EVs in TV shows is leading-edge progressivism seems somewhat dated. Even the prospect of the [Hummer EV](https://www.theatlantic.com/science/archive/2022/10/hummer-ev-hybrid-electric-super-trucks-safety/671708/)—an icon of gas guzzling transformed into a green mode of transportation—seems about as transgressive and edgy as _Queer Eye_ itself in 2023, which is to say: not very.
+
+EVs are just … normal now. Lots of people drive them for lots of reasons, not just your colorful hippie aunt or your tech bro brother-in-law who will not shut up about his Tesla Model S. They are just cars. EVs accounted for 5.8 percent of cars sold [in the United States in 2022](https://insideevs.com/news/631980/us-ev-market-share-increased-2022/), up from just more than 3 percent the year before. In California, [almost 18 percent](https://www.gov.ca.gov/2022/10/19/california-zev-sales-near-18-of-all-new-car-sales-in-2022/) of new cars sold are fully electric. In part thanks to the tax breaks and incentives in the Inflation Reduction Act, the price of EVs is also [finally coming down to parity](https://www.nytimes.com/2023/02/10/business/electric-vehicles-price-cost.html) with the price of gasoline-powered cars.
+
+But incentives and competitive prices can only do so much. People have to _want_ to buy the car. If we are to hit President Joe Biden’s goal of cutting greenhouse-gas emissions in half by 2030, much of the country will need to switch to EVs. Making electric cars cool could help. But something even better is on the horizon, from a mass-adoption standpoint. We may be at the dawn of the boring EV.
+
+If we want to reduce emissions, electric vehicles have to be seen as the safe, normal, default option. And the cultural place of EVs (and the hybrids that paved the way for them) in American life can be tracked by examining how they show up on-screen. EV acceptance, at least through the prism of pop culture, has moved through four major phases.
+
+Phase 1: EVs as a signifier of the future. In keeping with its overall theme of cutting-edge technology, 1993’s _Jurassic Park_ featured electric Ford Explorers that were powered through a track on the ground (neat, but bad for escaping T. rexes). Or consider the 1997 film _Gattaca_, set in a retro-future. As part of that vibe, the film included older cars, including a 1965 Citroën DS 19 Cabriolet and a 1971 Buick Riviera. But the cars were silent, or just gently beeped—hinting that they were [fully electric](https://www.autoweek.com/news/green-cars/a2133976/autoweek-asks-would-you-convert-your-classic-car-electric-drive/).
+
+Phase 2: EVs and hybrids as signifiers of earnest liberalism. After the first Prius came out in 1997, having a character drive a hybrid became an easy way to tell viewers something about their politics or personality. Larry David on _Curb your Enthusiasm_ drives a Prius. In Season 2 of _Weeds_, which aired in 2006, soccer mom turned drug dealer Nancy swaps her Range Rover for a Prius, signifying a shift to a more environmentally conscious outlook.
+
+Phase 3: EVs as expensive toys. Tony Stark had a Tesla Roadster as far back as the first _Iron Man_ movie, in 2008. Love him or hate him, Elon Musk made EVs cool when they were trapped in squaresville, and Tesla has became the brand du jour [in hip-hop](https://pitchfork.com/thepitch/why-tesla-is-hip-hops-new-car-of-choice/). On Friday, the first trailer dropped for _Fast X_, the tenth installment in the street-racing juggernaut. For the first time, the franchise will reportedly feature at least a couple of electric cars, such as the Dodge Daytona SRT EV concept car and the unreleased DeLorean Alpha 5. (Yes, it has [gull-wing doors](https://robbreport.com/motors/cars/first-look-delorean-alpha5-ev-gullwing-doors-1234682460/).) What’s crucial about this era is that these cars being “eco-friendly” has become beside the point. They are simply flashy and cool. EVs have started becoming normalized, even if they are still out of the price range for the majority of viewers. That phase hasn’t ended, but another phase is appearing alongside it.
+
+Phase 4: EVs as just a car, a normal vehicle. In the near future, EVs will be in film and on TV constantly and they won’t say anything in particular about the characters that drive them. When Dr. Jo Wilson rolls up to the hospital in a Nissan Leaf in Season 18 of _Grey’s Anatomy_, it doesn’t mean anything deep. It’s just what she happens to drive. The lead in _M3GAN_, 2022’s breakout sentient-doll horror film, drives a fully electric BMW i3, and it is totally irrelevant to the plot.
+
+This new phase is upon us because EVs are finally becoming ubiquitous—in some markets, they are the quotidian choice instead of cool statement pieces meant to stand out. You don’t hear shoutouts to the Kia EV6 in rap lyrics, but you do see them lining up in affluent suburbs at school pickup. “I don’t know if they are normal, but they are undeniable,” says James Pumphrey of [Donut Media](https://www.youtube.com/@DonutMedia), a YouTube channel about cars and trucks with more than 7.3 million subscribers, mostly in their teens and 20s. According to Pumphrey, the Tesla Model 3 or Model Y has replaced the Audi A4 or the BMW 3 Series as the car that says, _Hey, I'm doing pretty well as a young professional._ These days, you don’t buy a Model 3 because it’s wild and different. You buy it because it is a safe choice.
+
+If we really are entering an era in which electric cars are just cars, that will go a long way in speeding up EV adoption in the U.S. And apart from the quiet hum of the highway or the suddenly cleaner air, a world in which most of the cars on the road are not emitting planet-toasting fumes will also be one where it feels okay to love cars again. Making EVs boring might be necessary to make them the default choice, but once they’ve taken over, there will also be a whole smorgasbord of fun, fast, and interesting electric options that the gearhead can get jazzed about.
+
+On Donut Media, you can find [a video](https://www.youtube.com/watch?v=-7bIDbaU_zQ) about putting massive gas-guzzling V-8 engines in Nissan 350Zs, but you can also find an [18-minute video](https://www.youtube.com/watch?v=Kz59tE-mqCw) ranking electric cars by how many seconds it takes them to get to 60 miles per hour. (Several of them can apparently hit 60 in under two seconds.) If you are a car enthusiast who keeps up with new models, you sort of have to get excited about EVs. GM and other automakers have [announced](https://www.autoweek.com/news/a36292118/phasing-out-internal-combustion-engines/) plans to close or shrink their internal-combustion-engine-development divisions in the coming decades. Electrics are where the innovation is. The hot-rodding community is slower to come around, but Pumphrey says that it’s potentially just as fun—kind of like jailbreaking your phone or building a gaming PC. “We’re truly on the cusp of something super exciting,” he told me. It will be interesting to see if any of the more affordable electrics are adopted by modders the way boring cars like the Honda Civic and Volvo 240 have been.
+
+There are caveats, of course. EVs have an environmental footprint. Their batteries, in particular, rely on minerals such as [lithium and cobalt](https://www.theatlantic.com/science/archive/2022/07/electric-cars-climate-change-environmental-impact/670505/), which have to be mined out of the ground. So there’s still a good argument for reducing the number of cars on the planet, electric or otherwise. And any car will still be expensive, bulky, and a pain to maintain. The true auto-topia will be the day when driving a car is 100 percent optional for those who would prefer not to own one—and 100 percent guilt-free for those who love them.
+
+For those people, there’s a lot to love. Take the Porsche Taycan, an all-electric sports car that is fast, powerful, and objectively gorgeous, especially in the Cherry Metallic color. Pumphrey got to drive one, and he said that the experience was nothing short of magical, at once familiarly Porsche but also new. “It’s like a new sound. It’s like a new way that the power comes on. It’s a new way of acceleration. It was a beautiful experience.” He even, he confessed, got a little misty-eyed. “I was like, _Oh man, I’ve never felt this._”
+
+From the sensible commuter to the rugged off-roader to the silky smooth sports car, the era in which electric cars are just cars is not far off. EVs just need to get a little more boring. The day Americans stop noticing them on their screens is the day the electric car will have truly arrived.

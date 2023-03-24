@@ -1,5 +1,4 @@
 [
-  "obsidian-git",
   "obsidian-outliner",
   "templater-obsidian",
   "calendar",
@@ -7,5 +6,7 @@
   "obsidian-pandoc",
   "table-editor-obsidian",
   "obsidian-tasks-plugin",
-  "obsidian-timestamper"
+  "obsidian-timestamper",
+  "obsidian-git",
+  "music-code-blocks"
 ]

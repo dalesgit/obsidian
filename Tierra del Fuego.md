@@ -1,0 +1,24 @@
+- Lou Sanson Presents: New Zealand with family. 
+- land of fires. Indian fires that Magellan saw. 
+- Antarctica expedition leader
+- Been here 60 times. As youth father disappeared for a year into Antarctica. 
+- This morning at cape horn this morning there wind was 40-50 knots. 
+- Archipelago of Patagonia goes on to become the peninsula of Antarctica. 
+- Chile and Argentina fought over the area trying to gain control of Antarctica
+- 40 years passed and Spanish ships didn't get through so British send Francis Drake etc.
+- 1616 cape horn discovered
+- Beagle expeditions from Brazil to Santiago. 
+- Darwin had a dim view of indigenous people. Fitzroy was fascinated with them. Strong evangelical spirit. 
+- 4 groups of indians in area.  fish and seal
+- With just skins for clothes developed squatting position to keep warm. Whole day was spent gathering food. Short and difficult life. 
+- Varied their fire on their canoes. 
+- Oona were most numerous. 
+- Guanco (cp llama) primary animal
+- Cp last photo of last initiation ceremony
+- By 1946 only 26 left. 
+- Europeans killed guanco and other destruction 
+- French come and sets up a kingdom. Coinage. Chile and Argentina fought butt he was aligned with indians.
+- Indians lost their guanaco so they killed sheep instead. That was justification for the genocide. 
+- 1941 no Fuegan left
+- Their language was a very sophisticated. 32000 vocabulary. Shakespeare had only 10000. 
+- Braver imported 1946. No predators. Now they're trying to eradicate. 
