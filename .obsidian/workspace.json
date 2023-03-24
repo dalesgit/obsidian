@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a8580944eb456bd3",
+        "id": "b0f1543949ee41d0",
         "type": "tabs",
         "children": [
           {
-            "id": "6b6d0b53cab4d373",
+            "id": "50ef2dc3894351be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journals/2023_03_24.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b6d7eff13e1c3271",
@@ -95,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2023_03_24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2023_03_24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "journals/2023_03_24.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,10 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b6d0b53cab4d373",
+  "active": "50ef2dc3894351be",
   "lastOpenFiles": [
-    "journals/2023_03_22.md",
     "journals/2023_03_24.md",
+    "journals/2023_03_22.md",
     "pages/Woke' Is Just Another Word for Liberal.md",
     "Klugman.md",
     "journals/2023_01_05.md",
