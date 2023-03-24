@@ -1,3 +1,4 @@
+**/workspace.json
 node_modules
 .dendron.*
 build
