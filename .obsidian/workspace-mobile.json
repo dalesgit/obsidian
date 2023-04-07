@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The math of Ukraine wear.md",
+                "file": "journals/2023_03_24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "The math of Ukraine wear.md",
+            "file": "journals/2023_03_24.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "The math of Ukraine wear.md",
+            "file": "journals/2023_03_24.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "The math of Ukraine wear.md"
+            "file": "journals/2023_03_24.md"
           }
         }
       },

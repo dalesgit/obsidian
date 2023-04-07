@@ -11,8 +11,13 @@
             "id": "50ef2dc3894351be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Prayers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b6d7eff13e1c3271",
@@ -89,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Prayers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Prayers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,14 +134,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Prayers.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,6 +160,7 @@
   },
   "active": "50ef2dc3894351be",
   "lastOpenFiles": [
+    "journals/2023_04_06.md",
     "journals/2023_03_24.md",
     "journals/2023_03_22.md",
     "pages/Woke' Is Just Another Word for Liberal.md",
@@ -173,7 +185,6 @@
     "pages/Abc notation.md",
     "conflict-files-obsidian-git.md",
     "pages/Linda-report.md",
-    "journals/2023_03_04.md",
-    "journals/2023_02_26.md"
+    "journals/2023_03_04.md"
   ]
 }
