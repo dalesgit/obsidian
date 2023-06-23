@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2023_05_11.md",
+                "file": "journals/2023_06_23.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -65,6 +65,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "28b22919fb89dfe0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -95,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2023_05_11.md",
+                "file": "journals/2023_06_23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2023_05_11.md",
+                "file": "journals/2023_06_23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2023_05_11.md"
+                "file": "journals/2023_06_23.md"
               }
             }
           }
@@ -148,20 +156,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "07905b65f78727f6",
   "lastOpenFiles": [
-    "journals/2023_03_25.md",
     "journals/2023_05_11.md",
+    "journals/2023_06_23.md",
+    "journals/2023_03_25.md",
     "journals/2023_04_06.md",
     "journals/2023_03_24.md",
     "journals/2023_03_22.md",
@@ -184,7 +193,6 @@
     "journals/2022_10_18.md",
     "journals/2022_10_15.md",
     "pages/fathers.emma.emma-story.md",
-    "pages/spiritual-director.linda-serepca.md",
-    "pages/notes%2Fjournal.md"
+    "pages/spiritual-director.linda-serepca.md"
   ]
 }
