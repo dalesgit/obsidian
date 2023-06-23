@@ -1,4 +1,3 @@
-# Shipped
 ## Clothes [[Cruise-Links]]
 - [ ] Pants
 	- [ ] Casual slacks
