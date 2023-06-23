@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/cruise-packing-2023.md",
+                "file": "journals/2023_06_23.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/cruise-packing-2023.md",
+                "file": "journals/2023_06_23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/cruise-packing-2023.md",
+                "file": "journals/2023_06_23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/cruise-packing-2023.md"
+                "file": "journals/2023_06_23.md"
               }
             }
           }
