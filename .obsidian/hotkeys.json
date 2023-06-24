@@ -58,5 +58,23 @@
       ],
       "key": "H"
     }
+  ],
+  "daily-notes:goto-prev": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "daily-notes:goto-next": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "N"
+    }
   ]
 }
