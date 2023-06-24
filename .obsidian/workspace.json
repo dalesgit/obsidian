@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "784a0608891add83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2023_06_24.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2023_06_24.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2023_06_24.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -166,10 +180,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "07905b65f78727f6",
+  "active": "784a0608891add83",
   "lastOpenFiles": [
-    "journals/2023_06_23.md",
     "journals/2023_06_24.md",
+    "conflict-files-obsidian-git.md",
+    "journals/2023_06_23.md",
     "journals/2023_05_11.md",
     "journals/2023_03_25.md",
     "journals/2023_04_06.md",
@@ -192,7 +207,6 @@
     "pages/concat-md-output.md",
     "journals/2023_01_01.md",
     "journals/2022_10_18.md",
-    "journals/2022_10_15.md",
-    "pages/fathers.emma.emma-story.md"
+    "journals/2022_10_15.md"
   ]
 }
