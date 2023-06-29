@@ -1,25 +1,9 @@
-[  
-SKIP TO CONTENT](https://www.nytimes.com/2023/01/08/opinion/rule-of-life-monk-organize.html#site-content)[SKIP TO SITE INDEX](https://www.nytimes.com/2023/01/08/opinion/rule-of-life-monk-organize.html#site-index)
-
-[](https://www.nytimes.com/)
-
-[SUBSCRIBE FOR $1/WEEK](https://www.nytimes.com/subscription?campaignId=79FKF)
-
-[
-
-SUBSCRIBER-ONLY NEWSLETTER
-
-## Tish Harrison Warren
+[ Tish Warren site](https://www.nytimes.com/2023/01/08/opinion/rule-of-life-monk-organize.html#site-content)[SKIP TO SITE INDEX](https://www.nytimes.com/2023/01/08/opinion/rule-of-life-monk-organize.html#site-index)
 
 
+[SUBSCRIBER-ONLY NEWSLETTER## Tish Harrison Warren](https://www.nytimes.com/newsletters/signup/THW)
 
-](https://www.nytimes.com/newsletters/signup/THW)
-
-[
-
-OPINION
-
-](https://www.nytimes.com/section/opinion)
+[OPINION](https://www.nytimes.com/section/opinion)
 
 # This Year, Try Organizing Your Life Like a Monk
 
@@ -66,29 +50,15 @@ We’re living in a very similar moment to that now as Western culture is fractu
 
 ### EDITORS’ PICKS
 
--   [
+-   [#### The Secret to a Banana Bread With a Little More Bite Jan. 11, 2023](https://www.nytimes.com/2023/01/11/magazine/miso-pecan-banana-bread-recipe.html?action=click&module=editorContent&pgtype=Article&region=CompanionColumn&contentCollection=Trending)
     
-    #### The Secret to a Banana Bread With a Little More Bite
+-   [#### The Kafka You Never Knew Jan. 11, 2023](https://www.nytimes.com/2023/01/11/books/kafka-diaries.html?action=click&module=editorContent&pgtype=Article&region=CompanionColumn&contentCollection=Trending)
     
-    Jan. 11, 2023](https://www.nytimes.com/2023/01/11/magazine/miso-pecan-banana-bread-recipe.html?action=click&module=editorContent&pgtype=Article&region=CompanionColumn&contentCollection=Trending)
-    
--   [
-    
-    #### The Kafka You Never Knew
-    
-    Jan. 11, 2023](https://www.nytimes.com/2023/01/11/books/kafka-diaries.html?action=click&module=editorContent&pgtype=Article&region=CompanionColumn&contentCollection=Trending)
+-   [#### ‘Depression Rooms’ and ‘Doom Piles’: Why Clearing the Clutter Can Feel Impossible Jan. 10, 2023](https://www.nytimes.com/2023/01/10/well/mind/depression-cleaning-clutter.html?action=click&module=editorContent&pgtype=Article&region=CompanionColumn&contentCollection=Trending)
     
 -   [
     
-    #### ‘Depression Rooms’ and ‘Doom Piles’: Why Clearing the Clutter Can Feel Impossible
-    
-    Jan. 10, 2023](https://www.nytimes.com/2023/01/10/well/mind/depression-cleaning-clutter.html?action=click&module=editorContent&pgtype=Article&region=CompanionColumn&contentCollection=Trending)
-    
--   [
-    
-    #### How Finland Is Teaching a Generation to Spot Misinformation
-    
-    Jan. 10, 2023](https://www.nytimes.com/2023/01/10/world/europe/finland-misinformation-classes.html?action=click&module=editorContent&pgtype=Article&region=CompanionColumn&contentCollection=Trending)
+    #### How Finland Is Teaching a Generation to Spot Misinformation Jan. 10, 2023](https://www.nytimes.com/2023/01/10/world/europe/finland-misinformation-classes.html?action=click&module=editorContent&pgtype=Article&region=CompanionColumn&contentCollection=Trending)
     
 -   [
     
