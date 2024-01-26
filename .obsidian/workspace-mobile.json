@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "cb8acf5e648f5406",
+        "id": "c6dde401a57c550b",
         "type": "tabs",
         "children": [
           {
-            "id": "e5682f9f52487c4c",
+            "id": "b527c88c481eab96",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "journals/2024_01_26.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "journals/2024_01_26.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "journals/2024_01_26.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +122,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "journals/2024_01_26.md"
+          }
         }
       },
       {
@@ -125,9 +134,17 @@
           "type": "calendar",
           "state": {}
         }
+      },
+      {
+        "id": "c136fef8be9de3ec",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0,
+    "currentTab": 3,
     "pinned": true
   },
   "left-ribbon": {
@@ -142,8 +159,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e5682f9f52487c4c",
+  "active": "b527c88c481eab96",
   "lastOpenFiles": [
+    "journals/2024_01_26.md",
+    "Untitled.canvas",
     "journals/2023_03_24.md",
     "journals/2023_03_20.md",
     "journals/2022_10_18.md",
