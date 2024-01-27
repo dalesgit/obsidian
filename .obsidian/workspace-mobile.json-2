@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "8b958dc291b87aa3",
+    "id": "ba0a2473b6af46c1",
     "type": "split",
     "children": [
       {
-        "id": "ef38d65d2c091590",
+        "id": "c6dde401a57c550b",
         "type": "tabs",
         "children": [
           {
-            "id": "acaf6747b7d83525",
+            "id": "b527c88c481eab96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "journals/2024_01_26.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -26,21 +26,21 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7046442553c7fd96",
+    "id": "e34a4fac7b03fa29",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "ab775ddf8dccbd9f",
+        "id": "1c0759ccc9d90ab4",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "byModifiedTime"
+            "sortOrder": "alphabetical"
           }
         }
       },
       {
-        "id": "bf30b67936da718c",
+        "id": "ad274379b52e9e0d",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -55,7 +55,7 @@
         }
       },
       {
-        "id": "81c5268b4137c2c3",
+        "id": "dbfc820661bdf9a8",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -66,7 +66,15 @@
         }
       },
       {
-        "id": "6a0b6ab576852dd1",
+        "id": "54877564b49340ac",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "bc1546071ed022c0",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -77,28 +85,28 @@
     "currentTab": 0
   },
   "right": {
-    "id": "c8d72e15475bdda6",
+    "id": "6ebd6b22dab95c6a",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "bd2dc5f93da878f4",
+        "id": "dcfd160491ff0a43",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
             "file": "journals/2024_01_26.md",
-            "collapseAll": false,
+            "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
-            "backlinkCollapsed": false,
+            "backlinkCollapsed": true,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "2c42b00ab764d8d1",
+        "id": "7bb91a20931165ca",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -110,7 +118,7 @@
         }
       },
       {
-        "id": "c4c66f902646ff9f",
+        "id": "469c921dea196572",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -120,15 +128,24 @@
         }
       },
       {
-        "id": "c0b0db404ff7e326",
+        "id": "d1acf804b3b26ad7",
         "type": "leaf",
         "state": {
           "type": "calendar",
           "state": {}
         }
+      },
+      {
+        "id": "c136fef8be9de3ec",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3,
+    "pinned": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,11 +155,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "acaf6747b7d83525",
+  "active": "b527c88c481eab96",
   "lastOpenFiles": [
-    "2024-01-26.md"
+    "journals/2024_01_26.md",
+    "Untitled.canvas",
+    "journals/2023_03_24.md",
+    "journals/2023_03_20.md",
+    "journals/2022_10_18.md",
+    "journals/2022_10_15.md",
+    "pages/fathers.emma.emma-story.md",
+    "pages/spiritual-director.linda-serepca.md",
+    "pages/notes%2Fjournal.md",
+    "emma-story.md",
+    "notes/daily-notes.2022-08-06.md",
+    "2022-10-13.md",
+    "notes/fathers.emma.emma-story.md",
+    "notes/clearwater-deanery.md"
   ]
 }

@@ -1,13 +1,8 @@
 [
-  "obsidian-outliner",
-  "templater-obsidian",
-  "calendar",
-  "note-refactor-obsidian",
-  "obsidian-pandoc",
-  "table-editor-obsidian",
-  "obsidian-tasks-plugin",
-  "obsidian-timestamper",
   "obsidian-git",
+  "calendar",
   "music-code-blocks",
-  "obsidian-footnotes"
+  "note-refactor-obsidian",
+  "templater-obsidian",
+  "obsidian-timestamper"
 ]

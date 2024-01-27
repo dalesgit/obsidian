@@ -1,15 +1,1 @@
-{
-  "spellcheck": true,
-  "useMarkdownLinks": false,
-  "pdfExportSettings": {
-    "includeName": true,
-    "pageSize": "Letter",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
-  },
-  "newFileLocation": "folder",
-  "newFileFolderPath": "pages",
-  "attachmentFolderPath": "assets",
-  "alwaysUpdateLinks": true
-}
+{}
