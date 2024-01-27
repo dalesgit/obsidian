@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "48d5e4f8d05c5ab4",
+        "id": "5f45642c5d241e3f",
         "type": "tabs",
         "children": [
           {
-            "id": "f89ec979cd41a557",
+            "id": "a57f19f26d493c7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,15 +154,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "f89ec979cd41a557",
+  "active": "1c0759ccc9d90ab4",
   "lastOpenFiles": [
-    "russian imperialism.md",
     "journals/2024_01_27.md",
+    "Templates/Daily/daily-note.md",
     "journals/2024_01_26.md",
+    "russian imperialism.md",
     "/journals/2024_01_27.md",
     "/journals/2024_01_26.md",
     "/Templates/Daily/daily-note.md",

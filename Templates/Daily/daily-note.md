@@ -2,10 +2,8 @@
 ## Sacramental
 - 
 
-## Journal Entries
--  blank
-
 ## Gratitude
-- blank
+- 
 
-
+## Journal Entries
+-  
