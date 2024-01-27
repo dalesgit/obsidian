@@ -1,1 +1,29 @@
-{}
+{
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "H"
+    }
+  ],
+  "daily-notes:goto-next": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
+  "daily-notes:goto-prev": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ]
+}

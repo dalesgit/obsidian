@@ -1,16 +1,4 @@
-[
-
-## LIVE
-
-](https://www.aljazeera.com/live)
-
-Open the menu
-
-![](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
-
-[**OPINION**OPINION,](https://www.aljazeera.com/opinion/) 
-
-[Opinions](https://www.aljazeera.com/opinions/)
+[LIVE](https://www.aljazeera.com/live)
 
 # How Western scholars overlooked Russian imperialism
 
