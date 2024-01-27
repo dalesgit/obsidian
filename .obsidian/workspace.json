@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warren on rule of life.md",
+                "file": "Wandering mind.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Warren on rule of life.md",
+                "file": "Wandering mind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Warren on rule of life.md",
+                "file": "Wandering mind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warren on rule of life.md"
+                "file": "Wandering mind.md"
               }
             }
           }
@@ -156,7 +156,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,6 +167,8 @@
   },
   "active": "b3d0e7d8578f9b80",
   "lastOpenFiles": [
+    "wordle words.md",
+    "journals/2024_01_27.md",
     "journals/2023_06_29.md",
     "journals/2023_06_27.md",
     "journals/2023_06_25.md",
@@ -191,8 +192,6 @@
     "journals/2023_03_24.md",
     "journals/2023_03_25.md",
     "journals/2023_04_06.md",
-    "journals/2023_05_11.md",
-    "journals/2023_06_23.md",
-    "pages/Woke' Is Just Another Word for Liberal.md"
+    "journals/2023_05_11.md"
   ]
 }

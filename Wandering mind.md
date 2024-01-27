@@ -1,19 +1,3 @@
-[  
-SKIP TO CONTENT](https://www.nytimes.com/2023/01/09/books/review/the-wandering-mind-jamie-kreiner.html#site-content)[SKIP TO SITE INDEX](https://www.nytimes.com/2023/01/09/books/review/the-wandering-mind-jamie-kreiner.html#site-index)
-
-[](https://www.nytimes.com/)
-
-[](https://myaccount.nytimes.com/auth/login?response_type=cookie&client_id=vi&redirect_uri=https%3A%2F%2Fwww.nytimes.com%2Fsubscription%2Fonboarding-offer%3FcampaignId%3D7JFJX%26EXIT_URI%3Dhttps%253A%252F%252Fwww.nytimes.com%252F2023%252F01%252F09%252Fbooks%252Freview%252Fthe-wandering-mind-jamie-kreiner.html&asset=masthead)
-
-### [What to Read](https://www.nytimes.com/section/books?name=styln-books-general&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&variant=show)
-
--   [New Books in January](https://www.nytimes.com/2022/12/29/books/january-2023-books.html?name=styln-books-general&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&variant=show&is_new=false)
--   [10 Best Books of 2022](https://www.nytimes.com/2022/11/29/books/best-books-2022.html?name=styln-books-general&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&variant=show&is_new=false)
--   [Critics’ Reviews](https://www.nytimes.com/column/books-of-the-times?name=styln-books-general&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&variant=show&is_new=false)
--   [Editors’ Choice](https://www.nytimes.com/column/new-books?name=styln-books-general&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&variant=show&is_new=false)
--   [Quiz](https://www.nytimes.com/interactive/2023/01/06/books/review/comedy-women-books.html?name=styln-books-general&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&variant=show&is_new=false)
-
-NONFICTION
 
 # Think Screens Stole Our Attention? Medieval Monks Were Distracted Too.
 
