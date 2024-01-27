@@ -1,3 +1,4 @@
+[ SKIP TO CONTENT](https://www.nytimes.com/2023/01/09/books/review/the-wandering-mind-jamie-kreiner.html#site-content)[SKIP TO SITE INDEX](https://www.nytimes.com/2023/01/09/books/review/the-wandering-mind-jamie-kreiner.html#site-index)
 
 # Think Screens Stole Our Attention? Medieval Monks Were Distracted Too.
 
