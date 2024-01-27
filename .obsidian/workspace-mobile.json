@@ -11,16 +11,15 @@
             "id": "acaf6747b7d83525",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "journals/2024_01_26.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
+                "staged": false,
+                "file": "journals/2024_01_27.md"
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -86,7 +85,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journals/2024_01_26.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +101,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "journals/2024_01_26.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,9 +111,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "journals/2024_01_26.md"
-          }
+          "state": {}
         }
       },
       {
@@ -143,6 +138,10 @@
   },
   "active": "acaf6747b7d83525",
   "lastOpenFiles": [
+    "journals/2024_01_27.md",
+    "Templates/Daily/daily-note.md",
+    "img/thought_quote.jpg",
+    "journals/2024_01_26.md",
     "2024-01-26.md"
   ]
 }
