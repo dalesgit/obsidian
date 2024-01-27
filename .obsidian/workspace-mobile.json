@@ -11,10 +11,12 @@
             "id": "acaf6747b7d83525",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "staged": false,
-                "file": "journals/2024_01_27.md"
+                "file": "journals/2024_01_27.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -85,6 +87,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "journals/2024_01_27.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,6 +104,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "journals/2024_01_27.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -111,7 +115,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "journals/2024_01_27.md"
+          }
         }
       },
       {
@@ -121,9 +127,17 @@
           "type": "calendar",
           "state": {}
         }
+      },
+      {
+        "id": "dd5ab3aa23df15c5",
+        "type": "leaf",
+        "state": {
+          "type": "git-history-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
