@@ -1,15 +1,5 @@
-[  
-SKIP TO CONTENT](https://www.nytimes.com/2023/01/14/world/asia/ukraine-art-russia-steal.html#site-content)[SKIP TO SITE INDEX](https://www.nytimes.com/2023/01/14/world/asia/ukraine-art-russia-steal.html#site-index)
-
-[](https://www.nytimes.com/)
 
 ### [Russia-UkraineWar](https://www.nytimes.com/news-event/ukraine-russia)
-
--   [Updates](https://www.nytimes.com/live/2023/01/13/world/russia-ukraine-news)
--   [Photos](https://www.nytimes.com/article/russia-ukraine-war-photos.html)
--   [Maps](https://www.nytimes.com/interactive/2022/world/europe/ukraine-maps.html)
--   [Ensuring Ukraine’s Future Safety](https://www.nytimes.com/2023/01/10/world/europe/ukraine-russia-security-guarantees.html)
--   [Building the Perfect Grenade](https://www.nytimes.com/2023/01/07/world/europe/ukraine-russia-war-grenade.html)
 
 # As Russians Steal Ukraine’s Art, They Attack Its Identity, Too
 
