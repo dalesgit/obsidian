@@ -142,9 +142,18 @@
           "type": "advanced-tables-toolbar",
           "state": {}
         }
+      },
+      {
+        "id": "2266807a8f46aaf9",
+        "type": "leaf",
+        "state": {
+          "type": "git-history-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 5,
+    "pinned": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,7 +165,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a57f19f26d493c7f",
+  "active": "2266807a8f46aaf9",
   "lastOpenFiles": [
     "journals/2024_01_27.md",
     "journals/2024_01_28.md",
