@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2024_01_27.md",
+                "file": "journals/2024_01_28.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journals/2024_01_27.md",
+            "file": "journals/2024_01_28.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "journals/2024_01_27.md",
+            "file": "journals/2024_01_28.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "journals/2024_01_27.md"
+            "file": "journals/2024_01_28.md"
           }
         }
       },
@@ -159,10 +159,11 @@
   },
   "active": "a57f19f26d493c7f",
   "lastOpenFiles": [
+    "journals/2024_01_27.md",
+    "journals/2024_01_28.md",
     "IMG_8410.jpg",
     "/journals/2024_01_27.md",
     "journals/2024_01_26.md",
-    "journals/2024_01_27.md",
     "Templates/Daily/daily-note.md",
     "russian imperialism.md",
     "/journals/2024_01_26.md",
