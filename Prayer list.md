@@ -2,50 +2,77 @@
 
 [[Prayers]]
 
-## Recent
-
-- Jane & Jolene, Raymond
-- Carol Boyken stage 4 uterine CA
-- War in Ukraine
-- refugees
-- Charlotte / Henry
-- Sean and Jolene prepare for wedding
-- victims of hurricanes
+## Recent 
+- Wars
+	- for Israel
+	- people of Palestine (Gaza)
+	- War in Ukraine
+	- Sudan
+- earthquakes
+	- people of Morroco (earthquake)
+	- people of Lybia (earthquake)
+	- people of Afghanistan (earthquake)
+- Environmental catastrophe
+	- people impacted by climate change
+	- People of Maui after wildfires (8/10/23)
+	- refugees
+- Family
+	- Beth fell, shoulder. 
+	- Jane & Raymond, Jolene, Aaron: alienations
+	- Sean and Jolene 
+	- Lydia, Emma
+	- Mike & Carol Epperley (Covid)
+- Friends
+	- Charlotte / Henry
+	- Loa & Scott; Brian -- recovery
 - Our membership at St. Alfred's
-- Marcus & Ginny, (poss. new friend for MP)
-- Loa & Scott [transition, on O2, move Florida]; Brian -- recovery
-- discernment for using our gifts and talents in this place: 
-- Zandy end stage glaucoma; surgery 11/21
-- Daughters of the King prayer list
-- Lydia and Nick and boys
+	- discernment for using our gifts and talents in this place: 
+	- Marcus & Ginny 
+	- Zandy end stage glaucoma; surgery 11/2 2
+	- Daughters of the King prayer list
+	- Diane (and Sharren)
+	- Gini brother suicide
+	- Carol Boyken, stage 4 uterine cancer, cancer free 7/23
+	- Manny, Liz
+	- Tricia macula degeneration diabetes
+	- DeeDee, Carol, Karen (new members DOK)
+	- Frank in caregivers group
+	- Jim & Susan: (going home?)
+	- Jo, Diane (Lutheran), Bob and wife, Larry and wife
+	- Vincent, Larry, Richard, Eugene
+	- Doris asked Mary Pat if I had "ever met a stranger"
+	- Sydney: surgery for kidney stone -- caregiver Kathy (dtr)
 
 ## Dale and Mary Pat
 
 ### MP family
-- Beth [published]
-- Annie & Howie
-    - Howie's brother, Gary, RIP wife Linda, son Lance
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1DaSUmhWlMUFm_-A8bhDTTciN9Ht49s5VWkGdLztiKM0/edit?usp=sharing)
+- Beth [published], shoulder recovery b/day **8/17/1957**
+- Bob b/day **Oct. 19, 1953**
+- Annie & Howie Annie b/day **8/14/1951**. Howie b/day **Oct. 2, 1951** Anniv **Jul 29, 1972**
+    - Howie's brother, Gary, RIP wife Linda, son Lance 
     - Karen
     - Mary: many children
     - Howie's sister, Joye, diabetes?
-- Katy: new home, 
-- Jane Jackson?
-- Frannie & Joe Heider
-- Valerie & John, 
-    - Lily, Garret, Pierce, Zellie
-- Kevin & Kristin, 
-    - Theodore "Theo”, Ellie, Edie, Sebastian
-- Jackie & Nick, 
-   - Augustine, (Gus)
-- Danny & Jen 
-   - delivery 8/6/22 Keeley Frances
-- Faith [graduate]
-- Joe (retirement)  Tami + mother who doesn't know her
-   - Zach & Keiko
-   - Gordy & Kelly (5/22 wedding) "Rostrom"
+- Katy: new home, b/day **Dec. 11, 1959**
+- Jane Jackson, Raymond
+- Frannie & Joe Heider Fran b/day June **12, 1963**
+	- Valerie & John,  Val b/day **Aug 29, 1982**. John **Oct. 24, 1982**
+	    - Lily, Garret, Pierce, Zellie
+	- Kevin & Kristin, Kevin b/day **Apr 11, 1984**. Kristin b/day **June 3, 1985**
+	    - Theodore "Theo”, Ellie, Edie, Sebastian, new baby **Oct. 2023**
+	- Jackie & Nick, 
+	   - Augustine, (Gus)
+	- Danny & Jen 
+	   - delivery **8/6/22** Keeley Frances
+	- Faith graduated, independence 
+- Joe (retirement)  Tami + mother RIP, Father still independent Joe b/day **Oct. 2, 1954**. Tami b/day **Nov 4, 1957** Anniv **Jul 19, 1986**
+   - Zach & Keiko: new baby **Oct 2023**
+   - Gordy & Kelly (**5/22** wedding) "Rostrom" baby due March 2024
    - Sammy & Matt:  
-      - Grady
-- Bob & Brenda [move to Florida]
+      - Grady 
+      - new baby: **Oct 2023**
+- Bob & Brenda [move to Florida] Bob b/day **Oct. 19, 1953** Brenda b/day **June 21, 1954**. Anniv **Jun 22, 1991**
    - Holly & Jonathan 
    - Sarah, Josh, 
       - Reed, Piper
@@ -55,45 +82,47 @@
 - Robbie and Jim 
 
 ### DH family
-- Bill / Karla: possible move, Karla's health, Bill's health
-- David / Laura: [wedding, move]
-- Shirley & Paul 
+- Bill / Karla: possible move, Karla's health, Bill's health Bill **2/10/54**
+- David / Laura: (wedding, move) **David 3/11/60**
+- Shirley & Paul Shirley b/day **Nov 8, 1951**
     - Logan - (spouse)
     - Katrina (spouse? daughter?)
 - Carolyn (write letter)
 
 ### Children
-- Julian: [Health ins., new home, hiking]
-- Sean: recovery;  Jolene. Grace/Raven (bday 10/10). Jane Jackson:  CA returned
-- Amy & Patch -- turning 40 -- 7/6/81
-- Lydia: what challenged by? dietician to help her know what to eat ... 
-    - & Nick Schlutt: communicating, shared, Nick ... (2 boys, 2girls) (upcoming wedding) -- Lydia marriage 
-   - Lucas 9 7/25/12 
-   - Eric 11 3/27/10 
-   - Riley Daughter 15 6/12/06? 
-   - Elisa Daughter 18 2/23/03
-- Emma & Dmitriy (Mitto) Mironichenko: living in SF, now in Portland?
-- Miriam & Lee: 
-   - River, River in 3rd grade In 20-21. River 8/26/2011
-   - Will.  Will begin KG Jan 2021. Will 11/3/2014? 
-- Owen & Michelle: 
-    - Madison & boyfriend, 
+- Julian: (Health ins., new home, hiking) **2/21/80**
+- Sean: recovery;  Jolene. Grace/Raven (bday **10/10**). Jane Jackson:  CA returned
+- Amy & Patch -- turning 40 -- Amy **7/6/81**
+- Lydia: what challenged by? dietician to help her know what to eat ... **12/28/92**
+    - ~~& Nick Schlutt: communicating, shared, Nick ... (2 boys, 2girls) (upcoming wedding) -- Lydia marriage~~
+   - ~~Lucas 9 7/25/12~~
+   - ~~Eric 11 3/27/10~~
+   - ~~Riley Daughter 15 6/12/06?~~
+   - ~~Elisa Daughter 18 2/23/03~~
+- Emma & Dmitriy (Mitto) Mironichenko: living in SF, now in Portland? Emma **11/14/94**
+- Miriam & Lee: Miriam **9/29/82**
+   - River, River in 3rd grade In 20-21. River **8/26/2011**
+   - Will.  Will begin KG Jan 2021. Will **11/3/2014**? 
+- Owen & Michelle: Owen **5/11/78**
+    - Madison & fiance, 
     - Isabella as Certified Nurse something, 
     - Emelia: grown up
 
 
 ## Friends
 - Becky, Piikea, Mia, 2 girls, David
+- Carolyn (husband RIP)
 - Mike and Martha Shrader: Mike formerly environmentalist with Duke
 - Christine -- CA; and Robert (retirement)
 - Hildy and Charley transition to Naples and assisted living
 - Hilda and Dan
+- Tammy W. move to new house
 - Terry McCandliss, Bill Dowdel
 - Mike and Carol Epperley (dementia?)
 - Tim Hendrix stage 3 throat cancer
 - Mark and Mary: retirement, Mark's stent and cauterizing treatment
 - Barb & Ethan
-- Terry and Andy
+- Terry **RIP** and Andy
 - Eugenia & Titus, loss of mother
 - Bud & Berta, mother RIP, brother
 - Sue Parker & marriage Epi, separation from Covid -- Epi's heart disease
