@@ -15,8 +15,15 @@ God promised in **ages** past
 to save us from en**emy** hands,  
 from the grip of **all** who hate us.
 
-![](https://drive.google.com/uc?export=view&id=11m-vm1O4c3oBK3tekEnS-OySR4Wm_pf6)
-
+```music-abc
+X:1
+T:Psalm Tone
+M:4/4
+L:1/4
+C:Howard Hughes, S.M.
+K:G
+ G8 BAG4 | E8 FGA4 | A8BGA4 | A8GAB4 ||
+```
 The Lord favored our ancestors  
 recalling the **sacred** covenant,  
 the pledge to our an**cestor** Abraham,  
