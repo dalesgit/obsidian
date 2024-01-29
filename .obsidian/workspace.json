@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-29.md",
+                "file": "journals/2024_01_29.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-29.md",
+                "file": "journals/2024_01_29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-29.md",
+                "file": "journals/2024_01_29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-29.md"
+                "file": "journals/2024_01_29.md"
               }
             }
+          },
+          {
+            "id": "f2ce85057659c373",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,8 +156,9 @@
   },
   "active": "3cab3b3331a11bcb",
   "lastOpenFiles": [
-    "Aikido story.md",
     "2024-01-29.md",
+    "journals/2024_01_29.md",
+    "Aikido story.md",
     "AI portraiture.md",
     "2024-01-26.md",
     "2020-12-31.md",
