@@ -1,7 +1,3 @@
 [
-  "calendar",
-  "music-code-blocks",
-  "note-refactor-obsidian",
-  "templater-obsidian",
-  "obsidian-timestamper"
+  "obsidian-git"
 ]
