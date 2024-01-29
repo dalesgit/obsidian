@@ -1,8 +1,8 @@
 [
-  "obsidian-git",
-  "music-code-blocks",
-  "obsidian-enhancing-export",
   "calendar",
-  "obsidian-minimal-settings",
-  "note-refactor-obsidian"
+  "music-code-blocks",
+  "note-refactor-obsidian",
+  "templater-obsidian",
+  "obsidian-timestamper",
+  "obsidian-git"
 ]
