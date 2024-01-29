@@ -47,41 +47,6 @@ light for those shad**owed** by death,
 a guide for our feet on the  **way** to peace.
 
 
-## Benedictus Dominic
-
-Praise the Lord, the **God** of Israel,  
-who shepherds the people  
-and **sets** them free.
-
-God raises from David's house  
-a child with **power** to save.  
-Through the holy prophets  
-God promised in **ages** past  
-to save us from en**emy** hands,  
-from the grip of **all** who hate us.
-
-![](https://drive.google.com/uc?export=view&id=11m-vm1O4c3oBK3tekEnS-OySR4Wm_pf6)
-
-The Lord favored our ancestors  
-recalling the **sacred** covenant,  
-the pledge to our an**cestor** Abraham,  
-to free us **from** our enemies,  
-so we might worship without fear  
-and be holy and just **all** our days.  
-
-And you, child, will be called  
-Prophet of **the** Most High,  
-for you will come to prepare  
-a pathway **for** the Lord  
-by teaching the peo**ple** salvation  
-through forgiveness **of** their sin.  
-
-Out of God's **deepest** mercy  
-a dawn will come **from** on high,  
-light for those shad**owed** by death,  
-a guide for our feet on the  **way** to peace.
-
-
 ## New Zealand Lord's Prayer
 Eternal Spirit,  
 Earth-maker, Pain-bearer, Life-giver,  
