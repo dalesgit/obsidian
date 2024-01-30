@@ -3,6 +3,7 @@
 [[Prayers]]
 
 ## Recent 
+- Lynn Hart. Husband Steve. Son Jesse. 
 - Wars
 	- for Israel
 	- people of Palestine (Gaza)
@@ -82,7 +83,7 @@
 - Robbie and Jim 
 
 ### DH family
-- Bill / Karla: possible move, Karla's health, Bill's health Bill **2/10/54**
+- Bill / Karla: possible move, Karla's health, Bill's health Bill **2/10/54** Karla **1/25/54**
 - David / Laura: (wedding, move) **David 3/11/60**
 - Shirley & Paul Shirley b/day **Nov 8, 1951**
     - Logan - (spouse)
