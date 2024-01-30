@@ -4,49 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0f7c3c9f43bee8ea",
-        "type": "split",
+        "id": "e78cbf1afba04dca",
+        "type": "tabs",
         "children": [
           {
-            "id": "5f45642c5d241e3f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a57f19f26d493c7f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "journals/2024_01_30.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "123f2eb118d3d035",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8fa5136c5b1f86e3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "journals/2024_01_29.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
+            "id": "45967058e21090d0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +89,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journals/2024_01_30.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -137,7 +105,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "journals/2024_01_30.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -148,9 +115,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "journals/2024_01_30.md"
-          }
+          "state": {}
         }
       },
       {
@@ -191,11 +156,13 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "a57f19f26d493c7f",
+  "active": "45967058e21090d0",
   "lastOpenFiles": [
-    "past/Prayer list.md",
     "past/Prayers.md",
     "journals/2024_01_29.md",
+    "journals/2024_01_30.md",
+    "past/russian imperialism.md",
+    "past/Prayer list.md",
     "journals/2024_01_27.md",
     "journals/2024_01_28.md",
     "Prayers.md",
@@ -218,8 +185,6 @@
     "pages/notes%2Fjournal.md",
     "emma-story.md",
     "notes/daily-notes.2022-08-06.md",
-    "2022-10-13.md",
-    "notes/fathers.emma.emma-story.md",
-    "notes/clearwater-deanery.md"
+    "2022-10-13.md"
   ]
 }
