@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ukraine art destroyed.md",
+                "file": "journals/2024_01_30.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ukraine art destroyed.md",
+                "file": "journals/2024_01_30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ukraine art destroyed.md",
+                "file": "journals/2024_01_30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,17 +142,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ukraine art destroyed.md"
+                "file": "journals/2024_01_30.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,10 +163,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "60f685bf9474dae6",
+  "active": "b3d0e7d8578f9b80",
   "lastOpenFiles": [
-    "Ulysses.md",
+    "journals/2024_01_29.md",
+    "journals/2024_01_28.md",
     "journals/2024_01_27.md",
+    "journals/2024_01_30.md",
+    "Ukraine art destroyed.md",
+    "Ulysses.md",
     "wordle words.md",
     "rule of life.md",
     "russian imperialism.md",
@@ -188,10 +190,6 @@
     "journals/2023_02_20.md",
     "journals/2023_02_23.md",
     "journals/2023_02_26.md",
-    "journals/2023_03_04.md",
-    "journals/2023_03_15.md",
-    "journals/2023_03_19.md",
-    "journals/2023_03_20.md",
-    "journals/2023_03_21.md"
+    "journals/2023_03_04.md"
   ]
 }
