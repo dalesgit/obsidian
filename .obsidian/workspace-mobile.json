@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lent-2b.md",
+                "file": "pages/psalm-summer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "lent-2b.md",
+            "file": "pages/psalm-summer.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "lent-2b.md",
+            "file": "pages/psalm-summer.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "lent-2b.md"
+            "file": "pages/psalm-summer.md"
           }
         }
       },
@@ -140,7 +140,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -151,9 +150,10 @@
   },
   "active": "2b18157ecf2e6845",
   "lastOpenFiles": [
+    "lent-2b.md",
+    "pages/psalm-summer.md",
     "journals/2024_01_31.md",
     "2024_02_23.md",
-    "lent-2b.md",
     "pages/marginalian.md",
     "Octavia Butler on the Meaning of God.md",
     "journals/2022_10_15.md",
