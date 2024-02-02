@@ -4,5 +4,6 @@
   "note-refactor-obsidian",
   "templater-obsidian",
   "obsidian-timestamper",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-pandoc"
 ]
