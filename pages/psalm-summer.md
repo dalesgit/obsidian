@@ -57,3 +57,16 @@ in those who await his gracious favor.
 ## Blessing
 May Christ, the Son of God, be manifest in you, that your lives may be a light to the world; and the blessing of God Almighty, the Father, the Son, and the Holy Spirit, be among you, and remain with you always. **Amen**.
 
+Go forth into the world in peace.  
+Be of good courage.  
+Hold fast that which is good.  
+Render to no one evil for evil.  
+Strengthen the fainthearted.  
+Support the weak.  
+Help the afflicted.  
+Show love to everyone.  
+Love and serve the Lord,  
+rejoicing in the power of the Holy Spirit;  
+and the blessing of almighty God,  
+the Father, the + Son, and the Holy Spirit,  
+be among you and remain with you always. **Amen**.
