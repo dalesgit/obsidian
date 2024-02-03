@@ -5,7 +5,7 @@
 *Laudate Dominum*
 
 1 Hallelujah!  
-How good it is to sing praises to our God! *  
+How good it is to sing praises to our **God**! *  
 how pleasant it is to honor him with praise!
 
 2 The Lord rebuilds Jerusalem; *  
