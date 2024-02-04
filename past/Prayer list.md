@@ -4,6 +4,7 @@
 
 ## Recent 
 - Lynn Hart. Husband Steve. Son Jesse. 
+- Neighborhood Kathy
 - Wars
 	- for Israel
 	- people of Palestine (Gaza)
@@ -18,17 +19,17 @@
 	- People of Maui after wildfires (8/10/23)
 	- refugees
 - Family
-	- Beth fell, shoulder. 
-	- Jane & Raymond, Jolene, Aaron: alienations
+	- Beth 
+	- Jane (Relapse of her cancer) & Raymond, Jolene, Aaron: alienations
 	- Sean and Jolene 
 	- Lydia, Emma
-	- Mike & Carol Epperley (Covid)
+	- Mike & Carol Epperley (move to assisted living)
 - Friends
 	- Charlotte / Henry
 	- Loa & Scott; Brian -- recovery
 - Our membership at St. Alfred's
 	- discernment for using our gifts and talents in this place: 
-	- Marcus & Ginny 
+	- Marcus (new position) & Ginny (prospects of move)
 	- Zandy end stage glaucoma; surgery 11/2 2
 	- Daughters of the King prayer list
 	- Diane (and Sharren)

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e38a17ae18ea7d4e",
+        "id": "626bba6706050d98",
         "type": "tabs",
         "children": [
           {
-            "id": "2b18157ecf2e6845",
+            "id": "6ed8f6ca852517f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lent-2b.md",
+                "file": "pages/universal-christ-highlights-2-4.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "lent-2b.md",
+            "file": "pages/universal-christ-highlights-2-4.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "lent-2b.md",
+            "file": "pages/universal-christ-highlights-2-4.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "lent-2b.md"
+            "file": "pages/universal-christ-highlights-2-4.md"
           }
         }
       },
@@ -149,10 +149,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b18157ecf2e6845",
+  "active": "6ed8f6ca852517f7",
   "lastOpenFiles": [
-    "Untitled.md",
+    "journals/2024_02_04.md",
+    "past/Prayer list.md",
+    "past/Prayers.md",
+    "journals/2024_02_03.md",
     "lent-2b.md",
+    "Untitled.md",
     "journals/2024_01_31.md",
     "journals/2024_01_30.md",
     "journals/2024_01_29.md",

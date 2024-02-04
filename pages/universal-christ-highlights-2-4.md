@@ -1,3 +1,4 @@
+## Forward -- Before we begin
 Brian D. McLaren
 
 Pink highlight | Location: 162
@@ -27,6 +28,7 @@ If you think you are privately “saved” or enlightened, then you are neither 
 Blue highlight | Location: 228
 As Albert Einstein is supposed to have said, “There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.” In the pages ahead, I will opt for the latter!
                 
+##  1. Christ is not Jesus's Last Name
 
 Pink highlight | Location: 293
 But in this book, I want to suggest that the first Incarnation was the moment described in Genesis 1, when God joined in unity with the physical universe and became the light inside of everything. (This, I believe, is why light is the subject of the first day of creation, and its speed is now recognized as the one universal constant.)
@@ -79,6 +81,7 @@ The evolving, universe-spanning Christ Mystery, in which all of us take part, is
 Pink highlight | Location: 428
 Unfortunately, the notion of faith that emerged in the West was much more a rational assent to the truth of certain mental beliefs, rather than a calm and hopeful trust that God is inherent in all things, and that this whole thing is going somewhere good.
                 
+## 2. Accepting that you are fully accepted
 
 Pink highlight | Location: 476
 While I don’t believe Jesus ever doubted his real union with God, Jesus of Nazareth in his lifetime did not normally talk in the divine “I AM” statements, which are found seven times throughout John’s Gospel.
@@ -174,6 +177,7 @@ This is why and how Caryll Houselander could see Christ in the faces of total st
 Orange highlight | Location: 648
 When your isolated “I” turns into a connected “we,” you have moved from Jesus to Christ. We no longer have to carry the burden of being a perfect “I” because we are saved “in Christ,” and as Christ—or, as we say too quickly but correctly at the end of our official prayers: “Through Christ, Our Lord, Amen.”
                 
+## Appendix 1: The four worldviews
 
 Blue highlight | Location: 3,586
 In contrast to these three is the incarnational worldview, in which matter and Spirit are understood to have never been separate. Matter and Spirit reveal and manifest each other. This view relies more on awakening than joining, more on seeing than obeying, more on growth in consciousness and love than on clergy, experts, morality, scriptures, or rituals. The code word I am using in this entire book for this worldview is simply “Christ.”
