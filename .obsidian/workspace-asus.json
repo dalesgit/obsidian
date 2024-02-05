@@ -102,7 +102,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD:.obsidian/workspace.json
                 "file": "Prayer list.md",
+=======
+                "file": "journals/2024_01_30.md",
+>>>>>>> 9fe19116c27446b3c12c0486d34cfa674cb077de:.obsidian/workspace-asus.json
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +123,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD:.obsidian/workspace.json
                 "file": "Prayer list.md",
+=======
+                "file": "journals/2024_01_30.md",
+>>>>>>> 9fe19116c27446b3c12c0486d34cfa674cb077de:.obsidian/workspace-asus.json
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,17 +150,19 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD:.obsidian/workspace.json
                 "file": "Prayer list.md"
+=======
+                "file": "journals/2024_01_30.md"
+>>>>>>> 9fe19116c27446b3c12c0486d34cfa674cb077de:.obsidian/workspace-asus.json
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,16 +171,25 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "b3d0e7d8578f9b80",
   "lastOpenFiles": [
+<<<<<<< HEAD:.obsidian/workspace.json
     "Prayers.md",
     "journals/2024_01_29.md",
     "Ulysses.md",
+=======
+    "past/Wandering mind.md",
+>>>>>>> 9fe19116c27446b3c12c0486d34cfa674cb077de:.obsidian/workspace-asus.json
     "journals/2024_01_27.md",
+    "journals/2024_01_26.md",
+    "journals/2024_01_30.md",
+    "journals/2024_01_29.md",
+    "journals/2024_01_28.md",
+    "Ukraine art destroyed.md",
+    "Ulysses.md",
     "wordle words.md",
     "rule of life.md",
     "russian imperialism.md",
@@ -188,10 +207,14 @@
     "journals/2023_02_17.md",
     "journals/2023_02_18.md",
     "journals/2023_02_20.md",
+<<<<<<< HEAD:.obsidian/workspace.json
     "journals/2023_02_23.md",
     "journals/2023_02_26.md",
     "journals/2023_03_04.md",
     "journals/2023_03_15.md",
     "journals/2023_03_19.md"
+=======
+    "journals/2023_02_23.md"
+>>>>>>> 9fe19116c27446b3c12c0486d34cfa674cb077de:.obsidian/workspace-asus.json
   ]
 }

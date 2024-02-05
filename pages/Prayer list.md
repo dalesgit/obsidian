@@ -49,7 +49,7 @@
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1DaSUmhWlMUFm_-A8bhDTTciN9Ht49s5VWkGdLztiKM0/edit?usp=sharing)
 - Beth [published], shoulder recovery b/day **8/17/1957**
 - Bob b/day **Oct. 19, 1953**
-- Annie & Howie Annie b/day **8/14/1951**. Howie b/day **Oct. 2, 1951** Anniv **Jul 29, 1972**
+- Annie & Howie Annie b/day 8/14/1951. Howie b/day **Oct. 2, 1951** Anniv **Jul 29, 1972**
     - Howie's brother, Gary, RIP wife Linda, son Lance 
     - Karen
     - Mary: many children
