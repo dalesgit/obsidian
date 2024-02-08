@@ -2,13 +2,8 @@
 2. consider where the text touches my life.
 3. How is God calling me to respond?” From what I’ve heard and shared, what do I believe God wants me to do or be? Is God inviting me to change in any way?
 
-## Lessons
-- [2 Kings 2:1-12](https://www.lectionarypage.net/YearB_RCL/Epiphany/BEpiLast_RCL.html#ot1)
-- [2 Corinthians 4:3-6](https://www.lectionarypage.net/YearB_RCL/Epiphany/BEpiLast_RCL.html#nt1)
-- [Mark 9:2-9](https://www.lectionarypage.net/YearB_RCL/Epiphany/BEpiLast_RCL.html#gsp1)
-- [Psalm 50:1-6](https://www.lectionarypage.net/YearB_RCL/Epiphany/BEpiLast_RCL.html#ps1)
 
-Download this page as a [Word Document](https://www.lectionarypage.net/YearB_RCL/Epiphany/BEpiLast_RCL.docx)
+
 
 ## The Collect
 
@@ -25,7 +20,6 @@ Elijah said to him, “Elisha, stay here; for the Lord has sent me to Jericho.
 Then Elijah said to him, “Stay here; for the Lord has sent me to the Jordan.” But he said, “As the Lord lives, and as you yourself live, I will not leave you.” So the two of them went on. Fifty men of the company of prophets also went, and stood at some distance from them, as they both were standing by the Jordan. Then Elijah took his mantle and rolled it up, and struck the water; the water was parted to the one side and to the other, until the two of them crossed on dry ground.
 
 When they had crossed, Elijah said to Elisha, “Tell me what I may do for you, before I am taken from you.” Elisha said, “Please let me inherit a double share of your spirit.” He responded, “You have asked a hard thing; yet, if you see me as I am being taken from you, it will be granted you; if not, it will not.” As they continued walking and talking, a chariot of fire and horses of fire separated the two of them, and Elijah ascended in a whirlwind into heaven. Elisha kept watching and crying out, “Father, father! The chariots of Israel and its horsemen!” But when he could no longer see him, he grasped his own clothes and tore them in two pieces.
-
 
 ## The Epistle
 
