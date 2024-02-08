@@ -1,4 +1,8 @@
+1. a word or phrase that catches my attention.
+2. consider where the text touches my life.
+3. How is God calling me to respond?” From what I’ve heard and shared, what do I believe God wants me to do or be? Is God inviting me to change in any way?
 
+## Lessons
 - [2 Kings 2:1-12](https://www.lectionarypage.net/YearB_RCL/Epiphany/BEpiLast_RCL.html#ot1)
 - [2 Corinthians 4:3-6](https://www.lectionarypage.net/YearB_RCL/Epiphany/BEpiLast_RCL.html#nt1)
 - [Mark 9:2-9](https://www.lectionarypage.net/YearB_RCL/Epiphany/BEpiLast_RCL.html#gsp1)
