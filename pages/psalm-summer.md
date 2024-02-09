@@ -1,23 +1,4 @@
-## The Psalm
-
-### Psalm 50:1-6
-
-*Deus deorum*
-
-1 The Lord, the God of gods, has spoken; *  
-he has called the earth from the rising of the sun to its setting.
-
-2 Out of Zion, perfect in its beauty, *  
-God reveals himself in glory.
-
-3 Our God will come and will not keep silence; *  
-before him there is a consuming flame,  
-and round about him a raging storm.
-
-4 He calls the heavens and the earth from above *  
-to witness the judgment of his people.
-
- God himself is judge.
+using
 
 
 ```music-abc
