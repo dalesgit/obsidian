@@ -1,27 +1,24 @@
+## The Psalm
 
-# Fifth Sunday after the Epiphany
-### Psalm 147:1-12, 21c
+### Psalm 50:1-6
 
-*Laudate Dominum*
+*Deus deorum*
 
-1 Hallelujah!  
-How good it is to sing praises to our **God**! *  
-how pleasant it is to honor him with **praise**!
+1 The Lord, the God of gods, has spoken; *  
+he has called the earth from the rising of the sun to its setting.
 
-2 The Lord rebuilds Je**rusalem**; *  
-he gathers the exiles of **Israel**.
+2 Out of Zion, perfect in its beauty, *  
+God reveals himself in glory.
 
-3 He heals the broken**hearted** *  
-and binds up their **wounds**.
+3 Our God will come and will not keep silence; *  
+before him there is a consuming flame,  
+and round about him a raging storm.
 
-4 He counts the number of the **stars** *  
-and calls them all by their **names**.
+4 He calls the heavens and the earth from above *  
+to witness the judgment of his people.
 
-5 Great is our Lord and mighty in **power**; *  
-there is no limit to his **wisdom**.
+ God himself is judge.
 
-6 The Lord lifts up the **lowly**, *  
-but casts the wicked to the **ground**.
 
 ```music-abc
 X: 1
@@ -34,26 +31,12 @@ V: 1 clef=treble
 V: 2 clef=bass
 [D, F,]4  [G,,G,] | [A,,E,]4 [D,D,] || [B,,B,]4 [F,,A,] | [G,,G,]4 [D,,A,] |]
 ```
-7 Sing to the Lord with thanks**giving**; *  
-make music to our God upon the **harp**.
+5 "Gather before me my loyal followers, *  
+those who have made a covenant with me  
+and sealed it with sacrifice."
 
-8 He covers the heavens with **clouds** *  
-and prepares rain for the **earth**;
-
-9 He makes grass to grow upon the **mountains** *  
-and green plants to serve man**kind**.
-
-10 He provides food for flocks and **herds** *  
-and for the young ravens when they **cry**.
-
-11 He is not impressed by the might of a **horse**; *  
-he has no pleasure in the strength of a **man**;
-
-12 But the Lord has pleasure in those who **fear him**, *  
-in those who await his gracious favor.
-
-21 Halle**lujah**!
-
+6 Let the heavens declare the rightness of his cause; *  
+for
 ## Blessing
 May Christ, the Son of God, be manifest in you, that your lives may be a light to the world; and the blessing of God Almighty, the Father, the Son, and the Holy Spirit, be among you, and remain with you always. **Amen**.
 
