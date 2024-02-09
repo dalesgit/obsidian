@@ -1,4 +1,25 @@
-using
+**Psalm 50:1-6**
+*Deus deorum*
+
+1 The Lord, the God of gods, has spoken; *
+he has called the earth from the rising of the sun to its setting.
+
+2 Out of Zion, perfect in its beauty, *
+God reveals himself in glory.
+
+3 Our God will come and will not keep silence; *
+before him there is a consuming flame,
+and round about him a raging storm.
+
+4 He calls the heavens and the earth from above *
+to witness the judgment of his people.
+
+5 "Gather before me my loyal followers, *
+those who have made a covenant with me
+and sealed it with sacrifice."
+
+6 Let the heavens declare the rightness of his cause; *
+for God himself is judge.
 
 
 ```music-abc
@@ -12,12 +33,7 @@ V: 1 clef=treble
 V: 2 clef=bass
 [D, F,]4  [G,,G,] | [A,,E,]4 [D,D,] || [B,,B,]4 [F,,A,] | [G,,G,]4 [D,,A,] |]
 ```
-5 "Gather before me my loyal followers, *  
-those who have made a covenant with me  
-and sealed it with sacrifice."
 
-6 Let the heavens declare the rightness of his cause; *  
-for
 ## Blessing
 May Christ, the Son of God, be manifest in you, that your lives may be a light to the world; and the blessing of God Almighty, the Father, the Son, and the Holy Spirit, be among you, and remain with you always. **Amen**.
 
