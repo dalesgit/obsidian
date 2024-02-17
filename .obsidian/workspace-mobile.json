@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Prayers.md",
+                "file": "pages/Prayer list.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/Prayers.md",
+            "file": "pages/Prayer list.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/Prayers.md",
+            "file": "pages/Prayer list.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/Prayers.md"
+            "file": "pages/Prayer list.md"
           }
         }
       },
@@ -151,8 +151,8 @@
   },
   "active": "6ed8f6ca852517f7",
   "lastOpenFiles": [
-    "pages/Prayer list.md",
     "pages/Prayers.md",
+    "pages/Prayer list.md",
     "pages/psalm-summer.md",
     "journals/2024_02_04.md",
     "pages/universal-christ-highlights-2-4.md",
