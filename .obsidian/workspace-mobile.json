@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2024_02_04.md",
+                "file": "pages/Prayers.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journals/2024_02_04.md",
+            "file": "pages/Prayers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "journals/2024_02_04.md",
+            "file": "pages/Prayers.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "journals/2024_02_04.md"
+            "file": "pages/Prayers.md"
           }
         }
       },
@@ -151,6 +151,8 @@
   },
   "active": "6ed8f6ca852517f7",
   "lastOpenFiles": [
+    "pages/Prayer list.md",
+    "pages/Prayers.md",
     "pages/psalm-summer.md",
     "journals/2024_02_04.md",
     "pages/universal-christ-highlights-2-4.md",
@@ -174,8 +176,6 @@
     "pages/spiritual-director.linda-serepca.md",
     "pages/notes%2Fjournal.md",
     "emma-story.md",
-    "notes/daily-notes.2022-08-06.md",
-    "2022-10-13.md",
-    "notes/fathers.emma.emma-story.md"
+    "notes/daily-notes.2022-08-06.md"
   ]
 }

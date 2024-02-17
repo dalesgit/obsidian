@@ -3,6 +3,8 @@
 [[Prayers]]
 
 ## Recent 
+- waiting for God to show me my calling now in Florida. 
+- Tyrants of the world
 - Wars
 	- for Israel
 	- people of Palestine (Gaza)
@@ -27,7 +29,7 @@
 	- Loa & Scott; Brian -- recovery
 - Our membership at St. Alfred's
 	- discernment for using our gifts and talents in this place: 
-	- Marcus & Ginny 
+	- Marcus & Ginny: move to Sarasota, New College
 	- Zandy end stage glaucoma; surgery 11/2 2
 	- Daughters of the King prayer list
 	- Diane (and Sharren)
@@ -42,12 +44,14 @@
 	- Vincent, Larry, Richard, Eugene
 	- Doris asked Mary Pat if I had "ever met a stranger"
 	- Sydney: surgery for kidney stone -- caregiver Kathy (dtr)
+	- Stephen and Priscilla Gill
+	- 
 
 ## Dale and Mary Pat
 
 ### MP family
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1DaSUmhWlMUFm_-A8bhDTTciN9Ht49s5VWkGdLztiKM0/edit?usp=sharing)
-- Beth [published], shoulder recovery b/day **8/17/1957**
+- Beth [published], b/day **8/17/1957**
 - Bob b/day **Oct. 19, 1953**
 - Annie & Howie Annie b/day 8/14/1951. Howie b/day **Oct. 2, 1951** Anniv **Jul 29, 1972**
     - Howie's brother, Gary, RIP wife Linda, son Lance 
@@ -91,8 +95,8 @@
 
 ### Children
 - Julian: (Health ins., new home, hiking) **2/21/80**
-- Sean: recovery;  Jolene. Grace/Raven (bday **10/10**). Jane Jackson:  CA returned
-- Amy & Patch -- turning 40 -- Amy **7/6/81**
+- Sean: bday **1/4/78** recovery;  Jolene. Grace/Raven (bday **10/10**). Jane Jackson:  CA returned
+- Amy & Patch -- turning 40 -- Amy **7/6/81**  Amy and her birth family
 - Lydia: what challenged by? dietician to help her know what to eat ... **12/28/92**
     - ~~& Nick Schlutt: communicating, shared, Nick ... (2 boys, 2girls) (upcoming wedding) -- Lydia marriage~~
    - ~~Lucas 9 7/25/12~~
