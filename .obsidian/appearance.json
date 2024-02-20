@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "cssTheme": "Things",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "textFontFamily": "Georgia"
 }
