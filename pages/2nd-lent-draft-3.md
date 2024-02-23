@@ -8,7 +8,7 @@ date: February 24, 2024
 
 We have entered into another season of Lent. For most of us it is not the first time we've "done Lent". We have followed this cycle year-by-year through the patterns of our lives. If we were to tell the narrative of the *Lents* that we have kept, we might get a facisimile of the history of our call to **life in Christ**. At some point we made a decision to follow Christ. At some point we recognized that to be a disciple of Christ it was going to mean molding and fashioning our life to conform to Christ's own life. The cycles of Lent tell something of the story of our call to **life in Christ**.
 
-It's not linear. It's not a straight line or even multiple ones. There are cycles within cycles. My own life has been marked not just be keeping Lent but by attempting to **preach** on these lessons year-by-year, Lent by Lent. It is perhaps my task of preaching Lent over and over again that leads me to want to look at the big picture. These well-known passages come around year by year, again and again. 
+It's not linear. It's not a straight line or even multiple ones. There are cycles within cycles. My own life has been marked not just by keeping Lent but by attempting to **preach** on these lessons year-by-year, Lent by Lent. It is perhaps my task of preaching Lent over and over again that leads me to the big picture. These well-known passages come around year by year, again and again. 
  
 Most of you are aware that the lessons we follow on Sundays focus on one of the 3 synoptic gospels each cycle. Matthew, Mark, and Luke. The Gospel of John is interspersed throughout the 3 years. 
 
@@ -16,24 +16,26 @@ Now, within the annual cycle there are smaller cycles.
 
 The Epiphany cycle, which we just concluded, presents us with a snapshot of Jesus' ministry, beginning with his baptism and ending with his Transfiguration. Like our own call to ministry, Jesus's ministry is launched with his baptism.
 
-Jesus's Transfiguration is the point at which the 3 synoptic gospels pivot and focus on Jesus final journey to his Passion and Resurrection. Culminating in the Resurrection. So for us in our journey in the church year we move from the Epiphany cycle to the Lenten cycle, the one that culminates in Easter.
+Jesus's Transfiguration is the point at which the 3 synoptic gospels pivot and focus on Jesus's final journey to his Passion, culminating in the Resurrection. So for us in our journey in the church year we move from the Epiphany cycle to the Lenten cycle, the one that culminates in Easter.
 
 The time that follows Easter, **The Easter cycle**, lasts 50 days until Pentecost. It explores the meaning and implications of the **Resurrection**, for the disciples and followers of Jesus in the New Testament, and in the lives of Jesus' followers today – you and me.
 
 Then, after Easter, there is a final cycle, the cycle of weeks from Pentecost until the next Advent. During this season the fullness of life in Christ is explored, with multiple themes and multiple emphases, as the whole task of following Jesus was a cycle within a cycle with a cycle. 
 
-So my perspective sees a number of cycles that we follow throughout the church year. And the church year has 3 different permutations. We hear these stories over and over again. And we know how each one goes. We know the story. What is different is what we make of it.
+So my perspective sees a number of cycles that we follow throughout the church year. We hear these stories over and over again. And we know how each one goes. We know the story. What is different is who we are, how we have changed from last year, and  what we make of it.
 
 ## Sacred time is circular
 
-I have shared with some of you how I can tell whether we've had a good liturgy. I ask myself whether I'm glad I came. I might tell Fr. Peter after a service. If I can truthfully say, "I'm glad I came", then it's been time well-spent. That's time measured 5 minutes at a time, an hour at a time. Clock-wise time. 
+I have shared with some of you how I can tell whether we've had a good liturgy. I ask myself whether I'm glad I came. I might tell Fr. Peter after a service. If I can truthfully say, "I'm glad I came", then it's been time well-spent.  
 
-Now time is an interesting concept, one that serious thinkers have thought about for thousands of years and still do to this day. Some ways of experiencing time can be described as "sacred" time. In contrast to linear time – like the time on a time card – sacred time is generally circular. It doesn't generally function with a beginning and an ending. 
+Now time is an interesting concept, one that serious thinkers have thought about for thousands of years and still do to this day. There is time that is clock-wise sort of time. Minutes turn into hours and hours into days. The ticking of the clock. That's secular time. It's linear. But then there is sacred time. In contrast to linear time, sacred time is generally circular.  It doesn't generally function with a beginning and an ending, but rather flows from beginning to ending and then back again to the beginning. Our church year follows that pattern.  
 
 > What we call the beginning is often the end\
 > And to make an end is to make a beginning.[^2]
 
-One Easter vigil I presided over many years ago lasted for over 2 hours. It was very full with lighting fires, baptism, anointing, Eucharist. One of the people, I think it was a visitor, came up to me afterwards and said, "I couldn't believe it was over." Sacred time isn't measured by a clock. 
+One Easter vigil I presided over many years ago lasted for over 2 hours. It was full. There was the of lighting fire. There was a full telling of the sacred story in the Bible. There were baptisms of children and adults in a tub of water where you had to get wet. There was an anointing you could see, fit for a king. There was Eucharist where one felt as if you were at a sacred meal. 
+
+Afterward, one of the people in attendance, I think it was a visitor, came up to me and said, "When we got to the end I couldn't believe it was over. It could have gone on and on." Sacred time isn't measured by a clock. Sacred time isn't measured by a clock.
 
 ## Life in Christ
 
@@ -43,11 +45,11 @@ Abram faced such a new reality in the passage from Genesis we heard today. He wa
 
 The evangelist today relates a teaching moment in Jesus's life: " the Son of Man must undergo great suffering, and be rejected by the elders, ..."  He's talking to disciples – those who regard themselves as wanting to follow Jesus. That would be you and me as well as Peter, James, and Thaddeus.  It has the potential to confront us with the reality that our life in Christ is about **suffering**, and **rejection**, **death**, and **resurrection**. 
 
-We hear these narratives over and over again. We know how they begin and we know the end. That's not the challenge of them. The challenge for us is to open ourselves to that sacred time where we are transformed. It is not a once-off experience. 
+We hear these narratives over and over again. We know how they begin and we know the end. That's not the challenge of them. The challenge for us is to open ourselves to that sacred time where we are transformed. It is not a one-off experience. 
 
-My own experience suggests that each day I enter a new set of challenges to being a disciple of Christ. Each day a cycle within a cycle. Each time we meet these texts we are different from the last time. Whether it's day by day or week by week, I am in need of continual renewal, I must be called again and again to life in Christ. Such is the power of sacred time.
+My own experience suggests that each day I enter a new set of challenges to being a disciple of Christ. Each day I have to start at the beginning and go to the end. But sometimes I can actually hear Jesus say to me, "Follow me." Each time we meet these texts we are different from the last time. Whether it's day by day or week by week, I am in need of continual renewal, I must be called again and again to life in Christ. Such is the power of sacred time. We are able to hear the voice of the Lord in sacred time.
 
-The cycle of Lent aims us squarely at the Passion of the Lord and the 3rd day reversal of the Resurrection. Lent, the cycle, pursues round and round, the implications of following Jesus to the cross. We hear Jesus tell us that directly in today's reading:
+Lent aims us squarely at the Passion of the Lord and the 3rd day reversal of the Resurrection. Lent pursues the implications of following Jesus to the cross. We hear Jesus tell us that directly in today's reading:
 
 > If any want to become my followers, let them deny themselves and take up their cross and follow me. For those who want to save their life will lose it, and those who lose their life for my sake, and for the sake of the gospel, will save it.
 
@@ -75,12 +77,14 @@ We know how Jesus's story ends. He invites us into that as well.
 
 ## Our end is our beginning
 
-ὁδὸς ἄνω κάτω μία καὶ ὡυτή.[^3] The way up and the way down are one and the same, said a Greek philosopher 500 years before Christ. 
+> ὁδὸς ἄνω κάτω μία καὶ ὡυτή.[^3] 
+
+The way up and the way down are one and the same, said a Greek philosopher 500 years before Christ. 
 
 > What we call the beginning is often the end\
 > And to make an end is to make a beginning.
 
-We have entered into this Lent. We do know how the story ends. We've been here before. We will make our efforts to embrace the way of the cross. We will fail. And we will meet the Risen Lord in glory. It will fade. And we will return to hear the story as if it were new. The sacred story goes on and on by going round and round. 
+We have entered into this Lent. We do know how the story ends. We've been here before. We will make our efforts to embrace the way of the cross. We will fail. And we will meet the Risen Lord in glory. It will fade. And we will return next year to hear the story as if it were new. The sacred story goes on and on by going round and round. 
 
 We enter the sacred story. We have made a beginning of it. It's done. There's no undoing it. And in the end, as that poet and the mystic before him put it, "All shall be well. All manner of thing shall be well."
 
