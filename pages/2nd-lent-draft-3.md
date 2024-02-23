@@ -26,9 +26,9 @@ So my perspective sees a number of cycles that we follow throughout the church y
 
 ## Sacred time is circular
 
-I have shared with some of you how I can tell whether we've had a good liturgy. I ask myself whether I'm glad I came. I might tell Fr. Peter after a service. If I can truthfully say, "I'm glad I came", then it's been time well-spent. That's time measured 5 minutes at a time, an hour at a time. Clock-wise time. 
+I have shared with some of you how I can tell whether we've had a good liturgy. I ask myself whether I'm glad I came. I might tell Fr. Peter after a service. If I can truthfully say, "I'm glad I came", then it's been time well-spent. ~~That's time measured 5 minutes at a time, an hour at a time. Clock-wise time. 
 
-Now time is an interesting concept, one that serious thinkers have thought about for thousands of years and still do to this day. Some ways of experiencing time can be described as "sacred" time. In contrast to linear time – like the time on a time card – sacred time is generally circular. It doesn't generally function with a beginning and an ending. 
+Now time is an interesting concept, one that serious thinkers have thought about for thousands of years and still do to this day. One of the ways of experiencing time can be described as "sacred" time. In contrast to linear time – like the time on a time card – sacred time is generally circular. It doesn't generally function with a beginning and an ending. 
 
 > What we call the beginning is often the end\
 > And to make an end is to make a beginning.[^2]

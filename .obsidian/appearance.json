@@ -2,5 +2,6 @@
   "accentColor": "",
   "cssTheme": "Things",
   "theme": "moonstone",
-  "textFontFamily": "Georgia"
+  "textFontFamily": "Georgia",
+  "baseFontSize": 21
 }

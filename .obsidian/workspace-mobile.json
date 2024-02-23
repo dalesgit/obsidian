@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "626bba6706050d98",
+        "id": "272400fdc1054203",
         "type": "tabs",
         "children": [
           {
-            "id": "6ed8f6ca852517f7",
+            "id": "b11c7c0f32f7b175",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Prayer list.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/Prayer list.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/Prayer list.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,9 +115,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "pages/Prayer list.md"
-          }
+          "state": {}
         }
       },
       {
@@ -149,10 +140,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ed8f6ca852517f7",
+  "active": "b11c7c0f32f7b175",
   "lastOpenFiles": [
-    "pages/Prayers.md",
+    "pages/2nd-lent-draft-3.md",
+    "pages/lent-1.md",
+    "journals/2024_02_18.md",
     "pages/Prayer list.md",
+    "pages/Prayers.md",
     "pages/psalm-summer.md",
     "journals/2024_02_04.md",
     "pages/universal-christ-highlights-2-4.md",
@@ -173,9 +167,6 @@
     "journals/2022_10_15.md",
     "journals/2022_10_18.md",
     "pages/fathers.emma.emma-story.md",
-    "pages/spiritual-director.linda-serepca.md",
-    "pages/notes%2Fjournal.md",
-    "emma-story.md",
-    "notes/daily-notes.2022-08-06.md"
+    "pages/spiritual-director.linda-serepca.md"
   ]
 }
