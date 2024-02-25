@@ -8,7 +8,7 @@ date: February 24, 2024
 
 We have entered into another season of Lent. For most of us it is not the first time we've "done Lent". We have followed this cycle year-by-year through the patterns of our lives. If we were to tell the narrative of the *Lents* that we have kept, we might get a facisimile of the history of our call to **life in Christ**. At some point we made a decision to follow Christ. At some point we recognized that to be a disciple of Christ it was going to mean molding and fashioning our life to conform to Christ's own life. The cycles of Lent tell something of the story of our call to **life in Christ**.
 
-It's not linear. It's not a straight line or even multiple ones. There are cycles within cycles. My own life has been marked not just by keeping Lent but by attempting to **preach** on these lessons year-by-year, Lent by Lent. It is perhaps my task of preaching Lent over and over again that leads me to think of the big picture. These well-known passages come around year by year, again and again. 
+It's not linear. It's not a straight line or even multiple ones. There are cycles within cycles. My own life has been marked not just by keeping Lent but by attempting to **preach** on these lessons year-by-year, Lent by Lent. It is perhaps my task of preaching Lent -- preaching it over and over again -- that leads me to think of the big picture. These well-known passages come around year by year, again and again. 
  
 Most of you are aware that the lessons we follow on Sundays focus on one of the 3 synoptic gospels each cycle. Matthew, Mark, and Luke. The Gospel of John is interspersed throughout the 3 years. 
 
