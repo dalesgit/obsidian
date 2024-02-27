@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD:.obsidian/workspace.json
                 "file": "Prayer list.md",
+=======
+                "file": "journals/2024_01_30.md",
+>>>>>>> 9fe19116c27446b3c12c0486d34cfa674cb077de:.obsidian/workspace-asus.json
                 "mode": "source",
                 "backlinks": true,
                 "source": false
