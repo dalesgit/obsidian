@@ -23,7 +23,6 @@
 	- Jane & Raymond, Jolene, Aaron: alienations
 	- Sean and Jolene 
 	- Lydia, Emma
-	- Mike & Carol Epperley (Covid)
 - Friends
 	- Charlotte / Henry
 	- Loa & Scott; Brian -- recovery
@@ -45,7 +44,6 @@
 	- Doris asked Mary Pat if I had "ever met a stranger"
 	- Sydney: surgery for kidney stone -- caregiver Kathy (dtr)
 	- Stephen and Priscilla Gill
-	- 
 
 ## Dale and Mary Pat
 
