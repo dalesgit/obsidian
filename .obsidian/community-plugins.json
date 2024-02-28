@@ -6,5 +6,6 @@
   "obsidian-timestamper",
   "obsidian-git",
   "obsidian-pandoc",
-  "obsidian-languagetool-plugin"
+  "obsidian-languagetool-plugin",
+  "wikilinks-to-mdlinks-obsidian"
 ]
