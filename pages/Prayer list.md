@@ -24,7 +24,7 @@
 	- Sean and Jolene 
 	- Lydia, Emma
 - Friends
-	- Charlotte / Henry
+	- Charlotte / Henry: Charlie, Jameson, (new child?)
 	- Loa & Scott; Brian -- recovery
 - Our membership at St. Alfred's
 	- discernment for using our gifts and talents in this place: 
