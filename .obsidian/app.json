@@ -1,5 +1,6 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "pages",
-  "attachmentFolderPath": "Assets"
+  "attachmentFolderPath": "Assets",
+  "useMarkdownLinks": false
 }
