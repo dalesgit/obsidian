@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Amazon secrets.md",
-                "mode": "source",
+                "file": "pages/Prayers.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/Amazon secrets.md",
+            "file": "pages/Prayers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/Amazon secrets.md",
+            "file": "pages/Prayers.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/Amazon secrets.md"
+            "file": "pages/Prayers.md"
           }
         }
       },
@@ -151,11 +151,11 @@
   },
   "active": "9a9541cb4c8541dc",
   "lastOpenFiles": [
-    "pages/Covid is dangerous.md",
+    "pages/Prayer list.md",
     "pages/Amazon secrets.md",
+    "pages/Covid is dangerous.md",
     "journals/2024_02_28.md",
     "pages/Prayers.md",
-    "pages/Prayer list.md",
     "pages/2nd-lent-draft-3.md",
     "journals/2024_02_24.md",
     "pages/lent-1.md",
