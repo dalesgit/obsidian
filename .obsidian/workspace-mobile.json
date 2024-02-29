@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f34f2c821fec33f9",
+        "id": "714ce68624b4197f",
         "type": "tabs",
         "children": [
           {
-            "id": "d0ef80ff6165d327",
+            "id": "56b00cf954d3d6b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Prayers.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/Prayers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/Prayers.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,9 +115,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "pages/Prayers.md"
-          }
+          "state": {}
         }
       },
       {
@@ -149,14 +140,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0ef80ff6165d327",
+  "active": "56b00cf954d3d6b4",
   "lastOpenFiles": [
+    "pages/Amazon secrets.md",
+    "journals/2024_02_28.md",
+    "pages/Prayers.md",
     "pages/Prayer list.md",
     "pages/2nd-lent-draft-3.md",
     "journals/2024_02_24.md",
     "pages/lent-1.md",
     "journals/2024_02_18.md",
-    "pages/Prayers.md",
     "pages/psalm-summer.md",
     "journals/2024_02_04.md",
     "pages/universal-christ-highlights-2-4.md",
@@ -174,8 +167,6 @@
     "2024_02_23.md",
     "pages/marginalian.md",
     "Octavia Butler on the Meaning of God.md",
-    "journals/2022_10_15.md",
-    "journals/2022_10_18.md",
-    "pages/fathers.emma.emma-story.md"
+    "journals/2022_10_15.md"
   ]
 }

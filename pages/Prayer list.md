@@ -34,15 +34,15 @@
 	- Diane (and Sharren)
 	- Gini brother suicide
 	- Carol Boyken, stage 4 uterine cancer, cancer free 7/23
-	- Manny, Liz
-	- Tricia macula degeneration diabetes
+	- Manny, Liz moving
+	- Tricia macula degeneration diabetes, new job
 	- DeeDee, Carol, Karen (new members DOK)
 	- Frank in caregivers group
 	- Jim & Susan: (going home?)
-	- Jo, Diane (Lutheran), Bob and wife, Larry and wife
+	- Jo Anderson, Diane Vetter (Lutheran), Bob and Debbie Woodward, Larry and Kathy Hooper. Larry (plumber)
 	- Vincent, Larry, Richard, Eugene
 	- Doris asked Mary Pat if I had "ever met a stranger"
-	- Sydney: surgery for kidney stone -- caregiver Kathy (dtr)
+	- Sydney RIP -- caregiver Kathy (dtr)
 	- Stephen and Priscilla Gill
 
 ## Dale and Mary Pat
