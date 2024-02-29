@@ -1,5 +1,8 @@
 # Amazon’s Big Secret - The Atlantic
 [[finance]] [[justice]]
+
+https://www.theatlantic.com/ideas/archive/2024/02/amazon-profits-antitrust-ftc/677580/
+
 Nearly 30 years after the company was founded, we still don’t really know where its profits come from. The answer will loom large in the antitrust case against it.
 
 ![Box of money inside another box, inside another box, inside another box](https://cdn.theatlantic.com/thumbor/yD71ik6MaVCMyFYeXoT7GRb-6Rg=/0x0:2000x1125/960x540/media/img/mt/2024/02/AmazonMoney/original.png)

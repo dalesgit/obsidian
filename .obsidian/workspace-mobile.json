@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "714ce68624b4197f",
+        "id": "b740eda3aa764eea",
         "type": "tabs",
         "children": [
           {
-            "id": "56b00cf954d3d6b4",
+            "id": "9a9541cb4c8541dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pages/Amazon secrets.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "pages/Amazon secrets.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "pages/Amazon secrets.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +122,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "pages/Amazon secrets.md"
+          }
         }
       },
       {
@@ -140,8 +149,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56b00cf954d3d6b4",
+  "active": "9a9541cb4c8541dc",
   "lastOpenFiles": [
+    "pages/Covid is dangerous.md",
     "pages/Amazon secrets.md",
     "journals/2024_02_28.md",
     "pages/Prayers.md",
@@ -166,7 +176,6 @@
     "journals/2024_01_26.md",
     "2024_02_23.md",
     "pages/marginalian.md",
-    "Octavia Butler on the Meaning of God.md",
-    "journals/2022_10_15.md"
+    "Octavia Butler on the Meaning of God.md"
   ]
 }
