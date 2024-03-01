@@ -28,6 +28,7 @@
 	- Loa & Scott; Brian -- recovery
 - Our membership at St. Alfred's
 	- discernment for using our gifts and talents in this place: 
+	- centering prayer at St. Alfred's 
 	- Marcus & Ginny: move to Sarasota, New College
 	- Zandy end stage glaucoma; surgery 11/2 2
 	- Daughters of the King prayer list
@@ -42,8 +43,8 @@
 	- Jo Anderson, Diane Vetter (Lutheran), Bob and Debbie Woodward, Larry and Kathy Hooper. Larry (plumber)
 	- Vincent, Larry, Richard, Eugene
 	- Doris asked Mary Pat if I had "ever met a stranger"
-	- Sydney RIP -- caregiver Kathy (dtr)
 	- Stephen and Priscilla Gill
+- Sydney RIP -- caregiver Kathy (dtr)
 
 ## Dale and Mary Pat
 
