@@ -4,6 +4,7 @@
 
 ## Recent 
 - waiting for God to show me my calling now in Florida. 
+- centering prayer workshop March 9
 - Tyrants of the world
 - Wars
 	- for Israel
