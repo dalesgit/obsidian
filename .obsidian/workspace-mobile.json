@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b740eda3aa764eea",
+        "id": "eb9f66d0563a28a7",
         "type": "tabs",
         "children": [
           {
-            "id": "9a9541cb4c8541dc",
+            "id": "425d0cbed86795b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -135,8 +135,7 @@
           "state": {}
         }
       }
-    ],
-    "currentTab": 3
+    ]
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,9 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a9541cb4c8541dc",
+  "active": "425d0cbed86795b3",
   "lastOpenFiles": [
     "pages/Prayer list.md",
+    "Untitled.canvas",
     "pages/Prayers.md",
     "pages/Amazon secrets.md",
     "pages/Covid is dangerous.md",
@@ -175,7 +175,6 @@
     "journals/2024_01_27.md",
     "journals/2024_01_26.md",
     "2024_02_23.md",
-    "pages/marginalian.md",
-    "Octavia Butler on the Meaning of God.md"
+    "pages/marginalian.md"
   ]
 }
