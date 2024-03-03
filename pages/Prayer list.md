@@ -5,6 +5,8 @@
 ## Recent 
 - waiting for God to show me my calling now in Florida. 
 - centering prayer workshop March 9
+- Georgia Mtns: Judges & Christine/Robert
+- Dinner with parishioners
 - Tyrants of the world
 - Wars
 	- for Israel
