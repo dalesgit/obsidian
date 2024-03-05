@@ -4,7 +4,7 @@
 
 ## Recent 
 - Current
-	- waiting for God to show me my calling now in Florida. 
+	- waiting for God to show me my calling now in Florida. (git-journal)
 	- healing mass supply Mar 7
 	- people of Haiti. Gangs overrun. 
 	- centering prayer workshop March 9
