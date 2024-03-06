@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fe959c225747cc69",
+        "id": "649804ecf5e348ce",
         "type": "tabs",
         "children": [
           {
-            "id": "27c142785d536569",
+            "id": "ee74d6cb7493e1b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2024_03_05.md",
+                "file": "pages/Prayer list.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journals/2024_03_05.md",
+            "file": "pages/Prayer list.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "journals/2024_03_05.md",
+            "file": "pages/Prayer list.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "journals/2024_03_05.md"
+            "file": "pages/Prayer list.md"
           }
         }
       },
@@ -148,10 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27c142785d536569",
+  "active": "ee74d6cb7493e1b7",
   "lastOpenFiles": [
-    "journals/2024_03_05.md",
     "pages/Prayers.md",
+    "journals/2024_03_05.md",
     "pages/Prayer list.md",
     "Untitled.canvas",
     "pages/Amazon secrets.md",
