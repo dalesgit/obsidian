@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "pages/Prayer list.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -151,8 +151,8 @@
   "active": "ee74d6cb7493e1b7",
   "lastOpenFiles": [
     "pages/Prayers.md",
-    "journals/2024_03_05.md",
     "pages/Prayer list.md",
+    "journals/2024_03_05.md",
     "Untitled.canvas",
     "pages/Amazon secrets.md",
     "pages/Covid is dangerous.md",
