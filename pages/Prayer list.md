@@ -10,7 +10,7 @@
 	- centering prayer workshop March 9
 	- Georgia Mtns: Judges & Christine/Robert
 	- Madison and Garret Hathaway
-	- ~~Dinner with parishioners, Priscilla/ Steve, Kathy Raker. Hooper. ~~
+	- ~~Dinner with parishioners, Priscilla/ Steve, Kathy Raker. Hooper.~~
 - Tyrants of the world
 - Wars
 	- for Israel
@@ -51,6 +51,7 @@
 	- Vincent, Larry, Richard, Eugene
 	- Doris asked Mary Pat if I had "ever met a stranger"
 	- Stephen and Priscilla Gill
+	- Agostino
 DeeDee
 - Sydney RIP -- caregiver Kathy (dtr)
 
