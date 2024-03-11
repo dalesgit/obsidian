@@ -80,7 +80,7 @@ DeeDee
 	- Faith graduated, independence 
 - Joe (retirement)  Tami + mother RIP, Father still independent Joe b/day **Oct. 2, 1954**. Tami b/day **Nov 4, 1957** Anniv **Jul 19, 1986**
    - Zach & Keiko: new baby **Oct 2023**
-   - Gordy & Kelly (**5/22** wedding) "Rostrom" baby due March 2024
+   - Gordy **3/11** & Kelly (**5/22** wedding) "Rostrom" baby due March 2024
    - Sammy & Matt:  
       - Grady 
       - new baby: **Oct 2023**
