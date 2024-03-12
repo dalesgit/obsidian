@@ -36,6 +36,7 @@
 - Our membership at St. Alfred's
 	- discernment for using our gifts and talents in this place: 
 	- centering prayer at St. Alfred's 
+	- Peter's discernment, centering prayer group, re Patti
 	- Marcus & Ginny: move to Sarasota, New College
 	- Zandy end stage glaucoma; surgery 11/2 2
 	- Daughters of the King prayer list
@@ -61,7 +62,7 @@ DeeDee
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1DaSUmhWlMUFm_-A8bhDTTciN9Ht49s5VWkGdLztiKM0/edit?usp=sharing)
 - Beth [published], b/day **8/17/1957**
 - Bob b/day **Oct. 19, 1953**
-- Annie & Howie Annie b/day 8/14/1951. Howie b/day **Oct. 2, 1951** Anniv **Jul 29, 1972**
+- Annie & Howie Annie b/day **8/14/1951**. Howie b/day **Oct. 2, 1951** Anniv **Jul 29, 1972**
     - Howie's brother, Gary, RIP wife Linda, son Lance 
     - Karen
     - Mary: many children
