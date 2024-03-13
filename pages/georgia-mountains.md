@@ -5,19 +5,26 @@
 - [ ] turn off water to laundry
 - [ ] lock sliding door
 - [ ] paper journal
-- [ ] pens (cartridges?)
-- [ ] 
+# Special
+
+- [ ] 2 stoles
+- [ ] chalice / paten
+- [ ] Bread
+- [ ] wine
+- [ ] coffee + grinder
+- [ ] tablets or BCP or Give us this day
+- [ ] bathing suit
+- [ ] hdmi etc
 
 # Bathroom
 - [ ] saline spray
 - [ ] ibuprofen
-- [ ] hydrocortizon
+- [ ] hydrocortizone
 - [ ] floss
 - [ ] nose drops 
-- [ ] fingernail clipper
-- [ ] fingernail file
 - [ ] pill tray
 - [ ] extra qtips
+- [ ] extra hair bands
 ## Black bag
 
 - [ ] water flosser
@@ -27,15 +34,6 @@
 - [ ] hair brush
 - [ ] pill bag
 
-## supplies
-
-- [ ] extra hair bands
-- [ ] bandage tape (2)
-- [ ] bandaids
-- [ ] extra floss head
-- [ ] gauze
-- [ ] antibiotic
-- [ ] betamethasone
 ## medicine kit
 - [ ] tape
 - [ ] gauze
@@ -43,18 +41,18 @@
 - [ ] antibiotic
 - [ ] band-aids
 - [ ] tweezers
+- [ ] betamethasone
+- [ ] Keto... for ecsema
 
 # Clothes
 - [ ] Shirts
 	- [ ] 2 long sleeve t shirt
 	- [ ] Long-sleeved collars
 		- [ ] blue flannel 
-		- [ ] striped dress
-		- [ ] 2 vests yarn
 	- [ ] Short-sleeved
 		- [ ] polo style shirt
 - [ ] Underwear (4)
-- [ ] handkerchief (3)
+- [ ] handkerchief (4)
 - [ ] Pants
 	- [ ] Eddie Bauer
 	- [ ] exercise style
@@ -65,20 +63,11 @@
 - [ ]  Shoes
 	 - [ ] crocs  
 	 - [ ] sneakers
-	 - [ ] grey dress
 # Winter weather
-- [ ] Warmth
-	- [ ] Julian pull over 
-	- [ ] Jacket (from cruise)
-	- [ ] grey vest
-	- [ ] gloves, hat, ears, neck
-	- [ ] ear muffs
-	- [ ] wool cap
-	- [ ] gloves
-	- [ ] scarf
-	- [ ] zippered jacket
-	- [ ] blue pullover
-	- [ ] grey sweater
+- [ ] Julian pull over 
+- [ ] Jacket (from cruise)
+- [ ] grey vest
+- [ ] blue sweater
 # Technology
 - [ ] cords
 	- [ ] usbc
