@@ -45,6 +45,8 @@
 - [ ] Keto... for ecsema
 
 # Clothes
+- [ ] Dress shirt / slacks
+	- [ ] dress shoes?
 - [ ] Shirts
 	- [ ] 2 long sleeve t shirt
 	- [ ] Long-sleeved collars
