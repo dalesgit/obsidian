@@ -53,23 +53,23 @@
 		- [x] blue flannel 
 	- [x] Short-sleeved
 		- [x] polo style shirt
-- [ ] Underwear (4)
-- [ ] handkerchief (4)
+- [x] Underwear (4)
+- [x] handkerchief (4)
 - [ ] Pants
-	- [ ] Eddie Bauer
-	- [ ] exercise style
-	- [ ] slacks
+	- [x] Eddie Bauer
+	- [x] exercise style
+	- [x] slacks
 - [ ] Shorts
-	- [ ] trunks style
-	- [ ] swim 
+	- [x] trunks style
+	- [x] swim 
 - [ ]  Shoes
-	 - [ ] crocs  
-	 - [ ] sneakers
+	 - [x] crocs  
+	 - [x] sneakers
 # Winter weather
 - [ ] Julian pull over 
-- [ ] Jacket (from cruise)
-- [ ] grey vest
-- [ ] blue sweater
+- [x] Jacket (from cruise)
+- [x] grey vest
+- [x] blue sweater
 # Technology
 - [ ] cords
 	- [ ] usbc
@@ -79,16 +79,16 @@
 	- [ ] watch cord
 	- [ ] flosser charger
 - [ ] devices
-	- [ ] hp device
-	- [ ] Samsung tablet
-	- [ ] keyboard
+	- [x] hp device
+	- [x] Samsung tablet
+	- [x] keyboard
 	- [ ] memory cards
 - [ ] backup battery
 	- [ ] 3 usb sticks
 	- [ ] usb stick
-	- [ ] iPhone stick
-	- [ ] card removal pin
-	- [ ] various mini cards
-	- [ ] card reader
+	- [x] iPhone stick
+	- [x] card removal pin
+	- [x] various mini cards
+	- [x] card reader
 	- [ ] memory cards 
 	- [ ] usb stick
