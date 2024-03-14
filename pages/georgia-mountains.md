@@ -14,39 +14,42 @@
 - [x] coffee + grinder
 - [ ] tablets or BCP or Give us this day
 - [x] bathing suit
-- [ ] hdmi etc
+- [x] hdmi etc
 
 # Bathroom
-- [ ] saline spray
+- [x] saline spray
 - [ ] ibuprofen
-- [ ] hydrocortizone
-- [ ] floss
-- [ ] nose drops 
-- [ ] pill tray
-- [ ] extra qtips
-- [ ] extra hair bands
+- [x] hydrocortizone
+- [x] floss
+- [x] nose drops 
+- [x] pill tray
+- [x] extra qtips
+- [x] extra hair bands
 ## Black bag
 
-- [ ] water flosser
-- [ ] deoderant 
-- [ ] toothpaste
-- [ ] tooth brush
-- [ ] hair brush
-- [ ] pill bag
+- [x] water flosser
+- [x] deoderant 
+- [x] toothpaste
+- [x] tooth brush
+- [x] hair brush
+- [x] pill bag
 
 ## medicine kit
-- [ ] tape
-- [ ] gauze
-- [ ] scissors
-- [ ] antibiotic
-- [ ] band-aids
+- [x] tape
+- [x] gauze
+- [x] scissors
+- [x] antibiotic
+- [x] band-aids
 - [ ] tweezers
 - [ ] betamethasone
-- [ ] Keto... for ecsema
+- [x] Keto... for ecsema
+- [x] hydrocortison
 
 # Clothes
 - [x] Dress shirt / slacks
 	- [ ] dress shoes?
+	- [x] crocs
+	- [x] sneakers
 - [ ] Shirts
 	- [ ] 2 long sleeve t shirt
 	- [ ] Long-sleeved collars
@@ -71,7 +74,7 @@
 - [x] grey vest
 - [x] blue sweater
 # Technology
-- [ ] cords
+- [x] cords
 	- [ ] usbc
 	- [ ] apple
 	- [ ] hearing aids cord
@@ -83,6 +86,7 @@
 	- [x] Samsung tablet
 	- [x] keyboard
 	- [ ] memory cards
+	- [x] kindle
 - [ ] backup battery
 	- [ ] 3 usb sticks
 	- [ ] usb stick
