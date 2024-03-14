@@ -4,16 +4,16 @@
 - [ ] turn off all devices
 - [ ] turn off water to laundry
 - [ ] lock sliding door
-- [ ] paper journal
+- [x] paper journal
 # Special
 
-- [ ] 2 stoles
-- [ ] chalice / paten
-- [ ] Bread
-- [ ] wine
-- [ ] coffee + grinder
+- [x] 2 stoles
+- [x] chalice / paten
+- [x] Bread
+- [x] wine
+- [x] coffee + grinder
 - [ ] tablets or BCP or Give us this day
-- [ ] bathing suit
+- [x] bathing suit
 - [ ] hdmi etc
 
 # Bathroom
@@ -45,14 +45,14 @@
 - [ ] Keto... for ecsema
 
 # Clothes
-- [ ] Dress shirt / slacks
+- [x] Dress shirt / slacks
 	- [ ] dress shoes?
 - [ ] Shirts
 	- [ ] 2 long sleeve t shirt
 	- [ ] Long-sleeved collars
-		- [ ] blue flannel 
-	- [ ] Short-sleeved
-		- [ ] polo style shirt
+		- [x] blue flannel 
+	- [x] Short-sleeved
+		- [x] polo style shirt
 - [ ] Underwear (4)
 - [ ] handkerchief (4)
 - [ ] Pants
