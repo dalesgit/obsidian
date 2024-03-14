@@ -3,7 +3,7 @@
 # Todos
 - [ ] turn off all devices
 - [ ] turn off water to laundry
-- [ ] lock sliding door
+- [x] lock sliding door
 - [x] paper journal
 # Special
 
@@ -18,7 +18,7 @@
 
 # Bathroom
 - [x] saline spray
-- [ ] ibuprofen
+- [x] ibuprofen
 - [x] hydrocortizone
 - [x] floss
 - [x] nose drops 
@@ -54,6 +54,7 @@
 	- [ ] 2 long sleeve t shirt
 	- [ ] Long-sleeved collars
 		- [x] blue flannel 
+		- [x] Black dress
 	- [x] Short-sleeved
 		- [x] polo style shirt
 - [x] Underwear (4)
@@ -75,12 +76,12 @@
 - [x] blue sweater
 # Technology
 - [x] cords
-	- [ ] usbc
+	- [x] usbc
 	- [ ] apple
-	- [ ] hearing aids cord
-	- [ ] toothbrush charger
-	- [ ] watch cord
-	- [ ] flosser charger
+	- [x] hearing aids cord
+	- [x] toothbrush charger
+	- [x] watch cord
+	- [x] flosser charger
 - [ ] devices
 	- [x] hp device
 	- [x] Samsung tablet
