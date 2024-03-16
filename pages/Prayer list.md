@@ -52,8 +52,7 @@
 	- Vincent, Larry, Richard, Eugene
 	- Doris asked Mary Pat if I had "ever met a stranger"
 	- Stephen and Priscilla Gill
-	- Agostino
-DeeDee
+	- Agostino, DeeDee
 - Sydney RIP -- caregiver Kathy (dtr)
 
 ## Dale and Mary Pat
@@ -117,11 +116,9 @@ DeeDee
    - River, River in 3rd grade In 20-21. River **8/26/2011**
    - Will.  Will begin KG Jan 2021. Will **11/3/2014**? 
 - Owen & Michelle: Owen **5/11/78**
-    - Madison & fiance, 
+    - Madison & Garret fiance, 
     - Isabella as Certified Nurse something, 
     - Emelia: grown up
-
-
 ## Friends
 - Becky, Piikea, Mia, 2 girls, David
 - Carolyn (husband RIP)
@@ -153,8 +150,6 @@ DeeDee
 - Carol and Al
 - Joel and Gail
 - Yvette Kontz and daughter Malina
-
-
 ### Those with memory/dimentia issues
 
 - cf. Bill/Karla -- Mike/Carol -- 
