@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "649804ecf5e348ce",
+        "id": "f3e450e3d48bffbf",
         "type": "tabs",
         "children": [
           {
-            "id": "ee74d6cb7493e1b7",
+            "id": "5d69fbb2bce23cb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Prayers.md",
-                "mode": "preview",
+                "file": "pages/Prayer list.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/Prayers.md",
+            "file": "pages/Prayer list.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/Prayers.md",
+            "file": "pages/Prayer list.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/Prayers.md"
+            "file": "pages/Prayer list.md"
           }
         }
       },
@@ -149,12 +149,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee74d6cb7493e1b7",
+  "active": "5d69fbb2bce23cb4",
   "lastOpenFiles": [
+    "journals/2024_03_14.md",
+    "pages/Prayers.md",
     "pages/Prayer list.md",
     "pages/georgia-mountains.md",
     "journals/2024_03_13.md",
-    "pages/Prayers.md",
     "journals/2024_03_05.md",
     "Untitled.canvas",
     "pages/Amazon secrets.md",
@@ -176,7 +177,6 @@
     "journals/2024_01_30.md",
     "journals/2024_01_29.md",
     "journals/2024_01_28.md",
-    "journals/2024_01_27.md",
-    "journals/2024_01_26.md"
+    "journals/2024_01_27.md"
   ]
 }
