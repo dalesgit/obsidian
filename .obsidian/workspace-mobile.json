@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f3e450e3d48bffbf",
+        "id": "649804ecf5e348ce",
         "type": "tabs",
         "children": [
           {
-            "id": "5d69fbb2bce23cb4",
+            "id": "ee74d6cb7493e1b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "pages/Prayer list.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -149,9 +149,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d69fbb2bce23cb4",
+  "active": "ee74d6cb7493e1b7",
   "lastOpenFiles": [
-    "journals/2024_03_14.md",
     "pages/Prayers.md",
     "pages/Prayer list.md",
     "pages/georgia-mountains.md",
@@ -177,6 +176,7 @@
     "journals/2024_01_30.md",
     "journals/2024_01_29.md",
     "journals/2024_01_28.md",
-    "journals/2024_01_27.md"
+    "journals/2024_01_27.md",
+    "journals/2024_01_26.md"
   ]
 }
