@@ -8,7 +8,7 @@
 	- ~~healing mass supply Mar 7~~
 	- people of Haiti. Gangs overrun. 
 	- ~~centering prayer workshop March 9~~
-	- Georgia Mtns: Judges & Christine/Robert
+	- ~~Georgia Mtns: Judges & Christine/Robert~~
 	- Madison and Garret Hathaway
 	- ~~Dinner with parishioners, Priscilla/ Steve, Kathy Raker. Hooper.~~
 - Tyrants of the world
