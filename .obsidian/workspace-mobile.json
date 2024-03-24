@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Prayer list.md",
+                "file": "pages/Prayers.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -45,7 +45,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#names",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -82,7 +82,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "6ebd6b22dab95c6a",
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/Prayer list.md",
+            "file": "pages/Prayers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/Prayer list.md",
+            "file": "pages/Prayers.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/Prayer list.md"
+            "file": "pages/Prayers.md"
           }
         }
       },
@@ -149,10 +149,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee74d6cb7493e1b7",
+  "active": "ad274379b52e9e0d",
   "lastOpenFiles": [
-    "pages/Prayers.md",
     "pages/Prayer list.md",
+    "pages/Prayers.md",
     "pages/georgia-mountains.md",
     "journals/2024_03_13.md",
     "journals/2024_03_05.md",
