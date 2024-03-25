@@ -26,7 +26,7 @@
 	- People of Maui after wildfires (8/10/23)
 	- refugees
 - Family
-	- Beth fell, shoulder. 
+	- ~~Beth fell, shoulder.~~
 	- Jane & Raymond, Jolene, Aaron: alienations
 	- Sean and Jolene 
 	- Lydia, Emma
@@ -35,7 +35,7 @@
 	- Loa & Scott; Brian -- recovery
 - Our membership at St. Alfred's
 	- discernment for using our gifts and talents in this place: 
-	- centering prayer at St. Alfred's 
+	- centering prayer at St. Alfred's; **ride the wave**
 	- Peter's discernment, centering prayer group, re Patti
 	- Marcus & Ginny: move to Sarasota, New College
 	- Zandy end stage glaucoma; surgery 11/2 2
@@ -72,18 +72,18 @@
 	- Valerie & John,  Val b/day **Aug 29, 1982**. John **Oct. 24, 1982**
 	    - Lily, Garret, Pierce, Zellie
 	- Kevin & Kristin, Kevin b/day **Apr 11, 1984**. Kristin b/day **June 3, 1985**
-	    - Theodore "Theo”, Ellie, Edie, Sebastian, new baby **Oct. 2023**
+	    - Theodore "Theo”, Ellie, Edie, Sebastian, a boy, Gladys **Oct. 2023**
 	- Jackie & Nick, 
 	   - Augustine, (Gus)
 	- Danny & Jen 
 	   - delivery **8/6/22** Keeley Frances
 	- Faith graduated, independence 
 - Joe (retirement)  Tami + mother RIP, Father still independent Joe b/day **Oct. 2, 1954**. Tami b/day **Nov 4, 1957** Anniv **Jul 19, 1986**
-   - Zach & Keiko: new baby **Oct 2023**
-   - Gordy **3/11** & Kelly (**5/22** wedding) "Rostrom" baby due March 2024
+   - Zach & Keiko: Noah **Oct 2023**
+   - Gordy **3/11** & Kelly (**5/22** wedding) "Rostrom" girl baby due March 2024
    - Sammy & Matt:  
       - Grady 
-      - new baby: **Oct 2023**
+      - Jack: **Oct 2023**
 - Bob & Brenda [move to Florida] Bob b/day **Oct. 19, 1953** Brenda b/day **June 21, 1954**. Anniv **Jun 22, 1991**
    - Holly & Jonathan 
    - Sarah, Josh, 
