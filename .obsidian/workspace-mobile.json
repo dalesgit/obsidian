@@ -81,8 +81,7 @@
           "state": {}
         }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "right": {
     "id": "6ebd6b22dab95c6a",
@@ -149,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d69fbb2bce23cb4",
+  "active": "ad274379b52e9e0d",
   "lastOpenFiles": [
     "journals/2024_03_14.md",
     "pages/Prayers.md",
