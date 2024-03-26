@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Untitled 1.md",
+                "file": "pages/Easter Vigil Sermon.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebdf328df50cc616",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Easter Vigil Draft 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/Untitled 1.md",
+            "file": "pages/Easter Vigil Draft 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/Untitled 1.md",
+            "file": "pages/Easter Vigil Draft 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/Untitled 1.md"
+            "file": "pages/Easter Vigil Draft 1.md"
           }
         }
       }
@@ -141,8 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92249f8475c18179",
+  "active": "ebdf328df50cc616",
   "lastOpenFiles": [
-    "pages/Untitled 1.md"
+    "pages/Easter Vigil Sermon.md",
+    "pages/Easter Vigil Draft 1.md",
+    "pages/Untitled 1.md",
+    "journals/2024_03_14.md"
   ]
 }

@@ -22,6 +22,8 @@ With this festival of light that we experience on this night, we are called to r
   This night calls us into relationship with a God, who gives all that there is in the divine in order to be in relation to this humble world. The fire calls us each by name and gives us the name of our family. It is the family named *Christian*.
 - # Exultet
 
+At the Jewish celebration of Passover at a 
+
 - # Sacred Story
 - # Baptism
 - # Eucharist
