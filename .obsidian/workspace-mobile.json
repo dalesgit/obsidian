@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5f7c8812adcf042d",
+        "id": "854995f24b04c974",
         "type": "tabs",
         "children": [
           {
-            "id": "70a974387dc51045",
+            "id": "11e433a5f8274cf1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2024_02_03.md",
+                "file": "pages/Prayers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journals/2024_02_03.md",
+            "file": "pages/Prayers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "journals/2024_02_03.md",
+            "file": "pages/Prayers.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "journals/2024_02_03.md"
+            "file": "pages/Prayers.md"
           }
         }
       }
@@ -141,11 +141,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "70a974387dc51045",
+  "active": "11e433a5f8274cf1",
   "lastOpenFiles": [
+    "pages/Prayer list.md",
+    "journals/2024_02_03.md",
     "journals/2024_02_02.md",
     "2024_02_23.md",
-    "pages/Prayer list.md",
     "pages/Untitled 1.md"
   ]
 }
