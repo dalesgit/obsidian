@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f5ce548e51aca75e",
+        "id": "5f7c8812adcf042d",
         "type": "tabs",
         "children": [
           {
-            "id": "92249f8475c18179",
+            "id": "70a974387dc51045",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Easter Vigil Sermon.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebdf328df50cc616",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Easter Vigil Draft 1.md",
+                "file": "journals/2024_02_03.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/Easter Vigil Draft 1.md",
+            "file": "journals/2024_02_03.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/Easter Vigil Draft 1.md",
+            "file": "journals/2024_02_03.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/Easter Vigil Draft 1.md"
+            "file": "journals/2024_02_03.md"
           }
         }
       }
@@ -146,20 +132,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "ebdf328df50cc616",
+  "active": "70a974387dc51045",
   "lastOpenFiles": [
-    "pages/Easter Vigil Sermon.md",
-    "pages/Easter Vigil Draft 1.md",
-    "pages/Untitled 1.md",
-    "journals/2024_03_14.md"
+    "journals/2024_02_02.md",
+    "2024_02_23.md",
+    "pages/Prayer list.md",
+    "pages/Untitled 1.md"
   ]
 }
