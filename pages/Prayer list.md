@@ -5,14 +5,22 @@
 ## Recent 
 - Current
 	- waiting for God to show me my calling now in Florida. (git-journal)
+	- ~~healing mass supply Mar 7~~
 	- people of Haiti. Gangs overrun. 
 	- ~~centering prayer workshop March 9~~
 	- ~~Georgia Mtns: Judges & Christine/Robert~~
 	- Madison and Garret Hathaway
 	- ~~Dinner with parishioners, Priscilla/ Steve, Kathy Raker. Hooper.~~
 - Tyrants of the world
-- Wars: Israel, Gaza, Ukraine, Sudan
-- earthquakes: Morroco, Lybia, Afghanistan
+- Wars
+	- for Israel
+	- people of Palestine (Gaza)
+	- War in Ukraine
+	- Sudan
+- earthquakes
+	- people of Morroco (earthquake)
+	- people of Lybia (earthquake)
+	- people of Afghanistan (earthquake)
 - Environmental catastrophe
 	- people impacted by climate change
 	- People of Maui after wildfires (8/10/23)
@@ -64,7 +72,7 @@
 	- Valerie & John,  Val b/day **Aug 29, 1982**. John **Oct. 24, 1982**
 	    - Lily, Garret, Pierce, Zellie
 	- Kevin & Kristin, Kevin b/day **Apr 11, 1984**. Kristin b/day **June 3, 1985**
-	    - Theodore "Theo”, Ellie, Edie, Sebastian, Tobias, Gladys **Oct. 2023**
+	    - Theodore "Theo”, Ellie, Edie, Sebastian, a boy, Gladys **Oct. 2023**
 	- Jackie & Nick, 
 	   - Augustine, (Gus)
 	- Danny & Jen 
