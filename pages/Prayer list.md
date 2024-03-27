@@ -12,15 +12,8 @@
 	- Madison and Garret Hathaway
 	- ~~Dinner with parishioners, Priscilla/ Steve, Kathy Raker. Hooper.~~
 - Tyrants of the world
-- Wars
-	- for Israel
-	- people of Palestine (Gaza)
-	- War in Ukraine
-	- Sudan
-- earthquakes
-	- people of Morroco (earthquake)
-	- people of Lybia (earthquake)
-	- people of Afghanistan (earthquake)
+- Wars: Israel, Gaza, Ukraine, Sudan
+- earthquakes: Morroco, Lybia, Afghanistan
 - Environmental catastrophe
 	- people impacted by climate change
 	- People of Maui after wildfires (8/10/23)
