@@ -7,6 +7,8 @@
 	- waiting for God to show me my calling now in Florida. (git-journal)
  - Cyndi & Brian
  - centering prayer group at St. Alfred's
+ - surgery Jolene's arm
+ - Jolene's dog with diabetes
 	- ~~healing mass supply Mar 7~~
 	- people of Haiti. Gangs overrun. 
 	- ~~centering prayer workshop March 9~~
