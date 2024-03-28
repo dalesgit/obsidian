@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "ba0a2473b6af46c1",
+    "id": "106b4df9fb445667",
     "type": "split",
     "children": [
       {
-        "id": "649804ecf5e348ce",
+        "id": "da362c707e37eaea",
         "type": "tabs",
         "children": [
           {
-            "id": "ee74d6cb7493e1b7",
+            "id": "b2eacb46771e1f8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Prayers.md",
-                "mode": "preview",
+                "file": "pages/Prayer list.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -26,11 +26,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e34a4fac7b03fa29",
+    "id": "dbb4dbd01de3bea0",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "1c0759ccc9d90ab4",
+        "id": "34b194f29883a5da",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -40,7 +40,7 @@
         }
       },
       {
-        "id": "ad274379b52e9e0d",
+        "id": "b9b211fd4da05955",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -55,7 +55,7 @@
         }
       },
       {
-        "id": "dbfc820661bdf9a8",
+        "id": "e7ad51285931cc1b",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -66,15 +66,7 @@
         }
       },
       {
-        "id": "54877564b49340ac",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
-      },
-      {
-        "id": "bf77a373690a1d3b",
+        "id": "4c1b86c151109a94",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -85,16 +77,24 @@
     "currentTab": 0
   },
   "right": {
-    "id": "6ebd6b22dab95c6a",
+    "id": "59f6bfc607a4eec3",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "dcfd160491ff0a43",
+        "id": "91eeb8636668ede0",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "6082a2af6c86d0f2",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/Prayers.md",
+            "file": "pages/Prayer list.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -106,76 +106,51 @@
         }
       },
       {
-        "id": "7bb91a20931165ca",
+        "id": "3edf6ae5cb5004bb",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/Prayers.md",
+            "file": "pages/Prayer list.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "469c921dea196572",
+        "id": "225144b5f2483e17",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/Prayers.md"
+            "file": "pages/Prayer list.md"
           }
         }
-      },
-      {
-        "id": "7f17f7f923e46c85",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "ee74d6cb7493e1b7",
+  "active": "b2eacb46771e1f8c",
   "lastOpenFiles": [
     "pages/Prayer list.md",
-    "pages/Prayers.md",
-    "journals/2024_03_05.md",
-    "Untitled.canvas",
-    "pages/Amazon secrets.md",
-    "pages/Covid is dangerous.md",
-    "journals/2024_02_28.md",
-    "pages/2nd-lent-draft-3.md",
-    "journals/2024_02_24.md",
-    "pages/lent-1.md",
-    "journals/2024_02_18.md",
-    "pages/psalm-summer.md",
-    "journals/2024_02_04.md",
     "pages/universal-christ-highlights-2-4.md",
-    "past/Prayer list.md",
-    "past/Prayers.md",
+    "Untitled 1.canvas",
+    "Octavia Butler on the Meaning of God.md",
+    "pages/Prayers.md",
     "journals/2024_02_03.md",
-    "lent-2b.md",
-    "Untitled.md",
-    "journals/2024_01_31.md",
-    "journals/2024_01_30.md",
-    "journals/2024_01_29.md",
-    "journals/2024_01_28.md",
-    "journals/2024_01_27.md",
-    "journals/2024_01_26.md",
+    "journals/2024_02_02.md",
     "2024_02_23.md",
-    "pages/marginalian.md"
+    "pages/Untitled 1.md"
   ]
 }

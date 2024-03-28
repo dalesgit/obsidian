@@ -1,0 +1,4 @@
+- **Abundance** symbolizes in sacrament (God's abundance)
+- Water (fire)
+- ((65febbd2-ccce-4bc0-8659-cc45e96db0e3))
+- Rom 6:3-4 from Keating [[Mar 24th, 2024]] re baptism into death
