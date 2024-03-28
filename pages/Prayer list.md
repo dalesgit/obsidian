@@ -5,10 +5,9 @@
 ## Recent 
 - Current
 	- waiting for God to show me my calling now in Florida. (git-journal)
- - Cyndi & Brian
- - centering prayer group at St. Alfred's
- - surgery Jolene's arm
- - Jolene's dog with diabetes
+	- Cyndi and Brian,  hospice
+	- centering prayer at St Alfred's 
+    - Jolene's dog has diabetes
 	- ~~healing mass supply Mar 7~~
 	- people of Haiti. Gangs overrun. 
 	- ~~centering prayer workshop March 9~~
@@ -24,7 +23,7 @@
 	- refugees
 - Family
 	- ~~Beth fell, shoulder.~~
-	- Jane & Raymond, Jolene, Aaron: alienations
+	- Jane & Raymond, Jolene her surgery, Aaron: alienations
 	- Sean and Jolene 
 	- Lydia, Emma
 - Friends
