@@ -44,7 +44,8 @@
 	- DeeDee, Carol, Karen (new members DOK)
 	- Frank in caregivers group
 	- Jim & Susan: (going home?)
-	- Jo Anderson, Diane Vetter (Lutheran), Bob and Debbie Woodward, Larry and Kathy Hooper. Larry (plumber)
+	- Jo Anderson, Diane Vetter (Lutheran), Bob and Debbie Woodward, Larry and Kathy Hooper. Larry Clement
+	- Patty
 	- Vincent, Larry, Richard, Eugene
 	- Doris asked Mary Pat if I had "ever met a stranger"
 	- Stephen and Priscilla Gill
