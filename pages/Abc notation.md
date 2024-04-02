@@ -1,4 +1,4 @@
----
+
 
 [home](https://abcnotation.com/)
 
@@ -22,7 +22,8 @@
 
 ---
 
-  [**abc standard:** [home](https://abcnotation.com/wiki/abc:standard) | [current](https://abcnotation.com/wiki/abc:standard:v2.1) | [route-map](https://abcnotation.com/wiki/abc:standard:route-map) | [updating](https://abcnotation.com/wiki/abc:standard:updating) | [proposals](https://abcnotation.com/wiki/abc:standard:v2.1:proposals)]
+  [**abc standard:** [home]
+  (https://abcnotation.com/wiki/abc:standard) | [current](https://abcnotation.com/wiki/abc:standard:v2.1) | [route-map](https://abcnotation.com/wiki/abc:standard:route-map) | [updating](https://abcnotation.com/wiki/abc:standard:updating) | [proposals](https://abcnotation.com/wiki/abc:standard:v2.1:proposals)]
 
 Writing /home/cwalshaw/chris/wiki_docs/data/cache/6/6cc0488364cd5524e2e27b601d32e8e4.metadata failed
 

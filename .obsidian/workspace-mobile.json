@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Prayer list.md",
-                "mode": "source",
+                "file": "pages/Abc notation.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -74,7 +74,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "59f6bfc607a4eec3",
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/Prayer list.md",
+            "file": "pages/Abc notation.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/Prayer list.md",
+            "file": "pages/Abc notation.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/Prayer list.md"
+            "file": "pages/Abc notation.md"
           }
         }
       }
@@ -143,9 +143,10 @@
   },
   "active": "b2d6f83f66a2707f",
   "lastOpenFiles": [
-    "pages/Prayers.md",
-    "pages/Prayer list.md",
+    "pages/Emma-Story-tablet-ed-1.md",
     "pages/universal-christ-highlights-2-4.md",
+    "pages/Prayer list.md",
+    "pages/Prayers.md",
     "Untitled 1.canvas",
     "Octavia Butler on the Meaning of God.md",
     "journals/2024_02_03.md",
