@@ -43,5 +43,15 @@
       ],
       "key": "R"
     }
+  ],
+  "templater-obsidian:templates_/subscripts.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
   ]
 }
