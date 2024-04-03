@@ -9,7 +9,7 @@
 	- centering prayer at St Alfred's 
 	- people of Haiti. Gangs overrun. 
 	- Madison and Garret Hathaway
-    - ~~Jolene's dog has diabetes~~
+	- ~~Jolene's dog has diabetes~~
 	- ~~healing mass supply Mar 7~~
 	- ~~centering prayer workshop March 9~~
 	- ~~Georgia Mtns: Judges & Christine/Robert~~
