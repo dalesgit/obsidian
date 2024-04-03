@@ -7,12 +7,12 @@
 	- waiting for God to show me my calling now in Florida. (git-journal)
 	- Cyndi and Brian,  hospice
 	- centering prayer at St Alfred's 
-    - Jolene's dog has diabetes
-	- ~~healing mass supply Mar 7~~
 	- people of Haiti. Gangs overrun. 
+	- Madison and Garret Hathaway
+    - ~~Jolene's dog has diabetes~~
+	- ~~healing mass supply Mar 7~~
 	- ~~centering prayer workshop March 9~~
 	- ~~Georgia Mtns: Judges & Christine/Robert~~
-	- Madison and Garret Hathaway
 	- ~~Dinner with parishioners, Priscilla/ Steve, Kathy Raker. Hooper.~~
 - Tyrants of the world
 - Wars: Israel, Gaza, Ukraine, Sudan
@@ -23,7 +23,7 @@
 	- refugees
 - Family
 	- ~~Beth fell, shoulder.~~
-	- Jane & Raymond, Jolene her surgery, Aaron: alienations
+	- Jane returñ of CA & Raymond, Jolene her surgery, Aaron: alienations
 	- Sean and Jolene 
 	- Lydia, Emma
 - Friends
@@ -117,6 +117,8 @@
     - Isabella as Certified Nurse something, 
     - Emelia: grown up
 ## Friends
+- ~~Tim Hendrix stage 3 throat cancer rip~~
+- ~~Terry **RIP**~~ and Andy
 - Becky, Piikea, Mia, 2 girls, David
 - Carolyn (husband RIP)
 - Mike and Martha Shrader: Mike formerly environmentalist with Duke
@@ -126,10 +128,8 @@
 - Tammy W. move to new house
 - Terry McCandliss, Bill Dowdel
 - Mike and Carol Epperley (dementia?)
-- Tim Hendrix stage 3 throat cancer
 - Mark and Mary: retirement, Mark's stent and cauterizing treatment
 - Barb & Ethan
-- Terry **RIP** and Andy
 - Eugenia & Titus, loss of mother
 - Bud & Berta, mother RIP, brother
 - Sue Parker & marriage Epi, separation from Covid -- Epi's heart disease

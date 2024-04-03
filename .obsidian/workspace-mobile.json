@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aff26982a571568b",
+            "id": "b2d6f83f66a2707f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pages/Prayer list.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -69,7 +74,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "59f6bfc607a4eec3",
@@ -89,6 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "pages/Prayer list.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "pages/Prayer list.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +122,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "pages/Prayer list.md"
+          }
         }
       }
     ],
@@ -132,14 +141,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aff26982a571568b",
+  "active": "b2d6f83f66a2707f",
   "lastOpenFiles": [
-    "pages/Abc notation.md",
-    "pages/psalm-summer.md",
-    "pages/Prayer list.md",
-    "pages/Emma-Story-tablet-ed-1.md",
-    "pages/universal-christ-highlights-2-4.md",
     "pages/Prayers.md",
+    "pages/Prayer list.md",
+    "pages/universal-christ-highlights-2-4.md",
     "Untitled 1.canvas",
     "Octavia Butler on the Meaning of God.md",
     "journals/2024_02_03.md",
