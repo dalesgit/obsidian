@@ -13,6 +13,7 @@
 
 > Then he opened their minds to understand the scriptures, and he said to them, "Thus it is written, that the Messiah is to suffer and to rise from the dead on the third day, and that repentance and forgiveness of sins is to be proclaimed in his name to all nations, beginning from Jerusalem. You are witnesses of these things."
 
+4. Greek/Hebrew Definitions. Strong's #1063: *gar* (pronounced *gar*) **a primary particle; properly, assigning a reason (used in argument, explanation or intensification; often with other particles)**:--and, as, because (that), but, even, for, indeed, no doubt, seeing, then, therefore, verily, what, why, yet.
 ## Eucharist
 Holy God,
 Holy and Mighty,
@@ -30,9 +31,7 @@ Canon of Nicea: (last canon) Since there are some who kneel on Sunday and during
 **5** When Jesus saw the crowds, he went up the mountain, and after he sat down, his disciples came to him. $^2$ And he began to speak and taught them, saying:
 
 <sup>3</sup> “Blessed are the poor in spirit, for theirs is the kingdom of heaven.
-
 $^4$ “Blessed are those who mourn, for they will be comforted.
-
 $^5$ “Blessed are the meek, for they will inherit the earth.
 
 $^6$ “Blessed are those who hunger and thirst for righteousness, for they will be filled.
