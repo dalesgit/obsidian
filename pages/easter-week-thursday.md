@@ -30,21 +30,15 @@ Canon of Nicea: (last canon) Since there are some who kneel on Sunday and during
 
 **5** When Jesus saw the crowds, he went up the mountain, and after he sat down, his disciples came to him. $^2$ And he began to speak and taught them, saying:
 
-<sup>3</sup> “Blessed are the poor in spirit, for theirs is the kingdom of heaven.
-$^4$ “Blessed are those who mourn, for they will be comforted.
-$^5$ “Blessed are the meek, for they will inherit the earth.
-
-$^6$ “Blessed are those who hunger and thirst for righteousness, for they will be filled.
-
-$^7$ “Blessed are the merciful, for they will receive mercy.
-
-$^8$ “Blessed are the pure in heart, for they will see God.
-
-$^9$ “Blessed are the peacemakers, for they will be called children of God.
-
-<sup>10</sup> “Blessed are those who are persecuted for the sake of righteousness, for theirs is the kingdom of heaven.
-
-<sup>11</sup> “Blessed are you when people revile you and persecute you and utter all kinds of evil against you falsely on my account. 12 Rejoice and be glad, for your reward is great in heaven, for in the same way they persecuted the prophets who were before you.
+<sup>3</sup> “Blessed are the poor in spirit, for theirs is the kingdom of heaven.  
+$^4$ “Blessed are those who mourn, for they will be comforted.  
+$^5$ “Blessed are the meek, for they will inherit the earth.  
+$^6$ “Blessed are those who hunger and thirst for righteousness, for they will be filled.  
+$^7$ “Blessed are the merciful, for they will receive mercy.  
+$^8$ “Blessed are the pure in heart, for they will see God.  
+$^9$ “Blessed are the peacemakers, for they will be called children of God.  
+<sup>10</sup> “Blessed are those who are persecuted for the sake of righteousness, for theirs is the kingdom of heaven.  
+<sup>11</sup> “Blessed are you when people revile you and persecute you and utter all kinds of evil against you falsely on my account. <sup>12</sup> Rejoice and be glad, for your reward is great in heaven, for in the same way they persecuted the prophets who were before you.
 ## Laying on of hands
 
 Savior of the world, by your cross and precious blood you have redeemed us;  

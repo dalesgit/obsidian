@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "950c288016ca5b61",
+        "id": "4bb3c72bd1c14ecb",
         "type": "tabs",
         "children": [
           {
-            "id": "b4ae6f4091df8dd1",
+            "id": "078f9b212172da98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/easter-week-thursday.md",
+                "file": "pages/linda-april-2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/easter-week-thursday.md",
+            "file": "pages/linda-april-2024.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/easter-week-thursday.md",
+            "file": "pages/linda-april-2024.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/easter-week-thursday.md"
+            "file": "pages/linda-april-2024.md"
           }
         }
       }
@@ -141,10 +141,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b4ae6f4091df8dd1",
+  "active": "078f9b212172da98",
   "lastOpenFiles": [
-    "pages/easter-week-liturgy-outline.md",
+    "pages/linda-april-2024.md",
     "pages/easter-week-thursday.md",
+    "pages/easter-week-liturgy-outline.md",
     "journals/2024_04_03.md",
     "templates_/subscripts.md",
     "templates_/random-quote.md",
