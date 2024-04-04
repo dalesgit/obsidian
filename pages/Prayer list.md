@@ -16,7 +16,7 @@
 	- ~~Dinner with parishioners, Priscilla/ Steve, Kathy Raker. Hooper.~~
 - Tyrants of the world
 - Wars: Israel, Gaza, Ukraine, Sudan
-- earthquakes: Morroco, Lybia, Afghanistan
+- earthquakes: Morroco, Lybia, Afghanistan, Taiwan
 - Environmental catastrophe
 	- people impacted by climate change
 	- People of Maui after wildfires (8/10/23)
