@@ -4,6 +4,8 @@
 - [Psalm 8](https://www.lectionarypage.net/YearABC/Easter/EasThur.html#ps1)
 - or [Psalm 114](https://www.lectionarypage.net/YearABC/Easter/EasThur.html#ps2)
 - or [Psalm 118:19-24](https://www.lectionarypage.net/YearABC/Easter/EasThur.html#ps3)
+
+[[easter-week-liturgy-outline]]
 # Notes
 1. Almighty and everlasting God, who in the Paschal mystery established the new covenant of reconciliation: Grant that all who have been reborn into the fellowship of Christ's Body may show forth in their lives what they profess by their faith; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. _Amen._
 2. Peter's address to the people being astonished: summary of gospel.

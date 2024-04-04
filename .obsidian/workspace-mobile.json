@@ -4,11 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "2421548193d3c49b",
+        "id": "68d710a03be06e0b",
         "type": "tabs",
         "children": [
           {
-            "id": "b2d6f83f66a2707f",
+            "id": "8bf5716abe6ea071",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/easter-week-liturgy-outline.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "950c288016ca5b61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4ae6f4091df8dd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -74,8 +93,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "59f6bfc607a4eec3",
@@ -95,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/easter-week-thursday.md",
+            "file": "pages/easter-week-liturgy-outline.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +130,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/easter-week-thursday.md",
+            "file": "pages/easter-week-liturgy-outline.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +142,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/easter-week-thursday.md"
+            "file": "pages/easter-week-liturgy-outline.md"
           }
         }
       }
@@ -142,11 +160,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b2d6f83f66a2707f",
+  "active": "8bf5716abe6ea071",
   "lastOpenFiles": [
+    "pages/easter-week-thursday.md",
+    "pages/easter-week-liturgy-outline.md",
+    "journals/2024_04_03.md",
     "templates_/subscripts.md",
     "templates_/random-quote.md",
-    "pages/easter-week-thursday.md",
     "2024_02_23.md",
     "pages/Prayer list.md",
     "pages/Prayers.md",
