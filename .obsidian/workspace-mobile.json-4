@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dc82209d0a06dcc3",
         "type": "tabs",
         "children": [
           {
-            "id": "d3cb4ccd914cefc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "078f9b212172da98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "pages/Prayers.md",
                 "mode": "preview",
+                "file": "pages/linda-april-2024.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -95,6 +99,7 @@
           "type": "backlink",
           "state": {
             "file": "pages/Prayers.md",
+            "file": "pages/linda-april-2024.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +116,9 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+<<<<<<< HEAD:.obsidian/workspace-mobile.json-4
             "file": "pages/Prayers.md",
+            "file": "pages/linda-april-2024.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,6 +131,7 @@
           "type": "outline",
           "state": {
             "file": "pages/Prayers.md"
+            "file": "pages/linda-april-2024.md"
           }
         }
       }
@@ -144,6 +152,9 @@
   "active": "34b194f29883a5da",
   "lastOpenFiles": [
     "pages/Prayer list.md",
+  "active": "078f9b212172da98",
+  "lastOpenFiles": [
+    "pages/linda-april-2024.md",
     "pages/easter-week-thursday.md",
     "pages/easter-week-liturgy-outline.md",
     "journals/2024_04_03.md",
