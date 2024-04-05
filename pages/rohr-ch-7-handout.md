@@ -1,3 +1,11 @@
+---
+title: Discussion on Universal Christ, ch. 7
+author: St. Alfred's Church
+date: April 7, 2024
+---
+
+# Overview of *Universal Christ*
+
 ## Part 1: Another Name for Every Thing [**Christ**]
 
 "Christ" means a universal and personal God. God is a relationship. Called to see Christ/God's handiwork in everything. Love is the structure of the universe. It is listening to the voice within us that makes us whole. To live is to change.
