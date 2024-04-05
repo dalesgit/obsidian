@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c0adf3d261837b66",
+        "id": "a82707c13348aabe",
         "type": "tabs",
         "children": [
           {
-            "id": "724cd6557928122a",
+            "id": "76b8df8b45961eb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/easter-2.md",
+                "file": "pages/rohr-ch-7-handout.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d623f73872d1f701",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31448dcaa3dff5b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/rohr-ch-7-discussion.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/easter-2.md",
+            "file": "pages/rohr-ch-7-handout.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +130,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/easter-2.md",
+            "file": "pages/rohr-ch-7-handout.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +142,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/easter-2.md"
+            "file": "pages/rohr-ch-7-handout.md"
           }
         }
       }
@@ -141,10 +160,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "724cd6557928122a",
+  "active": "76b8df8b45961eb1",
   "lastOpenFiles": [
-    "logseq/bak/pages/Peter-Lane/2023-03-19T10_15_06.990Z.Desktop.md",
+    "pages/rohr-ch-7-discussion.md",
+    "pages/rohr-ch-7-handout.md",
+    "pages/rohr-univ-christ-contents.md",
     "pages/easter-2.md",
+    "logseq/bak/pages/Peter-Lane/2023-03-19T10_15_06.990Z.Desktop.md",
     "pages/Prayer list.md",
     "pages/Prayers.md",
     "pages/linda-april-2024.md"
