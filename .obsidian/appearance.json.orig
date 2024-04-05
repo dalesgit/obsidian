@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+<<<<<<< HEAD
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
+  "textFontFamily": "Georgia,Liberation Serif",
+  "baseFontSize": 17
+=======
+  "textFontFamily": "Baskerville",
+  "cssTheme": "Blue Topaz"
+>>>>>>> c1ef0652065126ba7b7c6f2430e90a53da39511f
+}
