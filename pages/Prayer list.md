@@ -5,29 +5,27 @@
 ## Recent 
 - Current
 	- waiting for God to show me my calling now in Florida. (git-journal)
-	- ~~healing mass supply Mar 7~~
+	- Cyndi and Brian,  hospice
+	- centering prayer at St Alfred's 
 	- people of Haiti. Gangs overrun. 
-	- ~~centering prayer workshop March 9~~
-	- Georgia Mtns: Judges & Christine/Robert
 	- Madison and Garret Hathaway
+	- Margaret talked into Thursday  mass
+	- MP mammogram, bone density, MRI
+	- ~~Jolene's dog has diabetes~~
+	- ~~healing mass supply Mar 7~~
+	- ~~centering prayer workshop March 9~~
+	- ~~Georgia Mtns: Judges & Christine/Robert~~
 	- ~~Dinner with parishioners, Priscilla/ Steve, Kathy Raker. Hooper.~~
 - Tyrants of the world
-- Wars
-	- for Israel
-	- people of Palestine (Gaza)
-	- War in Ukraine
-	- Sudan
-- earthquakes
-	- people of Morroco (earthquake)
-	- people of Lybia (earthquake)
-	- people of Afghanistan (earthquake)
+- Wars: Israel, Gaza, Ukraine, Sudan
+- earthquakes: Morroco, Lybia, Afghanistan, Taiwan
 - Environmental catastrophe
 	- people impacted by climate change
 	- People of Maui after wildfires (8/10/23)
 	- refugees
 - Family
-	- Beth fell, shoulder. 
-	- Jane & Raymond, Jolene, Aaron: alienations
+	- ~~Beth fell, shoulder.~~
+	- Jane returñ of CA & Raymond, Jolene her surgery, Aaron: alienations
 	- Sean and Jolene 
 	- Lydia, Emma
 - Friends
@@ -35,7 +33,7 @@
 	- Loa & Scott; Brian -- recovery
 - Our membership at St. Alfred's
 	- discernment for using our gifts and talents in this place: 
-	- centering prayer at St. Alfred's 
+	- centering prayer at St. Alfred's; **ride the wave**
 	- Peter's discernment, centering prayer group, re Patti
 	- Marcus & Ginny: move to Sarasota, New College
 	- Zandy end stage glaucoma; surgery 11/2 2
@@ -48,7 +46,8 @@
 	- DeeDee, Carol, Karen (new members DOK)
 	- Frank in caregivers group
 	- Jim & Susan: (going home?)
-	- Jo Anderson, Diane Vetter (Lutheran), Bob and Debbie Woodward, Larry and Kathy Hooper. Larry (plumber)
+	- Jo Anderson, Diane Vetter (Lutheran), Bob and Debbie Woodward, Larry and Kathy Hooper. Larry Clement
+	- Patty
 	- Vincent, Larry, Richard, Eugene
 	- Doris asked Mary Pat if I had "ever met a stranger"
 	- Stephen and Priscilla Gill
@@ -72,18 +71,18 @@
 	- Valerie & John,  Val b/day **Aug 29, 1982**. John **Oct. 24, 1982**
 	    - Lily, Garret, Pierce, Zellie
 	- Kevin & Kristin, Kevin b/day **Apr 11, 1984**. Kristin b/day **June 3, 1985**
-	    - Theodore "Theo”, Ellie, Edie, Sebastian, new baby **Oct. 2023**
+	    - Theodore "Theo”, Ellie, Edie, Sebastian, a boy, Gladys **Oct. 2023**
 	- Jackie & Nick, 
 	   - Augustine, (Gus)
 	- Danny & Jen 
 	   - delivery **8/6/22** Keeley Frances
 	- Faith graduated, independence 
 - Joe (retirement)  Tami + mother RIP, Father still independent Joe b/day **Oct. 2, 1954**. Tami b/day **Nov 4, 1957** Anniv **Jul 19, 1986**
-   - Zach & Keiko: new baby **Oct 2023**
-   - Gordy **3/11** & Kelly (**5/22** wedding) "Rostrom" baby due March 2024
+   - Zach & Keiko: Noah **Oct 2023**
+   - Gordy **3/11** & Kelly (**5/22** wedding) "Rostrom" girl baby due March 2024
    - Sammy & Matt:  
       - Grady 
-      - new baby: **Oct 2023**
+      - Jack: **Oct 2023**
 - Bob & Brenda [move to Florida] Bob b/day **Oct. 19, 1953** Brenda b/day **June 21, 1954**. Anniv **Jun 22, 1991**
    - Holly & Jonathan 
    - Sarah, Josh, 
@@ -120,6 +119,8 @@
     - Isabella as Certified Nurse something, 
     - Emelia: grown up
 ## Friends
+- ~~Tim Hendrix stage 3 throat cancer rip~~
+- ~~Terry **RIP**~~ and Andy
 - Becky, Piikea, Mia, 2 girls, David
 - Carolyn (husband RIP)
 - Mike and Martha Shrader: Mike formerly environmentalist with Duke
@@ -129,10 +130,8 @@
 - Tammy W. move to new house
 - Terry McCandliss, Bill Dowdel
 - Mike and Carol Epperley (dementia?)
-- Tim Hendrix stage 3 throat cancer
 - Mark and Mary: retirement, Mark's stent and cauterizing treatment
 - Barb & Ethan
-- Terry **RIP** and Andy
 - Eugenia & Titus, loss of mother
 - Bud & Berta, mother RIP, brother
 - Sue Parker & marriage Epi, separation from Covid -- Epi's heart disease

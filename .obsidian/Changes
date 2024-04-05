@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "ba0a2473b6af46c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "649804ecf5e348ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee74d6cb7493e1b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Prayers.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e34a4fac7b03fa29",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1c0759ccc9d90ab4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime"
+          }
+        }
+      },
+      {
+        "id": "ad274379b52e9e0d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#names",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "dbfc820661bdf9a8",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "54877564b49340ac",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "bf77a373690a1d3b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+  },
+  "right": {
+    "id": "6ebd6b22dab95c6a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dcfd160491ff0a43",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "pages/Prayers.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7bb91a20931165ca",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "pages/Prayers.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "469c921dea196572",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "pages/Prayers.md"
+          }
+        }
+      },
+      {
+        "id": "7f17f7f923e46c85",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "lastOpenFiles": [
+    "pages/Prayer list.md",
+    "pages/Prayers.md",
+    "pages/georgia-mountains.md",
+    "journals/2024_03_13.md",
+    "journals/2024_03_05.md",
+    "Untitled.canvas",
+    "pages/Amazon secrets.md",
+    "pages/Covid is dangerous.md",
+    "journals/2024_02_28.md",
+    "pages/2nd-lent-draft-3.md",
+    "journals/2024_02_24.md",
+    "pages/lent-1.md",
+    "journals/2024_02_18.md",
+    "pages/psalm-summer.md",
+    "journals/2024_02_04.md",
+    "pages/universal-christ-highlights-2-4.md",
+    "past/Prayer list.md",
+    "past/Prayers.md",
+    "journals/2024_02_03.md",
+    "lent-2b.md",
+    "Untitled.md",
+    "journals/2024_01_31.md",
+    "journals/2024_01_30.md",
+    "journals/2024_01_29.md",
+    "journals/2024_01_28.md",
+    "journals/2024_01_27.md",
+    "journals/2024_01_26.md"
+  ]
+}
