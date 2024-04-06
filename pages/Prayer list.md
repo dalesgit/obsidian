@@ -158,7 +158,7 @@
 - refugees
 - Health care workers
 - Equal Justice Initiative (Brian Stevens)
-- Chef Andrés: feeding the world
+- Chef Andrés: feeding the world: World Central Kitchens
 - **Compassion International** cancel
 - Doctors without borders
 - Beyond Borders
