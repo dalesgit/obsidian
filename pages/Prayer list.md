@@ -4,7 +4,7 @@
 
 ## Recent 
 - Current
-	- waiting for God to show me my calling now in Florida. (git-journal)
+	- waiting for God to show me my calling now in Florida. (git-journal) spiritual direction 
 	- Cyndi and Brian,  hospice
 	- centering prayer at St Alfred's 
 	- people of Haiti. Gangs overrun. 
@@ -25,7 +25,7 @@
 	- refugees
 - Family
 	- ~~Beth fell, shoulder.~~
-	- Jane returñ of CA & Raymond, Jolene her surgery, Aaron: alienations
+	- Jane return of CA & Raymond, Jolene her surgery, Aaron: alienations
 	- Sean and Jolene 
 	- Lydia, Emma
 - Friends
@@ -39,7 +39,7 @@
 	- Zandy end stage glaucoma; surgery 11/2 2
 	- Daughters of the King prayer list
 	- Diane (and Sharren)
-	- Gini brother suicide
+	- ~~Gini brother suicide~~
 	- Carol Boyken, stage 4 uterine cancer, cancer free 7/23
 	- Manny, Liz moving
 	- Tricia macula degeneration diabetes, new job
