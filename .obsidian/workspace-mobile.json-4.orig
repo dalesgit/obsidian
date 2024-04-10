@@ -1,22 +1,33 @@
 {
   "main": {
-    "id": "e0c5752b63465136",
+    "id": "106b4df9fb445667",
     "type": "split",
     "children": [
       {
-        "id": "fc5ec4469c43c5f1",
+<<<<<<< HEAD:.obsidian/workspace-mobile.json-4
+        "id": "dc82209d0a06dcc3",
         "type": "tabs",
         "children": [
           {
-            "id": "172deda49f14fe22",
+            "id": "d3cb4ccd914cefc4",
+=======
+        "id": "4bb3c72bd1c14ecb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "078f9b212172da98",
+>>>>>>> 70f628c85ef03b796cfab81c0244a0529f36d246:.obsidian/workspace-mobile.json
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Prayer list.md",
-                "mode": "source",
+<<<<<<< HEAD:.obsidian/workspace-mobile.json-4
                 "file": "pages/Prayers.md",
                 "mode": "preview",
+=======
+                "file": "pages/linda-april-2024.md",
+                "mode": "source",
+>>>>>>> 70f628c85ef03b796cfab81c0244a0529f36d246:.obsidian/workspace-mobile.json
                 "backlinks": true,
                 "source": false
               }
@@ -28,21 +39,21 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a1787e01638a5631",
+    "id": "dbb4dbd01de3bea0",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "13ceab2bb6c28fc2",
+        "id": "34b194f29883a5da",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "byModifiedTime"
           }
         }
       },
       {
-        "id": "915dacdb03d510c2",
+        "id": "b9b211fd4da05955",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -57,7 +68,7 @@
         }
       },
       {
-        "id": "193d2fb1d18bb28b",
+        "id": "e7ad51285931cc1b",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -68,7 +79,7 @@
         }
       },
       {
-        "id": "cf87724aa85dcdec",
+        "id": "4c1b86c151109a94",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -79,11 +90,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "7b40795de4370d4e",
+    "id": "59f6bfc607a4eec3",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "20b7d7776ca2e2b4",
+        "id": "91eeb8636668ede0",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -91,13 +102,16 @@
         }
       },
       {
-        "id": "78fad20597827061",
+        "id": "6082a2af6c86d0f2",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/Prayer list.md",
+<<<<<<< HEAD:.obsidian/workspace-mobile.json-4
             "file": "pages/Prayers.md",
+=======
+            "file": "pages/linda-april-2024.md",
+>>>>>>> 70f628c85ef03b796cfab81c0244a0529f36d246:.obsidian/workspace-mobile.json
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,26 +123,32 @@
         }
       },
       {
-        "id": "97f4b278903f7e41",
+        "id": "3edf6ae5cb5004bb",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/Prayer list.md",
+<<<<<<< HEAD:.obsidian/workspace-mobile.json-4
             "file": "pages/Prayers.md",
+=======
+            "file": "pages/linda-april-2024.md",
+>>>>>>> 70f628c85ef03b796cfab81c0244a0529f36d246:.obsidian/workspace-mobile.json
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "fb2227370f21b10a",
+        "id": "225144b5f2483e17",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/Prayer list.md"
+<<<<<<< HEAD:.obsidian/workspace-mobile.json-4
             "file": "pages/Prayers.md"
+=======
+            "file": "pages/linda-april-2024.md"
+>>>>>>> 70f628c85ef03b796cfab81c0244a0529f36d246:.obsidian/workspace-mobile.json
           }
         }
       }
@@ -146,21 +166,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "172deda49f14fe22",
-  "lastOpenFiles": [
-    "past/Prayer list.md",
-    "past/Prayers.md",
-    "pages/Abc notation.md",
-    "pages/psalm-summer.md",
-  "active": "2f83bb320f3cc527",
+<<<<<<< HEAD:.obsidian/workspace-mobile.json-4
+  "active": "34b194f29883a5da",
   "lastOpenFiles": [
     "pages/Prayer list.md",
+=======
+  "active": "078f9b212172da98",
+  "lastOpenFiles": [
+    "pages/linda-april-2024.md",
+>>>>>>> 70f628c85ef03b796cfab81c0244a0529f36d246:.obsidian/workspace-mobile.json
+    "pages/easter-week-thursday.md",
+    "pages/easter-week-liturgy-outline.md",
+    "journals/2024_04_03.md",
+    "templates_/subscripts.md",
+    "templates_/random-quote.md",
+    "2024_02_23.md",
     "pages/Prayers.md",
-    "pages/rohr-ch-7-discussion.md",
-    "pages/rohr-ch-7-handout.md",
-    "pages/rohr-univ-christ-contents.md",
-    "pages/easter-2.md",
-    "logseq/bak/pages/Peter-Lane/2023-03-19T10_15_06.990Z.Desktop.md",
-    "pages/linda-april-2024.md"
+    "pages/universal-christ-highlights-2-4.md",
+    "Untitled 1.canvas",
+    "Octavia Butler on the Meaning of God.md",
+    "journals/2024_02_03.md",
+    "journals/2024_02_02.md",
+    "pages/Untitled 1.md"
   ]
 }

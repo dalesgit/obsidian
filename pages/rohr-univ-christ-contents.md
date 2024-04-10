@@ -1,0 +1,28 @@
+- Part 1: Another Name for Every Thing [**Christ**]
+	- Chapter 1: Christ Is Not Jesus’s Last Name
+		- Christ -> Logos -> Everything. **A universal and personal God**.
+	- Chapter 2: Accepting That You Are Fully Accepted
+		- **God is a relationship**. Faith is accepting that we are accepted. God is here not there.
+		- Seeing Christ in the face of others. From I to Us.
+	- Chapter 3: Revealed in Us—as Us
+		- Conversion as inner experience, becoming "in Christ". **Seeing Christ everywhere**.
+	- Chapter 4: Original Goodness
+		- God's handiwork is in all of creation. **Love everything** or risk loving nothing. Abandon "original sin."
+	- Chapter 5: Love Is the Meaning
+		- Love as the very physical structure of the universe. The **dance of love with God.**
+	- Chapter 6: A Sacred Wholeness
+		- Listening to the voice within us that makes us **whole** -- not the one that judges.
+	- Chapter 7: Going Somewhere Good
+		- The "Christ" mystery. Where is it all going? Moving from order -> disorder -> order (new). "**To live is to change**, and to be perfect is to have changed often." (Newman)
+- Part 2: The Great Comma [**Jesus**]
+	- Chapter 8: Doing and Saying
+		- How understanding Christ can revolutionize **practice** of our faith
+	- Chapter 9: Things at Their Depth
+	- Chapter 10: The Feminine Incarnation
+	- Chapter 11: This Is My Body
+	- Chapter 12: Why Did Jesus Die?
+	- Chapter 13: It Can’t Be Carried Alone
+	- Chapter 14: The Resurrection Journey
+	- Chapter 15: Two Witnesses to Jesus and Christ
+	- Chapter 16: Transformation and Contemplation
+	- Chapter 17: Beyond Mere Theology: Two Practices
