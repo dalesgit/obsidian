@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "aa746e1963c38288",
+        "id": "15404a3ab4b1dfbe",
         "type": "tabs",
         "children": [
           {
-            "id": "555a432e263f8731",
+            "id": "adb0f9b7abd271ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pages/THE DRY SALVAGES.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "pages/THE DRY SALVAGES.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "pages/THE DRY SALVAGES.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +122,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "pages/THE DRY SALVAGES.md"
+          }
         }
       }
     ],
@@ -132,8 +141,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "555a432e263f8731",
+  "active": "adb0f9b7abd271ee",
   "lastOpenFiles": [
+    "pages/THE DRY SALVAGES.md",
+    "pages/Burnt Norton.md",
     "journals/2024_04_10.md",
     "Templates/Daily/daily-note.md",
     "Templates/Daily/daily-note 1.md",
