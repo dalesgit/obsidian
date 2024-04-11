@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9863e84060510f57",
+        "id": "18286cfcc8c576a0",
         "type": "tabs",
         "children": [
           {
-            "id": "3643e645226b21e0",
+            "id": "3f1b214dcd7b6ff2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/East coker.md",
-                "mode": "source",
+                "file": "pages/Prayers.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/East coker.md",
+            "file": "pages/Prayers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/East coker.md",
+            "file": "pages/Prayers.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/East coker.md"
+            "file": "pages/Prayers.md"
           }
         }
       }
@@ -141,16 +141,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3643e645226b21e0",
+  "active": "3f1b214dcd7b6ff2",
   "lastOpenFiles": [
+    "pages/Prayer list.md",
+    "pages/East coker.md",
     "pages/Burnt Norton.md",
     "pages/Little Gidding.md",
-    "pages/East coker.md",
     "pages/THE DRY SALVAGES.md",
     "journals/2024_04_10.md",
     "Templates/Daily/daily-note.md",
     "Templates/Daily/daily-note 1.md",
-    "journals/2024_04_03.md",
-    "pages/Prayer list.md"
+    "journals/2024_04_03.md"
   ]
 }
