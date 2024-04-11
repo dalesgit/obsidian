@@ -1,6 +1,11 @@
 **BURNT NORTON**  
 (No. 1 of 'Four Quartets')  
-  
+
+[[Burnt Norton]]
+[[THE DRY SALVAGES]]
+[[East coker]]
+[[Little Gidding]]
+
 
 Time present and time past  
 Are both perhaps present in time future,  
