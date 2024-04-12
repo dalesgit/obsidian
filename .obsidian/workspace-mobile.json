@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Prayers.md",
+                "file": "pages/Prayer list.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/Prayers.md",
+            "file": "pages/Prayer list.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/Prayers.md",
+            "file": "pages/Prayer list.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/Prayers.md"
+            "file": "pages/Prayer list.md"
           }
         }
       }
@@ -143,8 +143,8 @@
   },
   "active": "2f83bb320f3cc527",
   "lastOpenFiles": [
-    "pages/Prayer list.md",
     "pages/Prayers.md",
+    "pages/Prayer list.md",
     "pages/rohr-ch-7-discussion.md",
     "pages/rohr-ch-7-handout.md",
     "pages/rohr-univ-christ-contents.md",
