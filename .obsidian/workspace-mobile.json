@@ -1,28 +1,18 @@
 {
   "main": {
-    "id": "e0c5752b63465136",
+    "id": "fab83061337a7ceb",
     "type": "split",
     "children": [
       {
-        "id": "0af3de9a7024d7f3",
+        "id": "ee612640a03556b5",
         "type": "tabs",
         "children": [
           {
-            "id": "2f83bb320f3cc527",
+            "id": "edec7a3a7f3ed472",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-
-                "file": "pages/Prayer list.md",
-                "mode": "preview",
-
-                "file": "pages/Prayers.md",
-                "mode": "source",
->>>>>>>
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -31,21 +21,21 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a1787e01638a5631",
+    "id": "5f32b0d1992fbe6a",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "426b9536fac22269",
+        "id": "55b34c3c0e0ee735",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "byModifiedTime"
+            "sortOrder": "alphabetical"
           }
         }
       },
       {
-        "id": "5a1a4269b17ae285",
+        "id": "4c6de06b0b59c831",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -60,7 +50,7 @@
         }
       },
       {
-        "id": "115d2c2ba0d7ad07",
+        "id": "f5c802175164e71f",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -71,7 +61,7 @@
         }
       },
       {
-        "id": "81acc204ec6c4f66",
+        "id": "6cfed437696e2063",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -82,11 +72,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "cf2e1634da892c7a",
+    "id": "b858615769bda072",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "39aec712f1969c1b",
+        "id": "48de0a62714478df",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -94,12 +84,11 @@
         }
       },
       {
-        "id": "1f81b7d102f77178",
+        "id": "7bc6a1f0271e5596",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/Prayer list.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,25 +100,22 @@
         }
       },
       {
-        "id": "cb49ef12ba02655e",
+        "id": "93916c28759b71c4",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/Prayer list.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "a378f36b007abad5",
+        "id": "11f339d65ee80475",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "pages/Prayer list.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -146,26 +132,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f1b214dcd7b6ff2",
-  "lastOpenFiles": [
-    "pages/Prayers.md",
-    "pages/Prayer list.md",
-    "pages/rohr-ch-7-discussion.md",
-    "pages/rohr-ch-7-handout.md",
-    "pages/rohr-univ-christ-contents.md",
-    "pages/easter-2.md",
-    "logseq/bak/pages/Peter-Lane/2023-03-19T10_15_06.990Z.Desktop.md",
-    "pages/linda-april-2024.md"
-    "pages/Prayer list.md",
-    "pages/easter-3.md",
-    "pages/THE DRY SALVAGES.md",
-    "pages/Prayers.md",
-    "pages/East coker.md",
-    "pages/Burnt Norton.md",
-    "pages/Little Gidding.md",
-    "journals/2024_04_10.md",
-    "Templates/Daily/daily-note.md",
-    "Templates/Daily/daily-note 1.md",
-    "journals/2024_04_03.md"
-  ]
+  "active": "edec7a3a7f3ed472",
+  "lastOpenFiles": []
 }
