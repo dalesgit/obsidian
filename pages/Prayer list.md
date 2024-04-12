@@ -6,10 +6,11 @@
 - Current
 	- waiting for God to show me my calling now in Florida. (git-journal) spiritual direction 
 	- Cyndi and Brian,  hospice
+	- Jolene surgery
 	- centering prayer at St Alfred's 
 	- people of Haiti. Gangs overrun. 
 	- Madison and Garret Hathaway
-	- Margaret talked into Thursday  mass
+	- ~~Margaret talked into Thursday  mass~~
 	- MP mammogram, bone density, MRI
 	- ~~Jolene's dog has diabetes~~
 	- ~~healing mass supply Mar 7~~
@@ -42,10 +43,10 @@
 	- ~~Gini brother suicide~~
 	- Carol Boyken, stage 4 uterine cancer, cancer free 7/23
 	- Manny, Liz moving
-	- Tricia macula degeneration diabetes, new job
+	- Tricia macular degeneration diabetes, new job
 	- DeeDee, Carol, Karen (new members DOK)
 	- Frank in caregivers group
-	- Jim & Susan: (going home?)
+	- Jim & Susan
 	- Jo Anderson, Diane Vetter (Lutheran), Bob and Debbie Woodward, Larry and Kathy Hooper. Larry Clement
 	- Patty
 	- Vincent, Larry, Richard, Eugene
@@ -79,7 +80,7 @@
 	- Faith graduated, independence 
 - Joe (retirement)  Tami + mother RIP, Father still independent Joe b/day **Oct. 2, 1954**. Tami b/day **Nov 4, 1957** Anniv **Jul 19, 1986**
    - Zach & Keiko: Noah **Oct 2023**
-   - Gordy **3/11** & Kelly (**5/22** wedding) "Rostrom" girl baby due March 2024
+   - Gordy **3/11** & Kelly (**5/22** wedding) "Rostrom" girl baby due March 11, 2024
    - Sammy & Matt:  
       - Grady 
       - Jack: **Oct 2023**
