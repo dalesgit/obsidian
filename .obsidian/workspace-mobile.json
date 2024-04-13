@@ -11,8 +11,13 @@
             "id": "edec7a3a7f3ed472",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pages/Prayers.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "pages/Prayers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "pages/Prayers.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +122,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "pages/Prayers.md"
+          }
         }
       }
     ],
@@ -133,5 +142,8 @@
     }
   },
   "active": "edec7a3a7f3ed472",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "pages/Prayer list.md",
+    "past/Prayer list.md"
+  ]
 }
