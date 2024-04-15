@@ -33,14 +33,15 @@
 	- Charlotte / Henry: Charlie, Jameson, (new child?)
 	- Loa & Scott; Brian -- recovery
 - Our membership at St. Alfred's
+	- ~~Gini brother suicide~~
 	- discernment for using our gifts and talents in this place: 
 	- centering prayer at St. Alfred's; **ride the wave**
 	- Peter's discernment, centering prayer group, re Patti
 	- Marcus & Ginny: move to Sarasota, New College
-	- Zandy end stage glaucoma; surgery 
+	- Zandy end stage glaucoma; trouble letting go; moving out of house
+	- Joyce: moving
 	- Daughters of the King prayer list
 	- Diane (and Sharren)
-	- ~~Gini brother suicide~~
 	- Carol Boyken, stage 4 uterine cancer, cancer free 7/23
 	- Manny, Liz moving
 	- Tricia macular degeneration diabetes, new job

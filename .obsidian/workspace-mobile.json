@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "pages/Prayers.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -144,6 +144,7 @@
   "active": "edec7a3a7f3ed472",
   "lastOpenFiles": [
     "pages/Prayer list.md",
+    "pages/Prayers.md",
     "past/Prayer list.md"
   ]
 }
