@@ -5,7 +5,7 @@
 ## Recent 
 - Current
 	- waiting for God to show me my calling now in Florida. (git-journal) spiritual direction 
-	- Cyndi and Brian,  hospice
+	- Cyndi and Brian (**RIP 4/14/24**)
 	- Jolene surgery -- sucessful
 	- centering prayer at St Alfred's 
 	- people of Haiti. Gangs overrun. 
@@ -81,7 +81,7 @@
 	- Faith graduated, independence 
 - Joe (retirement)  Tami + mother RIP, Father still independent Joe b/day **Oct. 2, 1954**. Tami b/day **Nov 4, 1957** Anniv **Jul 19, 1986**
    - Zach & Keiko: Noah **Oct 2023**
-   - Gordy **3/11** & Kelly (**5/22** wedding) "Rostrom" girl baby due March 11, 2024 Kinsley June
+   - Gordy **3/11** & Kelly (**5/22** wedding) "Rostrom" girl baby born **March 11, 2024** Kinsley June
    - Sammy & Matt:  
       - Grady 
       - Jack: **Oct 2023**
