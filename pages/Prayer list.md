@@ -5,7 +5,7 @@
 ## Recent 
 - Current
 	- waiting for God to show me my calling now in Florida. (git-journal) spiritual direction 
-	- Cyndi and Brian (**RIP 4/14/24**)
+	- Cyndi (travel to Chicago) and Brian (**RIP 4/14/24**)
 	- Jolene surgery -- sucessful
 	- centering prayer at St Alfred's 
 	- people of Haiti. Gangs overrun. 
@@ -34,6 +34,7 @@
 	- Loa & Scott; Brian -- recovery
 - Our membership at St. Alfred's
 	- ~~Gini brother suicide~~
+	- MP on the vestry
 	- discernment for using our gifts and talents in this place: 
 	- centering prayer at St. Alfred's; **ride the wave**
 	- Peter's discernment, centering prayer group, re Patti
