@@ -11,6 +11,7 @@
 	- people of Haiti. Gangs overrun. 
 	- Madison and Garret Hathaway
 	- MP MRI treatment
+	- Lydia traveling with us in Colorado
 	- ~~Margaret talked into Thursday  mass~~
 	- ~~Jolene's dog has diabetes~~
 	- ~~healing mass supply Mar 7~~
