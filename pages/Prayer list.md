@@ -38,7 +38,7 @@
 	- MP on the vestry
 	- discernment for using our gifts and talents in this place: 
 	- centering prayer at St. Alfred's; **ride the wave**
-	- Peter's discernment, centering prayer group, re Patti
+	- Peter's discernment, centering prayer group, re Patti Reddick
 	- Marcus & Ginny: move to Sarasota, New College
 	- Zandy end stage glaucoma; trouble letting go; moving out of house
 	- Joyce: moving
