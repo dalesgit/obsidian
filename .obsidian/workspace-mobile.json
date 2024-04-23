@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ee612640a03556b5",
+        "id": "81dbac282da2932a",
         "type": "tabs",
         "children": [
           {
-            "id": "edec7a3a7f3ed472",
+            "id": "6bb4e23a96caa058",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Prayers.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -35,7 +30,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "byModifiedTime"
           }
         }
       },
@@ -74,7 +69,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "b858615769bda072",
@@ -94,7 +90,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/Prayers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/Prayers.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,9 +116,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "pages/Prayers.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -141,10 +133,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edec7a3a7f3ed472",
+  "active": "6bb4e23a96caa058",
   "lastOpenFiles": [
-    "pages/Prayer list.md",
     "pages/Prayers.md",
+    "journals/2024_04_22.md",
+    "pages/Native American environment practices.md",
+    "Assets/Pasted image 20240423000747.png",
+    "Assets/Pasted image 20240423000719.png",
+    "Assets/Pasted image 20240423000653.png",
+    "Assets/Pasted image 20240423000626.png",
+    "Assets/Pasted image 20240423000602.png",
+    "Assets/Pasted image 20240423000550.png",
+    "Assets/Pasted image 20240423000522.png",
+    "Assets/Pasted image 20240423000445.png",
+    "Assets/Pasted image 20240423000405.png",
+    "Assets/Pasted image 20240423000334.png",
+    "journals/2024_04_23.md",
+    "pages/Best Obsidian plugins.md",
+    "pages/Prayer list.md",
     "past/Prayer list.md"
   ]
 }
