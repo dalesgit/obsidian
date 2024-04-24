@@ -5,12 +5,14 @@
 ## Recent 
 - Current
 	- waiting for God to show me my calling now in Florida. (git-journal) spiritual direction 
+	- Dayspring: Word and Water retreat 4/26-7
+	- Tom's support for MP's group
 	- Cyndi (travel to Chicago) and Brian (**RIP 4/14/24**)
 	- Jolene surgery -- sucessful
 	- centering prayer at St Alfred's 
 	- people of Haiti. Gangs overrun. 
 	- Madison and Garret Hathaway
-	- MP MRI treatment
+	- MP MRI treatment: JC and Erin therapists, 
 	- Lydia traveling with us in Colorado
 	- ~~Margaret talked into Thursday  mass~~
 	- ~~Jolene's dog has diabetes~~
@@ -28,7 +30,7 @@
 - Family
 	- ~~Beth fell, shoulder.~~
 	- Jane return of CA & Raymond, Jolene, Aaron: alienations
-	- Sean and Jolene 
+	- Sean and Jolene: **4/22/23** anniversary
 	- Lydia, Emma
 - Friends
 	- Charlotte / Henry: Charlie, Jameson, (new child?)

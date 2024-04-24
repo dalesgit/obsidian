@@ -11,11 +11,30 @@
             "id": "6bb4e23a96caa058",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pages/Prayers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26384b273f70d25b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Seder lesson plan.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +88,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "b858615769bda072",
@@ -90,6 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "pages/Seder lesson plan.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -106,6 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "pages/Seder lesson plan.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -116,7 +136,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "pages/Seder lesson plan.md"
+          }
         }
       }
     ],
@@ -133,9 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6bb4e23a96caa058",
+  "active": "26384b273f70d25b",
   "lastOpenFiles": [
     "pages/Prayers.md",
+    "pages/Prayer list.md",
+    "pages/Seder lesson plan.md",
     "journals/2024_04_22.md",
     "pages/Native American environment practices.md",
     "Assets/Pasted image 20240423000747.png",
@@ -150,7 +174,6 @@
     "Assets/Pasted image 20240423000334.png",
     "journals/2024_04_23.md",
     "pages/Best Obsidian plugins.md",
-    "pages/Prayer list.md",
     "past/Prayer list.md"
   ]
 }
