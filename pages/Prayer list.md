@@ -5,6 +5,7 @@
 ## Recent 
 - Current
 	- waiting for God to show me my calling now in Florida. (git-journal) spiritual direction 
+	- Trish and Mack, Hildy and Charlie, Marlene visit to Naples
 	- Dayspring: Word and Water retreat 4/26-7
 	- Tom's support for MP's group
 	- Cyndi (travel to Chicago) and Brian (**RIP 4/14/24**)
@@ -35,6 +36,7 @@
 - Friends
 	- Charlotte / Henry: Charlie, Jameson, (new child?)
 	- Loa & Scott; Brian -- recovery
+- Sydney RIP -- caregiver Kathy (dtr)
 - Our membership at St. Alfred's
 	- ~~Gini brother suicide~~
 	- MP on the vestry
@@ -48,7 +50,7 @@
 	- Diane (and Sharren)
 	- Carol Boyken, stage 4 uterine cancer, cancer free 7/23
 	- Manny, Liz moving
-	- Tricia macular degeneration diabetes, new job
+	- Tricia macular degeneration diabetes, new job, polyps in uterus, 
 	- DeeDee, Carol, Karen (new members DOK)
 	- Frank in caregivers group
 	- Jim & Susan
@@ -58,7 +60,6 @@
 	- Doris asked Mary Pat if I had "ever met a stranger"
 	- Stephen and Priscilla Gill
 	- Agostino, DeeDee
-- Sydney RIP -- caregiver Kathy (dtr)
 
 ## Dale and Mary Pat
 

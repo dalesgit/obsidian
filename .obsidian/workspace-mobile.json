@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Seder lesson plan.md",
+                "file": "pages/Prayers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journals/2024_04_25.md",
+            "file": "pages/Prayers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "journals/2024_04_25.md",
+            "file": "pages/Prayers.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -136,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "journals/2024_04_25.md"
+            "file": "pages/Prayers.md"
           }
         }
       }
@@ -154,12 +155,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6bb4e23a96caa058",
+  "active": "26384b273f70d25b",
   "lastOpenFiles": [
-    "pages/Prayers.md",
-    "journals/2024_04_25.md",
     "pages/Prayer list.md",
     "pages/Seder lesson plan.md",
+    "journals/2024_04_25.md",
+    "pages/Prayers.md",
     "journals/2024_04_22.md",
     "pages/Native American environment practices.md",
     "Assets/Pasted image 20240423000747.png",
