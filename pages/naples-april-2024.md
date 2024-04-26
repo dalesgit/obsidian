@@ -11,6 +11,7 @@
 - [ ] Keating morning prayer book
 - [ ] bathing suit
 - [ ] hdmi for 3 devices
+- [ ] heating pad
 
 # Bathroom
 - [ ] saline spray
