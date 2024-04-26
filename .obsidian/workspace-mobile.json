@@ -1,6 +1,6 @@
 {
   "main": {
-    "id": "fab83061337a7ceb",
+    "id": "c25dd07fa9b2888b",
     "type": "split",
     "children": [
       {
@@ -9,6 +9,11 @@
         "children": [
           {
             "id": "edec7a3a7f3ed472",
+        "id": "8e0be907fce782eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad7f16addbc4d5b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,18 +24,32 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a30e6f999c62365",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Prayers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5f32b0d1992fbe6a",
+    "id": "cae5c369da5de8e9",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "55b34c3c0e0ee735",
+        "id": "c1e18c945492403d",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -40,7 +59,7 @@
         }
       },
       {
-        "id": "4c6de06b0b59c831",
+        "id": "c644a49d77d91603",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -55,7 +74,7 @@
         }
       },
       {
-        "id": "f5c802175164e71f",
+        "id": "d6778a180178a6d2",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -66,7 +85,7 @@
         }
       },
       {
-        "id": "6cfed437696e2063",
+        "id": "8a6b1a9d410cdd03",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -77,11 +96,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "b858615769bda072",
+    "id": "c017f58b1341188a",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "48de0a62714478df",
+        "id": "43bfebe3a6c2a09b",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -89,12 +108,13 @@
         }
       },
       {
-        "id": "7bc6a1f0271e5596",
+        "id": "0a8df8abbd60af0e",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
             "file": "pages/naples-april-2024.md",
+            "file": "pages/Prayers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -106,24 +126,26 @@
         }
       },
       {
-        "id": "93916c28759b71c4",
+        "id": "1441d9fc4969454a",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
             "file": "pages/naples-april-2024.md",
+            "file": "pages/Prayers.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "11f339d65ee80475",
+        "id": "0b4ab31da8bd7997",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
             "file": "pages/naples-april-2024.md"
+            "file": "pages/Prayers.md"
           }
         }
       }
@@ -165,5 +187,10 @@
     "Assets/Pasted image 20240423000747.png",
     "pages/Prayers.md",
     "past/Prayer list.md"
+  "active": "6a30e6f999c62365",
+  "lastOpenFiles": [
+    "pages/Prayer list.md",
+    "past/Prayer list.md",
+    "pages/naples-april-2024.md"
   ]
 }
