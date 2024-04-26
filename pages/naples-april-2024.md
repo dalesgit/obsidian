@@ -12,6 +12,7 @@
 - [ ] bathing suit
 - [ ] hdmi for 3 devices
 - [ ] heating pad
+- [ ] box Tissue
 
 # Bathroom
 - [ ] saline spray
