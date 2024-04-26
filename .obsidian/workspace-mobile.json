@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ee612640a03556b5",
+        "id": "3a1fdf535c326b98",
         "type": "tabs",
         "children": [
           {
-            "id": "edec7a3a7f3ed472",
+            "id": "0ceff7094a2f1f96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "pages/Prayer list.md",
                 "mode": "preview",
+                "file": "pages/naples-april-2024.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -35,7 +37,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "byModifiedTime"
           }
         }
       },
@@ -95,6 +97,7 @@
           "type": "backlink",
           "state": {
             "file": "pages/Prayer list.md",
+            "file": "pages/naples-april-2024.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,6 +115,7 @@
           "type": "outgoing-link",
           "state": {
             "file": "pages/Prayer list.md",
+            "file": "pages/naples-april-2024.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,6 +128,7 @@
           "type": "outline",
           "state": {
             "file": "pages/Prayer list.md"
+            "file": "pages/naples-april-2024.md"
           }
         }
       }
@@ -141,10 +146,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edec7a3a7f3ed472",
+  "active": "0ceff7094a2f1f96",
   "lastOpenFiles": [
     "pages/Prayers.md",
     "pages/Prayer list.md",
+    "journals/2024_04_25.md",
+    "pages/naples-april-2024.md",
+    "pages/Music notations apps for Linux.md",
+    "pages/georgia-mountains.md",
+    "pages/Prayers.md",
+    "pages/Prayer list.md",
+    "pages/Seder lesson plan.md",
+    "journals/2024_04_22.md",
+    "pages/Native American environment practices.md",
+    "Assets/Pasted image 20240423000747.png",
+    "Assets/Pasted image 20240423000719.png",
+    "Assets/Pasted image 20240423000653.png",
+    "Assets/Pasted image 20240423000626.png",
+    "Assets/Pasted image 20240423000602.png",
+    "Assets/Pasted image 20240423000550.png",
+    "Assets/Pasted image 20240423000522.png",
+    "Assets/Pasted image 20240423000445.png",
+    "Assets/Pasted image 20240423000405.png",
+    "Assets/Pasted image 20240423000334.png",
+    "journals/2024_04_23.md",
+    "pages/Best Obsidian plugins.md",
     "past/Prayer list.md"
   ]
 }

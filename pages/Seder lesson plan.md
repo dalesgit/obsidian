@@ -1,0 +1,31 @@
+- [ ] **Morning**
+	- [ ] finish printing music
+	- [ ] candles
+	- [ ] make Charoset
+	- [ ] prep the details of the meal
+	- [ ] print cover sheet for music
+	- [ ] prep the Ipad documents
+	- [ ] lavabo bowl
+	- [ ] chill grape juice
+	- [ ] Make matza ball soup
+	- [ ] Afikommen "bag"
+	- [ ] get out all equipment
+	- [ ] tallit, kipa
+- [ ] **Afternoon**
+	- [ ] Prep Lamb
+	- [ ] Start Lamb
+	- [ ] set table
+	- [ ] fresh mint sauce
+	- [ ] wine glasses
+- [ ] **Last minute: ready at 5**
+	- [ ] set out the Seder plates
+- [ ] **Meal**
+	- [ ] Lamb out of oven at 6pm
+	- [ ] set table for meal
+	- [ ] Menu
+		- [ ] carrots
+		- [ ] green beans
+		- [ ] lamb
+		- [ ] salad (Karen)
+		- [ ] matza
+		- [ ] desert (Diane)
