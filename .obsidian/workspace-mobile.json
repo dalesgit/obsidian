@@ -21,16 +21,11 @@
             }
           },
           {
-            "id": "6a30e6f999c62365",
+            "id": "5a8d74f6735e2211",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Prayers.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -108,7 +103,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/Prayers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +119,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/Prayers.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -136,9 +129,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "pages/Prayers.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -155,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a30e6f999c62365",
+  "active": "5a8d74f6735e2211",
   "lastOpenFiles": [
+    "pages/naples-april-2024.md",
+    "pages/Prayers.md",
     "pages/Prayer list.md",
-    "past/Prayer list.md",
-    "pages/naples-april-2024.md"
+    "past/Prayer list.md"
   ]
 }

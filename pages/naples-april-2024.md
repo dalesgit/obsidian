@@ -7,63 +7,62 @@
 - [ ] paper journal
 # Special
 
-- [ ] coffee + grinder
+- [x] coffee + grinder
 - [ ] Keating morning prayer book
-- [ ] bathing suit
-- [ ] hdmi for 3 devices
-- [ ] heating pad
+- [x] bathing suit
+- [x] hdmi for 3 devices
+- [x] heating pad
 - [ ] box Tissue
 
 # Bathroom
-- [ ] saline spray
-- [ ] ibuprofen
-- [ ] hydrocortizone
-- [ ] floss
-- [ ] nose drops 
-- [ ] pill tray
-- [ ] extra qtips
+- [x] saline spray
+- [x] ibuprofen
+- [x] hydrocortizone
+- [x] floss
+- [x] nose drops 
+- [x] pill tray
+- [x] extra qtips
 - [ ] extra hair bands
-- [ ] wipes
+- [x] wipes
 
 ## Black bag
 
-- [ ] water flosser
-- [ ] deoderant 
-- [ ] toothpaste
-- [ ] tooth brush
-- [ ] hair brush
-- [ ] pill bag
+- [x] water flosser
+- [x] deoderant 
+- [x] toothpaste
+- [x] tooth brush
+- [x] hair brush
 
 ## medicine kit
-- [ ] tape
-- [ ] gauze
-- [ ] scissors
-- [ ] antibiotic
-- [ ] band-aids
-- [ ] tweezers
+- [x] tape
+- [x] gauze
+- [x] scissors
+- [x] antibiotic
+- [x] band-aids
+- [x] tweezers
 - [ ] betamethasone
-- [ ] Keto... for ecsema
-- [ ] hydrocortison
+- [x] Keto... for ecsema
+- [x] hydrocortison
 
 # Clothes
-- [ ] Dress shirt / slacks
-- [ ] Shirts
-	- [ ] 2 long sleeve t shirt
-	- [ ] Long-sleeved collars
-		- [ ] Black dress
-	- [ ] Short-sleeved
-		- [ ] polo style shirt
-		- [ ] Mike shirts (2)
-- [ ] Underwear (4)
-- [ ] handkerchief (4)
-- [ ] Pants
+- [x] Dress shirt / slacks
+- [x] Shirts
+	- [x] 2 long sleeve t shirt
+	- [x] Long-sleeved collars
+		- [x] Black dress
+	- [x] Short-sleeved
+		- [x] polo style shirt
+		- [x] Mike shirts (2)
+- [x] Underwear (4)
+- [x] handkerchief (4)
+- [x] Pants
 	- [ ] Eddie Bauer
 	- [ ] exercise style
 	- [ ] slacks
-- [ ] Shorts
+- [x] Shorts
 	- [ ] trunks style (2)
 	- [ ] swim 
-- [ ]  Shoes
+- [x]  Shoes
 	 - [ ] crocs  
 	 - [ ] sneakers
 # Winter weather
@@ -71,7 +70,7 @@
 - [ ] blue sweater
 # Technology
 
-- [ ] cords
+- [x] cords
 	- [ ] usbc
 	- [ ] apple
 	- [ ] hearing aids cord
