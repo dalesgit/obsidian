@@ -32,7 +32,7 @@
 	- ~~Beth fell, shoulder.~~
 	- Jane return of CA & Raymond, Jolene, Aaron: alienations
 	- Sean and Jolene: **4/22/23** anniversary
-	- Lydia, Emma
+	- Lydia: Job loss, teaching -- Emma: Mental Health, adoption
 - Friends
 	- Charlotte / Henry: Charlie, Jameson, (new child?)
 	- Loa & Scott; Brian -- recovery
