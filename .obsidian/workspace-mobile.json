@@ -1,13 +1,14 @@
 {
   "main": {
-    "id": "c25dd07fa9b2888b",
+    "id": "842c0d03ec590b27",
     "type": "split",
     "children": [
       {
-        "id": "8e0be907fce782eb",
+        "id": "b6efdc016c4327f5",
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "ad7f16addbc4d5b2",
             "type": "leaf",
             "state": {
@@ -26,20 +27,31 @@
             "state": {
               "type": "empty",
               "state": {}
+=======
+            "id": "2581931ff991c77b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Prayers.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+>>>>>>> 5815565dd6488a71b821fa93fc96e452b93f2bd7
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "cae5c369da5de8e9",
+    "id": "bc59a24ad31b4f6b",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "c1e18c945492403d",
+        "id": "70ed503ef4bf5d3f",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -49,7 +61,7 @@
         }
       },
       {
-        "id": "c644a49d77d91603",
+        "id": "10abdc92c2c63810",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -64,7 +76,7 @@
         }
       },
       {
-        "id": "d6778a180178a6d2",
+        "id": "2eb2058d1eb51db0",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -75,7 +87,7 @@
         }
       },
       {
-        "id": "8a6b1a9d410cdd03",
+        "id": "bc78b974823d8008",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -86,11 +98,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "c017f58b1341188a",
+    "id": "f71c84c35ca8ae5b",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "43bfebe3a6c2a09b",
+        "id": "c3f91d2f8f271025",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -98,7 +110,7 @@
         }
       },
       {
-        "id": "0a8df8abbd60af0e",
+        "id": "224c4792eca03b9b",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -114,7 +126,7 @@
         }
       },
       {
-        "id": "1441d9fc4969454a",
+        "id": "878ac6d95f723bdd",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -125,7 +137,7 @@
         }
       },
       {
-        "id": "0b4ab31da8bd7997",
+        "id": "261c1de81cbca623",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -146,11 +158,21 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "5a8d74f6735e2211",
+=======
+  "active": "2581931ff991c77b",
+>>>>>>> 5815565dd6488a71b821fa93fc96e452b93f2bd7
   "lastOpenFiles": [
     "pages/naples-april-2024.md",
     "pages/Prayers.md",
     "pages/Prayer list.md",
+<<<<<<< HEAD
     "past/Prayer list.md"
+=======
+    "pages/Diamond-HGV.md",
+    "pages/new-security.md",
+    "pages/keep-security-index.md"
+>>>>>>> 5815565dd6488a71b821fa93fc96e452b93f2bd7
   ]
 }
