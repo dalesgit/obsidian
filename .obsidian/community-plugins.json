@@ -4,9 +4,9 @@
   "note-refactor-obsidian",
   "templater-obsidian",
   "obsidian-timestamper",
-  "obsidian-git",
   "obsidian-pandoc",
   "obsidian-languagetool-plugin",
   "wikilinks-to-mdlinks-obsidian",
-  "tag-wrangler"
+  "tag-wrangler",
+  "obsidian-footnotes"
 ]
