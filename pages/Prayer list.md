@@ -5,12 +5,17 @@
 ## Recent 
 - Current
 	- waiting for God to show me my calling now in Florida. (git-journal) spiritual direction 
-	- Cyndi and Brian,  hospice
+	- Trish and Mack, Hildy and Charlie, Marlene visit to Naples
+	- Dayspring: Word and Water retreat 4/26-7
+	- Tom's support for MP's group
+	- Cyndi (travel to Chicago) and Brian (**RIP 4/14/24**)
+	- Jolene surgery -- sucessful
 	- centering prayer at St Alfred's 
 	- people of Haiti. Gangs overrun. 
 	- Madison and Garret Hathaway
-	- Margaret talked into Thursday  mass
-	- MP mammogram, bone density, MRI
+	- MP MRI treatment: JC and Erin therapists, 
+	- Lydia traveling with us in Colorado
+	- ~~Margaret talked into Thursday  mass~~
 	- ~~Jolene's dog has diabetes~~
 	- ~~healing mass supply Mar 7~~
 	- ~~centering prayer workshop March 9~~
@@ -25,34 +30,36 @@
 	- refugees
 - Family
 	- ~~Beth fell, shoulder.~~
-	- Jane return of CA & Raymond, Jolene her surgery, Aaron: alienations
-	- Sean and Jolene 
-	- Lydia, Emma
+	- Jane return of CA & Raymond, Jolene, Aaron: alienations
+	- Sean and Jolene: **4/22/23** anniversary
+	- Lydia: Job loss, teaching -- Emma: Mental Health, adoption
 - Friends
 	- Charlotte / Henry: Charlie, Jameson, (new child?)
 	- Loa & Scott; Brian -- recovery
+- Sydney RIP -- caregiver Kathy (dtr)
 - Our membership at St. Alfred's
+	- ~~Gini brother suicide~~
+	- MP on the vestry
 	- discernment for using our gifts and talents in this place: 
 	- centering prayer at St. Alfred's; **ride the wave**
-	- Peter's discernment, centering prayer group, re Patti
+	- Peter's discernment, centering prayer group, re Patti Reddick
 	- Marcus & Ginny: move to Sarasota, New College
-	- Zandy end stage glaucoma; surgery 11/2 2
+	- Zandy end stage glaucoma; trouble letting go; moving out of house
+	- Joyce: moving
 	- Daughters of the King prayer list
 	- Diane (and Sharren)
-	- ~~Gini brother suicide~~
 	- Carol Boyken, stage 4 uterine cancer, cancer free 7/23
 	- Manny, Liz moving
-	- Tricia macula degeneration diabetes, new job
+	- Tricia macular degeneration diabetes, new job, polyps in uterus, 
 	- DeeDee, Carol, Karen (new members DOK)
 	- Frank in caregivers group
-	- Jim & Susan: (going home?)
+	- Jim & Susan
 	- Jo Anderson, Diane Vetter (Lutheran), Bob and Debbie Woodward, Larry and Kathy Hooper. Larry Clement
 	- Patty
 	- Vincent, Larry, Richard, Eugene
 	- Doris asked Mary Pat if I had "ever met a stranger"
 	- Stephen and Priscilla Gill
 	- Agostino, DeeDee
-- Sydney RIP -- caregiver Kathy (dtr)
 
 ## Dale and Mary Pat
 
@@ -79,7 +86,7 @@
 	- Faith graduated, independence 
 - Joe (retirement)  Tami + mother RIP, Father still independent Joe b/day **Oct. 2, 1954**. Tami b/day **Nov 4, 1957** Anniv **Jul 19, 1986**
    - Zach & Keiko: Noah **Oct 2023**
-   - Gordy **3/11** & Kelly (**5/22** wedding) "Rostrom" girl baby due March 2024
+   - Gordy **3/11** & Kelly (**5/22** wedding) "Rostrom" girl baby born **March 11, 2024** Kinsley June
    - Sammy & Matt:  
       - Grady 
       - Jack: **Oct 2023**

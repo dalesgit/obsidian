@@ -1,9 +1,1 @@
 
-## Sacramental
-- 
-
-## Gratitude
-- 
-
-## Journal Entries
--  
