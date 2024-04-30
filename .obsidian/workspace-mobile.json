@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3fe64251e7f17221",
+        "id": "4d17c38e466d60b5",
         "type": "tabs",
         "children": [
           {
-            "id": "1f5c97462ee875e2",
+            "id": "991529334baea93c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/tiddly-notes/epiphany-coup-attempt.md",
+                "file": "pages/Prayers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "notes/tiddly-notes/epiphany-coup-attempt.md",
+            "file": "pages/Prayers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "notes/tiddly-notes/epiphany-coup-attempt.md",
+            "file": "pages/Prayers.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "notes/tiddly-notes/epiphany-coup-attempt.md"
+            "file": "pages/Prayers.md"
           }
         }
       }
@@ -141,10 +141,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f5c97462ee875e2",
+  "active": "991529334baea93c",
   "lastOpenFiles": [
-    "pages/Prayers.md",
     "pages/Prayer list.md",
+    "notes/tiddly-notes/epiphany-coup-attempt.md",
+    "pages/Prayers.md",
     "past/Prayer list.md",
     "past/Prayers.md",
     "pages/new-security.md"
