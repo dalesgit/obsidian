@@ -148,7 +148,7 @@
 - Barb Belle
 - Liz and husband Norm (heart)
 -  Kathy Uchtman  
-- Sydney and Cathy
+- Sydney **RIP** and Cathy
 - Libby, Julie, Jim, John, Joe -- and John RIP
 - Juditha and Ron
 - Jan  & Charlie Grow
@@ -164,13 +164,13 @@
 
 - refugees
 - Health care workers
-- Equal Justice Initiative (Brian Stevens)
-- Chef Andrés: feeding the world: World Central Kitchens
+- **Equal Justice Initiative** (Brian Stevens)
+- Chef Andrés: feeding the world: **World Central Kitchens**
 - **Compassion International** cancel
-- Doctors without borders
-- Beyond Borders
-- Amazima: Katie & Benji & 14 children
-- Water.org
+- **Doctors without borders**
+- **Beyond Borders**
+- **Amazima**: Katie & Benji & 14 children
+- **Water.org**
 - racism of US
 - unemployed
 - Climate Change. Responsibility for our part of the globe.
