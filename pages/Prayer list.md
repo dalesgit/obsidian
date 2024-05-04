@@ -6,9 +6,10 @@
 - Current
 	- waiting for God to show me my calling now in Florida. (git-journal) spiritual direction 
 	- Trish and Mack, Hildy and Charlie, Marlene visit to Naples
-	- Dayspring: Word and Water retreat 4/26-7
+	- Memorial for Brian, Cynthia Marie
+	- ~~Dayspring: Word and Water retreat 4/26-7~~
+	- ~~Cyndi (travel to Chicago) and Brian (**RIP 4/14/24**)~~
 	- Tom's support for MP's group
-	- Cyndi (travel to Chicago) and Brian (**RIP 4/14/24**)
 	- Jolene surgery -- sucessful
 	- centering prayer at St Alfred's 
 	- people of Haiti. Gangs overrun. 
@@ -51,10 +52,11 @@
 	- Carol Boyken, stage 4 uterine cancer, cancer free 7/23
 	- Manny, Liz moving
 	- Tricia macular degeneration diabetes, new job, polyps in uterus, 
-	- DeeDee, Carol, Karen (new members DOK)
+	- DeeDee, Carol, 
+	- Karen Billings (new members DOK)
 	- Frank in caregivers group
 	- Jim & Susan
-	- Jo Anderson, Diane Vetter (Lutheran), Bob and Debbie Woodward, Larry and Kathy Hooper. Larry Clement
+	- Jo Anderson, Diane Vetter (Lutheran) -- for her extreme pain, Bob and Debbie Woodward, Larry and Kathy Hooper. Larry Clement
 	- Patty
 	- Vincent, Larry, Richard, Eugene
 	- Doris asked Mary Pat if I had "ever met a stranger"
@@ -127,17 +129,18 @@
     - Emelia: grown up
 ## Friends
 - ~~Tim Hendrix stage 3 throat cancer rip~~
-- ~~Terry **RIP**~~ and Andy
+- ~~Terry **RIP** and~~ Andy
+- Trish & Mack (Naples and Baltic cruise)
 - Becky, Piikea, Mia, 2 girls, David
 - Carolyn (husband RIP)
 - Mike and Martha Shrader: Mike formerly environmentalist with Duke
 - Christine -- CA; and Robert (retirement)
 - Hildy and Charley transition to Naples and assisted living
-- Hilda and Dan
+- Hilda and Dan: They are in touch with Mike
 - Tammy W. move to new house
 - Terry McCandliss, Bill Dowdel
-- Mike and Carol Epperley (dementia?)
-- Mark and Mary: retirement, Mark's stent and cauterizing treatment
+- Mike and Carol Epperley (dementia?): Move
+- Mark and Mary: retirement, Mark's stent and cauterizing treatment. Bicycle to Oregon (TransAmerica)
 - Barb & Ethan
 - Eugenia & Titus, loss of mother
 - Bud & Berta, mother RIP, brother
