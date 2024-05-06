@@ -48,7 +48,7 @@
 	- Zandy end stage glaucoma; trouble letting go; moving out of house
 	- Joyce: moving
 	- Daughters of the King prayer list
-	- Diane (and Sharren)
+	- Diane Linindol (and Sharren)
 	- Carol Boyken, stage 4 uterine cancer, cancer free 7/23
 	- Manny, Liz moving
 	- Tricia macular degeneration diabetes, new job, polyps in uterus, 
@@ -94,7 +94,7 @@
       - Jack: **Oct 2023**
 - Bob & Brenda [move to Florida] Bob b/day **Oct. 19, 1953** Brenda b/day **June 21, 1954**. Anniv **Jun 22, 1991**
    - Holly & Jonathan 
-   - Sarah, Josh, 
+   - Sarah **May 6, 1981**, Josh, 
       - Reed, Piper
 - Mike Mustard (RIP), Sherry and 
    - AJ + Melanie his guardian
