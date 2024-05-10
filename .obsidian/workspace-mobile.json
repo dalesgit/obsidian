@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4d17c38e466d60b5",
+        "id": "981e6ca9e594cb91",
         "type": "tabs",
         "children": [
           {
-            "id": "991529334baea93c",
+            "id": "8ae3887e81f34e2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Prayers.md",
+                "file": "pages/Prayer list.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/Prayers.md",
+            "file": "pages/Prayer list.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/Prayers.md",
+            "file": "pages/Prayer list.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/Prayers.md"
+            "file": "pages/Prayer list.md"
           }
         }
       }
@@ -141,10 +141,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "991529334baea93c",
+  "active": "8ae3887e81f34e2e",
   "lastOpenFiles": [
-    "pages/Prayer list.md",
     "pages/Prayers.md",
+    "pages/Prayer list.md",
     "notes/tiddly-notes/epiphany-coup-attempt.md",
     "past/Prayer list.md",
     "past/Prayers.md",

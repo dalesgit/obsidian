@@ -7,9 +7,10 @@
 	- waiting for God to show me my calling now in Florida. (git-journal) spiritual direction 
 	- Trish and Mack, Hildy and Charlie, Marlene visit to Naples
 	- Memorial for Brian, Cynthia Marie
+	- MP weight loss
 	- ~~Dayspring: Word and Water retreat 4/26-7~~
 	- ~~Cyndi (travel to Chicago) and Brian (**RIP 4/14/24**)~~
-	- Tom's support for MP's group
+	- Tom, Ed, Roxie  -- support for MP's group
 	- Jolene surgery -- sucessful
 	- centering prayer at St Alfred's 
 	- people of Haiti. Gangs overrun. 
@@ -60,7 +61,7 @@
 	- Patty
 	- Vincent, Larry, Richard, Eugene
 	- Doris asked Mary Pat if I had "ever met a stranger"
-	- Stephen and Priscilla Gill
+	- Stephen and Priscilla Gill -- to Rhode Island
 	- Agostino, DeeDee
 
 ## Dale and Mary Pat
@@ -92,7 +93,7 @@
    - Sammy & Matt:  
       - Grady 
       - Jack: **Oct 2023**
-- Bob & Brenda [move to Florida] Bob b/day **Oct. 19, 1953** Brenda b/day **June 21, 1954**. Anniv **Jun 22, 1991**
+- Bob & Brenda -- Bob b/day **Oct. 19, 1953** Brenda b/day **June 21, 1954**. Anniv **Jun 22, 1991**
    - Holly & Jonathan 
    - Sarah **May 6, 1981**, Josh, 
       - Reed, Piper
