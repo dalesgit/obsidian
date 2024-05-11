@@ -1,65 +1,51 @@
 {
   "main": {
-    "id": "fab83061337a7ceb",
+    "id": "ac840d00bcdd9e3d",
     "type": "split",
     "children": [
       {
-        "id": "81dbac282da2932a",
+        "id": "981e6ca9e594cb91",
         "type": "tabs",
         "children": [
           {
-            "id": "6bb4e23a96caa058",
+            "id": "8ae3887e81f34e2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2024_04_25.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26384b273f70d25b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Prayers.md",
+                "file": "pages/Prayer list.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5f32b0d1992fbe6a",
+    "id": "8ee67ddea590a50f",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "55b34c3c0e0ee735",
+        "id": "70e8aa2af9124cf7",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "byModifiedTime"
+            "sortOrder": "alphabetical"
           }
         }
       },
       {
-        "id": "4c6de06b0b59c831",
+        "id": "a2003d06e0fc639c",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "security",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -69,7 +55,7 @@
         }
       },
       {
-        "id": "f5c802175164e71f",
+        "id": "6913be8d5ece69c7",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -80,7 +66,7 @@
         }
       },
       {
-        "id": "6cfed437696e2063",
+        "id": "3f4bd171c934ae73",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -88,14 +74,14 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
-    "id": "b858615769bda072",
+    "id": "014a77d2d66a3082",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "48de0a62714478df",
+        "id": "75101b3510be28a1",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -103,12 +89,12 @@
         }
       },
       {
-        "id": "7bc6a1f0271e5596",
+        "id": "0044e5223568fcd9",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/Prayers.md",
+            "file": "pages/Prayer list.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -120,24 +106,24 @@
         }
       },
       {
-        "id": "93916c28759b71c4",
+        "id": "9aeb543c4cd7a39a",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/Prayers.md",
+            "file": "pages/Prayer list.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "11f339d65ee80475",
+        "id": "f64937c3c00d1add",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/Prayers.md"
+            "file": "pages/Prayer list.md"
           }
         }
       }
@@ -155,26 +141,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26384b273f70d25b",
+  "active": "8ae3887e81f34e2e",
   "lastOpenFiles": [
-    "pages/Prayer list.md",
-    "pages/Seder lesson plan.md",
-    "journals/2024_04_25.md",
     "pages/Prayers.md",
-    "journals/2024_04_22.md",
-    "pages/Native American environment practices.md",
-    "Assets/Pasted image 20240423000747.png",
-    "Assets/Pasted image 20240423000719.png",
-    "Assets/Pasted image 20240423000653.png",
-    "Assets/Pasted image 20240423000626.png",
-    "Assets/Pasted image 20240423000602.png",
-    "Assets/Pasted image 20240423000550.png",
-    "Assets/Pasted image 20240423000522.png",
-    "Assets/Pasted image 20240423000445.png",
-    "Assets/Pasted image 20240423000405.png",
-    "Assets/Pasted image 20240423000334.png",
-    "journals/2024_04_23.md",
-    "pages/Best Obsidian plugins.md",
-    "past/Prayer list.md"
+    "pages/Prayer list.md",
+    "notes/tiddly-notes/epiphany-coup-attempt.md",
+    "past/Prayer list.md",
+    "past/Prayers.md",
+    "pages/new-security.md"
   ]
 }
