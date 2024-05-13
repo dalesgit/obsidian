@@ -5,9 +5,10 @@
 ## Recent 
 - Current
 	- waiting for God to show me my calling now in Florida. (git-journal) spiritual direction 
-	- Trish and Mack, Hildy and Charlie, Marlene visit to Naples
-	- Memorial for Brian, Cynthia Marie
-	- MP weight loss
+	- Trish and Mack, Hildy and Charlie, Marlene ~~visit to Naples~~
+	- ~~Memorial for~~ Brian RIP
+	- Cynthia Marie
+	- MP weight loss Erin & JC
 	- ~~Dayspring: Word and Water retreat 4/26-7~~
 	- ~~Cyndi (travel to Chicago) and Brian (**RIP 4/14/24**)~~
 	- Tom, Ed, Roxie  -- support for MP's group
