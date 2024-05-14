@@ -1,16 +1,26 @@
-# Prayer List
-
 [[Prayers]]
 
+## After lectio
+
+**Closing Prayer**: Almighty God, thank you for the gift of resting with your Word. May we take the phrase, sentence, or even one word that spoke to us and the prayer that came from our hearts into the activity of our day as a reminder of our genuine desire to consent to your presence and action in our lives.
+
+We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
 ## Recent 
+
 - Current
-	- waiting for God to show me my calling now in Florida. (git-journal) spiritual direction 
-	- Trish and Mack, Hildy and Charlie, Marlene ~~visit to Naples~~
 	- ~~Memorial for~~ Brian RIP
-	- Cynthia Marie
-	- MP weight loss Erin & JC
 	- ~~Dayspring: Word and Water retreat 4/26-7~~
 	- ~~Cyndi (travel to Chicago) and Brian (**RIP 4/14/24**)~~
+	- ~~Margaret talked into Thursday  mass~~
+	- ~~Jolene's dog has diabetes~~
+	- ~~healing mass supply Mar 7~~
+	- ~~centering prayer workshop March 9~~
+	- ~~Georgia Mtns: Judges & Christine/Robert~~
+	- ~~Dinner with parishioners, Priscilla/ Steve, Kathy Raker. Hooper.~~
+	- waiting for God to show me my calling now in Florida. (git-journal) spiritual direction 
+	- Trish and Mack, Hildy and Charlie, Marlene ~~visit to Naples~~
+	- Cynthia Marie
+	- MP weight loss Erin & JC
 	- Tom, Ed, Roxie  -- support for MP's group
 	- Jolene surgery -- sucessful
 	- centering prayer at St Alfred's 
@@ -18,12 +28,6 @@
 	- Madison and Garret Hathaway
 	- MP MRI treatment: JC and Erin therapists, 
 	- Lydia traveling with us in Colorado
-	- ~~Margaret talked into Thursday  mass~~
-	- ~~Jolene's dog has diabetes~~
-	- ~~healing mass supply Mar 7~~
-	- ~~centering prayer workshop March 9~~
-	- ~~Georgia Mtns: Judges & Christine/Robert~~
-	- ~~Dinner with parishioners, Priscilla/ Steve, Kathy Raker. Hooper.~~
 - Tyrants of the world
 - Wars: Israel, Gaza, Ukraine, Sudan
 - earthquakes: Morroco, Lybia, Afghanistan, Taiwan
