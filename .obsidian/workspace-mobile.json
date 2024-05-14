@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Prayers.md",
+                "file": "pages/Prayer list.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/Prayers.md",
+            "file": "pages/Prayer list.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/Prayers.md",
+            "file": "pages/Prayer list.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/Prayers.md"
+            "file": "pages/Prayer list.md"
           }
         }
       }
@@ -143,8 +143,8 @@
   },
   "active": "8ae3887e81f34e2e",
   "lastOpenFiles": [
-    "pages/Prayer list.md",
     "pages/Prayers.md",
+    "pages/Prayer list.md",
     "notes/tiddly-notes/epiphany-coup-attempt.md",
     "past/Prayer list.md",
     "past/Prayers.md",
