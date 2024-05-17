@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Prayers.md",
+                "file": "journals/2024_05_15.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/Prayers.md",
+            "file": "journals/2024_05_15.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/Prayers.md",
+            "file": "journals/2024_05_15.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/Prayers.md"
+            "file": "journals/2024_05_15.md"
           }
         }
       }
@@ -145,6 +145,7 @@
   "active": "8ae3887e81f34e2e",
   "lastOpenFiles": [
     "pages/Prayer list.md",
+    "journals/2024_05_15.md",
     "pages/Prayers.md",
     "notes/tiddly-notes/epiphany-coup-attempt.md",
     "past/Prayer list.md",
