@@ -74,7 +74,8 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 1,
+    "pinned": true
   },
   "right": {
     "id": "014a77d2d66a3082",
