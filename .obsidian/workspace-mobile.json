@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2024_05_15.md",
+                "file": "pages/Minestrone in instant pot.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -74,7 +74,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "014a77d2d66a3082",
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journals/2024_05_15.md",
+            "file": "pages/Minestrone in instant pot.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "journals/2024_05_15.md",
+            "file": "pages/Minestrone in instant pot.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "journals/2024_05_15.md"
+            "file": "pages/Minestrone in instant pot.md"
           }
         }
       }
@@ -143,9 +143,14 @@
   },
   "active": "8ae3887e81f34e2e",
   "lastOpenFiles": [
-    "pages/Prayer list.md",
-    "journals/2024_05_15.md",
+    "journals/2024_05_21.md",
+    "pages/Minestrone in instant pot.md",
+    "journals/2024_05_20.md",
+    "pages/Alito Thomas Feminists.md",
+    "pages/Thought termination cliches.md",
     "pages/Prayers.md",
+    "journals/2024_05_15.md",
+    "pages/Prayer list.md",
     "notes/tiddly-notes/epiphany-coup-attempt.md",
     "past/Prayer list.md",
     "past/Prayers.md",
