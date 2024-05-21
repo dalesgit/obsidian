@@ -22,12 +22,13 @@ We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
 	- Cynthia Marie
 	- MP weight loss Erin & JC, prep for surgery later in the summer
 	- MP MRI treatment: JC and Erin therapists, 
-	- Tom, Ed, Roxie  -- support for MP's group
+	- Tom, Ed (hip replacement 5/21), Tony (8 day silent retreat 5/21), Roxie  -- support for MP's group
 	- Jolene surgery -- sucessful
 	- centering prayer at St Alfred's 
 	- people of Haiti. Gangs overrun. 
 	- Madison and Garret Hathaway
 	- Lydia traveling with us in Colorado
+	- Mark and Mary biking across country
 - Tyrants of the world
 - Wars: Israel, Gaza, Ukraine, Sudan
 - earthquakes: Morroco, Lybia, Afghanistan, Taiwan
