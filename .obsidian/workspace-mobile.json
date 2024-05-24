@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Prayer list.md",
+                "file": "journals/2024_05_21.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,7 +45,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#kitchen",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/Prayer list.md",
+            "file": "journals/2024_05_21.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/Prayer list.md",
+            "file": "journals/2024_05_21.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/Prayer list.md"
+            "file": "journals/2024_05_21.md"
           }
         }
       }
@@ -143,8 +143,8 @@
   },
   "active": "e4d40702182f3440",
   "lastOpenFiles": [
-    "journals/2024_05_21.md",
     "journals/2024_05_20.md",
+    "journals/2024_05_21.md",
     "pages/Minestrone in instant pot.md"
   ]
 }

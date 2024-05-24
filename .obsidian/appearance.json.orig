@@ -1,12 +1,13 @@
 {
-  "accentColor": "",
 <<<<<<< HEAD
-  "cssTheme": "Minimal",
-  "theme": "moonstone",
-  "textFontFamily": "Georgia,Liberation Serif",
-  "baseFontSize": 17
+  "accentColor": "",
+  "cssTheme": "Blue Topaz",
+  "theme": "obsidian",
 =======
-  "textFontFamily": "Baskerville",
-  "cssTheme": "Blue Topaz"
->>>>>>> c1ef0652065126ba7b7c6f2430e90a53da39511f
+  "cssTheme": "",
+  "theme": "moonstone",
+>>>>>>> d8a85d60a30576a540f67caf45d348a9433b9949
+  "textFontFamily": "Georgia,Liberation Serif",
+  "baseFontSize": 17,
+  "accentColor": ""
 }

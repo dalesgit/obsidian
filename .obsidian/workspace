@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "2b18157ecf2e6845",
+        "id": "dd15f2bfc259eabf",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journals/2022_10_15.md",
-            "mode": "source",
+            "file": "pages/Prayers.md",
+            "mode": "preview",
+            "backlinks": true,
             "source": false
           }
         }
@@ -77,7 +78,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journals/2022_10_15.md",
+            "file": "pages/Prayers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "journals/2022_10_15.md",
+            "file": "pages/Prayers.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -106,24 +107,32 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "journals/2022_10_15.md"
+            "file": "pages/Prayers.md"
           }
+        }
+      },
+      {
+        "id": "f80fda1d25b95858",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
-  "active": "2b18157ecf2e6845",
+  "active": "dd15f2bfc259eabf",
   "lastOpenFiles": [
-    "journals/2022_10_18.md",
+    "pages/Prayer list.md",
+    "journals/2024_05_21.md",
+    "Octavia Butler on the Meaning of God.md",
     "journals/2022_10_15.md",
+    "journals/2022_10_18.md",
     "pages/fathers.emma.emma-story.md",
     "pages/spiritual-director.linda-serepca.md",
     "pages/notes%2Fjournal.md",
     "emma-story.md",
-    "notes/daily-notes.2022-08-06.md",
-    "2022-10-13.md",
-    "notes/fathers.emma.emma-story.md",
-    "notes/clearwater-deanery.md"
+    "notes/daily-notes.2022-08-06.md"
   ]
 }

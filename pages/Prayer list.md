@@ -17,11 +17,12 @@ We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
 	- ~~centering prayer workshop March 9~~
 	- ~~Georgia Mtns: Judges & Christine/Robert~~
 	- ~~Dinner with parishioners, Priscilla/ Steve, Kathy Raker. Hooper.~~
+	- Peg in hospice
 	- waiting for God to show me my calling now in Florida. (git-journal) spiritual direction 
 	- Trish and Mack, Hildy and Charlie, Marlene ~~visit to Naples~~
 	- Cynthia Marie
 	- MP weight loss Erin & JC, prep for surgery later in the summer
-	- MP MRI treatment: JC and Erin therapists, 
+	- MP MRI treatment: JC and Erin therapists, **do exercises** 
 	- Tom, Ed (hip replacement 5/21), Tony (8 day silent retreat 5/21), Roxie  -- support for MP's group
 	- Jolene surgery -- sucessful
 	- centering prayer at St Alfred's 
@@ -176,7 +177,7 @@ We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
 - Health care workers
 - **Equal Justice Initiative** (Brian Stevens)
 - Chef Andrés: feeding the world: **World Central Kitchens**
-- **Compassion International** cancel
+- ~~Compassion International cancel~~
 - **Doctors without borders**
 - **Beyond Borders**
 - **Amazima**: Katie & Benji & 14 children
