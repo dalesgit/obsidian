@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Prayer list.md",
-            "mode": "source",
+            "file": "pages/Prayers.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -78,7 +78,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/Prayer list.md",
+            "file": "pages/Prayers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/Prayer list.md",
+            "file": "pages/Prayers.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +107,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/Prayer list.md"
+            "file": "pages/Prayers.md"
           }
         }
       },
@@ -124,6 +124,7 @@
   },
   "active": "dd15f2bfc259eabf",
   "lastOpenFiles": [
+    "pages/Prayer list.md",
     "journals/2024_05_21.md",
     "Octavia Butler on the Meaning of God.md",
     "journals/2022_10_15.md",
@@ -132,7 +133,6 @@
     "pages/spiritual-director.linda-serepca.md",
     "pages/notes%2Fjournal.md",
     "emma-story.md",
-    "notes/daily-notes.2022-08-06.md",
-    "2022-10-13.md"
+    "notes/daily-notes.2022-08-06.md"
   ]
 }
