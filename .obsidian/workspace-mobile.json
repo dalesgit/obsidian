@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e0f1e86dfae5e032",
+        "id": "9ff7e51aa2f6293b",
         "type": "tabs",
         "children": [
           {
-            "id": "e4d40702182f3440",
+            "id": "ec07139fe575b3c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journals/2024_05_21.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -45,7 +40,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#packing",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -74,7 +69,7 @@
         }
       }
     ],
-    "currentTab": 1,
+    "currentTab": 0,
     "pinned": true
   },
   "right": {
@@ -95,7 +90,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journals/2024_05_21.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "journals/2024_05_21.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,9 +116,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "journals/2024_05_21.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -142,10 +133,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4d40702182f3440",
+  "active": "ec07139fe575b3c3",
   "lastOpenFiles": [
-    "journals/2024_05_20.md",
+    "pages/georgia-mountains.md",
+    "pages/miami-family-trip.md",
+    "journals/2024_05_25.md",
     "journals/2024_05_21.md",
+    "journals/2024_05_20.md",
     "pages/Minestrone in instant pot.md"
   ]
 }

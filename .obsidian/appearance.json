@@ -2,5 +2,6 @@
   "cssTheme": "Blue Topaz",
   "theme": "obsidian",
   "textFontFamily": "Georgia,Liberation Serif",
-  "baseFontSize": 17
+  "baseFontSize": 17,
+  "accentColor": ""
 }
