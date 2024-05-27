@@ -111,7 +111,7 @@ We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
 
 ### DH family
 - Bill / Karla: possible move, Karla's health, Bill's health Bill **2/10/54**
-- David / Laura: (wedding, move) **David 3/11/60**
+- David / Laura: (wedding, move) **David 3/11/60** Laura: T's death, her birthday **May 23**
 - Shirley & Paul Shirley b/day **Nov 8, 1951**
     - Logan - (spouse)
     - Katrina (spouse? daughter?)

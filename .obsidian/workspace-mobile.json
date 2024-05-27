@@ -11,8 +11,13 @@
             "id": "ec07139fe575b3c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pages/Prayers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "pages/Prayers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "pages/Prayers.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -116,7 +123,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "pages/Prayers.md"
+          }
         }
       }
     ],
@@ -135,6 +144,7 @@
   },
   "active": "ec07139fe575b3c3",
   "lastOpenFiles": [
+    "pages/Prayer list.md",
     "pages/georgia-mountains.md",
     "pages/miami-family-trip.md",
     "journals/2024_05_25.md",
