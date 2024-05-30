@@ -137,7 +137,7 @@ Amen
 
 
 
-## **Venite**
+## Venite
 
 Come, sing with **joy** to God,  
 shout to our sav**ior**, our rock.  
@@ -172,7 +172,7 @@ They shall not en**ter** my rest."
 
 ---------
 
-## **Phos Hilaron**
+## Phos Hilaron
 
 ![](https://drive.google.com/uc?export=view&id=12177P6Mh04aJh1wh29nCGp6ykf-_Aejx)
   

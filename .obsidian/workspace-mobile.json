@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "pages/Prayers.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -145,6 +145,7 @@
   "lastOpenFiles": [
     "pages/Prayer list.md",
     "pages/Prayers.md",
+    "journals/2024_05_30.md",
     "pages/georgia-mountains.md",
     "pages/miami-family-trip.md",
     "journals/2024_05_25.md",
