@@ -17,13 +17,13 @@ We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
 	- ~~centering prayer workshop March 9~~
 	- ~~Georgia Mtns: Judges & Christine/Robert~~
 	- ~~Dinner with parishioners, Priscilla/ Steve, Kathy Raker. Hooper.~~
-	- Peg in hospice
+	- Peg RIP 6/1/24 in hospice
 	- waiting for God to show me my calling now in Florida. (git-journal) spiritual direction 
 	- Trish and Mack, Hildy and Charlie, Marlene ~~visit to Naples~~
 	- Cynthia Marie
 	- MP weight loss Erin & JC, prep for surgery later in the summer
 	- MP MRI treatment: JC and Erin therapists, **do exercises** 
-	- Tom, Ed (hip replacement 5/21), Tony (8 day silent retreat 5/21), Roxie  -- support for MP's group
+	- Tom, Ed (hip replacement 5/21), ~~Tony (8 day silent retreat 5/21)~~, Roxie  -- support for MP's group
 	- Jolene surgery -- sucessful
 	- centering prayer at St Alfred's 
 	- people of Haiti. Gangs overrun. 
@@ -193,7 +193,8 @@ We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
 - grocery workers
 
 
-[# Prayers](simplenote://note/2fc310504139472092d4e2d6cea51a5e)
+[Simplenote Prayers](simplenote://note/2fc310504139472092d4e2d6cea51a5e)
+[[pages/Prayers|Prayers]]
 
 
 # Archived
