@@ -11,8 +11,13 @@
             "id": "498bf65ced7af186",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pages/Prayers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "pages/Prayers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "pages/Prayers.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -116,7 +123,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "pages/Prayers.md"
+          }
         }
       }
     ],
@@ -135,8 +144,8 @@
   },
   "active": "498bf65ced7af186",
   "lastOpenFiles": [
-    "journals/2024_06_03.md",
     "pages/Prayer list.md",
+    "journals/2024_06_03.md",
     "pages/Prayers.md",
     "journals/2024_05_30.md",
     "pages/georgia-mountains.md",

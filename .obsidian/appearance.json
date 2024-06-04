@@ -1,7 +1,8 @@
 {
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "Things",
   "theme": "moonstone",
   "textFontFamily": "Georgia,Liberation Serif",
   "baseFontSize": 17,
-  "accentColor": ""
+  "accentColor": "",
+  "interfaceFontFamily": "Baskerville"
 }
