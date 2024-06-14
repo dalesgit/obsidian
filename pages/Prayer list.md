@@ -24,7 +24,7 @@ We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
 	- Cynthia Marie
 	- MP weight loss Erin & JC, prep for surgery later in the summer
 	- MP MRI treatment: JC and Erin therapists, **do exercises** 
-	- Tom, Ed (hip replacement 5/21), ~~Tony (8 day silent retreat 5/21)~~, Roxie  -- support for MP's group
+	- Tom, Ed (hip replacement 5/21), Tony ~~(8 day silent retreat 5/21)~~, Roxie  -- support for MP's group
 	- Jolene surgery -- sucessful
 	- centering prayer at St Alfred's 
 	- people of Haiti. Gangs overrun. 
@@ -54,7 +54,7 @@ We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
 	- centering prayer at St. Alfred's; **ride the wave**
 	- Peter's discernment, centering prayer group, re Patti Reddick
 	- Marcus & Ginny: move to Sarasota, New College
-	- Joyce: moving
+	- Joyce & Zandy: moving
 	- Daughters of the King prayer list
 		- Zandy end stage glaucoma; trouble letting go; moving out of house
 		- DeeDee, Carol, 
