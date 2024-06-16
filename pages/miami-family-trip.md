@@ -7,6 +7,9 @@
 - [ ] paper journal
 - [ ] Keating journal
 - [ ] Spiritual literacy
+- [ ] relocate timer
+- [ ] binoculars & lenses
+- [ ] extra glasses
 
 # Kitchen
 
@@ -15,6 +18,15 @@
 - [ ] sharpener
 - [ ] oatmeal
 - [ ] raisins, prunes
+- [ ] wine
+- [ ] gin
+- [ ] scotch
+- [ ] bags
+- [ ] aluminum foild
+- [ ] wrap
+- [ ] cheese
+- [ ] crackers
+- [ ] bread
 
 # Bathroom
 
@@ -29,7 +41,7 @@
 
 ## Black bag
 
-- [ ] water flosser
+- [ ] ~~water flosser~~
 - [ ] deoderant 
 - [ ] toothpaste
 - [ ] tooth brush
@@ -73,7 +85,7 @@
 	- [ ] apple
 	- [ ] hearing aids cord
 	- [ ] toothbrush charger
-	- [ ] flosser charger
+	- [ ] ~~flosser charger~~
 	- [ ] watch cord
 	- [ ] HP laptop (usbc)
 - [ ] devices

@@ -11,8 +11,13 @@
             "id": "ec07139fe575b3c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pages/miami-family-trip.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "pages/miami-family-trip.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "pages/miami-family-trip.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -116,7 +123,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "pages/miami-family-trip.md"
+          }
         }
       }
     ],
