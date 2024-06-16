@@ -1,0 +1,16 @@
+[
+  "calendar",
+  "music-code-blocks",
+  "note-refactor-obsidian",
+  "templater-obsidian",
+  "obsidian-timestamper",
+  "obsidian-pandoc",
+  "wikilinks-to-mdlinks-obsidian",
+  "tag-wrangler",
+<<<<<<< HEAD
+  "obsidian-footnotes"
+=======
+  "obsidian-footnotes",
+  "extract-url"
+>>>>>>> 0e06598f3bb5fc6f987bd5aacd34dea4fa288ea0
+]

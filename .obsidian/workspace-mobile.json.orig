@@ -4,16 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e0f1e86dfae5e032",
+        "id": "f493ddaf1fa687ee",
         "type": "tabs",
         "children": [
           {
-            "id": "e4d40702182f3440",
+            "id": "498bf65ced7af186",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Prayer list.md",
+<<<<<<< HEAD
+                "file": "pages/miami-family-trip.md",
+=======
+                "file": "pages/Prayers.md",
+>>>>>>> c88371742bd71f3d338cd11e983461e099b08dde
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#kitchen",
+            "query": "tag:#packing",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -74,11 +78,8 @@
         }
       }
     ],
-<<<<<<< HEAD
-    "currentTab": 1
-=======
-    "currentTab": 0
->>>>>>> d8a85d60a30576a540f67caf45d348a9433b9949
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "4c4d8dec4beca6c0",
@@ -98,7 +99,11 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/Prayer list.md",
+<<<<<<< HEAD
+            "file": "pages/miami-family-trip.md",
+=======
+            "file": "pages/Prayers.md",
+>>>>>>> c88371742bd71f3d338cd11e983461e099b08dde
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +120,11 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/Prayer list.md",
+<<<<<<< HEAD
+            "file": "pages/miami-family-trip.md",
+=======
+            "file": "pages/Prayers.md",
+>>>>>>> c88371742bd71f3d338cd11e983461e099b08dde
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +136,11 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/Prayer list.md"
+<<<<<<< HEAD
+            "file": "pages/miami-family-trip.md"
+=======
+            "file": "pages/Prayers.md"
+>>>>>>> c88371742bd71f3d338cd11e983461e099b08dde
           }
         }
       }
@@ -145,8 +158,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4d40702182f3440",
+  "active": "498bf65ced7af186",
   "lastOpenFiles": [
+    "pages/Prayer list.md",
+    "journals/2024_04_23.md",
+    "pages/Prayers.md",
+    "journals/2024_06_03.md",
+    "journals/2024_05_30.md",
+    "pages/georgia-mountains.md",
+    "pages/miami-family-trip.md",
+    "journals/2024_05_25.md",
     "journals/2024_05_21.md",
     "journals/2024_05_20.md",
     "pages/Minestrone in instant pot.md"
