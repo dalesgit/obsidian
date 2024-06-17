@@ -3,6 +3,7 @@
 
 [[Prayer list]]
 
+[[Wesley prayer]] 
 ## Benedictus Dominic
 
 Praise the Lord, the **God** of Israel,  
