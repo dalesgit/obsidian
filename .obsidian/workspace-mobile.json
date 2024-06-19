@@ -74,7 +74,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "4c4d8dec4beca6c0",
@@ -143,9 +144,10 @@
   },
   "active": "6e6144483de3f908",
   "lastOpenFiles": [
-    "pages/Wesley prayer.md",
-    "pages/Prayers.md",
     "pages/Prayer list.md",
+    "pages/Prayers.md",
+    "pages/keep-security-index.md",
+    "pages/Wesley prayer.md",
     "pages/miami-family-trip.md",
     "journals/2024_04_23.md",
     "journals/2024_06_03.md",
