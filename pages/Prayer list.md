@@ -8,16 +8,6 @@ We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
 ## Recent 
 
 - Current
-	- ~~Memorial for~~ Brian RIP
-	- ~~Dayspring: Word and Water retreat 4/26-7~~
-	- ~~Cyndi (travel to Chicago) and Brian (**RIP 4/14/24**)~~
-	- ~~Margaret talked into Thursday  mass~~
-	- ~~Jolene's dog has diabetes~~
-	- ~~healing mass supply Mar 7~~
-	- ~~centering prayer workshop March 9~~
-	- ~~Georgia Mtns: Judges & Christine/Robert~~
-	- ~~Dinner with parishioners, Priscilla/ Steve, Kathy Raker. Hooper.~~
-	- the Hathaway's ~~in reunion for Madison's wedding~~
 	- Peg RIP 6/1/24 ~~in hospice~~
 	- waiting for God to show me my calling now in Florida. (git-journal) spiritual direction 
 	- Trish and Mack, Hildy and Charlie, Marlene ~~visit to Naples~~
@@ -128,7 +118,7 @@ We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
    - ~~Eric 11 3/27/10~~
    - ~~Riley Daughter 15 6/12/06?~~
    - ~~Elisa Daughter 18 2/23/03~~
-- Emma & Dmitriy (Mitto) Mironichenko: living in SF, now in Portland? Emma **11/14/94**
+- Emma & Dmitriy (Mitto) Mironichenko: living in SF, now in Portland? Emma **11/14/94** In the process of divorce.
 - Miriam & Lee: Miriam **9/29/82**
    - River, River in 3rd grade In 20-21. River **8/26/2011**
    - Will.  Will begin KG Jan 2021. Will **11/3/2014**? 
@@ -199,6 +189,17 @@ We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
 
 
 # Archived
+- filed
+	- ~~Memorial for~~ Brian RIP
+	- ~~Dayspring: Word and Water retreat 4/26-7~~
+	- ~~Cyndi (travel to Chicago) and Brian (**RIP 4/14/24**)~~
+	- ~~Margaret talked into Thursday  mass~~
+	- ~~Jolene's dog has diabetes~~
+	- ~~healing mass supply Mar 7~~
+	- ~~centering prayer workshop March 9~~
+	- ~~Georgia Mtns: Judges & Christine/Robert~~
+	- ~~Dinner with parishioners, Priscilla/ Steve, Kathy Raker. Hooper.~~
+	- the Hathaway's ~~in reunion for Madison's wedding
 - RIP Steve Swanson -- Acute Myeloid Leukemia 4/20 life support
 - people of Haiti, refugees
 - Afghan refugees
