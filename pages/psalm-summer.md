@@ -1,6 +1,6 @@
 ### Psalm 133
 
-Ecce, quam bonum!
+*Ecce, quam bonum!*
 
 1. Oh, how good and **pleasant it is**, *  
 when brethren live together in **unity**!
