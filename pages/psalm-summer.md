@@ -1,15 +1,12 @@
-**Psalm 50:1-6**
-*Deus deorum*
+### Psalm 133
 
-1 The Lord, the God of gods, has **spoken**; *
-he has called the earth from the rising of the sun to its **setting**.
+Ecce, quam bonum!
 
-2 Out of Zion, perfect in its **beauty**, *
-God reveals himself in **glory**.
+1. Oh, how good and **pleasant it is**, *  
+when brethren live together in **unity**!
 
-3 Our God will come and will not keep **silence**; *
-before him there is a consuming flame,
-and round about him a raging **storm**.
+2. It is like fine oil upon the **head** *  
+that runs down upon the **beard**,
 ```music-abc
 X: 1
 T: Chant
@@ -21,15 +18,15 @@ V: 1 clef=treble
 V: 2 clef=bass
 [D, F,]4  [G,,G,] | [A,,E,]4 [D,D,] || [B,,B,]4 [F,,A,] | [G,,G,]4 [D,,A,] |]
 ```
-4 He calls the heavens and the earth from a**bove** *
-to witness the judgment of his **people**.
+3. Upon the beard of **Aaron**, *  
+and runs down upon the collar of his **robe**.
 
-5 "Gather before me my loyal **followers**, *
-those who have made a covenant with me
-and sealed it with **sacrifice**."
+4. It is like the dew of **Hermon** *  
+that falls upon the hills of **Zion**.
 
-6 Let the heavens declare the rightness of his **cause**; *
-for God himself is **judge**.
+5. For there the Lord has ordained the **blessing**: *  
+life for ever**more**.
+
 ## Blessing
 May Christ, the Son of God, be manifest in you, that your lives may be a light to the world; and the blessing of God Almighty, the Father, the Son, and the Holy Spirit, be among you, and remain with you always. **Amen**.
 
