@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "cbfceadd0ff5eb75",
+        "id": "30ee4438fe5d37fa",
         "type": "tabs",
         "children": [
           {
-            "id": "6e6144483de3f908",
+            "id": "8ddc1684bf844163",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/psalm-summer.md",
+                "file": "pages/Proper 8  Year B.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a5034dc87d8fad9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/2024_06_30.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/psalm-summer.md",
+            "file": "journals/2024_06_30.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/psalm-summer.md",
+            "file": "journals/2024_06_30.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/psalm-summer.md"
+            "file": "journals/2024_06_30.md"
           }
         }
       }
@@ -141,8 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e6144483de3f908",
+  "active": "0a5034dc87d8fad9",
   "lastOpenFiles": [
+    "pages/Proper 8  Year B.md",
+    "journals/2024_06_30.md",
+    "pages/psalm-summer.md",
     "pages/Prayers.md",
     "pages/Wesley prayer.md",
     "pages/Prayer list.md",
