@@ -13,6 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "pages/Minestrone in instant pot.md",
                 "file": "pages/Proper 8  Year B.md",
                 "mode": "source",
                 "backlinks": true,
@@ -114,7 +115,11 @@
         "state": {
           "type": "backlink",
           "state": {
+<<<<<<< HEAD
+            "file": "pages/Minestrone in instant pot.md",
+=======
             "file": "journals/2024_06_30.md",
+>>>>>>> be862851b3c1bd5549ebb8bd0219227418063cb0
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +136,11 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+<<<<<<< HEAD
+            "file": "pages/Minestrone in instant pot.md",
+=======
             "file": "journals/2024_06_30.md",
+>>>>>>> be862851b3c1bd5549ebb8bd0219227418063cb0
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -143,7 +152,11 @@
         "state": {
           "type": "outline",
           "state": {
+<<<<<<< HEAD
+            "file": "pages/Minestrone in instant pot.md"
+=======
             "file": "journals/2024_06_30.md"
+>>>>>>> be862851b3c1bd5549ebb8bd0219227418063cb0
           }
         }
       }
@@ -164,6 +177,8 @@
   },
   "active": "f0088f3fcf0eb47a",
   "lastOpenFiles": [
+<<<<<<< HEAD
+=======
     "pages/Proper 8  Year B.md",
     "journals/2024_06_30.md",
     "pages/psalm-summer.md",
@@ -177,6 +192,7 @@
     "journals/2024_05_30.md",
     "pages/georgia-mountains.md",
     "journals/2024_05_25.md",
+>>>>>>> be862851b3c1bd5549ebb8bd0219227418063cb0
     "journals/2024_05_21.md",
     "journals/2024_05_20.md",
     "pages/Minestrone in instant pot.md"

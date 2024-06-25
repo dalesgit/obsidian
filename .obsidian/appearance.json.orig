@@ -1,13 +1,12 @@
 {
-<<<<<<< HEAD
-  "accentColor": "",
-  "cssTheme": "Blue Topaz",
-  "theme": "obsidian",
-=======
-  "cssTheme": "",
+  "cssTheme": "Things",
   "theme": "moonstone",
->>>>>>> d8a85d60a30576a540f67caf45d348a9433b9949
   "textFontFamily": "Georgia,Liberation Serif",
+<<<<<<< HEAD
+  "baseFontSize": 17
+=======
   "baseFontSize": 17,
-  "accentColor": ""
+  "accentColor": "",
+  "interfaceFontFamily": "Baskerville"
+>>>>>>> be862851b3c1bd5549ebb8bd0219227418063cb0
 }

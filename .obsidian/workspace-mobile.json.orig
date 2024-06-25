@@ -4,27 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "f493ddaf1fa687ee",
+        "id": "30ee4438fe5d37fa",
         "type": "tabs",
         "children": [
           {
-            "id": "498bf65ced7af186",
+            "id": "8ddc1684bf844163",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
 <<<<<<< HEAD
-                "file": "pages/miami-family-trip.md",
+                "file": "pages/Minestrone in instant pot.md",
 =======
-                "file": "pages/Prayers.md",
->>>>>>> c88371742bd71f3d338cd11e983461e099b08dde
+                "file": "pages/Proper 8  Year B.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a5034dc87d8fad9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/2024_06_30.md",
+>>>>>>> be862851b3c1bd5549ebb8bd0219227418063cb0
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +92,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "4c4d8dec4beca6c0",
@@ -100,10 +113,10 @@
           "type": "backlink",
           "state": {
 <<<<<<< HEAD
-            "file": "pages/miami-family-trip.md",
+            "file": "pages/Minestrone in instant pot.md",
 =======
-            "file": "pages/Prayers.md",
->>>>>>> c88371742bd71f3d338cd11e983461e099b08dde
+            "file": "journals/2024_06_30.md",
+>>>>>>> be862851b3c1bd5549ebb8bd0219227418063cb0
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -121,10 +134,10 @@
           "type": "outgoing-link",
           "state": {
 <<<<<<< HEAD
-            "file": "pages/miami-family-trip.md",
+            "file": "pages/Minestrone in instant pot.md",
 =======
-            "file": "pages/Prayers.md",
->>>>>>> c88371742bd71f3d338cd11e983461e099b08dde
+            "file": "journals/2024_06_30.md",
+>>>>>>> be862851b3c1bd5549ebb8bd0219227418063cb0
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,10 +150,10 @@
           "type": "outline",
           "state": {
 <<<<<<< HEAD
-            "file": "pages/miami-family-trip.md"
+            "file": "pages/Minestrone in instant pot.md"
 =======
-            "file": "pages/Prayers.md"
->>>>>>> c88371742bd71f3d338cd11e983461e099b08dde
+            "file": "journals/2024_06_30.md"
+>>>>>>> be862851b3c1bd5549ebb8bd0219227418063cb0
           }
         }
       }
@@ -158,16 +171,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "498bf65ced7af186",
+  "active": "0a5034dc87d8fad9",
   "lastOpenFiles": [
-    "pages/Prayer list.md",
-    "journals/2024_04_23.md",
+<<<<<<< HEAD
+=======
+    "pages/Proper 8  Year B.md",
+    "journals/2024_06_30.md",
+    "pages/psalm-summer.md",
     "pages/Prayers.md",
+    "pages/Wesley prayer.md",
+    "pages/Prayer list.md",
+    "pages/keep-security-index.md",
+    "pages/miami-family-trip.md",
+    "journals/2024_04_23.md",
     "journals/2024_06_03.md",
     "journals/2024_05_30.md",
     "pages/georgia-mountains.md",
-    "pages/miami-family-trip.md",
     "journals/2024_05_25.md",
+>>>>>>> be862851b3c1bd5549ebb8bd0219227418063cb0
     "journals/2024_05_21.md",
     "journals/2024_05_20.md",
     "pages/Minestrone in instant pot.md"
