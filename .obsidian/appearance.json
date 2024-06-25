@@ -1,9 +1,1 @@
-{
-  "cssTheme": "Shimmering Focus",
-  "theme": "moonstone",
-  "textFontFamily": "Georgia,Liberation Serif",
-  "baseFontSize": 17
-  "baseFontSize": 17,
-  "accentColor": "",
-  "interfaceFontFamily": "Baskerville"
-}
+{}
