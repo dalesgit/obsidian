@@ -1,4 +1,11 @@
-## The collect
+---
+title: Proper 8b Sermon
+subtitle: Fr. Dale
+author: St. Alfred's Church
+date: June 29, 2024
+---
+
+# The collect
 
 The collects we pray at the beginning of the liturgy have a particular form. 
 
@@ -80,4 +87,8 @@ We stand on the shoulders not just of Jesus. We are also inheritors of the faith
 ## Closing
 
 Recent weeks I have heard some members of the congregation wonder how and what we can do in the face of the world's great needs. The good news we are presented with today is that it's not all on us. There is a great cloud of witnesses preceding us and then equal number will follow. The church united in the Spirit we have inherited from those before, looking for all the world like you and me, is only asked to bear the burden handed down to us. What can one person do? a singer asks. We can do what is given to us to do. 
+
+> What God may hereafter require of you, you must not give yourself the least trouble about. Everything He gives you to do, you must do as well as ever you can. That is the best possible preparation for what He may want you to do next. If people would but do what they have to do, they would always find themselves ready for what came next.
+
+*George MacDonald*
 
