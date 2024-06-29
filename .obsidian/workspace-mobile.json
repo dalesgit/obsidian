@@ -1,19 +1,38 @@
 {
   "main": {
-    "id": "ac840d00bcdd9e3d",
+    "id": "030ee7e88ce7fac7",
     "type": "split",
     "children": [
       {
-        "id": "981e6ca9e594cb91",
+        "id": "e8ebb3e52de516d3",
         "type": "tabs",
         "children": [
           {
-            "id": "8ae3887e81f34e2e",
+            "id": "8040ee4db8d7673b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Prayer list.md",
+                "file": "pages/proper 8 draft 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f4e85fb28502877a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "944ff36829304e8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Proper 8  Year B.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,26 +45,26 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8ee67ddea590a50f",
+    "id": "37215807611201a2",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "70e8aa2af9124cf7",
+        "id": "5c2bcd9e3a538499",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "byModifiedTime"
           }
         }
       },
       {
-        "id": "a2003d06e0fc639c",
+        "id": "07c11ec2ad4689ae",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "security",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -55,7 +74,7 @@
         }
       },
       {
-        "id": "6913be8d5ece69c7",
+        "id": "09086e9d29847a04",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -66,7 +85,7 @@
         }
       },
       {
-        "id": "3f4bd171c934ae73",
+        "id": "0eaff16472bd3129",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -74,14 +93,15 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
-    "id": "014a77d2d66a3082",
+    "id": "fdf6f018d28edc05",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "75101b3510be28a1",
+        "id": "5dc56595c846762d",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -89,12 +109,12 @@
         }
       },
       {
-        "id": "0044e5223568fcd9",
+        "id": "4e50a6e1747463dc",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/Prayer list.md",
+            "file": "pages/proper 8 draft 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -106,33 +126,35 @@
         }
       },
       {
-        "id": "9aeb543c4cd7a39a",
+        "id": "0481aba9517eec95",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/Prayer list.md",
+            "file": "pages/proper 8 draft 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "f64937c3c00d1add",
+        "id": "916ccf6e40144c54",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/Prayer list.md"
+            "file": "pages/proper 8 draft 1.md"
           }
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "templater-obsidian:Templater": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -141,13 +163,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ae3887e81f34e2e",
+  "active": "8040ee4db8d7673b",
   "lastOpenFiles": [
-    "pages/Prayers.md",
-    "pages/Prayer list.md",
-    "notes/tiddly-notes/epiphany-coup-attempt.md",
-    "past/Prayer list.md",
-    "past/Prayers.md",
-    "pages/new-security.md"
+    "pages/Proper 8  Year B.md",
+    "pages/proper 8 draft 1.md",
+    "journals/2024_06_26.md",
+    "journals/2024_06_30.md"
   ]
 }

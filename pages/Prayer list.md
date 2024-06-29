@@ -1,28 +1,26 @@
-# Prayer List
-
 [[Prayers]]
 
+## After lectio
+
+**Closing Prayer**: Almighty God, thank you for the gift of resting with your Word. May we take the phrase, sentence, or even one word that spoke to us and the prayer that came from our hearts into the activity of our day as a reminder of our genuine desire to consent to your presence and action in our lives.
+
+We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
 ## Recent 
+
 - Current
+	- Peg RIP 6/1/24 ~~in hospice~~
 	- waiting for God to show me my calling now in Florida. (git-journal) spiritual direction 
-	- Trish and Mack, Hildy and Charlie, Marlene visit to Naples
-	- Memorial for Brian, Cynthia Marie
-	- MP weight loss
-	- ~~Dayspring: Word and Water retreat 4/26-7~~
-	- ~~Cyndi (travel to Chicago) and Brian (**RIP 4/14/24**)~~
-	- Tom, Ed, Roxie  -- support for MP's group
+	- Trish and Mack, Hildy and Charlie, Marlene ~~visit to Naples~~
+	- Cynthia Marie
+	- MP weight loss Erin & JC, prep for surgery later in the summer
+	- MP MRI treatment: JC and Erin therapists, **do exercises** 
+	- Tom, Ed (hip replacement 5/21), Tony ~~(8 day silent retreat 5/21)~~, Roxie  -- support for MP's group
 	- Jolene surgery -- sucessful
 	- centering prayer at St Alfred's 
 	- people of Haiti. Gangs overrun. 
 	- Madison and Garret Hathaway
-	- MP MRI treatment: JC and Erin therapists, 
 	- Lydia traveling with us in Colorado
-	- ~~Margaret talked into Thursday  mass~~
-	- ~~Jolene's dog has diabetes~~
-	- ~~healing mass supply Mar 7~~
-	- ~~centering prayer workshop March 9~~
-	- ~~Georgia Mtns: Judges & Christine/Robert~~
-	- ~~Dinner with parishioners, Priscilla/ Steve, Kathy Raker. Hooper.~~
+	- Mark and Mary biking across country
 - Tyrants of the world
 - Wars: Israel, Gaza, Ukraine, Sudan
 - earthquakes: Morroco, Lybia, Afghanistan, Taiwan
@@ -46,15 +44,15 @@
 	- centering prayer at St. Alfred's; **ride the wave**
 	- Peter's discernment, centering prayer group, re Patti Reddick
 	- Marcus & Ginny: move to Sarasota, New College
-	- Zandy end stage glaucoma; trouble letting go; moving out of house
-	- Joyce: moving
+	- Joyce & Zandy: moving
 	- Daughters of the King prayer list
-	- Diane Linindol (and Sharren)
-	- Carol Boyken, stage 4 uterine cancer, cancer free 7/23
+		- Zandy end stage glaucoma; trouble letting go; moving out of house
+		- DeeDee, Carol, 
+		- Diane Linindol (and Sharren)
+		- Carol Boyken, stage 4 uterine cancer, cancer free 7/23
+		- Karen Billings (new members DOK)
 	- Manny, Liz moving
 	- Tricia macular degeneration diabetes, new job, polyps in uterus, 
-	- DeeDee, Carol, 
-	- Karen Billings (new members DOK)
 	- Frank in caregivers group
 	- Jim & Susan
 	- Jo Anderson, Diane Vetter (Lutheran) -- for her extreme pain, Bob and Debbie Woodward, Larry and Kathy Hooper. Larry Clement
@@ -104,7 +102,7 @@
 
 ### DH family
 - Bill / Karla: possible move, Karla's health, Bill's health Bill **2/10/54**
-- David / Laura: (wedding, move) **David 3/11/60**
+- David / Laura: (wedding, move) **David 3/11/60** Laura: T's death, her birthday **May 23**
 - Shirley & Paul Shirley b/day **Nov 8, 1951**
     - Logan - (spouse)
     - Katrina (spouse? daughter?)
@@ -120,7 +118,7 @@
    - ~~Eric 11 3/27/10~~
    - ~~Riley Daughter 15 6/12/06?~~
    - ~~Elisa Daughter 18 2/23/03~~
-- Emma & Dmitriy (Mitto) Mironichenko: living in SF, now in Portland? Emma **11/14/94**
+- Emma & Dmitriy (Mitto) Mironichenko: living in SF, now in Portland? Emma **11/14/94** In the process of divorce.
 - Miriam & Lee: Miriam **9/29/82**
    - River, River in 3rd grade In 20-21. River **8/26/2011**
    - Will.  Will begin KG Jan 2021. Will **11/3/2014**? 
@@ -170,7 +168,7 @@
 - Health care workers
 - **Equal Justice Initiative** (Brian Stevens)
 - Chef Andrés: feeding the world: **World Central Kitchens**
-- **Compassion International** cancel
+- ~~Compassion International cancel~~
 - **Doctors without borders**
 - **Beyond Borders**
 - **Amazima**: Katie & Benji & 14 children
@@ -186,10 +184,22 @@
 - grocery workers
 
 
-[# Prayers](simplenote://note/2fc310504139472092d4e2d6cea51a5e)
+[Simplenote Prayers](simplenote://note/2fc310504139472092d4e2d6cea51a5e)
+[[pages/Prayers|Prayers]]
 
 
 # Archived
+- filed
+	- ~~Memorial for~~ Brian RIP
+	- ~~Dayspring: Word and Water retreat 4/26-7~~
+	- ~~Cyndi (travel to Chicago) and Brian (**RIP 4/14/24**)~~
+	- ~~Margaret talked into Thursday  mass~~
+	- ~~Jolene's dog has diabetes~~
+	- ~~healing mass supply Mar 7~~
+	- ~~centering prayer workshop March 9~~
+	- ~~Georgia Mtns: Judges & Christine/Robert~~
+	- ~~Dinner with parishioners, Priscilla/ Steve, Kathy Raker. Hooper.~~
+	- the Hathaway's ~~in reunion for Madison's wedding
 - RIP Steve Swanson -- Acute Myeloid Leukemia 4/20 life support
 - people of Haiti, refugees
 - Afghan refugees

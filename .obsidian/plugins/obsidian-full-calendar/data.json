@@ -1,0 +1,21 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "hsl(\n    258,\n    88%,\n    calc(66% + 10%)\n  )",
+      "directory": "Daily-Notes"
+    },
+    {
+      "type": "ical",
+      "color": "hsl(\n    258,\n    88%,\n    calc(66% + 10%)\n  )",
+      "url": "https://calendar.google.com/calendar/ical/dhath12%40gmail.com/private-40ac913a71232538a6bf3a06c9ecb22e/basic.ics"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": false
+}
