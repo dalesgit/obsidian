@@ -1,12 +1,19 @@
-### Psalm 133
+### Psalm 130
 
-*Ecce, quam bonum!*
+*De profundis*
 
-1. Oh, how good and **pleasant it is**, *  
-when brethren live together in **unity**!
+1. Out of the depths have I called to you, O Lord; 
+Lord, hear my **voice**; * 
+let your ears consider well the voice of my suppli**cation**.
 
-2. It is like fine oil upon the **head** *  
-that runs down upon the **beard**,
+2 If you, Lord, were to note what is done a**miss**, *
+O Lord, who could **stand**?
+
+3 For there is forgiveness with **you**; *  
+therefore you shall be **feared**.
+
+4 I wait for the Lord; my soul **waits for him**; *  
+in his word is my **hope**.
 ```music-abc
 X: 1
 T: Chant
@@ -18,14 +25,15 @@ V: 1 clef=treble
 V: 2 clef=bass
 [D, F,]4  [G,,G,] | [A,,E,]4 [D,D,] || [B,,B,]4 [F,,A,] | [G,,G,]4 [D,,A,] |]
 ```
-3. Upon the beard of **Aaron**, *  
-and runs down upon the collar of his **robe**.
+5 My soul waits for the Lord,  
+more than watchmen for the **morning**, *  
+more than watchmen for the **morning**.
 
-4. It is like the dew of **Hermon** *  
-that falls upon the hills of **Zion**.
+6 O Israel, wait for the **Lord**, *  
+for with the Lord there is **mercy**;
 
-5. For there the Lord has ordained the **blessing**: *  
-life for ever**more**.
+7 With him there is plenteous re**demption**, *  
+and he shall redeem Israel from all their **sins**.
 
 ## Blessing
 May Christ, the Son of God, be manifest in you, that your lives may be a light to the world; and the blessing of God Almighty, the Father, the Son, and the Holy Spirit, be among you, and remain with you always. **Amen**.
