@@ -9,17 +9,17 @@ We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
 
 - Current
 	- Peg RIP 6/1/24 ~~in hospice~~
-	- waiting for God to show me my calling now in Florida. (git-journal) spiritual direction 
+	- waiting for God to show me my calling now in Florida. (git-journal, wiki.vim) spiritual direction 
 	- Trish and Mack, Hildy and Charlie, Marlene ~~visit to Naples~~
 	- Cynthia Marie
 	- MP weight loss Erin & JC, prep for surgery later in the summer
 	- MP MRI treatment: JC and Erin therapists, **do exercises** 
-	- Tom, Ed (hip replacement 5/21), Tony ~~(8 day silent retreat 5/21)~~, Roxie  -- support for MP's group
-	- Jolene surgery -- sucessful
+	- Tom, Joan, Ed ~~(hip replacement 5/21)~~, Tony ~~(8 day silent retreat 5/21)~~, Roxie  -- support for MP's group
+	- ~~Jolene surgery -- sucessful~~
 	- centering prayer at St Alfred's 
 	- people of Haiti. Gangs overrun. 
-	- Madison and Garret Hathaway
-	- Lydia traveling with us in Colorado
+	- ~~Madison and Garret Hathaway~~
+	- ~~Lydia traveling with us in Colorado~~
 	- Mark and Mary biking across country
 - Tyrants of the world
 - Wars: Israel, Gaza, Ukraine, Sudan
@@ -32,7 +32,7 @@ We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
 	- ~~Beth fell, shoulder.~~
 	- Jane return of CA & Raymond, Jolene, Aaron: alienations
 	- Sean and Jolene: **4/22/23** anniversary
-	- Lydia: Job loss, teaching -- Emma: Mental Health, adoption
+	- Lydia: ~~Job loss~~, teaching -- Emma: Mental Health, adoption
 - Friends
 	- Charlotte / Henry: Charlie, Jameson, (new child?)
 	- Loa & Scott; Brian -- recovery
