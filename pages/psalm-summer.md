@@ -1,19 +1,29 @@
-### Psalm 130
+### Psalm 48
 
-*De profundis*
+*Magnus Dominus*
 
-1. Out of the depths have I called to you, O Lord; 
-Lord, hear my **voice**; * 
-let your ears consider well the voice of my suppli**cation**.
+1 Great is the Lord, and highly to be **praised**; *  
+in the city of our God is his holy **hill**.
 
-2 If you, Lord, were to note what is done a**miss**, *
-O Lord, who could **stand**?
+2 Beautiful and lofty, the joy of all the earth, is the hill of **Zion**, *  
+the very center of the world and the city of the great **King**.
 
-3 For there is forgiveness with **you**; *  
-therefore you shall be **feared**.
+3 God is in her **citadels**; *  
+he is known to be her sure **refuge**.
 
-4 I wait for the Lord; my soul **waits for him**; *  
-in his word is my **hope**.
+4 Behold, the kings of the earth as**sembled** *  
+and marched forward to**gether**.
+
+5 They looked and were a**stounded**; *  
+they retreated and fled in **terror**.
+
+6 Trembling **seized them there**; *  
+they writhed like a woman in childbirth,  
+like ships of the sea when the east wind **shatters them**.
+
+7 As we have heard, so have we seen,  
+in the city of the Lord of hosts, in the city of our **God**; *  
+God has established her for **ever**.
 ```music-abc
 X: 1
 T: Chant
@@ -25,15 +35,27 @@ V: 1 clef=treble
 V: 2 clef=bass
 [D, F,]4  [G,,G,] | [A,,E,]4 [D,D,] || [B,,B,]4 [F,,A,] | [G,,G,]4 [D,,A,] |]
 ```
-5 My soul waits for the Lord,  
-more than watchmen for the **morning**, *  
-more than watchmen for the **morning**.
 
-6 O Israel, wait for the **Lord**, *  
-for with the Lord there is **mercy**;
+8 We have waited in silence on your loving-kindness, O **God**, *  
+in the midst of your **temple**.
 
-7 With him there is plenteous re**demption**, *  
-and he shall redeem Israel from all their **sins**.
+9 Your praise, like your Name, O God, reaches to the **world's end**; *  
+your right hand is full of **justice**.
+
+10 Let Mount Zion be glad  
+and the cities of Judah re**joice**, *  
+because of your **judgments**.
+
+11 Make the circuit of Zion;  
+walk round a**bout her**; *  
+count the number of her **towers**.
+
+12 Consider well her bulwarks;  
+examine her **strongholds**; *  
+that you may tell those who come **after**.
+
+13 This God is our God for ever and **ever**; *  
+he shall be our guide for ever**more**.
 
 ## Blessing
 May Christ, the Son of God, be manifest in you, that your lives may be a light to the world; and the blessing of God Almighty, the Father, the Son, and the Holy Spirit, be among you, and remain with you always. **Amen**.

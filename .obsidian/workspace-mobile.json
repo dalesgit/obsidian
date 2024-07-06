@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0f611cd02a44a416",
+        "id": "e8ebb3e52de516d3",
         "type": "tabs",
         "children": [
           {
-            "id": "a44d9a7ec2c1b7ff",
+            "id": "8040ee4db8d7673b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pages/psalm-summer.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -40,7 +45,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tags:git",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -69,8 +74,7 @@
         }
       }
     ],
-    "currentTab": 1,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "fdf6f018d28edc05",
@@ -90,6 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "pages/psalm-summer.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "pages/psalm-summer.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -116,7 +122,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "pages/psalm-summer.md"
+          }
         }
       }
     ],
@@ -134,7 +142,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a44d9a7ec2c1b7ff",
+  "active": "8040ee4db8d7673b",
   "lastOpenFiles": [
     "pages/getting-started-with-git.md",
     "pages/Prayers.md",
