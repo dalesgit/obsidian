@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "pages/psalm-summer.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -128,8 +128,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
