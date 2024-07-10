@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e8ebb3e52de516d3",
+        "id": "06296e74f1dd3abe",
         "type": "tabs",
         "children": [
           {
-            "id": "8040ee4db8d7673b",
+            "id": "8a1d60cc4fbc7908",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,8 @@
                 "backlinks": true,
                 "source": false
               }
-            }
-          }
+              "type": "empty",
+              "state": {}
         ]
       }
     ],
@@ -94,7 +94,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/psalm-summer.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +110,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/psalm-summer.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,9 +120,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "pages/psalm-summer.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -142,12 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8040ee4db8d7673b",
+  "active": "8a1d60cc4fbc7908",
   "lastOpenFiles": [
-    "pages/getting-started-with-git.md",
     "pages/Prayers.md",
     "pages/Prayer list.md",
     "pages/psalm-summer.md",
+    "pages/getting-started-with-git.md",
     "pages/Proper 8  Year B.md",
     "pages/proper 8 draft 1.md",
     "journals/2024_06_26.md",

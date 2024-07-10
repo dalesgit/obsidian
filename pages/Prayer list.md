@@ -8,9 +8,9 @@ We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
 ## Recent 
 
 - Current
-	- Peg RIP 6/1/24 ~~in hospice~~
+	- ~~Peg RIP 6/1/24 in hospice~~
 	- waiting for God to show me my calling now in Florida. (git-journal, wiki.vim) spiritual direction 
-	- Trish and Mack, Hildy and Charlie, Marlene ~~visit to Naples~~
+	- Trish and Mack, Hildy and Charlie, Marlene ~~visit to Naples~~, Scott and Loa
 	- Cynthia Marie
 	- MP weight loss Erin & JC, prep for surgery later in the summer
 	- MP MRI treatment: JC and Erin therapists, **do exercises** 
@@ -130,7 +130,7 @@ We pray that we may become this Word through Jesus Christ, Our Lord. **Amen**
 - ~~Tim Hendrix stage 3 throat cancer rip~~
 - ~~Terry **RIP** and~~ Andy
 - Trish & Mack (Naples and Baltic cruise)
-- Becky, Piikea, Mia, 2 girls, David
+- Becky (Piikea), Mia, 2 girls, David
 - Carolyn (husband RIP)
 - Mike and Martha Shrader: Mike formerly environmentalist with Duke
 - Christine -- CA; and Robert (retirement)
