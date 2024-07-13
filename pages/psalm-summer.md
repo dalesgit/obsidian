@@ -1,29 +1,27 @@
-### Psalm 48
+### Psalm 24
 
-*Magnus Dominus*
+*Domini est terra*
 
-1 Great is the Lord, and highly to be **praised**; *  
-in the city of our God is his holy **hill**.
+1 The earth is the Lord's and all that is **in it**,   
+the world and all who dwell there**in**.
 
-2 Beautiful and lofty, the joy of all the earth, is the hill of **Zion**, *  
-the very center of the world and the city of the great **King**.
+2 For it is he who founded it upon the **seas** *  
+and made it firm upon the rivers of the **deep**.
 
-3 God is in her **citadels**; *  
-he is known to be her sure **refuge**.
+3 "Who can ascend the hill of the **Lord**? *  
+and who can stand in his **holy place**?"
 
-4 Behold, the kings of the earth as**sembled** *  
-and marched forward to**gether**.
+4 "Those who have clean hands and a **pure heart**, *  
+who have not pledged themselves to falsehood,  
+nor sworn by what is a **fraud**.
 
-5 They looked and were a**stounded**; *  
-they retreated and fled in **terror**.
+5 They shall receive a blessing from the **Lord** *  
+and a just reward from the God of their sal**vation**."
 
-6 Trembling **seized them there**; *  
-they writhed like a woman in childbirth,  
-like ships of the sea when the east wind **shatters them**.
+6 Such is the generation of those who **seek him**, *  
+of those who seek your face, O God of **Jacob**.
 
-7 As we have heard, so have we seen,  
-in the city of the Lord of hosts, in the city of our **God**; *  
-God has established her for **ever**.
+
 ```music-abc
 X: 1
 T: Chant
@@ -35,27 +33,21 @@ V: 1 clef=treble
 V: 2 clef=bass
 [D, F,]4  [G,,G,] | [A,,E,]4 [D,D,] || [B,,B,]4 [F,,A,] | [G,,G,]4 [D,,A,] |]
 ```
+7 Lift up your heads, O gates;  
+lift them high, O everlasting **doors**; *  
+and the King of glory shall come **in**.
 
-8 We have waited in silence on your loving-kindness, O **God**, *  
-in the midst of your **temple**.
+8 "Who is this King of **glory**?" *  
+"The Lord, strong and mighty,  
+the Lord, mighty in **battle**."
 
-9 Your praise, like your Name, O God, reaches to the **world's end**; *  
-your right hand is full of **justice**.
+9 Lift up your heads, O gates;  
+lift them high, O everlasting **doors**; *  
+and the King of glory shall come **in**.
 
-10 Let Mount Zion be glad  
-and the cities of Judah re**joice**, *  
-because of your **judgments**.
-
-11 Make the circuit of Zion;  
-walk round a**bout her**; *  
-count the number of her **towers**.
-
-12 Consider well her bulwarks;  
-examine her **strongholds**; *  
-that you may tell those who come **after**.
-
-13 This God is our God for ever and **ever**; *  
-he shall be our guide for ever**more**.
+10 "Who is he, this King of **glory**?" *  
+"The Lord of hosts,  
+he is the King of **glory**."
 
 ## Blessing
 May Christ, the Son of God, be manifest in you, that your lives may be a light to the world; and the blessing of God Almighty, the Father, the Son, and the Holy Spirit, be among you, and remain with you always. **Amen**.
