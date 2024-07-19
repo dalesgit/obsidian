@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "7dfb4ddb5fe04ef3",
+        "id": "1b6b2ab3b86a295d",
         "type": "tabs",
         "children": [
           {
-            "id": "5b42469a1da820ef",
+            "id": "a6aba692b1567e29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Prayer list.md",
+                "file": "journals/2024_07_19.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd815c65fc74db5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Readers Choose Their Best Books of the 21st Century - The New York Times.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/Prayer list.md",
+            "file": "pages/Readers Choose Their Best Books of the 21st Century - The New York Times.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/Prayer list.md",
+            "file": "pages/Readers Choose Their Best Books of the 21st Century - The New York Times.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +138,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/Prayer list.md"
+            "file": "pages/Readers Choose Their Best Books of the 21st Century - The New York Times.md"
           }
         }
       }
@@ -143,12 +157,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b42469a1da820ef",
+  "active": "cd815c65fc74db5a",
   "lastOpenFiles": [
+    "journals/2024_07_19.md",
+    "pages/Readers Choose Their Best Books of the 21st Century - The New York Times.md",
+    "pages/Aileen Cannon If the Trump classified documents case is reinstated, judge would be difficult to remove  CNN Politics.md",
+    "pages/Academic journals are a lucrative scam – and we’re determined to change that.md",
+    "pages/proper-11b.md",
+    "pages/Prayer list.md",
     "pages/psalm-summer.md",
     "pages/proper-10b.md",
     "pages/Prayers.md",
-    "pages/+Dabney.md",
-    "pages/Prayer list.md"
+    "pages/+Dabney.md"
   ]
 }
