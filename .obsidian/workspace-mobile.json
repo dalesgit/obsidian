@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "pages/psalm-summer.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -144,10 +144,10 @@
   },
   "active": "5b42469a1da820ef",
   "lastOpenFiles": [
-    "pages/proper-10b.md",
-    "pages/psalm-summer.md",
     "pages/Prayers.md",
-    "pages/+Dabney.md",
-    "pages/Prayer list.md"
+    "pages/Prayer list.md",
+    "pages/psalm-summer.md",
+    "pages/proper-10b.md",
+    "pages/+Dabney.md"
   ]
 }
