@@ -1,0 +1,123 @@
+# Note
+I do praise my Lord in whatever words are given of me, in His Land.
+
+Praising is thanksgiving in word-giving power to the Lord. We beseech Thee Almighty God, for you are given unto us by your word.
+
+[[Books in 2 years important to me.]]
+
+[[M. Novaks list of modern theologians]]
+
+## More undated: building bibliography?
+- Heschel, Abraham: Man's quest for God
+	- God in search of man
+- Rubinstein, Richard: After Auschwitz
+- Crowe, Fred E.: "Complacence and concern in St. Thomas Aquinas" *Theological Studies* 20 ('59) 1-39; 198-230; 343-395
+- Dunne, John: The cty of the Gods
+	- A search for God in time and memory
+- Dover Publications:
+	- Maimonides: The Guide for the perplexed
+	- The works of Spinoza
+	- The world as will and idea
+	- Harnack: History of Dogma
+- Ricoeur: De l'interpretation
+- Coleridge: Biographia Literaria
+- Brooke-Rose, Christine: A grammar of metaphor
+- Cassirer, E.:
+- deQuincey, Thomas:
+- Heidegger: Unterwegs zur Sprache
+- Yates, Francis: Giordano & the Hermetic tradition
+	- The art of memory
+	- Theatre of the world
+- Bloch, Ernst: On the Spirit of Utopia
+	- A philosophy of the future
+- Rahner & Lehmann: Kerygma & Dogma
+- Huizinga, J.: Homo Ludens; a study of the play element in culture
+- Hinton, W.: Faushen: a documentary of revolution in a Chinese village
+- Robinson, J.M. & Cobb, J.B.: The new hermeneutic
+	- The later Heidegger and theology
+- Eliade, Mircea: Patterns in Comparative Religion
+- High of St. Victor: Christian Classics (205 Willis St., Westminster, MD 2115)
+- John of the Cross: Grove Press, 55 E 11th St., NY, NY. 10003
+- Fritze: The essence of marriage
+- Hofmannstahl: Lord Chando's letter 
+	- the difficult one
+- Morgenstern: "Nightsong of the fish"
+- Kraus, K.: Letzten Tage der Menschenheit
+- Mallarme:
+- Broch, Hermann: The death of Virgil
+- Bloch, Ernst: Das Prinzip Hoffnung
+	- Tubingener Einleitung in die Philosophie
+- Philobiblon:
+- Brockhaus Dictionary
+- French Readers
+- photography: 779, AR & G.
+- Harpsichord Manual
+- The burning fountain
+- Davis, Charles: English spiritual writers
+- de Guibert, J.: The theology of the spiritual life
+- Lassky, V.: The mystical theology of the eastern church
+- Poulain, A.: Graces of Interior Prayer; a treatise on Mystical Theology. trans. by York Smith
+- Spencer, S.: Mysticism in world religion
+- Walsh, J.: "The Cloud of Unknowing", the Month Dec. 63
+- Watkins, E.I.: Poets and mystics
+- Bremond: Priere et poesie
+- Ovid: The art of love
+- Kierkegaard: The concept of dread
+- Gilson: The mysticism of St. Bernard
+- Maritain, J.: The degrees of knowledge
+- Reiner's: Stilfibel
+- Hopkins, Gerard Manley:
+- Bach, C.P.E.: Das Versuch ...
+- Marco Focoli: 16th cent. clavi.
+- Wilhelmus Legrant: Buxheimer Orgelbuch
+- Elwin, Verrier: Christian Ohana, a study of the cloud of unknowing. [about author: https://www.vifindia.org/article/2012/october/17/is-verrier-elwin-still-relevant-a-study-of-the-bhils-of-jhabua]
+- Huxley, A.: Grey eminence
+- Hoit, G.: Sense and thought
+- Vernet, F.: Medieval spirituality
+- Smalley, B.: The study of the Bible in the middle ages
+- Haswell, J. Eric: Horology
+- Colledge: Medieval English mystics
+	- "The English mystics and their critics" *Life of the Spirit*, Ju. 61
+	- "Early English spirituality" *The month* July-Aug '63
+- Lewis, Wyndham: Francois Villon, a documented survey
+- Aubrey: Trouveres & Troubadour
+- Five centuries of religion
+- Knowles: The religious orders in England
+- Capes: A history of the English Church in 14th and 15th cent.
+
+## another list
+- Samuel Moore: 2nd edition
+- A. Gerard: An essay on Genius
+- Coventry Patmore
+- Gustav Flaubert: The temptation of St. Anthony
+- E.K. Rand: Founders of the middle ages
+- Georges Duby: THe foundations of a new humanism
+- H. Gardner: The art of T.S. Eliot
+- Dawson: Medieval essays
+- Sitwell: Spiritual writers of the middle ages
+- T.E. Hulme: Speculations
+- Peers: Spanish mystics
+- G.K. Chesterton: Orthodoxy
+- Malraux: The metamorphosis of the Gods
+- St. John Perse: Anabasis
+- Royo, Aumann: The theology of Christian perfection
+- Maritain: De la philosophie Chretienne (esp. appendix)
+- The wisdom of the sand
+- Flaubert: Madame Bovary
+- The middle ages
+- Photographs
+- Peter Abelard
+- Strindberg
+- Ibsen
+- Swedenborg
+- Sir Edmund Chambers & F. Sidwick: Early English lyrics
+- Lit of middle ages
+- Death of tradgedy
+- Kierkegaard
+- The quest of the holy grail
+- Hesio: Works and days
+- Hamburger: The truth of poetry
+- Hearnshaw: Medieval contribution
+- Pound: Women of Trachis
+- Priestly: Man and time
+- Nietzsche: The antichrist

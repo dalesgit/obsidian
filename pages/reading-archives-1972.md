@@ -1,0 +1,118 @@
+# 1972
+- Boethius: The consolation of Philosophy
+- Knowles: Evolution of medieval thought
+	- The story of watches
+- Capellanus, Andreas: The art of courtly love
+- Lewis, C.S.: The discarded image
+	- "On stories"
+	- Til we have faces
+	- Spencer's images of life
+- ??: The hearing of Dr. Oppenheimer
+- Colledge, E.: Introduction to the Medieval English mystics
+	- Songs of a Minnisinger; Prince Wislaw: Intro. Essays
+- Brett: *Reason & Imagination*; "Eliot's the Four Quartets"
+- Sweeney: *The knowledge explosion*
+	- Jones: "Modern scholarship and the data of Greatness (sp?)"
+	- Bate: "The explosion of knowledge in the humanities"
+	- White: "The changing Middle Ages"
+	- *Studies in Intellectual history*
+	- Spitzer: "Language - the basis of science, philosophy, and poetry"
+- Black: The morality of scholarship
+- Knowles: The English  mystics
+- Lewis: The allegory of love (first half)
+	- The abolition of man
+- Jones: Walther von der Vogelweide (1/2)
+- Goethe: The sorrows of young Werther
+- Kidson: The medieval world
+- Hardy: Human shows, far fantasies, songs of trifles
+- Merton: Life of holiness
+	- "The pearl"
+- Hardy, T.: "The queen of Cornwall" (play)
+- Colledge, Hilton: The scale of perfection (excerpt)
+- St. Bonaventure: The mind's road to God
+	- "Creative intelligence" a periodical
+- Villon, Francois: *Works* trans. Anthony Bonner
+- Moore & Markwardt: Historical outlines of English sounds and inflections
+- Daumals, Rene: Mount Analogue
+- Borges, Jorge: Dream tigers
+- Brockington: Mysticism & Poetry
+- Wolfson: The Philosophy of the church fathers
+- Anon.: The Cloud of Unknowing
+- Weil, Simone: Waiting for God
+- Hardy, T.: Jude the obscure
+	- Winter words
+- Kent, Rockwell: Wilderness
+- Johnston: The mysticism of the Cloud of Unknowing
+- Kierkegaard: Repetition
+- The German atomic bomb
+- Thomas, G: Poetry, religion and the spiritual life
+- Panofsky, E.: Gothic architecture and scholasticism
+- Ladner, G.: "Ad imagem dei; an image of man in middle ages"
+- Borges, J.: Labyrinths
+- Eliot, T.S.: The rock
+	- Essays ancient and modern
+	- Essay on modern heresy
+- Gardner, E.G.: The cell of self-knowledge
+- Merton, Thomas: Strange islands
+- Pepler, C.: (chapters from) The English religious heritage
+- Watkins, E.: (chapters from) Mystics & Poets
+- Dewey, J.: "Construction of the Good
+- Ayer, A.J.: "Critique of ethics and theology
+- Moore, G.E.: "Subject-matter in ethis" (1st chapter in *Principia Ethica*)
+- Pearce, T.S.: *T. S. Eliot*
+- Vahanian: Wait without idols
+- Abe, Kobo: Woman in the dunes
+- Kosinsky, Jerzy: Steps
+	- Being there
+- Kawabata: Snow country
+	- Paul Claudel; the man and the mystic
+- Merton, Thomas: Contemplative Prayer
+- Steiner, George: Extraterritorial
+- Wieruszowski, H.: The medieval university
+- Epictetus: The Enchiridion
+- Kirk, R.: 1/2 of The intemperate professor
+- Gilson, Etienne: The theologian and philosophy
+	- "The idea of God and the difficulties of atheism" in *Great ideas today, 1970*
+- Wilder, Thornton: The bridge of San Luis Rey
+- O'Kane, Dick: How to repair your foreign car
+- Merton, Thomas: Come to the mountain
+- Huizinga, Johannes: Homo ludens; a study of the play element of culture
+- Harrold, Charles F.: 1/3 of John Henry Newman
+- Sheppard, L.C.: The liturgical books
+- Stuber, Stanley I.: Primer on Roman Catholicism for Protestants
+- Warnke, Frank J.: European Metaphysical poets (German)
+- Aiken, Conrad: Prelude for Memnon or Preludes to Attitude
+- Achtemeier, Paul: An introduction to the new hermeneutics
+- Pound, Ezra: Pisan Cantos
+- Chadwick, Owen: John Cassian
+- Froude, J.A.: (Short studies on Great Subjects)
+	- "Father Newman on the Grammar of Assent"
+	- "Reynard the Fox"
+	- "The cat's pilgrimage"
+	- "The philosophy of Catholicism"
+- Claudel, Paul: The Five Great Odes
+	- The tiding brought to Mary
+- Chesterton, G.K.: Orthodoxy
+- Salinger, J.D.: Nine stories
+- Novak, Michael: Ascent of the Mountain, Flight of the Dove
+- Michelmore, Peter: The swift years. The Robert Oppenheimer story
+- Vonnegut, Kurt: Slaughterhouse Five
+- Kafka, Franz: The penal colony
+- Margolis: John D.: T.S. Eliot's intellectual development
+- Kirk, Russell: Eliot and his age
+- Heisenberg, Werner: "The representation of nature in contemporary physics" in *Symbolism in religion and literature*
+- More, Paul E.: "Criticism"
+- Whitehead, Alfred N.: Introduction to mathematics
+- Smith, W.J.: Poems from France
+- Coleridge, Samuel T.: "On poesy or art"
+- Saint-Exuperey: Night flight
+- Graham, Dom Aelred: Zen Catholicism
+- Lao Tzu: The way and its virtue (Tao-te Ching)
+- Douglas, C.H.: Social credit
+- Cockerell: The repairing of books
+- Maritain, Jacques: An essay on Christian philosophy
+- Paz, O.: The labyrinth of solitude
+- Daniel, Arnaut: Poems translated by Ezra Pound
+
+88 books in a year. 1.7 books per week
+88/52=1.69
