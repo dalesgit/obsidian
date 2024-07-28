@@ -1,25 +1,23 @@
-### Psalm 24
 
-*Domini est terra*
+### Psalm 14
 
-1 The earth is the Lord's and all that is **in it**,   
-the world and all who dwell there**in**.
+*Dixit insipiens*
 
-2 For it is he who founded it upon the **seas** *  
-and made it firm upon the rivers of the **deep**.
+1 The fool has said in his heart, "There is no **God**." *  
+All are corrupt and commit abominable acts;  
+there is none who does any **good**.
 
-3 "Who can ascend the hill of the **Lord**? *  
-and who can stand in his **holy place**?"
+2 The Lord looks down from heaven upon us **all**, *  
+to see if there is any who is wise,  
+if there is one who seeks after **God**.
 
-4 "Those who have clean hands and a **pure heart**, *  
-who have not pledged themselves to falsehood,  
-nor sworn by what is a **fraud**.
+3 Every one has proved faithless;  
+all alike have turned **bad**; *  
+there is none who does good; no, not **one**.
 
-5 They shall receive a blessing from the **Lord** *  
-and a just reward from the God of their sal**vation**."
-
-6 Such is the generation of those who **seek him**, *  
-of those who seek your face, O God of **Jacob**.
+4 Have they no knowledge, all those evil**doers** *  
+who eat up my people like bread  
+and do not call upon the **Lord**?
 
 
 ```music-abc
@@ -33,21 +31,16 @@ V: 1 clef=treble
 V: 2 clef=bass
 [D, F,]4  [G,,G,] | [A,,E,]4 [D,D,] || [B,,B,]4 [F,,A,] | [G,,G,]4 [D,,A,] |]
 ```
-7 Lift up your heads, O gates;  
-lift them high, O everlasting **doors**; *  
-and the King of glory shall come **in**.
 
-8 "Who is this King of **glory**?" *  
-"The Lord, strong and mighty,  
-the Lord, mighty in **battle**."
+5 See how they tremble with **fear**, *  
+because God is in the company of the **righteous**.
 
-9 Lift up your heads, O gates;  
-lift them high, O everlasting **doors**; *  
-and the King of glory shall come **in**.
+6 Their aim is to confound the plans of the af**flicted**, *  
+but the Lord is their **refuge**.
 
-10 "Who is he, this King of **glory**?" *  
-"The Lord of hosts,  
-he is the King of **glory**."
+7 Oh, that Israel's deliverance would come out of Zion! *  
+when the Lord restores the fortunes of his people,  
+Jacob will rejoice and Israel be **glad**.
 
 ## Blessing
 May Christ, the Son of God, be manifest in you, that your lives may be a light to the world; and the blessing of God Almighty, the Father, the Son, and the Holy Spirit, be among you, and remain with you always. **Amen**.
