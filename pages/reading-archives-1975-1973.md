@@ -1,0 +1,197 @@
+# 1975
+- Williams, Gwyn (ed.): Presenting Welsh poetry (in trans. and English verse by Welsh poets)
+- Fackenheim, Emil: God's presence in history; Jewish affirmations and philosophical reflections
+	- "The structure of Jewish experience"
+	- "The challenge of modern secularity"
+	- "The commanding voice of Auschwitz"
+- Chadwick, Nora K.: Celtic Britain (series Ancient Peoples and places)
+- Perrier, Joseph Louis: The revival of scholastic philosophy in the 19th century
+- Muggeridge, Malcolm: Chronicles of Wasted Time; pt. II The infernal Grove
+	- "Till I turn from Female love,
+	  And root up the Infernal Grove,
+	  I shall never worthy be
+	  To step into Eternity."
+	  --William Blake
+  - Lum, Hugh Kingsmill: The dawn's delay
+	  - "The end of the world"
+	  - "Disintegration of a politician"
+	  - "W. J."
+	  - "The return of William Shakespeare"
+  - Clarke, Arthur C.: Childhood's end
+  - Carter, Lin: Tolkien; a look behind the Lord of the rings
+  - Schmidt, Dolores & Earl: (1/3) The deputy reader; studies in moral responsibility
+  - Littel, Frank & Locke, H.:L The German church struggle and the Holocaust
+  - Kenner, Hugh: Bucky
+  - Connolly, Myles: Dan England and the Noonday evil
+  - Scholl, Inge: The resistance of the White Rose
+  - Wiesel, Eliezer: Night
+  - Schillebeeckx, Edward, O.P.:  4 essays in Theologians Today series -- Sheed and Ward 1972
+  - Bernanos, George: Bernanos -- Mouchette
+  - Neupert, Hanns: The clavichord
+  - Quinn, Sister Bernetta: Ezra Pound; an introduction to the poetry
+  - Connolly, Cyril: The unquiet grave; a word cycle. by Palinurus (c.c.)
+  - Sloan, Irving Classical guitar construction
+  - The New English Bible
+  - Lessing, Doris: THe golden notebook
+  - Grant, Robert M.: A short history of the interpretation of the Bible
+  - Graham, Gerald S.: A concise history of Canada
+  - Homer: The Iliad
+  - Johnston, WIlliam: Christian Zen
+  - Dimont, Max I.: Jews, God &  history
+  - Steiner, George: After Babel; aspect of language and translation
+# 1974
+- Picon - Salas, Mariano: A cultural history of Spanish America; from conquest to indedpendence
+- Steiner, George: In Bluebeard's castle; some notes towards the redefinition of culture.
+	- "Apollonius of Tyre"
+- Cicero: "Dream of Scipio"
+- Buchanan, Scott: "Rediscovering Natural Law"
+	- Buchanan, Scott & Wofford, Harris: Embers of the world
+- Tonyas, Methodius, Abp.: Orthodoxy, Roman Catholicism, and Anglicanism. London, Oxford Univ. Pr., 1972
+- Mills, George & Grove, Richard: "Lucifer & Crucifer; the enigma of the Penitentes."
+- Tate, Bill: "The Penitentes of the Sancre de Cristos". A Tate Gallery Publication
+- Mayer, Frank H. & Roth, Charles B.: Buffalo harvest
+- Gogol, Nikolai: Dead Souls
+- Heidegger, Martin: "Conversation on a country path"
+- Vonnegut, Kurt: The sirens of Titan
+- Green, Graham: The power and the glory
+- Zukofsky, Louis: All; the collected short poems
+- Berrigan, Daniel: "The world showed me its heart"
+- Aristophanes: "The Clouds"
+- Beckett, Samuel: Waiting for Godot
+- de Chardin, Teilhard: The future of man
+- Cornford, F.M.: Before and after Socrates
+- Norwick, John J. & Sitwell, Reresby: Mount Athos. London, 1966
+- Keats, John: "Endymion"
+- Schaeffer, Francis: The God who is there
+- Wills, Garry: Bare Ruined Choirs; doubt, prophecy and radical religion.
+- Watkin, E.J.: "The wisdom of the spirit; a Platonists' faith" in *The future of Catholic Christianity*, ed. Michael de la Bedoyere, 1966
+- Buchanan, Scott: Poetry and mathematics. Philadelphia, Lippincott, 1962
+	- "Possible worlds" The Center Magazine, v.7 n.3
+	- "So reason can rule" Center Occasional Paper, V.I n.2 Feb. '67
+	- "Tragedy and the new politics" An Occasional paper, 1967.
+- Lewis, C.S.: The voyage of the Dawn Treader
+- Kazanzakis, Nikos: Zorba the Greek
+- Arnott, Peter: The Byzantines and their world
+- Balzer, Robert: Adventures in wine. Ward Ritchie
+- Maritain, Jacques & Raissa: The situation of poetry. 1955
+- Belloc, Hillaire: Gilbert Chesterton; his place in English letters
+- Powys, T.F.: Mr. Weston's Good Wine
+- Barr, Stringfellow: "Consulting the Romans" Occasional papers of the Center, (c0) 1967)
+- Houseman, A.E.: Last Poems
+	- More poems
+- Fesperman, John T: A Snetzler Chamber Organ of 1761. Washington, Smithsonioan Institution Press, 1970
+- Milne, Herbert : How to build a small 2 manual chamber pipe organ
+- Willson, Garry: Nixon Agonistes
+- Carne-Ross, D.S.: "Classics and the intellectual community"
+	- "Noptes toward a dept. of literature" *Arion*
+	- "Scenario for a new year"
+	- "The grammar of humanity
+	- "Reading for power"
+	- "The sense of a past"
+	- "A conviction of guilt" all above from *Arion*
+- Stent, Gunther S.: The coming of the golden age; a view of the end of Progress
+- Muggeridge, Malcolm: Chronicles of Wasted Time; (pt.1) The green stick
+	- Jesus rediscovered
+- Oakshott, M.: "The tower of Babel"
+- Gilson, E.: "In the spirit of Scholastic philosophy" in *Recent Philosophy*
+- From New Catholic Encylopedia
+	- "Modernism"
+	- "Scholasticism"
+	- "Thomas Aquinas"
+	- "Thomism"
+	- "neo-scholasticism"
+	- Scotism
+- Ramirez, S.: "The authority of St. Thomas Aquinas" *The Thomist*, 1952
+- Alexander, A.: "Thomas Aquinas & the encyclical letter" *The Princeton Review*, 1880
+- Mierow, Herbert E.: The vanished spring and other poems
+- Pelikan, Jaroslave: Historical theology; continuity and change in Christian doctrine. 1971
+-  Pope Leo XIII: "On Christian philosophy" *Aeterni Patris (in the church speaks to the modern world*, Gilson (ed.)
+- Steinbeck, John: The short reign of Pippin IV
+- Cogley, John: Religion in a secular age
+- McInerny, Ralph: Thomism in an age of renewal
+- Jones, David: The Anathemata
+	- In Parenthesis
+- Hartley, Thomas S. A.: THomistic revival and the modernist era, St. Michael's, 1971
+- Dante: The Divine Comedy (John CIardi trans.)
+- Hales, E.E.Y.: The Catholic Church in the modern world.
+- Fadiman, Clifton (ed): Fantasia Mathematica
+# Music for 1974
+- \* Completed
+- \* John Blow: Fugue C
+- \* Bach: 1st 2pt. invention C
+- \* Philips: Amarilli
+- \*Contents: Back for early grades
+- Contents: 17th c. keyboard masters
+- Bach: Fuga I in C
+- Wm. Byrde: Pavana The earle of Salisbury
+- \* Dandrieu, Francois: La Lyre d'Orphee, Le Turbulant
+- Farnaby, Giles: Spagnioletta
+- Bach: 2nd 2 pt invention in Bb
+# 1973
+- Yevtuchenko: Selected poems
+- Sainger, J.D.: Raise high the roof beam 
+	- Carpenters
+	- Seymore: an introduction
+- Lewis, C.S.: The lion, the witch, and the wardrobe
+	- Prince Caspian
+	- "Dhymer"
+	- "Launcelot"
+	- The silver chair
+- Neruda, Pablo: The heights of Macchu Picchu
+- A Benedictine: Mediaeval mystical tradition and St. John of the Cross
+- Dawson, Christopher: The age of the gods
+- Middleton, Bernard C.: The restoration of leather bindings
+- Kawabata, Yosunari: The master of Go
+- Kenner, Hugh: The Pound era
+- Pound, Ezra: George Anteil & the Treatise on Harmony
+	- Jefferson and/or Mussolini
+- Betjemann, John: part of *Collected Poems*
+- Pieper, Josef: The silence of St. Thomas
+- Borges, Jorge: Doctor Brodies report
+	- (with Carares, Adolfo Bioy) Extraordinary tales 
+- Rilke, Rainier M.: Duineser Elegien
+- de Rachewiltz, Mary: Discretions
+- Bunting, Basil: Collected Poems
+- Milton: "Lycidas"
+- Shelley: "Adonais"
+- Arnold, Matthew: "Thrysis"
+- Seyppel, Joachim: T.S. Eliot
+- Gray, T.: Selected poems
+- Hubbard: Harpsichord regulating and repairing
+	- Three centuries of harpsichord making (Main text)
+- Novak, M.: The experience of nothingness
+- St. John of the Cross: Poems
+- Mierow, C.: St. Jerome
+- Rogers, Samuel: "Pleasures of memory"
+- Green, Otis H.: The medieval tradition; *Sic et Non*
+- Russell, Raymond: The harpsichord and the clavichord
+- Pike, Norman: The jkoy of woodworking
+- Albers, Vernon: Amateur furniture construction
+- Berger, Robert: All about antiquing and restoring furniture
+- Jeffers, Robinson: "Tamar"
+	- "Roan stallion"
+- Zuckermann, Wolfgang: The modern harpsichord
+- Vonnegut, Kurt: The cat's cradle
+- Howell, W. Dean: Professional piano tuning (2/3 of text). American piano supply co., Box 1055, Clifton, NJ
+- Custance, John: Wisdom madness & folly
+- Young, Thomas Campbell: 1/2 making musical instruments
+- Se-Kyal-ets-Tewa: Indian love letters
+- McMurtrey: Moving on
+- Burgess, Anthony: One hand clapping
+- Maritain, Jacques: Art & scholasticism
+- Dickson, W.E.: Practical organ-building. London, Crosby Lockwood & Son, later than 1906
+- Mierow, C.C.: The hallowed flame
+- Campbell, J.M.: The Greek fathers
+- Ware, Timothy: The Orthodox Church
+- Heppenstall, Rayner: Four absentees (John M. Murray, Eric Gill, George Orwell, Dylan Thomas)
+- Lake, Kirsopp: The early days of monasticism on Mt. Athos
+- Rolle, Richard?: "The Pricke of Conscience". Tutt: 821.08 / B733m / 1947
+- Chesteron: G.K.: The innocence of Father Brown
+- Walsh, John: Strange Harp. Strange Symphony
+- Powys, T.F.: Bottle's path and other stories
+- Thompson, Francis: Vol. I. comp. works
+- Pound, Roscoe: 1/2 An introduction to the Philosophy of Law
+- Bridges, Robert: The testament of beauty
+- McSorley, Rev. Joseph: A primer of prayer
+- Moore, Brian: Catholics
+- Abhishiktananda: Prayer

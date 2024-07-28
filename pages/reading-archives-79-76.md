@@ -1,0 +1,114 @@
+# 1979
+- Lonergan, Bernard: 
+	- "Doctrinal Pluralism"
+	- Hermeneutics of Dogma
+- Carretto, Carlo: Summoned by love
+	- Carretto, Carlo: Letters from the desert
+	- Love is for living
+- Krentz, Edgar: The historical/critical method
+- Schillebeeckx, Edward: "Towards a Catholic use of hermeneutics"
+- Kelsey, David H.: The uses of scripture in recent theology (1/2)
+- de Sales, Francis: Introduction to the devout life
+- Chadwick, Henry: The early church
+- Gibbard, Mark: 20th century menb of prayer
+- Fuller, Reginald: A critical introduction to the N. T.
+- Schwartz-Bart, Andre: The last of the just
+- Pieper, J.: Scholasticism
+- Guthrie, Harvey: Israel's sacred Songs (report)
+	- The rule of Taize
+- von Rad, G.: Wisdom in Israel (report)
+	- Loneliness
+- Chadwick, Owen: Secularization of Europe in the 19th century
+- Wiesel, Elie: 4 Hassidic masters
+- Oates, Walter: Psychology of religion
+- Pellentier: Mind as healer, mind as slayer
+- McNamara, William: Mystical passion
+- O'Collins: What are they saying about Jesus?
+- Kierkegaard, Soren: Fear and trembling
+	- Concept of dread
+	- Sickness unto death
+- Delp, Fr.: Prison meditations (1/2)
+- Southern: Western society and the church in the middle ages
+- Gide, Andre: Madeleine
+
+# 1978
+- Barnhouse, Ruth T.: Homosexuality; a symbolic confusion
+- Cogley, John: A Canterbury tale; experiences and reflections 1916-1976
+- McNamara, William: The human adventure; the art of contemplation for everyman
+	- Rise up and remember (woman catholic? Penrose Public L.)
+- Sheed, Frank: The church and I
+- Whale, J. S.: Christian reunion: historic divisions reconsidered (mainly Lutheran and Calvin)
+- Terwilliger, R. & Holmes, T. Urban III, (eds): To be a priest; perspective on vocation and ordination
+- Muggeridge, Malcolm: A third testament
+- Maritain, Jacques: The peasant of the Garonne
+- Edwards, O. C.: How it all began
+- Miller, Walter M., Jr.: A canticle for Leibowitz
+- Schmemann, Alexander: For the life of the world
+- Nouwen, Henri: The wounded healer
+- Congar, Yves: A gospel priesthood
+- Steiner, George: Nostalgia for the absolute
+- Martineau, Robert: THe office and work of a priest
+- Wilson, Edmund: THe scrolls from the Dead Sea
+- Dudko, Dmitri (Fr.): Our hope
+- Fenhagen, James: Mutual ministry
+- Six, Jean Francois (ed): The spiritual autobiography of Charles de Foucauld
+- Otto, Rudolph: The idea of the holy
+- Von Rad, Gerhard: THe message of the prophets
+- Dulles, Avery: Models of the church
+- Singer, Isaac Bashevis: A little boy in search of God
+- Ramsey, Michael: The Christian priest today
+- Vawter, Bruce: On Genesis; a new reading (c) 1977
+- Seibert, R.: "The new Marxist conception of Christianity; hope vs. positivism" ATR LIX: 3,4
+- Eliade, Mircea: "On sacred time."
+- Leech, Kenneth: Soul friend
+- Berger & Neuhause (eds.): Against the world for the world; the Hartford appeal is the future of American religion
+# 1977
+(*equals notes taken*)
+- Eliot, T. S.: Murder in the cathedral
+- Rice, H. A. L.: The bridge builder
+- Dix, Dom Gregory: \* The question of Anglican orders
+- Thornton, Martin: English spirituality
+- Barclay, William: The letter to the Romans
+- Muggeridge, Malcolm & Vidler, Alec: Paul; envoy extraordinary
+- Williams, Charles: Taliessin through Logres
+- Hellwig, Monika: The meaning of the sacraments, Pflaum/Standard, 1972 (author of What are the theologians saying?)
+- Wand, J. W. C. W.: Anglicanism in history and today (c.c.)
+- Ramsey, A. M.: An era in Anglican theology: from Gore to Temple (c.c.)
+- Solzhenitsyn, A.: Cancer ward
+- Chadwick, Henry: The early church
+- Pirsig, Robert: Zen and the art of motorcycle maintenance
+- Sussman, Cornelia & Irving: Thomas Merton; daring young man on the flying bell tower
+- Audet, Jean-Paul: Structures of Christian priesthood
+- Hovda, Robert W.: \*Strong, loving, and wise; presiding in liturgy (The liturgical conference)
+- Mabry, Gregory: \*The priest and his interior life
+- Boyd, Malcolm: Christian; its meanings in an age of future shock
+- Baily, D. S.: \*Homosexuality and the western Christian tradition
+- Moorehouse, Geoffrey: Against all reason
+- Roth, Henry: Call it sleep
+- "Christian; homosexual issue"
+- ten Boom, Corrie: The hiding place
+- Schaeffer, Francis: How should we then live? (Ez 33:1-19)
+- McNeill, John J., SJ: \*The church and the homosexual
+- Weil, Simone: The need for roots
+# 1976
+- Solzhenitsyn, A. and others: From under the rubble
+- Rensch, Roslyn: The harp; its history, technique and repertoire
+- Lowell, Robert: Notebook (3rd ed.) 1970
+- Chapman, Dom John: Spiritual letters
+- Homer: THe Odyssey
+- Watkin, E.I.: THe bow in the clouds
+- Joyce, James: Ulysses
+- Derry, T.K. & Williams, Trevor: A short history of technology from earliest times to A.D. 1900 (1700 pp.)
+- Gray, William and Betty: The Episcopal church welcomes you
+- Terwilliger, Robert E.: Christian believing, N.Y. 1973
+- Maycock, A.L.: Nicholas Ferrar of Little Gidding, London, 1963 (1938)
+- Tavard, : The quest for Catholicity; Anglo-catholocism
+- Price, Charles: Introducing the draft proposed (Prayer) Book Standing liturgical commission, Prayer book studies #29
+- Newman, John H.: Apologia pro vita sua
+- Williams, Charles: The descent into hell
+- Williams, Charles: The descent of the dove
+- Hardman: A history of Christian worship
+- McGinley, Phillis: Saint-watching
+- Subilia, Vittorio: The problem of Catholicism
+- Hollis, Christopher: Newman and the modern world.
+- Hamilton, Michael & Montgfomery, Nancy (eds): The ordination of women; pro & con 

@@ -1,0 +1,201 @@
+# 1984
+- Roth, Philip: My life as a man
+- Greene, Graham: Monsignor Quixote
+- Thomas, DM: White Hotel
+- Blue, Lionel: To heaven with Scribes & Pharisees
+- McNamara, William: Earthy mysticism
+- Lewis, C. S.: Perelandra
+- Peck, Scott: 
+	- The people of the lie
+- The clowns of God
+- The name of the Rose
+- Thomas, DM: Ararat
+
+# 1983
+- Assimilating new members
+- Quebedaux: The new charismatics II
+- Galatian commentaries
+- Dillard, Annie: Holy the firm
+- Percy, Walker: Second coming
+- Givers, takers, and other kinds of lovers
+- Goldbert, Michael: Theology and Narrative
+- Hengel: The atonement
+- Marquez, G. G.: 100 years of solitude
+- Sanford, John: Between people
+- Kermode, Frank: The Genesis of secrecy
+- Singer, J. B.: In my fathers court
+- Grumfeld, Fred.: Prophets without honor
+- Berger, Thomas
+	- various
+	- 4 Rheinhard series
+	- Who is Teddy Villanova
+	- Neighbors
+- Tournier, Paul: Meaning of persons
+- Fynn: Mr. God this is Anna
+- Quebedaux: By what authority?
+- Gritsch, Eric: Born againism
+- Brown / Meier: Rome and Antioch
+- Revivals, awakenings, and reformers
+- Jampolsky, G. G.: Love is letting go of fear
+- Kopp, S: If you meet the Buddha on the road kill him
+- Clark, S. B.: Building Christian communities
+- Haughton, Rosemay: (TA and faith)
+
+# 1882
+- Frisch, Max: Man in the Holocene
+- Schillebeeckx, E.: 
+	- Interim report on Jesus & Christ
+	- Jesus; an experiment in Christology
+	- The understanding of the faith
+	- Ministry; leadership in community of Jesus Christ
+	- Christ; the experience of Jesus as Lord
+- Kung/Moltmann (ed): Conflicting ways of interpreting the Bible
+- Kermode, Frank: The sense of an ending
+- Russell, Anthony: The clerical profession
+- Micks, Marianne: The future present; the phenomenon of Christian worship
+- Potok, Chaim: The chosen
+- May, William E.: Christ in contemporary thought
+- Dunne, John:
+	- The way of all the earth
+	- Experiments in truth and religion
+	- The reasons of the heart;
+- Potok, Chaim: 
+	- The book of lights
+	- The promise
+- Kadushin, Max: Organic thinking; a study in rabbinic thought
+- Neuhaus, Richard: Freedom for ministry
+- WIlliamson & Perrott (eds): Christianity confronts modernity; a thological pastoral inquiry by Protestant Evangelicals and Roman Catholics
+- Connelly, James: Neopentecostalism; charismatic renewal 1960-71
+- Harper, Michael: A new way of living; how the church of the Redeemer found a new life-style
+	- A journey into solitude & back again into the human circle
+- de Huck Doherty, Catherine: Strannik; the call to pilgrimage for western man
+- Aulen, Gustaf: Jesus in contemporary historical research
+- Mason, Herbert: The death of al-Hallaj; a dramatic narrative
+- Blau, Joseph Leon: The Christian Interpretation of the Cabala in the Renaissance
+	- studies the types of Christian interpretation of the cabala and how it fell victim to the development of scientific thinking.
+- Tolkien, J. R. R.: The fellowship of the ring
+- Irving, John: THe world according to Garp
+- Holmes, Urban: Young children & the Eucharist
+- Ford, Josephine Massyngbaerde: Which way for Catholic Pentecostals?
+	- https://news.nd.edu/news/in-memoriam-josephine-massyngbaerde-ford-professor-emerita-of-theology-at-notre-dame/
+- Clark, Stephen B.: Unordained Elders & renewal communities
+
+# 1981
+- Matthews, T. S.: Great Tom
+- Bergsten, Stefan: Time & eternity; a study in the structure of symbolism of TSE's the Four quartets
+- Caird, G. B.: The language & imagery of the Bible
+- Klise, THomas: The last western
+- Preston, Raymond: 4 quartets rehearsed; a commentary on T. S. Eliot's cycle of poems.
+- Johnson, Robert: He
+	- She
+- Goldman, Ronald: Readiness for religion: a basis for developmental religious education
+- Hammarskjold, Dag: Markings
+- Keller, John: Ministering to alcoholics
+- Johnson, Vernon: I'll quit tomorrow
+- Worgul, George: From magic to metaphor (1/2 - 2/3)
+- Deiss, Lucien: THe essential question
+- Panikkar, Raimondo: Worship & secular man
+- Haughton, Rosemary: The catholic thing
+- Leech, Kenneth: True Prayer
+- O'Collins, Gerald: The second journey
+- Adams, Richard: Girl on a swing
+- Brown, Raymond: 
+	- Priest & bishop; biblical reflections
+	- "Bodily resurrection of Jesus"
+- Percy, Walker: Lancelot
+- Hillman, James: Revisioning psychology
+- Kelsey, David: The uses of scripture in recent theology
+- Conrad, Joseph: Lord Jim
+- Bible:
+	- Ezra, Nehemiah, I / II Maccabees, Ben Sirach,
+	- Gospel of Luke / Matthew
+	- 1 / 2 Corinthians, Hosea, Phil
+	- Exodus
+- Bickermann, Elias: From Ezra to the last of the Maccabees
+- Hengel, Martin: Judaism & Hellenism
+- Tracy, David: 
+	- Blessed rage for order
+	- Analogical Imagination
+- Stendahl, K.: IDB v. 1 "Biblical theology"
+- Barr, James: IDBS 
+	- "Biblical theology"
+	- "Revelation in history"
+	- "Scripture, authority of"
+	- The Bible in the modern world
+- Sanders, James: Torah and canon
+- Dodd, C. H.: The founder of Christianity
+- van Beeck, Frans Jozef: Christ proclaimed; Christology as rhetoric
+- Neusner, Jacob: From politics to piety; the emrgence of pharisaic judaism
+- Blenkinsopp, Joseph: "Tanakh and the NT; a Christian perspective"
+- Gunneweg, A. H. S.: Understanding the Old Testament
+- Oehler, Gustav: Theology of the OT (1873-4) 1889 ed.
+- Wilder, Amos: Early Christian rhetoric; the language of the NT
+- Marxen, Willi: The resurrection of Jesus of Nazareth
+- Hasel, Gerhard: OT theology: basic issues in the current debate
+- Arendt, Hannah: Eichmann in Jerusalem; a report on the banality of evil
+- Steinsaltz, Adin: The essential Talmud
+	- In The Essential Talmud, the renowned Israeli scholar and teacher Rabbi Adin Steinsaltz succinctly describes the history, structure, and methodology of the sacred text by which the Jewish people have lived and survived through the ages. Rabbi Steinsaltz summarizes the Talmud's main principles, demonstrates its contemporary relevance, and captures the spirit of this unique and paradoxical text as a human expression of divine law.
+- Schillebeeckx, E.: Jesus; an experiment in Christology
+- Borges, Jorge: The book of sand
+- O'Connor, Flannery: Wise Blood
+- Neusner, Jacob: There we sat down; Talmudic Judaism in the making
+- Blenkinsopp: Prophecy and canon
+- Wiesel, Elie: Legends of our time
+- Zolla, Elemire: The Androgyne; reconciliation of male and female
+
+# 1980
+- Wills, Garry: COnfessions of a conservative
+- Holmes, Urban T.: Priest and community
+- Little, David & Twiss, Sumner B.: Comparative religious ethics; a new method (1978)
+- Evans, H. Barry (ed): Prayer book renewal
+- Plato: The Republic
+- Carter, Humphrey: The Inklings; C. S. Lewis, J. R. R. Tolkien, Charles Williams
+- Aristotle: Nicomachean Ethics
+- Steiner, George: Martin Heidegger
+- Hatchett, Marion: Sanctifying time & space
+- Pannenberg, W.: Theology and the Philosophy of science
+- Sydnor, William: The real prayer book
+- Kant, I.: Metaphysical foundations of morals
+- Ronbizcek, P: Ethics in the age of science 
+- Euripides: Hippolytus
+- Gollwitzer, Helmut: Song of love; a biblical understanding of sex
+- Sykes: The integrity of Anglicanism
+- Updike, John: Marry me
+- Lapide, Pinchas: Israelis, Jews, and Jesus
+- Sanborn, John: Invisible partners
+- Henry, Patrick: New Directions in NT Study
+- Rockstahl, Eugen: Chronology of the last days of Jesus (1965)
+- Rule of St. Benedict
+- Braaton, Carl: History and Hermeneutics
+- Childs, Brevard: Biblical theology in crisis (1970)
+- *Murphy, R: Theology exegesis and theology (Conc. #70)
+- *Barr, J.: Old and new in Intepretation
+- *D'Arcy, M. C.: The mind and heart of love
+- *Marten, Lewis: The poetry of meditation
+- *van Kaam, A.: 
+	- *The dynamics of spiritual self-direction
+	- Life of Adam and Eve
+- Philo:
+	- "Ora creation"
+	- "Genesis Apocryphon"
+	- "Life of Moses"
+	- Q Melchizedek
+	- "Assumption of Moses"
+- Josephus: Antiquities, Bk. I, III, IV
+	- "Book of Jubilees"
+- Brown, Michael: Psych-diagnosis in brief
+- Kavanagh, Aidan: The shape of baptism; the rite of Christian initiation
+- Whitaker, E. C.: 
+	- "Sacramental initiation complete in baptism"
+	- Environment & art in Catholic worship. (1978)
+- Biblical
+	- Daniel
+	- IV Esdras
+	- Testament of the 12 Patriarchs
+- HD: End to torment; a memoir of Ezra Pound
+- Hauerwas, Stanley: Character and the Christian life.
+- Kerenyi, Karl: Hermes; the guid of souls
+- Rost, Leonhard: Judaism outside the Hebrew canon
+- Cox, James: A guide to Biblical preaching
+- Buechner, Frederick: Telling the truthy; the gospel as tradgedy, comedy, a fairy-tale
+- Carrd, J. W (et al).: Too many pastors? the clergy job market

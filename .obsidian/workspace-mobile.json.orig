@@ -11,17 +11,8 @@
             "id": "a6aba692b1567e29",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "pages/psalm-summer.md",
-                "mode": "preview",
-=======
-                "file": "journals/2024_07_19.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -30,9 +21,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Readers Choose Their Best Books of the 21st Century - The New York Times.md",
+<<<<<<< HEAD
+                "file": "pages/psalm-summer.md",
+=======
+                "file": "pages/proper-12b.md",
+>>>>>>> cd58529ec16630f8ef00811c47dcbe23ec80e3da
                 "mode": "source",
->>>>>>> b111a18fc5ca0c79087bdb2420eedaf178505a21
                 "backlinks": true,
                 "source": false
               }
@@ -93,8 +87,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "043a7a359b1570ad",
@@ -114,7 +107,11 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/Readers Choose Their Best Books of the 21st Century - The New York Times.md",
+<<<<<<< HEAD
+            "file": "pages/psalm-summer.md",
+=======
+            "file": "pages/proper-12b.md",
+>>>>>>> cd58529ec16630f8ef00811c47dcbe23ec80e3da
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +128,11 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/Readers Choose Their Best Books of the 21st Century - The New York Times.md",
+<<<<<<< HEAD
+            "file": "pages/psalm-summer.md",
+=======
+            "file": "pages/proper-12b.md",
+>>>>>>> cd58529ec16630f8ef00811c47dcbe23ec80e3da
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -143,7 +144,11 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/Readers Choose Their Best Books of the 21st Century - The New York Times.md"
+<<<<<<< HEAD
+            "file": "pages/psalm-summer.md"
+=======
+            "file": "pages/proper-12b.md"
+>>>>>>> cd58529ec16630f8ef00811c47dcbe23ec80e3da
           }
         }
       }
@@ -164,12 +169,11 @@
   },
   "active": "cd815c65fc74db5a",
   "lastOpenFiles": [
-<<<<<<< HEAD
+    "pages/proper-12b.md",
     "pages/Prayers.md",
     "pages/Prayer list.md",
     "pages/psalm-summer.md",
     "pages/proper-10b.md",
-=======
     "journals/2024_07_19.md",
     "pages/Readers Choose Their Best Books of the 21st Century - The New York Times.md",
     "pages/Aileen Cannon If the Trump classified documents case is reinstated, judge would be difficult to remove  CNN Politics.md",
@@ -179,7 +183,6 @@
     "pages/psalm-summer.md",
     "pages/proper-10b.md",
     "pages/Prayers.md",
->>>>>>> b111a18fc5ca0c79087bdb2420eedaf178505a21
     "pages/+Dabney.md"
   ]
 }
