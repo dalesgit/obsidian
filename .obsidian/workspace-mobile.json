@@ -1,56 +1,46 @@
 {
   "main": {
-    "id": "f5aa9e7c464cb996",
+    "id": "c9cb9ad361270553",
     "type": "split",
     "children": [
       {
-        "id": "1b6b2ab3b86a295d",
+        "id": "5c0942a178bca65f",
         "type": "tabs",
         "children": [
           {
-            "id": "a6aba692b1567e29",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "cd815c65fc74db5a",
+            "id": "a7673970d9e23c26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "pages/psalm-summer.md",
-                "file": "pages/proper-12b.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9f6bda60bd5c3e2c",
+    "id": "cc388655c0e4c22e",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "d5cc078457e65a38",
+        "id": "2cf0633ef83b8838",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "byModifiedTime"
+            "sortOrder": "alphabetical"
           }
         }
       },
       {
-        "id": "e0dd1abf008140a0",
+        "id": "1a417bb27f6755c3",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -65,7 +55,7 @@
         }
       },
       {
-        "id": "ab61825b072d9cd8",
+        "id": "80136c91b0f9d9fb",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -76,7 +66,7 @@
         }
       },
       {
-        "id": "2585779a4d6e738b",
+        "id": "f75090d41d8dc291",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -87,11 +77,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "043a7a359b1570ad",
+    "id": "a0817e59d24c4a7c",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "1ade65463a68fc45",
+        "id": "88a3c643b30358df",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -99,13 +89,12 @@
         }
       },
       {
-        "id": "4165a3b2af604a9a",
+        "id": "b5cdd108e38b9579",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
             "file": "pages/psalm-summer.md",
-            "file": "pages/proper-12b.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,26 +106,24 @@
         }
       },
       {
-        "id": "2d1247abe3ab35f4",
+        "id": "de5ceb2ce0086f9a",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
             "file": "pages/psalm-summer.md",
-            "file": "pages/proper-12b.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "2e856cb7e7568b1b",
+        "id": "e173f17e2ed8705a",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
             "file": "pages/psalm-summer.md"
-            "file": "pages/proper-12b.md"
           }
         }
       }
@@ -155,22 +142,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd815c65fc74db5a",
-  "lastOpenFiles": [
-    "pages/proper-12b.md",
-    "pages/Prayers.md",
-    "pages/Prayer list.md",
-    "pages/psalm-summer.md",
-    "pages/proper-10b.md",
-    "journals/2024_07_19.md",
-    "pages/Readers Choose Their Best Books of the 21st Century - The New York Times.md",
-    "pages/Aileen Cannon If the Trump classified documents case is reinstated, judge would be difficult to remove  CNN Politics.md",
-    "pages/Academic journals are a lucrative scam – and we’re determined to change that.md",
-    "pages/proper-11b.md",
-    "pages/Prayer list.md",
-    "pages/psalm-summer.md",
-    "pages/proper-10b.md",
-    "pages/Prayers.md",
-    "pages/+Dabney.md"
-  ]
+  "active": "a7673970d9e23c26",
+  "lastOpenFiles": []
 }
