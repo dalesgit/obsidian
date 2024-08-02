@@ -1,14 +1,40 @@
 {
   "main": {
-    "id": "c9cb9ad361270553",
+    "id": "8bddab3e563305f8",
     "type": "split",
     "children": [
       {
-        "id": "5c0942a178bca65f",
+        "id": "a414758d486e4189",
         "type": "tabs",
         "children": [
           {
-            "id": "a7673970d9e23c26",
+            "id": "103393f03e6abfc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/2024_08_18.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f31ae7eb771c6bca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/2024_08_18.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05f556956b034699",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,27 +46,28 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "cc388655c0e4c22e",
+    "id": "82d89d5e4cd6f61b",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "2cf0633ef83b8838",
+        "id": "f213e282aa7b7156",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "byModifiedTime"
           }
         }
       },
       {
-        "id": "1a417bb27f6755c3",
+        "id": "1aec9f013899467d",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -55,7 +82,7 @@
         }
       },
       {
-        "id": "80136c91b0f9d9fb",
+        "id": "74167e985f9d5f44",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -66,7 +93,7 @@
         }
       },
       {
-        "id": "f75090d41d8dc291",
+        "id": "7792c3a7e0cce8af",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -74,14 +101,15 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
-    "id": "a0817e59d24c4a7c",
+    "id": "e009abe5e90f86a4",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "88a3c643b30358df",
+        "id": "82b5f9728bd8d4a0",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -89,12 +117,12 @@
         }
       },
       {
-        "id": "b5cdd108e38b9579",
+        "id": "d81efb25deb2eaa4",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/psalm-summer.md",
+            "file": "journals/2024_08_18.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -106,29 +134,30 @@
         }
       },
       {
-        "id": "de5ceb2ce0086f9a",
+        "id": "66947018d05bdf18",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/psalm-summer.md",
+            "file": "journals/2024_08_18.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "e173f17e2ed8705a",
+        "id": "b5b878b1b8a17519",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/psalm-summer.md"
+            "file": "journals/2024_08_18.md"
           }
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -142,27 +171,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7673970d9e23c26",
-  "lastOpenFiles": []
-}
-  "active": "cd815c65fc74db5a",
+  "active": "f31ae7eb771c6bca",
   "lastOpenFiles": [
-    "journals/2024_06_30.md",
+    "pages/proper 8 final.md",
+    "pages/sermon-proper-15-draft.md",
+    "journals/2024_08_18.md",
+    "pages/proper-15b.md",
+    "pages/proper-13b.md",
+    "pages/psalm-summer.md",
+    "journals/2024_08_04.md",
+    "pages/proper-14b.md",
+    "journals/2024_08_11.md",
     "journals/2024_07_27.md",
-    "pages/proper-12b.md",
-    "pages/Prayers.md",
-    "pages/Prayer list.md",
-    "pages/psalm-summer.md",
-    "pages/proper-10b.md",
-    "journals/2024_07_19.md",
-    "pages/Readers Choose Their Best Books of the 21st Century - The New York Times.md",
-    "pages/Aileen Cannon If the Trump classified documents case is reinstated, judge would be difficult to remove  CNN Politics.md",
-    "pages/Academic journals are a lucrative scam – and we’re determined to change that.md",
-    "pages/proper-11b.md",
-    "pages/Prayer list.md",
-    "pages/psalm-summer.md",
-    "pages/proper-10b.md",
-    "pages/Prayers.md",
-    "pages/+Dabney.md"
+    "pages/proper-12b.md"
   ]
 }

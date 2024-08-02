@@ -1,0 +1,3 @@
+- Wisdom is an theme
+- Where did we encounter that with Thomas Keating?
+- What is wisdom: Glen Gray, gradations of knowing, *nous*
