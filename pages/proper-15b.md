@@ -4,7 +4,7 @@ tags: []
 source: https://www.lectionarypage.net/YearB_RCL/Pentecost/BProp15_RCL.html
 author: 
 ---
-
+		[][]
 # Proper 15, Year B
 
 > ## Excerpt

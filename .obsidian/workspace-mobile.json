@@ -13,32 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2024_08_18.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f31ae7eb771c6bca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journals/2024_08_18.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05f556956b034699",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "pages/psalm-summer.md",
                 "mode": "source",
                 "backlinks": true,
@@ -46,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,8 +74,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "e009abe5e90f86a4",
@@ -122,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journals/2024_08_18.md",
+            "file": "pages/psalm-summer.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "journals/2024_08_18.md",
+            "file": "pages/psalm-summer.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "journals/2024_08_18.md"
+            "file": "pages/psalm-summer.md"
           }
         }
       }
@@ -171,14 +143,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f31ae7eb771c6bca",
+  "active": "103393f03e6abfc8",
   "lastOpenFiles": [
-    "pages/proper 8 final.md",
-    "pages/sermon-proper-15-draft.md",
     "journals/2024_08_18.md",
     "pages/proper-15b.md",
-    "pages/proper-13b.md",
     "pages/psalm-summer.md",
+    "Assets/Pasted image 20240803100852.png",
+    "pages/proper 8 final.md",
+    "pages/sermon-proper-15-draft.md",
+    "pages/proper-13b.md",
     "journals/2024_08_04.md",
     "pages/proper-14b.md",
     "journals/2024_08_11.md",
