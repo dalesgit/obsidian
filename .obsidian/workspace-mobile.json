@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/psalm-summer.md",
+                "file": "pages/psalm-summer 8-11.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -74,8 +74,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "e009abe5e90f86a4",
@@ -95,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/psalm-summer.md",
+            "file": "pages/psalm-summer 8-11.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/psalm-summer.md",
+            "file": "pages/psalm-summer 8-11.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/psalm-summer.md"
+            "file": "pages/psalm-summer 8-11.md"
           }
         }
       }
