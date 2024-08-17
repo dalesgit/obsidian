@@ -1,19 +1,26 @@
-### Psalm 130
+### Psalm 111
 
-*De profundis*
+*Confitebor tibi*
 
-1 Out of the depths have I called to you, O Lord;  
-Lord, hear my **voice**; *  
-let your ears consider well the voice of my suppli**cation**.
+1 Hallelujah!  
+I will give thanks to the Lord with my **whole heart**, *  
+in the assembly of the upright, in the congre**gation**.
 
-2 If you, Lord, were to note what is done a**miss**, *  
-O Lord, who could **stand**?
+2 Great are the deeds of the **Lord**! *  
+they are studied by all who de**light in them**.
 
-3 For there is forgiveness with **you**; *  
-therefore you shall be **feared**.
+3 His work is full of majesty and **splendor**, *  
+and his righteousness endures for **ever**.
 
-4 I wait for the Lord; my soul **waits for him**; *  
-in his word is my **hope**.
+4 He makes his marvelous works to be re**membered**; *  
+the Lord is gracious and full of com**passion**.
+
+5 He gives food to those who **fear him**; *  
+he is ever mindful of his **covenant**.
+
+6 He has shown his people the power of his **works** *  
+in giving them the lands of the **nations**.
+
 
 ```music-abc
 X: 1
@@ -27,16 +34,21 @@ V: 2 clef=bass
 [D, F,]4  [G,,G,] | [A,,E,]4 [D,D,] || [B,,B,]4 [F,,A,] | [G,,G,]4 [D,,A,] |]
 ```
 
-5 My soul waits for the Lord,  
-more than watchmen for the **morning**, *  
-more than watchmen for the **morning**.
+7 The works of his hands are faithfulness and **justice**; *  
+all his commandments are **sure**.
 
-6 O Israel, wait for the **Lord**, *  
-for with the Lord there is **mercy**;
+8 They stand fast for ever and **ever**, *  
+because they are done in truth and **equity**.
 
-7 With him there is plenteous re**demption**, *  
-and he shall redeem Israel from all their **sins**.
-```music-abc
+9 He sent redemption to his people;  
+he commanded his covenant for **ever**; *  
+holy and awesome is his **Name**.
+
+10 The fear of the Lord is the beginning of **wisdom**; *  
+those who act accordingly have a good understanding;  
+his praise endures for **ever**.
+
+```abc
 X: 1
 T: Eat this bread
 C: Jacques Berthier
