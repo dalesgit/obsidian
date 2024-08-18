@@ -1,4 +1,4 @@
-# Grounded; 
+[^1]# Grounded; 
 ## finding God in the world -- a spiritual revolution
 ### chapter 5 home 
 
@@ -8,3 +8,4 @@
 2. “Our homes are a sort of spiritual training ground for what happens in our world house” (p. 183). What spiritual habits and lessons did you learn or teach at home that you have seen play out in the world? 
 3. “Christianity itself can be understood as a domestic revolution. The first churches recorded in the New Testament met in homes, often overseen by women” (p. 187). How are house churches both a very old global practice and a very new experiment? 
 4. “God is our home. God dwells with us and we in God” (p. 190). How did God’s people find God and each other in the days before church homes (refer to p. 187)? How do they find one another now? If “home is an ongoing spiritual presence” (p. 191), what are we to do with that? 
+[^1]: 
