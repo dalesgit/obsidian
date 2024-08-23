@@ -1,26 +1,48 @@
-### Psalm 111
+### Psalm 84
 
-*Confitebor tibi*
+*Quam dilecta!*
 
-1 Hallelujah!  
-I will give thanks to the Lord with my **whole heart**, *  
-in the assembly of the upright, in the congre**gation**.
+1 How dear to me is your dwelling, O Lord of hosts! *  
+My soul has a desire and longing for the courts of the Lord;  
+my heart and my flesh rejoice in the living God.
 
-2 Great are the deeds of the **Lord**! *  
-they are studied by all who de**light in them**.
+2 The sparrow has found her a house  
+and the swallow a nest where she may lay her young; *  
+by the side of your altars, O Lord of hosts,  
+my King and my God.
 
-3 His work is full of majesty and **splendor**, *  
-and his righteousness endures for **ever**.
+3 Happy are they who dwell in your house! *  
+they will always be praising you.
 
-4 He makes his marvelous works to be re**membered**; *  
-the Lord is gracious and full of com**passion**.
+4 Happy are the people whose strength is in you! *  
+whose hearts are set on the pilgrims' way.
 
-5 He gives food to those who **fear him**; *  
-he is ever mindful of his **covenant**.
+5 Those who go through the desolate valley will find it a place of springs, *  
+for the early rains have covered it with pools of water.
 
-6 He has shown his people the power of his **works** *  
-in giving them the lands of the **nations**.
+6 They will climb from height to height, *  
+and the God of gods will reveal himself in Zion.
 
+7 Lord God of hosts, hear my prayer; *  
+hearken, O God of Jacob.
+
+8 Behold our defender, O God; *  
+and look upon the face of your Anointed.
+
+9 For one day in your courts is better than a thousand in my own room, *  
+and to stand at the threshold of the house of my God  
+than to dwell in the tents of the wicked.
+
+10 For the Lord God is both sun and shield; *  
+he will give grace and glory;
+
+11 No good thing will the Lord withhold *  
+from those who walk with integrity.
+
+12 O Lord of hosts, *  
+happy are they who put their trust in you!
+
+**_or_**
 
 ```music-abc
 X: 1
@@ -32,21 +54,6 @@ V: 1 clef=treble
 [A,D]4 ] !shortphrase!  [B,E] | [CE]4 !shortphrase! [CF] || [D F]4!shortphrase!  [CA] | [DB,]4 !shortphrase!  [FD] |]
 V: 2 clef=bass
 [D, F,]4  [G,,G,] | [A,,E,]4 [D,D,] || [B,,B,]4 [F,,A,] | [G,,G,]4 [D,,A,] |]
-```
-
-7 The works of his hands are faithfulness and **justice**; *  
-all his commandments are **sure**.
-
-8 They stand fast for ever and **ever**, *  
-because they are done in truth and **equity**.
-
-9 He sent redemption to his people;  
-he commanded his covenant for **ever**; *  
-holy and awesome is his **Name**.
-
-10 The fear of the Lord is the beginning of **wisdom**; *  
-those who act accordingly have a good understanding;  
-his praise endures for **ever**.
 
 ```abc
 X: 1
