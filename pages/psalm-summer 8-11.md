@@ -1,48 +1,18 @@
-### Psalm 84
+### Psalm 45:1-2, 7-10
 
-*Quam dilecta!*
+*Eructavit cor meum*
 
-1 How dear to me is your dwelling, O Lord of hosts! *  
-My soul has a desire and longing for the courts of the Lord;  
-my heart and my flesh rejoice in the living God.
+1 My heart is stirring with a noble song;  
+let me recite what I have fashioned for the **king**; \*  
+my tongue shall be the pen of a skilled **writer**.
 
-2 The sparrow has found her a house  
-and the swallow a nest where she may lay her young; *  
-by the side of your altars, O Lord of hosts,  
-my King and my God.
+2 You are the fairest of **men**; \*  
+grace flows from your lips,  
+because God has blessed you for **ever**.
 
-3 Happy are they who dwell in your house! *  
-they will always be praising you.
-
-4 Happy are the people whose strength is in you! *  
-whose hearts are set on the pilgrims' way.
-
-5 Those who go through the desolate valley will find it a place of springs, *  
-for the early rains have covered it with pools of water.
-
-6 They will climb from height to height, *  
-and the God of gods will reveal himself in Zion.
-
-7 Lord God of hosts, hear my prayer; *  
-hearken, O God of Jacob.
-
-8 Behold our defender, O God; *  
-and look upon the face of your Anointed.
-
-9 For one day in your courts is better than a thousand in my own room, *  
-and to stand at the threshold of the house of my God  
-than to dwell in the tents of the wicked.
-
-10 For the Lord God is both sun and shield; *  
-he will give grace and glory;
-
-11 No good thing will the Lord withhold *  
-from those who walk with integrity.
-
-12 O Lord of hosts, *  
-happy are they who put their trust in you!
-
-**_or_**
+7 Your throne, O God, endures for ever and **ever**, \*  
+a scepter of righteousness is the scepter of your kingdom;  
+you love righteousness and hate in**iquity**.
 
 ```music-abc
 X: 1
@@ -54,6 +24,16 @@ V: 1 clef=treble
 [A,D]4 ] !shortphrase!  [B,E] | [CE]4 !shortphrase! [CF] || [D F]4!shortphrase!  [CA] | [DB,]4 !shortphrase!  [FD] |]
 V: 2 clef=bass
 [D, F,]4  [G,,G,] | [A,,E,]4 [D,D,] || [B,,B,]4 [F,,A,] | [G,,G,]4 [D,,A,] |]
+```
+8 Therefore God, your God, has a**nointed you** \*  
+with the oil of gladness above your **fellows**.
+
+9 All your garments are fragrant with myrrh, aloes, and **cassia**, \*  
+and the music of strings from ivory palaces makes you **glad**.
+
+10 Kings' daughters stand among the ladies of the **court**; \*  
+on your right hand is the queen,  
+adorned with the gold of **Ophir**.
 
 ```abc
 X: 1
