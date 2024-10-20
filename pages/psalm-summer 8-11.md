@@ -1,18 +1,28 @@
-### Psalm 45:1-2, 7-10
+### Psalm 104:1-9, 25, 37b
 
-*Eructavit cor meum*
+*Benedic, anima mea*
 
-1 My heart is stirring with a noble song;  
-let me recite what I have fashioned for the **king**; \*  
-my tongue shall be the pen of a skilled **writer**.
+1 Bless the Lord, O my **soul**; *  
+O Lord my God, how excellent is your greatness!  
+you are clothed with majesty and **splendor**.
 
-2 You are the fairest of **men**; \*  
-grace flows from your lips,  
-because God has blessed you for **ever**.
+2 You wrap yourself with light as with a **cloak** *  
+and spread out the heavens like a **curtain**.
 
-7 Your throne, O God, endures for ever and **ever**, \*  
-a scepter of righteousness is the scepter of your kingdom;  
-you love righteousness and hate in**iquity**.
+3 You lay the beams of your chambers in the waters a**bove**; *  
+you make the clouds your chariot;  
+you ride on the wings of the **wind**.
+
+4 You make the winds your **messengers** *  
+and flames of fire your **servants**.
+
+5 You have set the earth upon its foun**dations**, *  
+so that it never shall move at **any time**.
+
+6 You covered it with the Deep as with a **mantle**; *  
+the waters stood higher than the **mountains**.
+
+
 
 ```music-abc
 X: 1
@@ -25,15 +35,22 @@ V: 1 clef=treble
 V: 2 clef=bass
 [D, F,]4  [G,,G,] | [A,,E,]4 [D,D,] || [B,,B,]4 [F,,A,] | [G,,G,]4 [D,,A,] |]
 ```
-8 Therefore God, your God, has a**nointed you** \*  
-with the oil of gladness above your **fellows**.
+7 At your rebuke they **fled**; *  
+at the voice of your thunder they hastened a**way**.
 
-9 All your garments are fragrant with myrrh, aloes, and **cassia**, \*  
-and the music of strings from ivory palaces makes you **glad**.
+8 They went up into the hills and down to the valleys be**neath**, *  
+to the places you had ap**pointed for them**.
 
-10 Kings' daughters stand among the ladies of the **court**; \*  
-on your right hand is the queen,  
-adorned with the gold of **Ophir**.
+9 You set the limits that they should not **pass**; *  
+they shall not again cover the **earth**.
+
+25 O Lord, how manifold are your **works**! *  
+in wisdom you have made them all;  
+the earth is full of your creatures.
+
+37b Halle**lujah**!
+
+
 
 ```abc
 X: 1
