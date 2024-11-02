@@ -1,20 +1,24 @@
-## Psalm 34:1-8, (19-22)
-*Benedicam Dominum*
 
-1 I will bless the Lord at **all times**; *
-his praise shall ever be in my **mouth**.
-*
-2 I will glory in the **Lord**; *
-let the humble hear and re**joice**.
+### Psalm 24
 
-3 Proclaim with me the greatness of the **Lord**; *
-let us exalt his Name to**gether**.
+*Domini est terra*
 
-4 I sought the Lord, and he **answered me** *
-and delivered me out of all my **terror**.
+1 The earth is the Lord's and all that is **in it**, \*  
+the world and all who dwell there**in**.
 
-5 Look upon him and be **radiant**, *
-and let not your faces be a**shamed**.
+2 For it is he who founded it upon the **seas** \*  
+and made it firm upon the rivers of the **deep**.
+
+3 "Who can ascend the hill of the **Lord**? \*  
+and who can stand in his **holy place**?"
+
+4 "Those who have clean hands and a **pure heart**, \*  
+who have not pledged themselves to falsehood,  
+nor sworn by what is a **fraud**.
+
+5 They shall receive a blessing from the **Lord** \*  
+and a just reward from the God of their sal**vation**."
+
 
 ```music-abc
 X: 1
@@ -27,15 +31,25 @@ V: 1 clef=treble
 V: 2 clef=bass
 [D, F,]4  [G,,G,] | [A,,E,]4 [D,D,] || [B,,B,]4 [F,,A,] | [G,,G,]4 [D,,A,] |]
 ```
+6 Such is the generation of those who **seek him**, \*  
+of those who seek your face, O God of **Jacob**.
 
-6 I called in my affliction and the Lord **heard me** *
-and saved me from all my **troubles**.
+7 Lift up your heads, O gates;  
+lift them high, O everlasting **doors**; \*  
+and the King of glory shall come **in**.
 
-7 The angel of the Lord encompasses those who **fear him**, *
-and he will de**liver them**.
+8 "Who is this King of **glory**?" \*  
+"The Lord, strong and mighty,  
+the Lord, mighty in **battle**."
 
-8 Taste and see that the Lord is **good**; *
-happy are they who **trust in him**!
+9 Lift up your heads, O gates;  
+lift them high, O everlasting **doors**; \*  
+and the King of glory shall come **in**.
+
+10 "Who is he, this King of **glory**?" \*  
+"The Lord of hosts,\
+he is the King of **glory**."
+
 
 
 ```abc
